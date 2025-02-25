@@ -1,0 +1,260 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[=]]
+[!-- This image acts as a thumbnail. --]
+[[image https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/f530e2d10f2333f77ed9e9914bf3f587.png width="0" height="0"]]
+[[/=]]
+
+[!---------- BEGIN - HEADER -----------]
+
+[[div style="text-align: center; color: #600;"]]
+[[div class="unmargined"]]
+WARNING: THE FOUNDATION DATABASE IS
+[[/div]]
+[[div class="unmargined" style="font-size: 400%; font-weight: bold; margin: 2px 0 5px;"]]
+CLASSIFIED
+[[/div]]
+[[div class="unmargined"]]
+ACCESS BY UNAUTHORIZED PERSONNEL IS STRICTLY PROHIBITED
+PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED
+[[/div]]
+[[/div]]
+
+[[div class="content-panel centered standalone"]]
+[[/div]]
+
+[!---------- END - HEADER :: BEGIN - ANNOUNCEMENT -----------]
+
+[!--
+[[div class="content-panel centered standalone"]]
+[[size 300%]]
+Announcement title
+[[/size]]
+[[size 150%]]
+Actual announcement
+[[/size]]
+[[/div]]
+--]
+
+[!---------- END - ANNOUNCEMENT :: BEGIN - WELCOME-BOX -----------]
+
+[[div class="news-block content-panel"]]
+  [[div class="panel-heading"]]
+    The Template Wiki of the SCP Foundation
+  [[/div]]
+  [[div class="panel-body"]]
+    [[div class="alternate unmargined"]]
+      [[div class="news-content"]]
+Welcome to the Sxlaris™ Universe, a post apocalyptic version of Earth where an experiment gone awry has lead to the complete destruction of Earth's surface. With the emergence of a group known as the SCP Foundation, claiming to be the leading expert of the strange creatures now prowling the surface, and the megacorporations intent on building a new world, the choice is yours:
+
+▣ place your trust blindly in the Foundation
+
+▣ take the stability of being a number for the megacorps, or...
+
+▣ JOIN US, The Kult. We are Nullsec. We do not forgive, we do not forget. Expect us.
+
+(we are currently hosting through world anvil. For the up to date version of the wiki, check here: https://www.worldanvil.com/w/sxlaris-sxlar-wasteland
+      [[/div]]
+    [[/div]]
+  [[/div]]
+  [[div class="panel-footer"]]
+    This wiki is the hub of the Sxlaris™ Universe
+  [[/div]]
+[[/div]]
+
+[!---------- END - WELCOME-BOX ::  BEGIN - FEATURED ARTICLES -----------]
+
+[!-- Left block --]
+[[div class="feature-block"]]
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+Featured SCP
+[[/div]]
+[[div class="panel-body"]]
+[[div class="feature-title"]]
+[[[SCP-8735 | SCP-8735: The Example]]]
+[[/div]]
+[[div class="feature-subtitle"]]
+by [[user dr_grom]]
+[[/div]]
+
+//Lorem Ipsum and so on, no idea what that means but it is Latin and used to add some text to fill blank areas.//
+
+[[/div]]
+[[div class="panel-footer"]]
+[[[Featured SCP Archive]]]
+[[/div]]
+[[/div]]
+
+[!-- Right block --]
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+Featured Tale
+[[/div]]
+[[div class="panel-body"]]
+[[div class="feature-title"]]
+[[[The Clones]]]
+[[/div]]
+[[div class="feature-subtitle"]]
+by [[user dr_grom]]
+[[/div]]
+
+//You put an example of text of the tale here.//
+
+[[/div]]
+[[div class="panel-footer"]]
+[[[Featured Tale Archive]]]
+[[/div]]
+[[/div]]
+[[/div]]
+
+[!---------- END - FEATURED ARTICLES :: BEGIN - NEWS -----------]
+
+_
+
+[!-- It is not suggested to add more than four news, otherwise it looks "full". There is no minimum though. You can remove this block if you don't want news. --]
+[[div class="news-block content-panel"]]
+[[div class="panel-heading"]]
+News
+[[/div]]
+[[div class="panel-body"]]
+
+
+[!-- News: Entry 1 --]
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+January 2025
+[[/div]]
+[[div class="news-content"]]
+
+[[table style="border: none;"]]
+[[row]]
+[[cell]]
+[[image https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zeichen_123_-_Baustelle%2C_StVO_1970.svg/40px-Zeichen_123_-_Baustelle%2C_StVO_1970.svg.png]]
+[[/cell]]
+[[cell]]This wiki is currently being updated and overhauled. [[/cell]]
+[[/row]]
+[[/table]]
+
+[[/div]]
+[[/div]]
+
+[!-- News: Entry 2 --]
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+January 10th, 2018
+[[/div]]
+[[div class="news-content"]]
+Creation of this wiki
+[[/div]]
+[[/div]]
+
+
+
+[!-- News: Footer --]
+[[/div]]
+[[div class="panel-footer"]]
+[[[Archived News]]]
+[[/div]]
+[[/div]]
+
+
+
+[[div class="panel-footer"]]
+[http://05command.wikidot.com/ambassador-main Ambassadors on EN's staff site]
+
+[[/div]]
+
+[!---------- END - BRANCH-LINKS :: BEGIN - FOOTER -----------]
+
+-----
+[[div class="content-panel centered standalone"]]
+[[table]][[row]]
+[[cell style="padding:5px; width:88px;"]][[image https://i.creativecommons.org/l/by-sa/3.0/88x31.png link="http://creativecommons.org/licenses/by-sa/3.0/" alt="Creative Commons License"]][[/cell]]
+[[cell style="padding:5px;"]]This Wiki is licensed under [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 License]. _
+The Dimension-X theme was designed by [[user Rounderhouse]] and modified by [[user Kyphxr]].
+The SCP Foundation Wiki style was designed by [[user Aelanna]].
+[[/cell]][[/row]][[/table]]
+[[/div]]
+
+[!---------- END - FOOTER :: BEGIN - CSS -----------]
+
+[!-- DO NOT TOUCH THE CSS UNLESS YOU KNOW WHAT YOU ARE DOING! --]
+[[module css]]
+#page-title { display: none; }
+.feature-block {
+    height: 230px;
+}
+.feature-block .panel-body {
+    height: 160px;
+    overflow-y: hidden;
+}
+.feature-block .feature-title {
+    font-size: 120%;
+    font-weight: bold;
+}
+.feature-block .feature-subtitle {
+    font-size: 90%;
+}
+
+.feature-block .feature-title > p,
+.feature-block .feature-subtitle > p {
+    margin: 0;
+}
+
+.news-block .panel-body {
+    padding: 0;
+}
+.news-block .panel-body .alternate {
+    padding: 5px 10px;
+}
+.news-block .news-title {
+    font-weight: bold;
+    font-size: 110%;
+    margin-bottom: 5px;
+    color: #633;
+}
+.news-block .news-content {
+    margin: 5px 0;
+}
+.news-block .news-title > p,
+.news-block .news-content > p {
+    margin: 0;
+}
+
+.international-block .panel-body {
+    padding: 0;
+}
+.international-entry {
+    padding: 5px 10px;
+}
+.international-entry:nth-child(even),
+.alternate:nth-child(even) {
+    background-color: rgba(255,255,255,.9);
+    border-top: solid 1px #eeeee0;
+    border-bottom: solid 1px #eeeee0;
+}
+.international-entry div > p {
+    margin: 0;
+}
+.international-entry .international-title {
+    font-weight: bold;
+    font-size: 110%;
+}
+.international-entry .international-title img {
+    width: 16px;
+    height: 11px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+.international-entry .international-description {
+    font-size: 90%;
+    font-style: italic;
+    margin: 5px 20px;
+}
+.international-entry .international-footer {
+    font-size: #333;
+    font-size: 80%;
+    margin: 5px 0;
+}
+[[/module]]
