@@ -1,6 +1,12 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
 
+[[include :scp-wiki:component:info-ayers
+|lang=en
+|page=scp-x002[!-- url of your page on the scp wiki --]
+|authorPage=https://scp-wiki.wikidot.com/kyphxr-author-page[!-- link to your author page --]
+|comments= = Styles/CSS 
+
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x002
 |clearance= 4
@@ -39,4 +45,9 @@ __+ All SCP-x002 Levels__
 > ▣ Cluster 9 (levels 800-899)
 > ▣ Cluster 10 (levels 900-999)
 
+[[include :scp-wiki:component:license-box]]
+[[include :scp-wiki:component:license-box-end]]
 
+[[=]]
+<< [[[SCP-x001]]] | SCP-x002 | [[[SCP-x003]]] >>
+[[/=]]
