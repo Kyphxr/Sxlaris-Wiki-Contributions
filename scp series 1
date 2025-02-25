@@ -1,6 +1,7 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
 
+[[# TOC]]
 [[div class="content-panel standalone series"]]
 [[div class="content-toc"]]
 **Table of Contents**
@@ -36,7 +37,7 @@
 + Series S
 ------
 [[# x001]]
-+ x001 to x099
++ [#TOC x001 to x099]
 * [[[SCP-x000]]] - [DATA LOST]
 * [[[SCP-x001]]] - The Tar
 * [[[SCP-x002]]] - The Backrooms
@@ -139,7 +140,7 @@
 * [[[SCP-x099]]] - [ACCESS DENIED]
 
 [[# x100]]
-+ x100 to x199
++ [#TOC x100 to x199]
 
 * [[[SCP-x100]]] - [ACCESS DENIED]
 * [[[SCP-x101]]] - [ACCESS DENIED]
@@ -243,7 +244,7 @@
 * [[[SCP-x199]]] - [ACCESS DENIED]
 
 [[# x200]]
-+ x200 to x299
++ [#TOC x200 to x299]
 
 * [[[SCP-x200]]] - [ACCESS DENIED]
 * [[[SCP-x201]]] - [ACCESS DENIED]
@@ -347,7 +348,7 @@
 * [[[SCP-x299]]] - [ACCESS DENIED]
 
 [[# x300]]
-+ x300 to x399
++ [#TOC x300 to x399]
 
 * [[[SCP-x300]]] - [ACCESS DENIED]
 * [[[SCP-x301]]] - [ACCESS DENIED]
@@ -451,7 +452,7 @@
 * [[[SCP-x399]]] - [ACCESS DENIED]
 
 [[# x400]]
-+ x400 to x499
++ [#TOC x400 to x499]
 
 * [[[SCP-x400]]] - [ACCESS DENIED]
 * [[[SCP-x401]]] - [ACCESS DENIED]
@@ -555,7 +556,7 @@
 * [[[SCP-x499]]] - [ACCESS DENIED]
 
 [[# x500]]
-+ x500 to x599
++ [#TOC x500 to x599]
 
 * [[[SCP-x500]]] - [ACCESS DENIED]
 * [[[SCP-x501]]] - [ACCESS DENIED]
@@ -659,7 +660,7 @@
 * [[[SCP-x599]]] - [ACCESS DENIED]
 
 [[# x600]]
-+ x600 to x699
++ [#TOC x600 to x699]
 
 * [[[SCP-x600]]] - [ACCESS DENIED]
 * [[[SCP-x601]]] - [ACCESS DENIED]
@@ -763,7 +764,7 @@
 * [[[SCP-x699]]] - [ACCESS DENIED]
 
 [[# x700]]
-+ x700 to x799
++ [#TOC x700 to x799]
 
 * [[[SCP-x700]]] - [ACCESS DENIED]
 * [[[SCP-x701]]] - [ACCESS DENIED]
@@ -867,7 +868,7 @@
 * [[[SCP-x799]]] - [ACCESS DENIED]
 
 [[# x800]]
-+ x800 to x899
++ [#TOC x800 to x899]
 
 * [[[SCP-x800]]] - [ACCESS DENIED]
 * [[[SCP-x801]]] - [ACCESS DENIED]
@@ -971,7 +972,7 @@
 * [[[SCP-x899]]] - [ACCESS DENIED]
 
 [[# x900]]
-+ x900 to x999
++ [#TOC x900 to x999]
 
 * [[[SCP-x900]]] - [ACCESS DENIED]
 * [[[SCP-x901]]] - [ACCESS DENIED]
@@ -1075,7 +1076,7 @@
 * [[[SCP-x999]]] - [ACCESS DENIED]
 ------
 [[# 001]]
-+ 001 to 099
++ [#TOC 001 to 099]
 
 * [*https://scp-wiki.wikidot.com/scp-001 SCP-001] - Awaiting De-classification [Blocked]
 * [*https://scp-wiki.wikidot.com/scp-002 SCP-002] - The "Living" Room
@@ -1178,7 +1179,7 @@
 * [[[SCP-099]]] - The Portrait
 
 [[# 100]]
-+ 100 to 199
++ [#TOC 100 to 199]
 
 * [[[SCP-100]]] - "Jamaican Joe's Junkyard Jubilee"
 * [[[SCP-101]]] - Hungry Bag
@@ -1282,7 +1283,7 @@
 * [[[SCP-199]]] - Spy Ferns
 
 [[# 200]]
-+ 200 to 299
++ [#TOC 200 to 299]
 
 * [[[SCP-200]]] - Chrysalis
 * [[[SCP-201]]] - The Empty World
@@ -1386,7 +1387,7 @@
 * [[[SCP-299]]] - Infectious Tree
 
 [[# 300]]
-+ 300 to 399
++ [#TOC 300 to 399]
 
 * [[[SCP-300]]] - "A World in a Bottle"
 * [[[SCP-301]]] - Teleporter
@@ -1490,7 +1491,7 @@
 * [[[SCP-399]]] - Atomic Manipulation Ring
 
 [[# 400]]
-+ 400 to 499
++ [#TOC 400 to 499]
 
 * [[[SCP-400]]] - Beautiful Babies
 * [[[SCP-401]]] - A Palm Tree
@@ -1594,7 +1595,7 @@
 * [[[SCP-499]]] - Old Sun Man
 
 [[# 500]]
-+ 500 to 599
++ [#TOC 500 to 599]
 
 * [[[SCP-500]]] - Panacea
 * [[[SCP-501]]] - Monk's Greed
@@ -1698,7 +1699,7 @@
 * [[[SCP-599]]] - Uncharted City
 
 [[# 600]]
-+ 600 to 699
++ [#TOC 600 to 699]
 
 * [[[SCP-600]]] - "That Guy"
 * [[[SCP-601]]] - Sophocles' Chorus
@@ -1802,7 +1803,7 @@
 * [[[SCP-699]]] - Mystery Box
 
 [[# 700]]
-+ 700 to 799
++ [#TOC 700 to 799]
 
 * [[[SCP-700]]] - Graffiti Factory
 * [[[SCP-701]]] - The Hanged King's Tragedy
@@ -1906,7 +1907,7 @@
 * [[[SCP-799]]] - Carnivorous Blanket
 
 [[# 800]]
-+ 800 to 899
++ [#TOC 800 to 899]
 
 * [[[SCP-800]]] - An Eastern History
 * [[[SCP-801]]] - Seven Furs
@@ -2010,7 +2011,7 @@
 * [[[SCP-899]]] - Lost Children
 
 [[# 900]]
-+ 900 to 999
++ [#TOC 900 to 999]
 
 * [[[SCP-900]]] - City of the Sun
 * [[[SCP-901]]] - The Building on the Square
