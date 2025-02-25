@@ -1,0 +1,11 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x002
+|clearance= 4
+|container-class= esoteric
+|secondary-class= thaumiel
+|disruption-class= vlam
+|risk-class= danger
+]]
