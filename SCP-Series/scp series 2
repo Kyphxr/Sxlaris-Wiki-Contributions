@@ -6,26 +6,26 @@
 [[div class="content-toc"]]
 **Table of Contents**
 [#content Content Archives]
-[#1000 x1000 to x1099]
-[#x1100 x1100 to x1199]
-[#x1200 x1200 to x1299]
-[#x1300 x1300 to x1399]
-[#x1400 x1400 to x1499]
-[#x1500 x1500 to x1599]
-[#x1600 x1600 to x1699]
-[#x1700 x1700 to x1799]
-[#x1800 x1800 to x1899]
-[#x1900 x1900 to x1999]
-[#x1000 1000 to 1099]
-[#1100 1100 to 1199]
-[#1200 1200 to 1299]
-[#1300 1300 to 1399]
-[#1400 1400 to 1499]
-[#1500 1500 to 1599]
-[#1600 1600 to 1699]
-[#1700 1700 to 1799]
-[#1800 1800 to 1899]
-[#1900 1900 to 1999]
+[#1000 1000 to x1099]
+[#1100 x1100 to x1199]
+[#1200 x1200 to x1299]
+[#1300 x1300 to x1399]
+[#1400 x1400 to x1499]
+[#1500 x1500 to x1599]
+[#1600 x1600 to x1699]
+[#1700 x1700 to x1799]
+[#1800 x1800 to x1899]
+[#1900 x1900 to x1999]
+[#1000 1000 to 1099]
+[#x1100 1100 to 1199]
+[#x1200 1200 to 1299]
+[#x1300 1300 to 1399]
+[#x1400 1400 to 1499]
+[#x1500 1500 to 1599]
+[#x1600 1600 to 1699]
+[#x1700 1700 to 1799]
+[#x1800 1800 to 1899]
+[#x1900 1900 to 1999]
 [[/div]]
 
 [[div class="content-archives"]]
@@ -139,7 +139,7 @@
 * [[[SCP-x1098]]] - [ACCESS DENIED]
 * [[[SCP-x1099]]] - [ACCESS DENIED]
 
-[[# x1100]]
+[[# 1100]]
 + [#TOC x1100 to x1199]
 
 * [[[SCP-x1100]]] - [ACCESS DENIED]
@@ -243,7 +243,7 @@
 * [[[SCP-x1198]]] - [ACCESS DENIED]
 * [[[SCP-x1199]]] - [ACCESS DENIED]
 
-[[# x1200]]
+[[# 1200]]
 + [#TOC x1200 to x1299]
 
 * [[[SCP-x1200]]] - [ACCESS DENIED]
@@ -347,7 +347,7 @@
 * [[[SCP-x1298]]] - [ACCESS DENIED]
 * [[[SCP-x1299]]] - [ACCESS DENIED]
 
-[[# x1300]]
+[[# 1300]]
 + [#TOC x1300 to x1399]
 
 * [[[SCP-x1300]]] - [ACCESS DENIED]
@@ -451,7 +451,7 @@
 * [[[SCP-x1398]]] - [ACCESS DENIED]
 * [[[SCP-x1399]]] - [ACCESS DENIED]
 
-[[# x1400]]
+[[# 1400]]
 + [#TOC x1400 to x1499]
 
 * [[[SCP-x1400]]] - [ACCESS DENIED]
@@ -555,7 +555,7 @@
 * [[[SCP-x1498]]] - [ACCESS DENIED]
 * [[[SCP-x1499]]] - [ACCESS DENIED]
 
-[[# x1500]]
+[[# 1500]]
 + [#TOC x1500 to x1599]
 
 * [[[SCP-x1500]]] - [ACCESS DENIED]
@@ -659,7 +659,7 @@
 * [[[SCP-x1598]]] - [ACCESS DENIED]
 * [[[SCP-x1599]]] - [ACCESS DENIED]
 
-[[# x1600]]
+[[# 1600]]
 + [#TOC x1600 to x1699]
 
 * [[[SCP-x1600]]] - [ACCESS DENIED]
@@ -763,7 +763,7 @@
 * [[[SCP-x1698]]] - [ACCESS DENIED]
 * [[[SCP-x1699]]] - [ACCESS DENIED]
 
-[[# x1700]]
+[[# 1700]]
 + [#TOC x1700 to x1799]
 
 * [[[SCP-x1700]]] - [ACCESS DENIED]
@@ -867,7 +867,7 @@
 * [[[SCP-x1798]]] - [ACCESS DENIED]
 * [[[SCP-x1799]]] - [ACCESS DENIED]
 
-[[# x1800]]
+[[# 1800]]
 + [#TOC x1800 to x1899]
 
 * [[[SCP-x1800]]] - [ACCESS DENIED]
@@ -971,7 +971,7 @@
 * [[[SCP-x1898]]] - [ACCESS DENIED]
 * [[[SCP-x1899]]] - [ACCESS DENIED]
 
-[[# x1900]]
+[[# 1900]]
 + [#TOC x1900 to x1999]
 
 * [[[SCP-x1900]]] - [ACCESS DENIED]
@@ -1180,7 +1180,7 @@
 * [[[SCP-1097]]] - [STAFF PLACEHOLDER]
 * [[[SCP-1098]]] - Virulent Word
 * [[[SCP-1099]]] - Spawn-Water
-[[# 1100]]
+[[# x1100]]
 + [#TOC 1100 to 1199]
 
 * [[[SCP-1100]]] - Gaia's Blood
@@ -1283,7 +1283,7 @@
 * [[[SCP-1197]]] - Room For One
 * [[[SCP-1198]]] - Endless Echo
 * [[[SCP-1199]]] - Fleshtone Paint
-[[# 1200]]
+[[# x1200]]
 + [#TOC 1200 to 1299]
 
 * [[[SCP-1200]]] - A Little Taste Of Factory
@@ -1386,7 +1386,7 @@
 * [[[SCP-1297]]] - A Jar of Toenails
 * [[[SCP-1298]]] - The Doorstep Babies
 * [[[SCP-1299]]] - Drowning Tub
-[[# 1300]]
+[[# x1300]]
 + [#TOC 1300 to 1399]
 
 * [[[SCP-1300]]] - Liquid Surgeon
@@ -1489,7 +1489,7 @@
 * [[[SCP-1397]]] - A Failed Work of Art
 * [[[SCP-1398]]] - Hateful Dead
 * [[[SCP-1399]]] - Another Way of Hearing
-[[# 1400]]
+[[# x1400]]
 + [#TOC 1400 to 1499]
 
 * [[[SCP-1400]]] - Sirens
@@ -1592,7 +1592,7 @@
 * [[[SCP-1497]]] - Visual Perfection
 * [[[SCP-1498]]] - Dial-A-Dream
 * [[[SCP-1499]]] - The Gas Mask
-[[# 1500]]
+[[# x1500]]
 + [#TOC 1500 to 1599]
 
 * [[[SCP-1500]]] - Zachary Callahan
@@ -1695,7 +1695,7 @@
 * [[[SCP-1597]]] - A Security Blanket
 * [[[SCP-1598]]] - Unforeseen Setbacks
 * [[[SCP-1599]]] - Broken Spybot
-[[# 1600]]
+[[# x1600]]
 + [#TOC 1600 to 1699]
 
 * [[[SCP-1600]]] - Philosopher's Cheese
@@ -1798,7 +1798,7 @@
 * [[[SCP-1697]]] - The Écorché Father
 * [[[SCP-1698]]] - You Can't Get There From Here
 * [[[SCP-1699]]] - Inferior Volcano
-[[# 1700]]
+[[# x1700]]
 + [#TOC 1700 to 1799]
 
 * [[[SCP-1700]]] - Debtshop
@@ -1901,7 +1901,7 @@
 * [[[SCP-1797]]] - Kitten Flu
 * [[[SCP-1798]]] - Children of the void
 * [[[SCP-1799]]] - Mr. Laugh
-[[# 1800]]
+[[# x1800]]
 + [#TOC 1800 to 1899]
 
 * [[[SCP-1800]]] - The Minotaur
@@ -2004,7 +2004,7 @@
 * [[[SCP-1897]]] - Human Domestication Society
 * [[[SCP-1898]]] - Non-Euclidian Playsets
 * [[[SCP-1899]]] - Suspended Bullet
-[[# 1900]]
+[[# x1900]]
 + [#TOC 1900 to 1999]
 
 * [[[SCP-1900]]] - Dr. Bryshevskiy’s Book
