@@ -2,13 +2,13 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 
 [[include :scp-wiki:component:rso]]
-[[include :scp-sandbox-3:more-by:kyphxr
+[[include :sxlaris:more-by:kyphxr
 |color=#4000ff
 ]]
 [[include :scp-wiki:component:info-ayers
 |lang=en
 |page=scp-x002[!-- url of your page on the scp wiki --]
-|authorPage=https://scp-wiki.wikidot.com/kyphxr-author-page[!-- link to your author page --]
+|authorPage=*https://sxlaris.wikidot.com/kyphxr-author-page[!-- link to your author page --]
 |comments= = Styles/CSS 
 ]]
 
