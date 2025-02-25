@@ -1,6 +1,10 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
 
+[[>]]
+[[module Rate]]
+[[/>]]
+
 [[include :scp-wiki:component:rso]]
 [[include :sxlaris:more-by:kyphxr
 |color=#4000ff
