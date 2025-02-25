@@ -6,7 +6,7 @@
 [[div class="content-toc" style="margin-bottom: -100px;"]]
 **Table of Contents**
 [#content Content Archives]
-[#x000 x001 to x099]
+[#001 x001 to x099]
 [#x100 x100 to x199]
 [#x200 x200 to x299]
 [#x300 x300 to x399]
@@ -16,7 +16,7 @@
 [#x700 x700 to x799]
 [#x800 x800 to x899]
 [#x900 x900 to x999]
-[#001 001 to 099]
+[#x001 001 to 099]
 [#100 100 to 199]
 [#200 200 to 299]
 [#300 300 to 399]
@@ -36,7 +36,7 @@
 ------
 + Series S
 ------
-[[# x000]]
+[[# 001]]
 + [#TOC x001 to x099]
 * [[[SCP-x000]]] - [DATA LOST]
 * [[[SCP-x001]]] - The Tar
@@ -1075,7 +1075,7 @@
 * [[[SCP-x998]]] - [ACCESS DENIED]
 * [[[SCP-x999]]] - [ACCESS DENIED]
 ------
-[[# 001]]
+[[# x001]]
 + [#TOC 001 to 099]
 
 * [*https://scp-wiki.wikidot.com/scp-001 SCP-001] - Awaiting De-classification [Blocked]
