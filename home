@@ -1,187 +1,346 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
+[[include :scp-wiki:component:rso]]
+[[include :scp-sandbox-3:more-by:kyphxr
+|color=#4000ff
+]]
+[[include :scp-wiki:component:centered-header-bhl]]
+[[include :scp-wiki:component:toggle-sidebar-bhl]]
+
+[[include :scp-wiki:component:info-ayers
+|lang=en
+|page=scp-xxxx[!-- url of your page on the scp wiki --]
+|authorPage=https://scp-wiki.wikidot.com/kyphxr-author-page[!-- link to your author page --]
+|comments= = Styles/CSS [[div class="collapsible" style="text-align: center;"]]
+[[collapsible show="☰" hide="☰"]]
+= A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out his page [https://scp-wiki.wikidot.com/rounderhouse-s-author-page here]
+[[/collapsible]]
+[[/div]]
+
 
 [[=]]
-[!-- This image acts as a thumbnail. --]
-[[image https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/f530e2d10f2333f77ed9e9914bf3f587.png width="0" height="0"]]
+[[module Rate]]
 [[/=]]
+[[div style="font-size: 28px;"]]
+= **KYPHXR'S AUTHOR PAGE**
 
-[!---------- BEGIN - HEADER -----------]
-
-[[div style="text-align: center; color: #600;"]]
-[[div class="unmargined"]]
-WARNING: THE FOUNDATION DATABASE IS
+[[div style="font-size: 14px; margin-top: -25px;"]]
+= {{[ky-fer]}}
 [[/div]]
-[[div class="unmargined" style="font-size: 400%; font-weight: bold; margin: 2px 0 5px;"]]
-CLASSIFIED
-[[/div]]
-[[div class="unmargined"]]
-ACCESS BY UNAUTHORIZED PERSONNEL IS STRICTLY PROHIBITED
-PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED
-[[/div]]
-[[/div]]
-
-[[div class="content-panel centered standalone"]]
-[[/div]]
-
-[!---------- END - HEADER :: BEGIN - ANNOUNCEMENT -----------]
-
-[!--
-[[div class="content-panel centered standalone"]]
-[[size 300%]]
-Announcement title
-[[/size]]
-[[size 150%]]
-Actual announcement
-[[/size]]
-[[/div]]
---]
-
-[!---------- END - ANNOUNCEMENT :: BEGIN - WELCOME-BOX -----------]
-
-[[div class="news-block content-panel"]]
-  [[div class="panel-heading"]]
-    The Template Wiki of the SCP Foundation
-  [[/div]]
-  [[div class="panel-body"]]
-    [[div class="alternate unmargined"]]
-      [[div class="news-content"]]
-Welcome to the [http://sxlaris.wikidot.com/licensing-and-third-party-content Sxlaris™ Universe], a post apocalyptic version of Earth where an experiment gone awry has lead to the complete destruction of Earth's surface. With the emergence of a group known as the SCP Foundation, claiming to be the leading expert of the strange creatures now prowling the surface, and the megacorporations intent on building a new world, the choice is yours:
-
-▣ place your trust blindly in the Foundation
-
-▣ take the stability of being a number for the megacorps, or...
-
-▣ JOIN US, The Kult. We are Nullsec. We do not forgive, we do not forget. Expect us.
-
-(we are currently hosting through world anvil. For the up to date version of the wiki, check here: https://www.worldanvil.com/w/sxlaris-sxlar-wasteland
-      [[/div]]
-    [[/div]]
-  [[/div]]
-  [[div class="panel-footer"]]
-    This wiki is the hub of the Sxlaris[http://sxlaris.wikidot.com/licensing-and-third-party-content ™] Universe
-  [[/div]]
-[[/div]]
-
-[!---------- END - WELCOME-BOX ::  BEGIN - FEATURED ARTICLES -----------]
-
-[!-- Left block --]
-[[div class="feature-block"]]
-[[div class="content-panel left-column"]]
-[[div class="panel-heading"]]
-Featured SCP
-[[/div]]
-[[div class="panel-body"]]
-[[div class="feature-title"]]
-[[[SCP-8735 | SCP-8735: The Example]]]
-[[/div]]
-[[div class="feature-subtitle"]]
-by [[user dr_grom]]
-[[/div]]
-
-//Lorem Ipsum and so on, no idea what that means but it is Latin and used to add some text to fill blank areas.//
-
-[[/div]]
-[[div class="panel-footer"]]
-[[[Featured SCP Archive]]]
-[[/div]]
-[[/div]]
-
-[!-- Right block --]
-[[div class="content-panel right-column"]]
-[[div class="panel-heading"]]
-Featured Tale
-[[/div]]
-[[div class="panel-body"]]
-[[div class="feature-title"]]
-[[[The Clones]]]
-[[/div]]
-[[div class="feature-subtitle"]]
-by [[user dr_grom]]
-[[/div]]
-
-//You put an example of text of the tale here.//
-
-[[/div]]
-[[div class="panel-footer"]]
-[[[Featured Tale Archive]]]
-[[/div]]
-[[/div]]
-[[/div]]
-
-[!---------- END - FEATURED ARTICLES :: BEGIN - NEWS -----------]
-
-_
-
-[!-- It is not suggested to add more than four news, otherwise it looks "full". There is no minimum though. You can remove this block if you don't want news. --]
-[[div class="news-block content-panel"]]
-[[div class="panel-heading"]]
-News
-[[/div]]
-[[div class="panel-body"]]
-
-
-[!-- News: Entry 1 --]
-[[div class="alternate unmargined"]]
-[[div class="news-title"]]
-January 2025
-[[/div]]
-[[div class="news-content"]]
-
-[[table style="border: none;"]]
-[[row]]
-[[cell]]
-[[image https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zeichen_123_-_Baustelle%2C_StVO_1970.svg/40px-Zeichen_123_-_Baustelle%2C_StVO_1970.svg.png]]
-[[/cell]]
-[[cell]]This wiki is currently being updated and overhauled. [[/cell]]
-[[/row]]
-[[/table]]
-
-[[/div]]
-[[/div]]
-
-[!-- News: Entry 2 --]
-[[div class="alternate unmargined"]]
-[[div class="news-title"]]
-January 10th, 2018
-[[/div]]
-[[div class="news-content"]]
-Creation of this wiki
-[[/div]]
-[[/div]]
-
-
-
-[!-- News: Footer --]
-[[/div]]
-[[div class="panel-footer"]]
-[[[Archived News]]]
-[[/div]]
-[[/div]]
-
-
-
-[[div class="panel-footer"]]
-[http://05command.wikidot.com/ambassador-main Ambassadors on EN's staff site]
 
 [[/div]]
 
-[!---------- END - BRANCH-LINKS :: BEGIN - FOOTER -----------]
+------
 
------
-[[div class="content-panel centered standalone"]]
-[[table]][[row]]
-[[cell style="padding:5px; width:88px;"]][[image https://i.creativecommons.org/l/by-sa/3.0/88x31.png link="http://creativecommons.org/licenses/by-sa/3.0/" alt="Creative Commons License"]][[/cell]]
-[[cell style="padding:5px;"]]This Wiki is licensed under [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 License]. _
-The Dimension-X theme was designed by [[user Rounderhouse]] and modified by [[user Kyphxr]].
-The SCP Foundation Wiki style was designed by [[user Aelanna]].
-[[/cell]][[/row]][[/table]]
+[[div class="spcSCP" style="height: 500px; margin-bottom: 10px;"]]
+[[div style="max-width: 100%; text-align: left;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number=x000
+|clearance= 5
+|container-class= esoteric
+|secondary-class= ticonderoga
+|secondary-icon=https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg
+|disruption-class= amida
+|risk-class= critical
+]]
+
+
+**𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐜𝐞𝐝𝐮𝐫𝐞𝐬:** SCP-x000 is to remain on the webpage "https://scp-wiki.wikidot.com/kyphxr-author-page". Any instances of SCP-x000 appearing on other sites are to be reported to [https://scp-sandbox-3.wikidot.com/kyphxr-dr-lovell Dr. Lovell] immediately.
+
+**𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:** SCP-x000 is an assortment of data and media regarding the non-euclidean, surreal, liminal, and [DATA EXPUNGED]. The true designation of SCP-x000 is //TICONDEROGA// however the //THAUMIEL// icon is used to designate SCP-x000's [DATA EXPUNGED].
+
+**𝐀𝐝𝐝𝐞𝐧𝐝𝐮𝐦 𝐱𝟎𝟎𝟎-𝟏:** The x designation in SCP-x000 signifies its orgin from the ███████ universe, designated Dimension-AU192412118919
 [[/div]]
 
-[!---------- END - FOOTER :: BEGIN - CSS -----------]
+------
 
-[!-- DO NOT TOUCH THE CSS UNLESS YOU KNOW WHAT YOU ARE DOING! --]
-[[module css]]
+[[div style="margin-top: 10px;"]]
+ㅤ
+[[/div]]
+[[/div]]
+
+[[div class="biggrid"]]
+
+[[div class="alphagriddle"]]
+[[/div]]
+
+[[include fragment:kyphbox2 
+|article-class=scp-5140 tall long
+|slug=https://scp-sandbox-3.wikidot.com/kyphxr-splitentity
+|title=SCP-8157
+|subtitle=Condensed Humanity
+|subbertitle=Human Computation
+]]
+
+[[include fragment:kyphbox2 
+|article-class=lovell tall long
+|slug=https://scp-sandbox-3.wikidot.com/kyphxr-dr-lovell
+|title=Dr. Lovell
+|subtitle=PLACEHOLDER
+|subbertitle=subliminal
+]]
+
+[[include fragment:kyphBoxImag
+|article-class=scp-6274 long
+|slug=scp-6274
+|imag=[[div]][[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt&card_height=90]][[/div]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder 1
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphBox2
+|article-class=scp-xxxx
+|slug=https://scp-sandbox-3.wikidot.com/kyphxr-site-814-subtropolis
+|title=Site-814
+|subtitle=Sub-SubTropolist
+|subbertitle=home of the non-euclidean
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx tall long
+|slug=scp-6274
+|title=LIMINAL GALLERY
+|subtitle=Unreal Engine 5
+|subbertitle=step into the surreal
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder 4
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder 5
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder 6
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder 7
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx elong
+|slug=scp-6274
+|title=KULT RISING
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx long
+|slug=scp-6274
+|title=Article Readings
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphBox2 
+|article-class=translatr tall
+|slug=https://lingojam.com/KyphxrsWords
+|title=Kyphxr's Translator
+|subtitle=The Ultimate Shitpost Machine
+|subbertitle=kinda useful too
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder 12
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder 13
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphboxscrollr
+|article-class=scp-xxxx long
+|scrollr=SCP-3035
+|scrollr2=SCP-3199
+|scrollr3=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder 15
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx long
+|slug=scp-6274
+|title=Placeholder 16
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx tall
+|slug=scp-6274
+|title=Placeholder 17
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder 18
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder 19
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx 
+|slug=scp-6274
+|title=Placeholder 20
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx tall
+|slug=scp-6274
+|title=Placeholder 21
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx long
+|slug=scp-6274
+|title=Placeholder 22
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx 
+|slug=scp-6274
+|title=Placeholder 23
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx 
+|slug=scp-6274
+|title=Placeholder 24
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx 
+|slug=scp-6274
+|title=Placeholder 24
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx 
+|slug=scp-6274
+|title=Placeholder 24
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx 
+|slug=scp-6274
+|title=Placeholder 24
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx 
+|slug=scp-6274
+|title=Placeholder 24
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:kyphbox 
+|article-class=scp-xxxx fulllong
+|slug=scp-6274
+|title=Placeholder 25
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[/div]]
+
+[[div style="background-color: #6a00ff; width: 300px;"]]
+
+[[/div]]
+
+------
+[[div style="font-size: 28px;"]]
+= ·············· **Kult Rising** ··············
+[[div style="background-color: rgba(72, 0, 255, 0.3); width: 20%; text-align: center; margin-left: 40%; font-size: 20px; color: #ff0011;"]]
+the kyphxr kollection
+[[/div]]
+
+[[image https://img.shields.io/github/commit-activity/m/kyphxr/SCP-Wiki-Contributions?color=ff0404&label=commits&style=for-the-badge)](https://github.com/Kyphxr/Wiki-Contributions/commits/main/SCP-Wiki "Commit History"]]
+
+[[/div]]
+
+[[include :scp-wiki:component:license-box]]
+[[include :scp-wiki:component:license-box-end]]
+
+[[div style="margin-top: 50px;"]]
+= [[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt]]
+[[/div]]
+
+[[/div]]
+
+
+
+[!-- ############################### CSS ######################################## --]
+[!-- ########################################################################### --]
+[!-- ########################################################################### --]
+
+[[module CSS]]
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
 .serif {
@@ -211,6 +370,14 @@ logo-image: {
   background-position: 50% 65%;
   background-repeat: repeat-x;
   pointer-events: none;
+}
+
+#extra-div-2 {
+   display: none;
+}
+
+#extra-div-3 {
+   display: none;
 }
 
 .biggrid {
@@ -496,79 +663,4 @@ a {
   background-blend-mode: color-burn;
 }
 
-#page-title { display: none; }
-.feature-block {
-    height: 230px;
-}
-.feature-block .panel-body {
-    height: 160px;
-    overflow-y: hidden;
-}
-.feature-block .feature-title {
-    font-size: 120%;
-    font-weight: bold;
-}
-.feature-block .feature-subtitle {
-    font-size: 90%;
-}
-
-.feature-block .feature-title > p,
-.feature-block .feature-subtitle > p {
-    margin: 0;
-}
-
-.news-block .panel-body {
-    padding: 0;
-}
-.news-block .panel-body .alternate {
-    padding: 5px 10px;
-}
-.news-block .news-title {
-    font-weight: bold;
-    font-size: 110%;
-    margin-bottom: 5px;
-    color: #633;
-}
-.news-block .news-content {
-    margin: 5px 0;
-}
-.news-block .news-title > p,
-.news-block .news-content > p {
-    margin: 0;
-}
-
-.international-block .panel-body {
-    padding: 0;
-}
-.international-entry {
-    padding: 5px 10px;
-}
-.international-entry:nth-child(even),
-.alternate:nth-child(even) {
-    background-color: rgba(255,255,255,.9);
-    border-top: solid 1px #eeeee0;
-    border-bottom: solid 1px #eeeee0;
-}
-.international-entry div > p {
-    margin: 0;
-}
-.international-entry .international-title {
-    font-weight: bold;
-    font-size: 110%;
-}
-.international-entry .international-title img {
-    width: 16px;
-    height: 11px;
-    box-shadow: 0 1px 3px rgba(0,0,0,.5);
-}
-.international-entry .international-description {
-    font-size: 90%;
-    font-style: italic;
-    margin: 5px 20px;
-}
-.international-entry .international-footer {
-    font-size: #333;
-    font-size: 80%;
-    margin: 5px 0;
-}
 [[/module]]
