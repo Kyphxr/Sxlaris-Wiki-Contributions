@@ -199,20 +199,6 @@ logo-image: {
     display: none;
 }
 
-#extra-div-1 {
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 10.1rem;
-  background-image: url("https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/af0d8fbe7d2272cac97c3ebc85d90469.png");
-  background-size: cover;
-  background-position: 50% 65%;
-  background-repeat: repeat-x;
-  pointer-events: none;
-}
-
 .biggrid {
     display: grid;
     grid-template-columns: repeat(5, minmax(10px, 1fr));
