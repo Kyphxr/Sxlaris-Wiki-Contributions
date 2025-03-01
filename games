@@ -357,7 +357,7 @@ a {
 .scp-kr {
   background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/cef0329081cace2d14f3d434ae8aab22.png);
   background-size: cover;
-  background-blend-mode: color-burn;
+  background-blend-mode: overlay;
 }
 
 .commits {
