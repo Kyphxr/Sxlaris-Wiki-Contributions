@@ -468,6 +468,12 @@ a {
   background-blend-mode: multiply;
 }
 
+.scp-xxxx {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bb/HobbyTown_USA_Oshkosh_interior_under_construction_2002_%28The_Backrooms%29.jpg);
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
 .commits {
   background-image: url(https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png);
   background-size: cover;
