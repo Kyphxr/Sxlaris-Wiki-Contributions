@@ -40,7 +40,7 @@
 - added KR [FAQ](http://sxlaris.wikidot.com/kult-rising)
 - added KR [items page](http://sxlaris.wikidot.com/kult-rising:items)
 - added KR [Hostile Entities](http://sxlaris.wikidot.com/kult-rising:hostile-entities) page
-- added KR Passive Entities
+- added KR [Passive Entities](http://sxlaris.wikidot.com/kult-rising:passive-entities) page
 - added KR Neutral Entities
 ----------------------------------------------------------
 
