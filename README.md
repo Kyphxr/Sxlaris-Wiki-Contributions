@@ -41,7 +41,7 @@
 - added KR [items page](http://sxlaris.wikidot.com/kult-rising:items)
 - added KR [Hostile Entities](http://sxlaris.wikidot.com/kult-rising:hostile-entities) page
 - added KR [Passive Entities](http://sxlaris.wikidot.com/kult-rising:passive-entities) page
-- added KR Neutral Entities
+- added KR [Neutral Entities](http://sxlaris.wikidot.com/kult-rising:neutral-entities) page
 ----------------------------------------------------------
 
 27.2.25
