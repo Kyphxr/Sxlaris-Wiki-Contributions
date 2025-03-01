@@ -162,11 +162,11 @@ There are also various **[[[collaboration-page-hub|collaborative pages]]]** acro
 Generic Page Creation
 [[/div]]
 [[div class="content-type-description"]]
-You can use this form to create any type of page by typing in the title below.
+You can use this form to create any type of page by typing in the title below. Please select the **New Page** template option.
 
 A colon in the slug will put your page in a separate category (e.g. {{art:page-name}}). User-permitted categories are {{art:}}, {{more-by:}}, {{fragment:}}, {{component:}}, and {{theme:}}[[footnote]]Creation of component and theme pages must first acquire Technical Team approval. [[/footnote]]
 
-[[module NewPage button="Create Page" size="10"]]
+[[module NewPage button="Create Page" size="10" preload="new-page"]]
 [[/div]]
 [[div class="content-type-footer"]]
 [[/div]]
