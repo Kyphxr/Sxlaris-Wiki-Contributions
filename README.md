@@ -39,6 +39,7 @@
 - added Kult Rising [roadmap](http://sxlaris.wikidot.com/kult-rising:roadmap)
 - added KR [FAQ](http://sxlaris.wikidot.com/kult-rising)
 - added KR [items page](http://sxlaris.wikidot.com/kult-rising:items)
+- added KR Hostile Entities
 ----------------------------------------------------------
 
 27.2.25
