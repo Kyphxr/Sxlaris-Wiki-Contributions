@@ -1,0 +1,173 @@
+[[include :scp-wiki:fragment:nav-generic-css]]
+[[module CSS]]
+.content-box {
+    flex-basis: 17.5rem;
+}
+.content-type-description {
+    padding-inline: .875rem;
+}
+.bridge :is(.list-pages-box, p) { display: contents; }
+
+.new-page-box form {
+    display: flex;
+}
+.new-page-box form input {
+    margin: 0!important;
+    padding: 0.325em 0.425em;
+    border-radius: 0;
+    appearance: none;
+}
+.new-page-box form input.text {
+    flex-grow: 1;
+    border: solid 0.125rem #e8e8e8;
+    outline: none;
+    transition: all 0.125s linear;
+}
+.new-page-box form:focus-within input.text {
+    border-color: var(--box-accent);
+}
+
+.new-page-box form input.button {
+    margin-inline-start: 0.4125rem!important;
+    color: var(--box-accent);
+    background: #f6f6f6;
+    border: none;
+    font-family: inherit;
+    font-weight: bold;
+    cursor: pointer;
+    outline: solid 0 var(--box-accent);
+    transition: all 0.075s linear;
+}
+.new-page-box form input.button:is(:hover,:focus) {
+    color: white;
+    background-color: var(--box-accent);
+    outline-width: 0.225rem;
+}
+
+
+.content-type-footer { font-weight: bold; }
+
+/*----------------------------*/
+
+.art .new-page-box form::before {
+    content: "art:";
+    display: block;
+    padding: 0.325rem;
+    background: #e8e8e8;
+    font-family: 'Andale Mono', 'Courier New', Courier, monospace;
+    font-weight: bold;
+    transition: all 0.0875s linear;
+}
+.art .new-page-box form:focus-within::before {
+    color: white;
+    background: var(--box-accent);
+}
+[[/module]]
+
+Want to contribute to the SCP Foundation? Well, you've come to the right place!
+
+Before you get started, you'll need to [[[system:join| Join the Site]]]. Make sure you've also read the [[[Guide For Writing]]], which contains important advice on how to write an article and get feedback on it before posting. Before creating a new page, we strongly recommend that you read through that page and follow its advice.
+
+------
+
+[[div class="content-grid"]]
+
+[!-- SCP Block --]
+
+[[div class="content-box" id="scp"]]
+[[div class="content-type-title"]]
+SCP Articles
+[[/div]]
+[[div class="content-type-description"]]
+**SCP Articles** are the heart of the Foundation, short stories in style of technical documents about the various anomalies contained by the Foundation.
+
+[[div class="bridge"]]
+[[module ListPages separate="no" limit="1" tags="+hub +metadata" name="scp-series%" order="name desc"]]
+To create an SCP, go to the **[[[%%name%%|most recent series]]]** and click on a number with [ACCESS DENIED] next to it.
+[[/module]]
+You are not allowed to rename your SCP to an empty lower-numbered slot after creation.[[footnote]]Refer to the [https://scp-wiki.wikidot.com/technical-content-policy#toc13 Technical Content Policy].[[/footnote]]
+[[/div]]
+
+**[[[scp-ex|Explained SCPs]]]** are about objects or phenomena that are no longer considered anomalous. **[[[Joke SCPs]]]** use the SCP format as the setup for a joke. These are not organised into series, and can be created by typing the intended slot (e.g. SCP-123-J) into the box at the bottom of this page, then adding a link and title to the Explained or Joke SCP list.
+
+
+[[/div]]
+[[div class="content-type-footer"]]
+[[[How to Write an SCP]]]
+[[/div]]
+[[/div]]
+
+[!-- Tale & Other Block --]
+
+[[div class="content-box tale" id="tale"]]
+[[div class="content-type-title"]]
+Tales, GoI Formats & Others
+[[/div]]
+[[div class="content-type-description"]]
+If SCP Articles are the heart of the Foundation, then **[[[foundation-tales| Tales]]]** are its soul. Tales can be anything from formal reports to narrative short stories to poetry, exploring some aspect of the Foundation, its personnel, or other topics or events within the Foundation universe.
+
+**[[[GoI Formats]]]** are documents written from the perspective of a [[[groups-of-interest| Group of Interest]]], who each approach the anomalous in their own unique way.
+
+You can create a tale, GoI format, or any other type of page by typing in the intended title into the box below. Be careful not to use colons (:), as this will put your page in the wrong category. This only sets the slug,[[footnote]]The part of the URL that comes after the slash, e.g. {{@@https://scpwiki.com/@@**//contribute//**}}[[/footnote]] and you can change the actual title of the page while editing.
+
+[[module NewPage button="Create" size="10"]]
+[[/div]]
+[[div class="content-type-footer"]]
+[[[Guide For Writing]]]
+[[/div]]
+[[/div]]
+
+[!-- Art Block --]
+
+[[div class="content-box art" id="art"]]
+[[div class="content-type-title"]]
+Artists and Artwork
+[[/div]]
+[[div class="content-type-description"]]
+The SCP wiki isn't just for writing - you're also welcome to upload your own **[[[artwork-hub| Artwork]]]**. There are two ways to do this - you can create an artist page as a gallery for your entire portfolio, or you can create individual artwork pages for specific works or collections of works. Read **[[[How to Post Your Art to the SCP Wiki]]]** for more information.
+
+The form below will automatically create page in the "{{art:}}" category.
+
+[[module NewPage button="Create" category="art" size="10"]]
+[[/div]]
+[[div class="content-type-footer"]]
+[[[How to Post Your Art to the SCP Wiki]]]
+[[/div]]
+[[/div]]
+
+[!-- Comment Block --]
+
+[[div class="content-box alt" id="comment"]]
+[[div class="content-type-title"]]
+Join the Conversation
+[[/div]]
+[[div class="content-type-description"]]
+Writing articles and posting art aren't the only way to contribute. Voting and commenting on articles lets authors know whether their work engaged you - leave a thoughtful review!
+
+You may consider becoming a **[https://scp-wiki.wikidot.com/forum/t-9804362/so-you-want-to-be-a-concept-reviewer Concept Reviewer]** or **[https://scp-wiki.wikidot.com/forum/t-9804215/so-you-want-to-be-a-draft-reviewer Draft Reviewer]**, to nurture authors' growth by helping them refine in-progress works.
+
+There are also various **[[[collaboration-page-hub|collaborative pages]]]** across the wiki that are open to contributions from any site member.
+[[/div]]
+[[div class="content-type-footer"]]
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+
+------
+
+[[div class="content-box alt" id="other"]]
+[[div class="content-type-title"]]
+Generic Page Creation
+[[/div]]
+[[div class="content-type-description"]]
+You can use this form to create any type of page by typing in the title below.
+
+A colon in the slug will put your page in a separate category (e.g. {{art:page-name}}). User-permitted categories are {{art:}}, {{more-by:}}, {{fragment:}}, {{component:}}, and {{theme:}}[[footnote]]Creation of component and theme pages must first acquire Technical Team approval. [[/footnote]]
+
+[[module NewPage button="Create Page" size="10"]]
+[[/div]]
+[[div class="content-type-footer"]]
+[[/div]]
+[[/div]]
