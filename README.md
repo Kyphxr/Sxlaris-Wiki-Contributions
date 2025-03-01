@@ -47,6 +47,7 @@
     - added SCP-x002 to image grid
     - changed classified text color to purple
 - added [changelog](http://sxlaris.wikidot.com/changelog) page
+- added [Kult Rising Changelog](http://sxlaris.wikidot.com/kult-rising:changelog) page
 
 ----------------------------------------------------------
 28.2.25
