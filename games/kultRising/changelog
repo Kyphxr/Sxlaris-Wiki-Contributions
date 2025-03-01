@@ -7,7 +7,7 @@
 [[html]]
 <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
 <script>
-fetch("hellstorm-software.github.io/Kult-Rising/readme.md")
+fetch("https://hellstorm-software.github.io/Kult-Rising/readme.md")
   .then(response => response.text())
   .then(text => {
     var converter = new showdown.Converter();
