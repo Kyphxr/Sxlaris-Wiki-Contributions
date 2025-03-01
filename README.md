@@ -42,6 +42,7 @@
 - added [how to contribute](http://sxlaris.wikidot.com/contribute) page
 - removed news section from home page
     - added image grid to home page
+    - added SCP-x002 to image grid
 
 ----------------------------------------------------------
 28.2.25
