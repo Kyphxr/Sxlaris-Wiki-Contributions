@@ -2,7 +2,7 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
-[[div style="background-color: #2c1b7a;"]]
+[[div style="background-color: #6e0009;"]]
 [[html]]
 <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
 <script>
