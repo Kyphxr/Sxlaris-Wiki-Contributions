@@ -108,64 +108,6 @@ by [[user dr_grom]]
 [[/div]]
 [[/div]]
 
-[!---------- END - FEATURED ARTICLES :: BEGIN - NEWS -----------]
-
-_
-
-[!-- It is not suggested to add more than four news, otherwise it looks "full". There is no minimum though. You can remove this block if you don't want news. --]
-[[div class="news-block content-panel"]]
-[[div class="panel-heading"]]
-News
-[[/div]]
-[[div class="panel-body"]]
-
-
-[!-- News: Entry 1 --]
-[[div class="alternate unmargined"]]
-[[div class="news-title"]]
-January 2025
-[[/div]]
-[[div class="news-content"]]
-
-[[table style="border: none;"]]
-[[row]]
-[[cell]]
-[[image https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zeichen_123_-_Baustelle%2C_StVO_1970.svg/40px-Zeichen_123_-_Baustelle%2C_StVO_1970.svg.png]]
-[[/cell]]
-[[cell]]This wiki is currently being updated and overhauled. [[/cell]]
-[[/row]]
-[[/table]]
-
-[[/div]]
-[[/div]]
-
-[!-- News: Entry 2 --]
-[[div class="alternate unmargined"]]
-[[div class="news-title"]]
-January 10th, 2018
-[[/div]]
-[[div class="news-content"]]
-Creation of this wiki
-[[/div]]
-[[/div]]
-
-
-
-[!-- News: Footer --]
-[[/div]]
-[[div class="panel-footer"]]
-[[[Archived News]]]
-[[/div]]
-[[/div]]
-
-
-
-[[div class="panel-footer"]]
-[http://05command.wikidot.com/ambassador-main Ambassadors on EN's staff site]
-
-[[/div]]
-
-[!---------- END - BRANCH-LINKS :: BEGIN - FOOTER -----------]
 
 [[div class="biggrid"]]
 
