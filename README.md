@@ -18,11 +18,11 @@
 1.3.25
 - added games section to [top bar](http://sxlaris.wikidot.com/nav:top)
     - added backrooms levels to top bar
+    - removed individual entities from series IV on the top bar and replaced it with series IV, V, VI, VII, VIII, IX
 - added [games page](http://sxlaris.wikidot.com/games)
     - added image grid to games page
     - added kult rising to image grid
     - added museum of anomalous things to image grid
-- removed individual entities from series IV on the top bar and replaced it with series IV, V, VI, VII, VIII, IX
 - added [Museum of Anomalous Things](http://sxlaris.wikidot.com/museum-of-anomalous-things) page
     - added general info
     - added link to The MoAT
