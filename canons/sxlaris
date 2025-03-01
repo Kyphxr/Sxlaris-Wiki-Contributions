@@ -17,13 +17,13 @@ Welcome, User
 @@ @@
 @@ @@
 @@ @@
-> The world has been overrun with [DATA EXPUNGED]...
+The world has been overrun with [DATA EXPUNGED]...
 
-> The Backrooms have destabilized...
+The Backrooms have destabilized...
 
-> The Dome has been constructed...
+The Dome has been constructed...
 
-> The Foundation has retreated...
+The Foundation has retreated...
 
 @@ @@
 @@ @@
@@ -46,6 +46,7 @@ div.terminal{
     border: solid 3px #BBBBBB;
     border-radius: 16px;
     background-color: #131;
+    text-align: center;
     /* black shadow at the top of the terminal */
     background-image: 
         radial-gradient(ellipse 1000% 100% at 50% 90%, transparent, #121);
@@ -77,7 +78,7 @@ div.text{
     padding-left: 2em;
     padding-top: 40%;
     font-family: monospace;
-    font-size: 1.2em;
+    font-size: 16px;
 }
 
 /* Safari 4.0 - 8.0 */
