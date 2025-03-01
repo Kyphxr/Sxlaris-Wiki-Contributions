@@ -23,6 +23,7 @@
     - removed most of canon tab, left antimemetics, broken masq, deepwell, resurrection, 5k, and undervegas
         - added [sxlaris](http://sxlaris.wikidot.com/sxlaris)
         - added [dimension x](http://sxlaris.wikidot.com/dimension-x)
+    - removed unnecessary GoIs
 - added [games page](http://sxlaris.wikidot.com/games)
     - added image grid to games page
     - added kult rising to image grid
