@@ -1,5 +1,6 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
+
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
 [[div style="background-color: #2e0e10;"]]
@@ -13,9 +14,10 @@ fetch("https://hellstorm-software.github.io/theGrid/wiki-changelog.md")
     document.getElementById("changelog").innerHTML = converter.makeHtml(text);
   });
 </script>
-<div id="changelog">Loading...</div>
+<div id="changelog" style="color: #141414;">Loading...</div>
 [[/html]]
 [[/div]]
+
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
 [[div class="collapsible"]]
