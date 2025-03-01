@@ -21,6 +21,7 @@
     - removed individual entities from series IV on the top bar and replaced it with series IV, V, VI, VII, VIII, IX
     - removed library tab
     - removed most of canon tab, left antimemetics, broken masq, deepwell, resurrection, 5k, and undervegas
+        - added sxlaris
 - added [games page](http://sxlaris.wikidot.com/games)
     - added image grid to games page
     - added kult rising to image grid
