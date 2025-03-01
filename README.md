@@ -17,7 +17,8 @@
 
 1.3.25
 - added games section to [top bar](http://sxlaris.wikidot.com/nav:top)
-    - added [games page](http://sxlaris.wikidot.com/games)
+    - added backrooms levels to top bar
+- added [games page](http://sxlaris.wikidot.com/games)
     - added image grid to games page
     - added kult rising to image grid
     - added museum of anomalous things to image grid
