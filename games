@@ -18,7 +18,7 @@
 ]]
 
 [[include fragment:kyphbox2 
-|article-class=scp-x002 elong
+|article-class=scp-kr elong
 |slug=https://sxlaris.wikidot.com/scp-xxxx
 |title=Kult Rising
 |subtitle=.
@@ -350,6 +350,12 @@ a {
 
 .scp-6274 {
   background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6274/table.png);
+  background-size: cover;
+  background-blend-mode: color-burn;
+}
+
+.scp-kr {
+  background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/cef0329081cace2d14f3d434ae8aab22.png);
   background-size: cover;
   background-blend-mode: color-burn;
 }
