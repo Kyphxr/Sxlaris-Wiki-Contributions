@@ -24,6 +24,7 @@
 - removed individual entities from series IV on the top bar and replaced it with series IV, V, VI, VII, VIII, IX
 - added [Museum of Anomalous Things](http://sxlaris.wikidot.com/museum-of-anomalous-things) page
 - added [Kult Rising page](http://sxlaris.wikidot.com/kult-rising)
+    - added FAQ
 
 ----------------------------------------------------------
 28.2.25
