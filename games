@@ -9,23 +9,52 @@
 
 [[div class="biggrid"]]
 
-
 [[include fragment:kyphbox2 
-|article-class=scp-x002
-|slug=https://sxlaris.wikidot.com/scp-x002
-|title=SCP-x002
-|subtitle=The Backrooms
+|article-class=scp-x002 
+|slug=https://sxlaris.wikidot.com/scp-xxxx
+|title=Placeholder 1
+|subtitle=
 |subbertitle=
 ]]
 
-[[include fragment:kyphbox 
-|article-class=scp-xxxx 
-|slug=https://sxlaris.wikidot.com/scp-x002
-|title=Placeholder 25
-|subtitle=Placeholder
-|subbertitle=Placeholder
+[[include fragment:kyphbox2 
+|article-class=scp-x002 elong
+|slug=https://sxlaris.wikidot.com/scp-xxxx
+|title=Placeholder 2
+|subtitle=.
+|subbertitle=.
 ]]
 
+[[include fragment:kyphbox2 
+|article-class=scp-x002 
+|slug=https://sxlaris.wikidot.com/scp-xxxx
+|title=Placeholder 3
+|subtitle=.
+|subbertitle=.
+]]
+
+[[include fragment:kyphbox2 
+|article-class=scp-x002 
+|slug=https://sxlaris.wikidot.com/scp-xxxx
+|title=Placeholder 4
+|subtitle=.
+|subbertitle=.
+]]
+[[include fragment:kyphbox 
+|article-class=scp-xxxx elong
+|slug=https://sxlaris.wikidot.com/scp-xxxx
+|title=Placeholder 5
+|subtitle=.
+|subbertitle=.
+]]
+
+[[include fragment:kyphbox2 
+|article-class=scp-x002 
+|slug=https://sxlaris.wikidot.com/scp-xxxx
+|title=Placeholder 6
+|subtitle=.
+|subbertitle=.
+]]
 [[/div]]
 
 [[div style="background-color: #6a00ff; width: 300px;"]]
