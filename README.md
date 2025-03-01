@@ -24,6 +24,7 @@
         - added [sxlaris](http://sxlaris.wikidot.com/sxlaris)
         - added [dimension x](http://sxlaris.wikidot.com/dimension-x)
     - removed unnecessary GoIs
+        - added ATLAS, Shigaraki, YumCo, Illuminati, Templar, Curtain, Async, Nullsec, M.E.G, and Broadcast alliance tabs
 - added [games page](http://sxlaris.wikidot.com/games)
     - added image grid to games page
     - added kult rising to image grid
