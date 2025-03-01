@@ -41,7 +41,7 @@
 |subbertitle=.
 ]]
 [[include fragment:kyphbox 
-|article-class=scp-xxxx elong
+|article-class=scp-moat elong
 |slug=https://sxlaris.wikidot.com/scp-xxxx
 |title=Museum of Anomalous Things
 |subtitle=.
@@ -360,6 +360,11 @@ a {
   background-blend-mode: normal;
 }
 
+.scp-moat {
+  background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/966f867fadde0e51a3d1599dc3142e2a.png);
+  background-size: cover;
+  background-blend-mode: normal;
+}
 .commits {
   background-image: url(https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png);
   background-size: cover;
