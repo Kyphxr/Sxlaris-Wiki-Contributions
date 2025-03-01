@@ -28,6 +28,7 @@
 - added [Kult Rising page](http://sxlaris.wikidot.com/kult-rising)
     - added FAQ
     - added [roadmap](http://sxlaris.wikidot.com/kult-rising:roadmap)
+- added [new page](http://sxlaris.wikidot.com/template:new-page) template
 
 ----------------------------------------------------------
 28.2.25
