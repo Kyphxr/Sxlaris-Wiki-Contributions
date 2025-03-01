@@ -14,7 +14,7 @@ fetch("https://hellstorm-software.github.io/theGrid/wiki-changelog.md")
     document.getElementById("changelog").innerHTML = converter.makeHtml(text);
   });
 </script>
-<div id="changelog" style="color: #141414;">Loading...</div>
+<div id="changelog" style="color: #C2C2C2;">Loading...</div>
 [[/html]]
 [[/div]]
 
