@@ -43,6 +43,7 @@
 - removed news section from home page
     - added image grid to home page
     - added SCP-x002 to image grid
+    - changed classified text color to purple
 
 ----------------------------------------------------------
 28.2.25
