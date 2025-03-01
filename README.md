@@ -22,7 +22,9 @@
     - removed library tab
     - removed most of canon tab, left antimemetics, broken masq, deepwell, resurrection, 5k, and undervegas
         - added [sxlaris](http://sxlaris.wikidot.com/sxlaris)
+            - added CSS terminal w/ hook
         - added [dimension x](http://sxlaris.wikidot.com/dimension-x)
+            -  added explanation
     - removed unnecessary GoIs
         - added ATLAS, Shigaraki, YumCo, Illuminati, Templar, Curtain, Async, Nullsec, M.E.G, and Broadcast alliance tabs
         - renamed "nobody" to the agency
