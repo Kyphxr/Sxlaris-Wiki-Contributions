@@ -27,6 +27,7 @@
     - added link to The MoAT
 - added [Kult Rising page](http://sxlaris.wikidot.com/kult-rising)
     - added FAQ
+    - added [roadmap](http://sxlaris.wikidot.com/kult-rising:roadmap)
 
 ----------------------------------------------------------
 28.2.25
