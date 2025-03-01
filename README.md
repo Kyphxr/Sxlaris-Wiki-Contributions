@@ -46,6 +46,7 @@
     - added image grid to home page
     - added SCP-x002 to image grid
     - changed classified text color to purple
+- added [changelog](http://sxlaris.wikidot.com/changelog) page
 
 ----------------------------------------------------------
 28.2.25
