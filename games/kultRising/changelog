@@ -1,0 +1,29 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: #8c6868;"]]
+[[html]]
+<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
+<script>
+fetch("hellstorm-software.github.io/Kult-Rising/readme.md")
+  .then(response => response.text())
+  .then(text => {
+    var converter = new showdown.Converter();
+    document.getElementById("changelog").innerHTML = converter.makeHtml(text);
+  });
+</script>
+<div id="changelog" style="color: #C2C2C2;">Loading...</div>
+[[/html]]
+[[/div]]
+
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "Wiki Changelog" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/changelog Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
