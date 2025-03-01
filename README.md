@@ -40,6 +40,7 @@
     - added [roadmap](http://sxlaris.wikidot.com/kult-rising:roadmap)
 - added [new page](http://sxlaris.wikidot.com/template:new-page) template
 - added [how to contribute](http://sxlaris.wikidot.com/contribute) page
+- removed news section from home page
 
 ----------------------------------------------------------
 28.2.25
