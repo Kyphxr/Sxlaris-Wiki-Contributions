@@ -33,6 +33,7 @@
 - added [Museum of Anomalous Things](http://sxlaris.wikidot.com/museum-of-anomalous-things) page
     - added general info
     - added link to The MoAT
+    - added header image
 - added [Kult Rising page](http://sxlaris.wikidot.com/kult-rising)
     - added FAQ
     - added [roadmap](http://sxlaris.wikidot.com/kult-rising:roadmap)
