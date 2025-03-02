@@ -11,7 +11,7 @@
 
 ----------------------------------------------------------
 
-<h2>[FEB]</h2>
+<h2>[MAR]</h2>
 
 ----------------------------------------------------------
 
@@ -49,6 +49,10 @@
     - changed classified text color to purple
 - added [changelog](http://sxlaris.wikidot.com/changelog) page
 - added [Kult Rising Changelog](http://sxlaris.wikidot.com/kult-rising:changelog) page
+
+----------------------------------------------------------
+
+<h2>[FEB]</h2>
 
 ----------------------------------------------------------
 28.2.25
