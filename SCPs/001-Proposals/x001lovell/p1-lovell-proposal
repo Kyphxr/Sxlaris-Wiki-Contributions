@@ -1,3 +1,16 @@
+[[module CSS]]
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
@@ -26,8 +39,38 @@ __**00:05**__ A member of the GOC is found in a restricted area of Site-19, with
 
 __**00:10**__ Site-173 is attacked and easily overrun by the ATLAS Corporation.
 
+__**00:20**__ SCP-8157 is transferred to Site-14
 [[/div]]
 [[/div]]
+[[/div]]
+
+[[div class="email-example"]]
+[[=]]
+------
+[[collapsible show="Access SCiPNET Email? One (1) new message!" hide="Re:SUBJECT"]]
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** RECIPIENT
+**From:** SENDER
+**Subject:** SUBJECT
+[[/div]]
+------
+text
+[[/div]]
+@@ @@
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** RECEPIENT
+**From:** SENDER
+**Subject:** Re:SUBJECT
+[[/div]]
+------
+text
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
 [[/div]]
 
 [[[p2-lovell-proposal|continue]]]
