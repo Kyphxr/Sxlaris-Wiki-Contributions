@@ -9,14 +9,24 @@
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x001
 |clearance= 5
-|container-class= keter
+|container-class= esoteric
 |secondary-class= appolyon
 |secondary-icon=https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/apollyon-icon.svg
-|disruption-class= eldritch
+|disruption-class= amida
 |risk-class= warning
 ]]
 
-REPLACE_THIS_WITH_YOUR_PAGE
++ Special Containment Procedures:
+SCP-x001 is contained within the remnants of the Atlas Corporation Zeta-09 Facility, now designated Site-██. A 5-kilometer exclusion zone surrounds the containment area, monitored by automated drones and long-range surveillance systems. Personnel assigned to SCP-x001 must undergo weekly psychological evaluations due to prolonged exposure to its hive-mind effects.
+ 
+The central hive structure of SCP-x001 is to remain under continuous observation. Entry into active zones is strictly prohibited without authorization from 2 members of the 05 Council. Any personnel approaching SCP-x001's hive are required to undergo biometric verification. Visual or auditory identification is no longer deemed reliable due to SCP-x001-A mimetic abilities.
+ 
+Containment protocols have been updated to include automated flame-based sterilization systems and electromagnetic suppression fields to prevent SCP-x001's expansion or creation of SCP-x001-A or SCP-x001-B instances. Any breach scenarios must be met with immediate deployment of Mobile Task Forces Epsilon-7 ("Forget-Me-Nots") and Zeta-9 ("Mole Rats").
+
++ Description:
+SCP-x001 is a hyper-adaptive hive-mind entity originating from the catastrophic failure of Atlas Corporation’s Project PROMETHEUS, an experimental matter-energy replication system. SCP-x001's primary structure consists of a viscous, black tar-like substance capable of assimilating organic and inorganic material. The entity exhibits advanced intelligence and self-sustaining replication capabilities, making containment exceptionally difficult.
+ 
+SCP-x001 can change its form at will, morphing its size, color, and hardness, to wild extremes, with its the only known limitation to these transformations being that SCP-x001 must have enough biomass to reroute to the new structure, and SCP-x001 must have been exposed to that form/surface/color previously, either through visual observation, or through neurological data transfer.
 
 
 
