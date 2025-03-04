@@ -1,0 +1,101 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= 8157
+|clearance= 3
+|container-class= keter
+|secondary-class= none
+|disruption-class= dark
+|risk-class= notice
+]]
+
+[[include :backrooms-wiki:component:level-class
+|class=0
+]]
+ 
+[!-- If no picture is available please remove the image-block component --]
+[!-- Please remember to link the source of the image in the license box! --]
+ 
+[[include component:image-block
+|name=filename or url
+|caption=Description
+|align=right
+]]
+ 
+[!- Then you can add a short introduction. (Note: You may have seen pages with "Level n is the n+1th level of the Backrooms" here, but this has fallen out of fashion due to not being a strong hook.) -]
+ 
++ Description
+Level description
+ 
+
++ Bases, Outposts and Communities
+[!-- Add any bases or outposts you'd like to add.
+If there are no bases, outposts or communities, you may write:
+"There are no known bases, outposts or communities on this level"
+or
+skip this section entirely (often preferrable) --]
+ 
++++ Base/Outpost/Community A
+[!- You can put:
+* Details
+* Details
+* Details
+* -]
++++ Base/Outpost/Community B
+[!--or:
+Short description of the Base/Outpost/Community --]
+ 
++ Additional Content
+[!-- Feel free to rename this section and/or add any content in relation with that level.
+If you have nothing to add simply remove this section --]
+ 
+[!--
+There are a variety of other sections you can include in the page as well, for example:
+
+Entities
+Phenomena
+Objects
+Feel free to also make separate sections for things you think warrant a separate section.
+
+These often go between Description and Bases & Outposts, or Entrances and Exits if there are no settlements.
+ --]
+ 
+
++ Entrances And Exits
+[!-- Add any entrances and exits to other levels. --]
+ 
+++++ Entrances
+[!-- If there are no entrances please write : "There is no known way to get to this level for now". --]
+ 
+++++ Exits
+[!-- If there are no exits please write: "There is no known way to leave this level for now.", though usually people can leave whence they came. --]
+ 
+----
+ 
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[Level n-1]]] | Level n | [[[Level n+1]]] >>
+[[/=]]
+[[/div]]
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next Level#s ↓ -----------]
+[[=]]
+<< [[[Level-XXW]]] | Level-XXX | [[[Level-XXY]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
