@@ -9,11 +9,11 @@
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x001
 |clearance= 5
-|container-class= esoteric
+|container-class= keter
 |secondary-class= appolyon
 |secondary-icon=https://scp-wiki.wdfiles.com/local--files/component%3Aanomaly-class-bar/apollyon-icon.svg
-|disruption-class= amida
-|risk-class= eldritch
+|disruption-class= eldritch
+|risk-class= warning
 ]]
 
 REPLACE_THIS_WITH_YOUR_PAGE
