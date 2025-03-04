@@ -8,7 +8,7 @@
 [[div class="container" style="text-align: left;"]]
 +* [!-- DO NOT ERASE THIS "+*". --]
 
-__**00:00**__ SCP-x014 is transferred to site 14 and terminated.
+__**00:00**__ [[[[SCP-x014]]]] is transferred to site 14 and terminated.
 
 __**00:05**__ A member of The Serpent's Hand is found in a restricted area of Site-19, with a list of names containing the 05 Counsel, the Administrator, and the ethics committee.
 
@@ -47,31 +47,10 @@ Cite this page as:
     overflow: hidden;
 }
 
-.containercontainer .container::after {
-    content: " ";
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background: rgba(21, 19, 19, 0.2);
-    opacity: 0;
-    z-index: 2;
-}
-
+/* Removed the overlays that might be covering links */
+.containercontainer .container::after,
 .containercontainer .container::before {
-    content: " ";
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background: linear-gradient(rgba(18, 16, 16, 0.03) 50%, rgba(0, 0, 0, 0.45) 50%),
-        linear-gradient(90deg, rgba(255, 0, 0, 0.22), rgba(0, 255, 0, 0.11), rgba(0, 0, 255, 0.22));
-    z-index: 2;
-    background-size: 100% 2px, 3px 100%;
+    display: none;
 }
 
 .no-unfold {
