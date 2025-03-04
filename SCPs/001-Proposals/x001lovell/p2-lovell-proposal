@@ -1,0 +1,109 @@
+[[module CSS]]
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
+
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+++++ Audit Log - █ /16 / 2███
+[[div class="no-unfold"]]
+[[div class="containercontainer"]]
+[[div class="container" style="text-align: left;"]]
++* [!-- DO NOT ERASE THIS "+*". --]
+
+__**72:05**__ O5 All instances of [[[https://scp-wiki.wikidot.com/scp-131|SCP-R-131]]] are to be removed from their positions surrounding
+the statue of liberty. 
+
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[[p3-lovell-proposal|continue]]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "Dr. Lovell's Proposal" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/lovell-proposal Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
+
+[[module CSS]]
+.containercontainer {
+    position: relative;
+    width: auto;
+    height: auto;
+    border: 2px solid #666;
+    background: #141212;
+    color: #3F3;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.containercontainer .container {
+    text-align: center;
+    width: inherit;
+    height: inherit;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Removed the overlays that might be covering links */
+.containercontainer .container::after,
+.containercontainer .container::before {
+    display: none;
+}
+
+.no-unfold {
+    text-align: center;
+}
+
+.container h1,
+.container h2,
+.container h3,
+.container h5,
+.container h6 {
+    color: #3F3;
+}
+
+.container hr {
+    border-top: 1px dotted #3F3;
+    border-bottom: none;
+}
+
+.container hr {
+    border-top: 1px solid #3F3;
+    border-bottom: 1px solid #3F3;
+    color: transparent;
+    background-color: transparent;
+}
+
+.container hr:after {
+    display: block;
+    margin-top: 2px;
+    border-top: 1px solid #3F3;
+    border-bottom: 1px solid #3F3;
+}
+
+.blinkbar {
+    animation: blink 1.5s infinite;
+    letter-spacing: -0.13em;
+}
+
+@keyframes blink {
+    to {
+        opacity: .0;
+    }
+}
+[[/module]]
