@@ -11,17 +11,42 @@
 |clearance= 5
 |container-class= esoteric
 |secondary-class= apollyon
+|secondary-icon=https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/apollyon-icon.svg
 |disruption-class= amida
 |risk-class= eldritch
 ]]
 
-REPLACE_THIS_WITH_YOUR_PAGE
+**Special Containment Procedures:**
+,,Note: proceeding the events of Incident x014-RF-01, SCP-x014's containment procedures have been modified. For the old procedures, see the attached document.,,
 
+SCP-x014 is to be contained on the specialized containment floor located █ miles below the bottom floor of Site-██. The 1000 ft2 floor is designed in a modular fashion with walls that can be raised or lowered to change the floor plan, and thus the acoustics of the layout. The room is furnished with a grand piano that is bolted to the floor, several guitars, and a library of sheet music. There are 75 cameras, 25 microphones, and 10 software-defined radios (SDRs), broken up between 5 surveillance teams that monitor the site 24/7.
+ 
+A computer with no internet connection is mounted in the south west corner of the room, outfit with a few monitors, and connected to a recording booth directly next to it. A bedroom with a couch, a bed, and a smart phone and TV that can only connect to each other and the computer is located in the north west corner. The computer is connected to a Foundation monitored server that is to be updated on a weekly basis, primarily with new music, as well as any news, games, or other media requested by SCP-x014. All electronic devices are equipped with killswitches that will fry the motherboard should the device recieve any form of outside signal.
+ 
+The type of media consumed by SCP-x014 is of minimal concern, provided it undergoes prior screening by a panel of psychologists before being delivered to SCP-x014's server. Any form of media—such as music, books, games, movies, artwork, news, or other subject matter—is permissible, as long as it does not pose a risk to SCP-x014's mental stability. Additionally, any food requests made by SCP-x014 should be accommodated within reasonable limits.
+ 
+The entire floor containing SCP-x014 is to be operated on its own power grid, with at least 2 backup power supplies available at all times. At least 3 specialized electromagnetic shields are to be active surrounding SCP-x014's containment site at all times. SCP-x014-A has shown no anomalous abilities and poses no threat in his current state. Routine psychological evaluations and interviews are to be conducted bi-weekly to monitor SCP-x014-A's mental well-being and detect any signs of distress that could lead to self-harm or external threats.
+ 
+Under no circumstances is SCP-x014-A to be harmed or subjected to lethal force. Any personnel interacting with SCP-x014-A must undergo thorough psychological evaluations to ensure they pose no threat to his safety.
+ 
+In the event of SCP-x014's transformation into SCP-x014-B, all personnel are to evacuate the immediate area, and Mobile Task Force Delta-14 ("Jekyll-n-Hyde") is to be dispatched to neutralize SCP-x014-B. Use of heavy firearms, incendiary devices, and anomalous weaponry is authorized to terminate SCP-x014-B and trigger his reversion to SCP-x014-A. This process should be carried out as quickly as possible to minimize casualties.
+ 
+SCP-x014's containment chamber is to remain under constant video surveillance, with on-site personnel ready to respond to any containment breaches. All potentially dangerous items located in SCP-x014's floor are to be modified as such:
+ 
+▣ large or heavy objects are to be bolted to the floor or wall
+ 
+▣ any sharp/pointed objects (pencils, pens, forks, etc.) are to be outfitted so that any points or sharp edges can be retracted remotely
+ 
+▣ no cords or strings longer than 12 in (30 cm) are allowed within the vicinity of SCP-x014
+ 
+▣ no open blades are allowed within the vicinity of SCP-x014
+ 
+SCP-x014 may receive visitors at his request. Access is restricted to individuals listed in the attached document (guestList.md). All visitors must undergo a psychological screening before entering SCP-x014's designated area. If SCP-x014 is ever out of sight of the cameras monitoring his floor, MTF Delta-14 is to respond immediately, as this occurrence is considered impossible.
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
 [[=]]
-<< [[[SCP-x013]] | SCP-x014 | [[[SCP-x015]]] >>
+<< [[[SCP-x013]]] | SCP-x014 | [[[SCP-x015]]] >>
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
