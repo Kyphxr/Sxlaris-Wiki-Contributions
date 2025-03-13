@@ -1,0 +1,48 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x184
+|clearance= 4
+|container-class= safe
+|secondary-class= none
+|disruption-class= dark
+|risk-class= notice
+]]
+
+special containment procedures: scp-x184 is to be kept on its designated stand at 
+Site-814 at all times. The stand is a 3m tall by 2m wide piece of reinforced 
+cement. SCP-x184 is to remain bolted to this stand at all times. A hydraulic press
+is mounted to the ceiling above SCP-x184's stand, holding it in place, with a cement 
+extruder mounted behind it. 5 of these structures are assembled on the lowest floor
+of site-814 the largest housing SCP-xxxx and the 4 smaller ones holding SCP-xxxx-01 
+through -04 respectively. 
+
+In the event of a failsafe trigger, the press will flatten SCP-xxxx down to a disc, before
+quick dry cement is extruded over top. Once the cement has hardened, the stand is lowered 85m
+into a slot in the floor, which is subsequently filled in its entirity with self setting polymer
+concrete. The bottom floor of site 814 is subsequent filled with the same polymer concrete. 
+
+Description: SCP-184 is a 5x8in can made from titanium alloy. A rectangular opening has been cut 
+into the side of the can, with a layer of titanium alloy attached to a hinge acting as a small door.
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x183]]] | SCP-x184| [[[SCP-x185]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-x184" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SCP-x184 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
