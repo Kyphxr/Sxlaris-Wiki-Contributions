@@ -23,6 +23,76 @@ Site-814 is located 3km below the SubTropolis business complex located in Kansas
 
 [[/div]]
 
+[[div class="section-header"]]
++* Canon Details
+[[/div]]
+
+[[tabview]]
+[[tab That Which Can Be Said]]
+
+++* Beginnings
+
+The first tenet of Site-17's fiction is that the Foundation is, at its core, evil. It is a hierarchical, bureaucratic institution which seeks to enforce ignorance as law and is plainly hostile to the world at large. It worships the greater ethical good but has no method of defining what that good is.
+
+Perhaps, the researchers within the Foundation have not realized this. Perhaps even the Overseers are likewise deluded. But the ones who have been trampled beneath the weight of the Foundation's transgressions are not so blind.
+
+++* Middles
+
+The second tenet is that Site-17's fiction runs on a vibe. Highly atmospheric and emotionally-driven, Deepwell presents a world defined by wrongness; institutions tasked with the safeguarding of humanity have taken on a certain malignancy. Control, prided by the Foundation as a central dogma, seems more and more every day like a facade to hide the unknown forces to which the men in charge have given themselves, and the world.
+
+++* Continuations
+
+Preferably, articles written for Site-17 should incorporate one or more of the following elements into their fiction:
+
+* Inclusion of, or references to, established characters or events within the canon
+* Ethics Committee interactions
+* Thematic interest in secrecy, truth, and/or the sacrifices made to maintain the Veil
+
+In any case, feel free to parent your article to this page and add it here when it's posted. The applicable tag is {{deepwell-catalog}}.
+
+Note that the ADMONITION Series is set in an alternate continuity which runs on a similar vibe and thematic interest. It is currently closed to collaboration.
+
+[[/tab]]
+[[tab That Which Can Be Known]]
+
+++ Thaumaturgical Manifestations
+
+Thaumaturgical Entities are objects or beings imbued with arcane energy. These entities are not anomalous, and operate in line with our understanding of "Magick."
+
+++ Timeline Of Important Events
+
+This primarily exists as a vain attempt to ensure that characters born in 1990 don't become Site Directors in 1970. It's harder than you'd think!
+
+----
+
+**Warning:** Heavy spoilers.
+
+[[=]]
+[[collapsible show="+ Show Full Timeline" hide="- Hide Full Timeline" hideLocation="both"]]
+[[<]]
+
+||~ Date ||~ Event ||
+|| 1906/06/08 || First humanoid anomaly, [[[SCP-6086]]], is contained. ||
+|| 2103 || The Foundation ascends to a Tier V conceptual anomaly, becoming SCP-4755. ||
+
+[[/<]]
+[[/collapsible]]
+[[/=]]
+
+[[/tab]]
+[[/tabview]]
+
+@@ @@
+
+[[=]]
+[[include :scp-wiki:component:license-box
+|author=Liryn, Nagiros, and Placeholder McD]]
+[!-- N/A (No Images)  --]
+[[include :scp-wiki:component:license-box-end]]
+[[/=]]
+
+@@ @@
+
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
 [[div class="collapsible"]]
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
