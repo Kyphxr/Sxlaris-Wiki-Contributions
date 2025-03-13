@@ -1,0 +1,38 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x9237
+|clearance= 3
+|container-class= safe
+|secondary-class= none
+|disruption-class= dark
+|risk-class= notice
+]]
+
++++++ Special Containment Procedures:
+SCP-x9237 is to be stored within a hermetically sealed containment chamber at Site-814, equipped with Faraday shielding to prevent potential anomalous transmissions. Access is restricted to personnel with Level 3 clearance or higher, and all testing must be conducted in a controlled, observation-friendly environment.
+
+Testing personnel must submit detailed requests outlining the intended usage, as well as debriefing reports post-experiment. Unauthorized activation of SCP-x9237 outside of approved experiments is strictly prohibited. Any personnel exposed to SCP-x9237’s effects must undergo mandatory psychological evaluation before returning to duty.
+
++++++ Description:
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x9236]]] | SCP-x9237 | [[[SCP-x9238]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "PAGE_TITLE" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Based on the SCP-9237 featured in [https://store.steampowered.com/app/1939100/Go_Home_Annie/ Go Home Annie] Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
