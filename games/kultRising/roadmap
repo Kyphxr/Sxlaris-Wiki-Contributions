@@ -13,14 +13,20 @@
 - Explore level 37 (the poolrooms)
 - Explore level 14 (The Infinite Entertainment Complex)
 
-[[collapsible show="‡ Update 1 Content" hide="‡ Hide"]]
+[collapsible show="‡ Update 1 Content" hide="‡ Hide"]
++++ Audio Logs
+- discover audio logs from Dr. Lovell detailing different SCPs and various experiments conducted with them
 +++ Level 0
 - safe level
+- 2 playable levels
 +++ Level 37
 - safe level
+- 1 playable levels
 +++ Level 14
 - unsafe level
-[[/collapsible]]
+- 0 playable levels
+
+[/collapsible]
 
 **Price:** $5
 
@@ -32,6 +38,24 @@
 - Explore the Labyrinth -> Find a core
 - EXTRACT
 - Meet Quota
+
+[collapsible show="‡ Update 2 Content" hide="‡ Hide"]
++++ Meet your Quota
+- Use the elevator to explore the vast depths of the labyrinth
+- hunt down various SCPs to harvest different organs 
+- Drop your loot in the elevator as your search for a core
+- Lesser cores allow you to travel farther down, greater cores allow you to extract back to the surface
+- Once you find a greater core, you’ll need to complete an extraction event in order to use it
+- Survive the hoard of SCPs before you can extract
+- Sell off your harvested organs, and hope you make enough to meet quota
+
++++ Reputation
+- Every time you extract and make quota, your reputation goes up
+- Every time you extract and fail to meet quota, your reputation goes down
+- The lower your reputation, the less money you can make per run
+
+
+[/collapsible]
 
 **Price:** $7
 
@@ -54,3 +78,7 @@
 - Adds xp system
 - All condensed quartz is converted to xp 
 ------
+
++ Beta
+------
+Phase 1:
