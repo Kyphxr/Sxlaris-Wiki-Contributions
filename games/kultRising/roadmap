@@ -1,6 +1,8 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
 
+Note: Content for each phase will probably not all be available at the beginning of each phase, but will instead be fully implemented before the beginning of the next phase. 
+
 + Alpha 
 ------
 ++ Phase 1: Exploration
@@ -68,6 +70,15 @@
 +++++ Hero Shooter
 - adds 9 playable characters (syms), each with 3-4 unique abilities
 
+[collapsible show="‡ Update 3 Content" hide="‡ Hide"]
++++ Syms
+- Syms are humans who have been given anomalous abilities via the attachment of a Parasymbiote
+- Mechanics wise they have 3 cooldown based abilities, and 1 chargeable Ultimate
+- For the core gameplay, unlocking a new Sym will unlock their corresponding skill tree (see update 4)
+- In exterior game modes, you will chose a hero, and have access to that heroe’s abilities along with the primary attacks if your weapon
+
+[/collapsible]
+
 **Price:** $10
 
 ------
@@ -81,12 +92,15 @@
 +++ Phase 3: Survive
 
 ------
-+++ Update 4: 
++++ Update 5: 
 +++++ Building and Crafting
+- collect materials to craft new weapons and gear
+- Build a base to protect all of your loot and begin building your Kult 
+
 
 ------
 
 
 + Beta
 ------
-Phase 1:
++++ Phase 1:
