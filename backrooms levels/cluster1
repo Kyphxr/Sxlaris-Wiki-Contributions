@@ -1,3 +1,7 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
 [[div class="content-panel standalone series"]]
 [[div class="content-toc"]]
 **Table of Contents**
@@ -157,4 +161,14 @@
 * [[[SCP-097]]] - Old Fairgrounds
 * [[[SCP-098]]] - Surgeon Crabs
 * [[[SCP-099]]] - The Portrait
+[[/div]]
+
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "Backrooms Cluster 1" by Staff, from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
 [[/div]]
