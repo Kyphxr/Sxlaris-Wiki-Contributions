@@ -3,7 +3,6 @@
 
 [[=]]
 [!-- This image acts as a thumbnail. --]
-[[image https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/f530e2d10f2333f77ed9e9914bf3f587.png width="0" height="0"]]
 [[/=]]
 
 [!---------- BEGIN - HEADER -----------]
@@ -41,7 +40,7 @@ Actual announcement
 
 [[div class="news-block content-panel"]]
   [[div class="panel-heading"]]
-    The Template Wiki of the SCP Foundation
+    The Official Wiki of the Sxlaris Universe
   [[/div]]
   [[div class="panel-body"]]
     [[div class="alternate unmargined"]]
@@ -89,17 +88,17 @@ by [[user Kyphxr]]
 [!-- Right block --]
 [[div class="content-panel right-column"]]
 [[div class="panel-heading"]]
-Featured Tale
+Site-814
 [[/div]]
 [[div class="panel-body"]]
 [[div class="feature-title"]]
-[[[The Clones]]]
+[[[site-814-hub|Sub-SubTropolis]]]
 [[/div]]
 [[div class="feature-subtitle"]]
-by [[user dr_grom]]
+by [[user Kyphxr]]
 [[/div]]
 
-//You put an example of text of the tale here.//
+The primary site of the Sxlaris Canon.
 
 [[/div]]
 [[div class="panel-footer"]]
@@ -113,7 +112,7 @@ by [[user dr_grom]]
 
 
 [[include fragment:kyphbox2 
-|article-class=scp-x002
+|article-class=scp-xxx
 |slug=https://sxlaris.wikidot.com/scp-x002
 |title=SCP-x002
 |subtitle=The Backrooms
@@ -121,23 +120,22 @@ by [[user dr_grom]]
 ]]
 
 [[include fragment:kyphbox 
-|article-class=scp-xxxx 
-|slug=https://sxlaris.wikidot.com/scp-xxxx
-|title=Placeholder 1
-|subtitle=Placeholder
-|subbertitle=Placeholder
+|article-class=scp-xxx 
+|slug=https://sxlaris.wikidot.com/kult-rising
+|title=Kult Rising
+|subtitle=Immersive Sim RPG
+|subbertitle=SCP + The Backrooms
 ]]
 
 [[include fragment:kyphbox 
-|article-class=scp-xxxx 
-|slug=https://sxlaris.wikidot.com/scp-xxxx
-|title=Placeholder 2
-|subtitle=Placeholder
-|subbertitle=Placeholder
+|article-class=scp-x014 
+|slug=https://sxlaris.wikidot.com/scp-x014
+|title=Godhand
+|subtitle=literally an anime villain
 ]]
 
 [[include fragment:kyphbox 
-|article-class=scp-xxxx 
+|article-class=scp-xxx 
 |slug=https://sxlaris.wikidot.com/scp-xxxx
 |title=Placeholder 3
 |subtitle=Placeholder
@@ -145,7 +143,7 @@ by [[user dr_grom]]
 ]]
 
 [[include fragment:kyphbox 
-|article-class=scp-xxxx 
+|article-class=scp-xxx 
 |slug=https://sxlaris.wikidot.com/scp-xxxx
 |title=Placeholder 4
 |subtitle=Placeholder
