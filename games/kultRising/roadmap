@@ -74,12 +74,13 @@ Note: Content for each phase will probably not all be available at the beginning
 +++++ Hero Shooter
 - adds 9 playable characters (syms), each with 3-4 unique abilities
 
+[[# note1]]
 [[collapsible show="‡ Update 3 Content" hide="‡ Hide"]]
 +++ Syms
 - Syms are humans who have been given anomalous abilities via the attachment of a Parasymbiote
 - Mechanics wise they have 3 cooldown based abilities, and 1 chargeable Ultimate
 - For the core gameplay, unlocking a new Sym will unlock their corresponding skill tree (see update 4)
-- In exterior game modes, you will chose a hero, and have access to that heroe’s abilities along with the primary attacks if your weapon
+- In exterior game modes^^[#notes 1]^^, you will chose a hero, and have access to that heroe’s abilities along with the primary attacks of your weapon
 
 [[/collapsible]]
 
@@ -124,3 +125,7 @@ Note: Content for each phase will probably not all be available at the beginning
 + Beta
 ------
 +++ Phase 1:
+
+[[# notes]]
+Notes:
+1. Exterior game modes refers to gamemodes that depict non-canon events. Usually these are the levels selected directly from the menu as opposed to traveling to a location in game. [#note1 back to spot]
