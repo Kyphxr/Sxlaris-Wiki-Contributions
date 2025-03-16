@@ -15,7 +15,7 @@ Note: Content for each phase will probably not all be available at the beginning
 - Explore level 37 (the poolrooms)
 - Explore level 14 (The Infinite Entertainment Complex)
 
-[collapsible show="‡ Update 1 Content" hide="‡ Hide"]
+[[collapsible show="‡ Update 1 Content" hide="‡ Hide"]]
 +++ Audio Logs
 - discover audio logs from Dr. Lovell detailing different SCPs and various experiments conducted with them
 +++ Level 0
@@ -28,7 +28,7 @@ Note: Content for each phase will probably not all be available at the beginning
 - unsafe level
 - 0 playable levels
 
-[/collapsible]
+[[/collapsible]]
 
 **Price:** $5
 
@@ -41,7 +41,7 @@ Note: Content for each phase will probably not all be available at the beginning
 - EXTRACT
 - Meet Quota
 
-[collapsible show="‡ Update 2 Content" hide="‡ Hide"]
+[[collapsible show="‡ Update 2 Content" hide="‡ Hide"]]
 +++ Meet your Quota
 - Use the elevator to explore the vast depths of the labyrinth
 - hunt down various SCPs to harvest different organs 
@@ -57,42 +57,62 @@ Note: Content for each phase will probably not all be available at the beginning
 - The lower your reputation, the less money you can make per run
 
 
-[/collapsible]
+[[/collapsible]]
 
 **Price:** $7
 
+------
++++ Update 3: 
++++++ Dreamcore Expansion
+- adds Backrooms level 94
 ------
 +++ Phase 2: Fight
 
 ------
 
-+++ Update 3: 
++++ Update 4: 
 +++++ Hero Shooter
 - adds 9 playable characters (syms), each with 3-4 unique abilities
 
-[collapsible show="‡ Update 3 Content" hide="‡ Hide"]
+[[collapsible show="‡ Update 3 Content" hide="‡ Hide"]]
 +++ Syms
 - Syms are humans who have been given anomalous abilities via the attachment of a Parasymbiote
 - Mechanics wise they have 3 cooldown based abilities, and 1 chargeable Ultimate
 - For the core gameplay, unlocking a new Sym will unlock their corresponding skill tree (see update 4)
 - In exterior game modes, you will chose a hero, and have access to that heroe’s abilities along with the primary attacks if your weapon
 
-[/collapsible]
+[[/collapsible]]
 
 **Price:** $10
 
 ------
 
-+++ Update 4: 
++++ Update 5: 
 +++++ The Skilltree
 - adds Morgan and the core skill tree
 - Adds xp system
 - All condensed quartz is converted to xp 
+
+[[collapsible show="‡ Update 4 Content" hide="‡ Hide"]]
++++ Skill Tree
+- the skill tree is probably the most complex element of the game and therefor the most polarizing
+- We recognize a lot of people are turned off by games like PoE specifically because of its skill tree, and so we have designed our game to make the entire skill tree more or less optional
+- Every time you gain a level in the skill tree, it will automatically unlock the next skill in your current chain. The default chain is setup to be able to clear the entire game and is more or less our “intended” build
+- However if you’re someone who enjoys experimenting with different skills and abilities and coming up with your own builds, you can switch the skill tree over to advanced mode and have access to the entire catalogue of skills
+- As you unlock new syms, their skill chains will be unlocked in your skill tree, allowing you to learn those abilities in the core gameplay loop
+- The skill tree is made up of both active and passive skills, and you can respec at any time for free to test out any new abilities or skills
+- Use our skill path module to save and export your current build as code that your friends can enter so they can use your builds without having to mess with the skill tree
+- If your friend is a lower level than you, it will replace the default path allowing them to automatically level up with the right skills as they grind
+
+[[/collapsible]]
+
+**Price:** $10
+
 ------
 +++ Phase 3: Survive
 
 ------
-+++ Update 5: 
++++ Update 6: 
 +++++ Building and Crafting
 - collect materials to craft new weapons and gear
 - Build a base to protect all of your loot and begin building your Kult 
