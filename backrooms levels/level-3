@@ -1,0 +1,83 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="Item#" hide="‡ Hide Item#"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x002-3
+|clearance= 3
+|container-class= safe
+|secondary-class= none
+|disruption-class= dark
+|risk-class= warning
+]]
+
++ Special Containment Procedures:
+SCP-x002-3 has been identified as the same space as [*https://scp-wiki.wikidot.com/scp-3008 SCP-3008-1]
+
+SCP-3008-1 is a space resembling the inside of an IKEA furniture store, extending far beyond the limits of what could physically be contained within the dimensions of the retail unit. Current measurements indicate an area of at least 10km2 with no visible external terminators detected in any direction. Inconclusive results from the use of laser rangefinders has led to the speculation that the space may be infinite.
+
+SCP-3008-1 is inhabited by an unknown number of civilians trapped within prior to containment. Gathered data suggests they have formed a rudimentary civilisation within SCP-3008-1, including the construction of settlements and fortifications for the purpose of defending against SCP-3008-2.
+
+SCP-3008-1 has a rudimentary day-night cycle, determined by the overhead lighting within the space activating and deactivating at times consistent with the opening and closing times of the original retail store. During the "night" instances of SCP-3008-2 will become violent towards all other lifeforms within SCP-3008-1. During these bouts of violence they have been heard to vocalise phrases in English that are typically variations of "The store is now closed, please exit the building". Once "day" begins SCP-3008-2 instances immediately become passive and begin moving throughout SCP-3008-1 seemingly at random. They are unresponsive to questioning or other verbal cues in this state, though will react violently if attacked.
+
+SCP-3008-1 is known to have one or more exits located within, though these exits do not appear to have a fixed position, making it difficult to leave SCP-3008-1 once inside. Using any other door besides the main entrance to enter the structure or breaking through the walls of the retail unit leads into the non-anomalous interior of the original store.
+
+[[/collapsible]]
+[[/div]]
+[[include :sxlaris:component:level-class
+|class=0
+]]
+ 
+[!-- If no picture is available please remove the image-block component --]
+[!-- Please remember to link the source of the image in the license box! --]
+------
+[[include component:image-block
+|name=https://i.imgur.com/
+|caption=A hallway in Level 1.
+|align=right
+]]
+ 
+[!-- Then you can add a short introduction. (Note: You may have seen pages with "Level n is the n+1th level of the Backrooms" here, but this has fallen out of fashion due to not being a strong hook.) --]
+ 
+
+ 
++ Description:
+SCP-x002-1 
+ 
+
++ Entrances And Exits
+[!-- Add any entrances and exits to other levels. --]
+ 
+++++ Entrances
+[!-- If there are no entrances please write : "There is no known way to get to this level for now". --]
+* level 0 
+* some doors in [[[level-hub|the Hub]]] lead to level 0
+* [[[SCP-x216|SCP-x216-2]]] is able to reach Level 0
+ 
+++++ Exits
+[!-- If there are no exits please write: "There is no known way to leave this level for now.", though usually people can leave whence they came. --]
+* Level 0 
+ 
+----
+ 
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next Level#s ↓ -----------]
+[[=]]
+<< [[[Level-2]]] | Level-3 | [[[Level-4]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "Level 3" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/level-3 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+> Based on  
+[[/collapsible]]
+[[/div]]
