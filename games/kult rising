@@ -260,7 +260,6 @@ logo-image: {
 
 .griddle4 .title {
     font-family: "Space Mono", monospace;
-    font-style: italic;
     font-weight: bold;
     font-size: 200%;
     text-shadow: #3a00ed 0 0 1px;
@@ -275,7 +274,7 @@ logo-image: {
 }
 
 .griddle4 .subtitle {
-    font-family: "DM Serif Display", serif;
+    font-family: "Space Mono", monospace;
     font-weight: bold;
     font-style: italic;
     text-shadow: #3a00ed 0 0 1px;
@@ -292,7 +291,7 @@ logo-image: {
 }
 
 .griddle4 .subbertitle {
-    font-family: "Telex", sans-serif;
+    font-family: "Space Mono", monospace;
     font-style: italic;
     font-size: 80%;
     margin-left: auto;
@@ -537,6 +536,13 @@ a {
   background-blend-mode: multiply;
   background-color: #f7f7f7
   background-image: none;
+}
+
+.scp-whiteCross {
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-color: #f7f7f7
+  background-image: https://etc.usf.edu/clipart/41600/41622/crossgrid5_41622_lg.gif;
 }
 
 .scp-black {
