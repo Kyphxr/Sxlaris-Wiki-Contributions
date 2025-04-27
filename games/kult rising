@@ -5,7 +5,7 @@
 [[div class="biggrid"]]
 
 [[include fragment:kyphbox3
-|article-class=scp-xxxx long
+|article-class=scp-white long
 |title=LATEST UPDATES
 |subtitle=ㅤ
 |subbertitle=ㅤ
@@ -21,8 +21,8 @@
 |subbertitle6=[ * ] BLUESKY
 ]]
 
-[[include fragment:kyphBox3
-|article-class=scp-xxxx long
+[[include fragment:kyphBox4
+|article-class=scp-black long
 |title=WISHLIST NOW
 |subtitle=Launching on Steam soon
 |subbertitle=ㅤ
@@ -126,6 +126,34 @@ logo-image: {
     transition: all 500ms ease-in-out;
 }
 
+.griddle2 {
+    position: relative;
+    /* border: 3px solid green; */
+    background-color:#f7f7f7;
+    background-size: 60%;
+    background-blend-mode: screen;
+    background-position: center;
+    min-height: 12rem;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    place-self: stretch;
+    transition: all 500ms ease-in-out;
+    color: black!important;
+}
+
+.griddle3 {
+    position: relative;
+    /* border: 3px solid green; */
+    background-color:#070707;
+    background-size: 60%;
+    background-blend-mode: screen;
+    background-position: center;
+    min-height: 12rem;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    place-self: stretch;
+    transition: all 500ms ease-in-out;
+}
 
 .griddle:hover, .griddle:focus, .griddle:active {
     background-color: #ec0000;
@@ -423,6 +451,20 @@ a {
 .scp-xxxx {
   background-size: cover;
   background-blend-mode: multiply;
+  background-image: none;
+}
+
+.scp-white {
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-color: #f7f7f7
+  background-image: none;
+}
+
+.scp-black {
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-color: #141414
   background-image: none;
 }
 
