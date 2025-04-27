@@ -21,7 +21,7 @@
 |subbertitle6=[ * ] BLUESKY
 ]]
 
-[[include fragment:kyphBox4
+[[include fragment:kyphBox5
 |article-class=scp-black long tall
 |title=WISHLIST NOW
 |subtitle=Launching on Steam soon
@@ -35,7 +35,7 @@
 |subbertitle=ㅤ
 ]]
 
-[[include fragment:kyphbox3
+[[include fragment:kyphbox4
 |article-class=scp-white 
 |title=ㅤ
 |subtitle=ㅤ
@@ -59,7 +59,7 @@
 [[/div]]
 
 
-
++ THIS PAGE IS UNDER CONSTRUCTION
 
 
 ------
@@ -181,6 +181,21 @@ logo-image: {
     padding: 0.25rem 0.5rem;
     place-self: stretch;
     transition: all 500ms ease-in-out;
+}
+
+.griddle4 {
+    position: relative;
+    /* border: 3px solid green; */
+    background-color:#070707;
+    background-size: 60%;
+    background-blend-mode: screen;
+    background-position: center;
+    min-height: 12rem;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    place-self: stretch;
+    transition: all 500ms ease-in-out;
+    color: white!important;
 }
 
 .griddle:hover, .griddle:focus, .griddle:active {
