@@ -17,8 +17,9 @@
 |subbertitle=[] DISCORD
 |subbertitle2=[] YOUTUBE
 |subbertitle3=[] STEAM
-|subbertitle4=[] BLUESKY
+|subbertitle4=[] ITCH.IO
 |subbertitle5=[] TWITTER
+|subbertitle6=[] BLUESKY
 ]]
 
 [[include fragment:kyphBox2
@@ -224,6 +225,15 @@ logo-image: {
 }
 
 .griddle .subbertitle5 {
+    font-family: "Telex", sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-bottom: -20%;
+}
+
+.griddle .subbertitle6 {
     font-family: "Telex", sans-serif;
     font-style: italic;
     font-size: 80%;
