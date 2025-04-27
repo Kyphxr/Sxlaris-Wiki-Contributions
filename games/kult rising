@@ -5,14 +5,14 @@
 [[div class="biggrid"]]
 
 [[include fragment:kyphbox3
-|article-class=scp-white long
+|article-class=scp-white long tall
 |title=LATEST UPDATES
 |subtitle=ㅤ
 |subbertitle=ㅤ
 ]]
 
 [[include fragment:kyphBoxSocials
-|article-class=scp-xxxx
+|article-class=scp-xxxx tall
 |subbertitle=[ * ] DISCORD
 |subbertitle2=[ * ] YOUTUBE
 |subbertitle3=[ * ] STEAM
@@ -22,7 +22,7 @@
 ]]
 
 [[include fragment:kyphBox4
-|article-class=scp-black long
+|article-class=scp-black long tall
 |title=WISHLIST NOW
 |subtitle=Launching on Steam soon
 |subbertitle=ㅤ
