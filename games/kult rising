@@ -207,6 +207,14 @@ logo-image: {
     text-shadow: #3a00ed 0 0 1px;
 }
 
+.griddle2 .title {
+    font-family: "DM Serif Display", serif;
+    font-style: BOLD;
+    font-weight: bold;
+    font-size: 500%;
+    text-shadow: #3a00ed 0 0 1px;
+}
+
 .griddle .subtitle {
     font-family: "DM Serif Display", serif;
     font-weight: bold;
