@@ -259,7 +259,7 @@ logo-image: {
 }
 
 .griddle4 .title {
-    font-family: "DM Serif Display", serif;
+    font-family: "Space Mono", monospace;
     font-style: italic;
     font-weight: bold;
     font-size: 200%;
