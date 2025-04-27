@@ -195,7 +195,6 @@ logo-image: {
     padding: 0.25rem 0.5rem;
     place-self: stretch;
     transition: all 500ms ease-in-out;
-    color: white!important;
 }
 
 .griddle:hover, .griddle:focus, .griddle:active {
@@ -256,6 +255,15 @@ logo-image: {
     font-weight: bold;
     font-size: 350%;
     text-shadow: #3a00ed 0 0 1px;
+}
+
+.griddle4 .title {
+    font-family: "DM Serif Display", serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 200%;
+    text-shadow: #3a00ed 0 0 1px;
+    color: #f7f7f7;
 }
 
 .griddle .subtitle {
