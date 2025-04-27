@@ -4,6 +4,9 @@
 
 [[div class="biggrid"]]
 
+[[div class="alphagriddle"]]
+[[/div]]
+
 [[include fragment:kyphbox3
 |article-class=scp-white long tall
 |title=LATEST UPDATES
@@ -36,7 +39,7 @@
 ]]
 
 [[include fragment:kyphbox4
-|article-class=scp-whiteCross art
+|article-class=scp-black art
 |title=ㅤ
 |subtitle=ㅤ
 |subbertitle=ㅤ
@@ -56,6 +59,12 @@
 |subbertitle=ㅤ
 ]]
 
+[[include fragment:kyphbox2
+|article-class=scp-xxxx long
+|title=ㅤ
+|subtitle=ㅤ
+|subbertitle=ㅤ
+]]
 [[/div]]
 
 
@@ -350,7 +359,7 @@ logo-image: {
     min-height: 10rem;
     /* border: 3px solid blue; */
     grid-row-end: span 2;
-    grid-column-end: span 3;
+    grid-column-end: span 5;
    border-radius: 0.25rem;
    background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/3016da336919a9f9e5a13c1bd312e42b.png);
    background-size: cover;
