@@ -273,6 +273,14 @@ logo-image: {
     text-shadow: #3a00ed 0 0 1px;
 }
 
+.griddle4 .subtitle {
+    font-family: "DM Serif Display", serif;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: #3a00ed 0 0 1px;
+    color: #f7f7f7;
+}
+
 .griddle .subbertitle {
     font-family: "Telex", sans-serif;
     font-style: italic;
@@ -280,6 +288,16 @@ logo-image: {
     margin-left: auto;
     margin-top: 5%;
     margin-bottom: 5%;
+}
+
+.griddle4 .subbertitle {
+    font-family: "Telex", sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: #f7f7f7;
 }
 
 .griddle .subbertitle2 {
