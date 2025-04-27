@@ -29,7 +29,7 @@
 ]]
 
 [[include fragment:kyphbox3
-|article-class=scp-white 
+|article-class=scp-whiteCross
 |title=ㅤ
 |subtitle=ㅤ
 |subbertitle=ㅤ
@@ -542,7 +542,7 @@ a {
   background-size: cover;
   background-blend-mode: multiply;
   background-color: #f7f7f7
-  background-image: https://etc.usf.edu/clipart/41600/41622/crossgrid5_41622_lg.gif;
+  background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/966a6d5b5bc3216fdce8b2a565ef0da8.png);
 }
 
 .scp-black {
