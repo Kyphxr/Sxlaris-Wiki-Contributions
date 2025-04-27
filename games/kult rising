@@ -29,14 +29,14 @@
 ]]
 
 [[include fragment:kyphbox3
-|article-class=scp-whiteCross
+|article-class=scp-whiteCross art
 |title=ㅤ
 |subtitle=ㅤ
 |subbertitle=ㅤ
 ]]
 
 [[include fragment:kyphbox4
-|article-class=scp-white 
+|article-class=scp-whiteCross art
 |title=ㅤ
 |subtitle=ㅤ
 |subbertitle=ㅤ
@@ -50,7 +50,7 @@
 ]]
 
 [[include fragment:kyphbox3
-|article-class=scp-white 
+|article-class=scp-whiteCross art
 |title=ㅤ
 |subtitle=ㅤ
 |subbertitle=ㅤ
@@ -534,15 +534,14 @@ a {
 .scp-white {
   background-size: cover;
   background-blend-mode: multiply;
-  background-color: #f7f7f7
+  background-color: #f7f7f7;
   background-image: none;
 }
 
 .scp-whiteCross {
   background-size: cover;
-  background-blend-mode: multiply;
-  background-color: #f7f7f7
-  background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/966a6d5b5bc3216fdce8b2a565ef0da8.png);
+  background-color: #d1d1d1;
+  background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/dee9a96b0f77ab5e75aefa25698eb785.png);
 }
 
 .scp-black {
