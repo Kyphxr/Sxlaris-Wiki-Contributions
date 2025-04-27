@@ -251,7 +251,7 @@ logo-image: {
 }
 
 .griddle2 .title {
-    font-family: "DM Serif Display", serif;
+    font-family: "Space Mono", monospace;
     font-style: BOLD;
     font-weight: bold;
     font-size: 350%;
