@@ -1,0 +1,60 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+KILL. AUGMENT. RETRIEVE. VEND. EXTRACT.
+
+Welcome to KARVE, our take on the lethal-like genre! Take control of 2 bodies; 1 for collecting, 1 for fighting, terminate anomalies, harvest their organs, and extract the loot.
+
+You have been hired by YumTime Co. Family Entertainment to assist with [DATA EXPUNGED] by exploring [[[SCP-x216]]], terminating entities, and harvesting rare organs. Organs however, are not the only valuable that can be found in the Labyrinth; many valuable objects both large and small are lost throughout the anomalous space, with even more noclipping in through [[[SCP-x002]]]. Extract these to make some extra --money-- VEK.
+
+[DATA EXPUNGED] recognizes that a position within this company can be exceptionally lethal, and as such has developed a system of Replikate based drones to allow Karvers to work without risking their own lives. Be wary however, your drones can die and will lose their upgrades when they do. Make sure you have enough saved up to buy more! Otherwise you might have to take a loan from the ███man.
+
+With that being said, extracting isn't as easy as just going back up the elevator. You'll need to keep descending using lesser cores until you can find a greater core. Once you do, you will be able to initiate the extraction event. If you can survive the horde, THEN you can extract.
+
+------
+
++++ Meet your Quota
+* Use the elevator to explore the vast depths of the labyrinth
+* hunt down various SCPs to harvest different organs 
+* Drop your loot in the cart as your search for a core
+* Lesser cores allow you to travel farther down, greater cores allow you to extract back to the surface
+* Once you find a greater core, you’ll need to complete an extraction event in order to use it
+* Survive the hoard of SCPs before you can extract
+* Sell off your harvested organs, and hope you make enough to meet quota
+
+[!--
++++ The Twist
+* 2 body system:
+ * Body 1 is your "Kollection Drone"
+  * 4 slot inventory
+  * use tractor beam to lift heavy/fragile objects
+  * uses guns
+* Body 2 is your "Kombat Drone"
+  * can only hold objects with tractor beam
+  * physics based combat
+  * uses melee weapons
+* whichever form you are not actively using transforms into a heavy item which can be lifted and transported with the cart
+* switch between your two bodies strategically to avoid/destroy danger
+* when one of your bodies dies, you still have 1 life left
+--]
+
++++ Reputation
+* Every time you extract and make quota, your reputation goes up
+* Every time you extract and fail to meet quota, your reputation goes down
+* The lower your reputation, the less money you can make per run
+
+* any extra VEK you make, you get to keep permanently for future runs
+* all equipment that is successfully extracted will be kept as well
+
+
+
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "KARVE" by STAFF, from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/KARVE Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
