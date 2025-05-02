@@ -1,0 +1,13 @@
+[[iftags +fragment]]
+> This is a fragment to help build the boxes in the Kyphxr Kollection.
+> initially made by Rounderhouse, modified by Kyphxr
+[[/iftags]]
+
+[[div class="griddle {$article-class}" style="{$extra-styling};"]]
+[[a  class="siddle2" href="https://discord.gg/usKwxca"]][[span class="subbertitle"]]{$subbertitle}[[/span]][[/a]]
+[[a  class="siddle2"  href="*https://www.youtube.com/@kultRising/featured"]][[span class="subbertitle2"]]{$subbertitle2}[[/span]][[/a]]
+[[a  class="siddle2"  href="*https://store.steampowered.com/app/3459840/Kult_Rising/"]][[span class="subbertitle3"]]{$subbertitle3}[[/span]][[/a]]
+[[a  class="siddle2"  href="*https://hellstorm-software.itch.io/kult-rising"]][[span class="subbertitle4"]]{$subbertitle4}[[/span]][[/a]]
+[[a  class="siddle2"  href="*https://x.com/kultRising"]][[span class="subbertitle5"]]{$subbertitle5}[[/span]][[/a]]
+[[a  class="siddle2"  href="*https://bsky.app/profile/kyphxr.bsky.social"]][[span class="subbertitle6"]]{$subbertitle6}[[/span]][[/a]]
+[[/div]]
