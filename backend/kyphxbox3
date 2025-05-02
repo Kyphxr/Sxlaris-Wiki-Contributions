@@ -1,0 +1,10 @@
+[[iftags +fragment]]
+> This is a fragment to help build the boxes in the Kyphxr Kollection.
+> initially made by Rounderhouse, modified by Kyphxr
+[[/iftags]]
+
+[[div class="griddle2 {$article-class}" style="{$extra-styling};"]]
+[[span class="title"]]{$title}[[/span]] _
+[[span class="subtitle"]]{$subtitle}[[/span]] _
+[[span class="subbertitle"]]{$subbertitle}[[/span]] _
+[[/div]]
