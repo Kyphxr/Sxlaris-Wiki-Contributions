@@ -1,0 +1,12 @@
+[[iftags +fragment]]
+> This is a fragment to help build the boxes in the Kyphxr Kollection.
+> initially made by Rounderhouse, modified by Kyphxr
+[[/iftags]]
+
+[[div class="griddle {$article-class}" style="{$extra-styling};"]]
+[[a class="siddle" href="https://scp-wiki.wikidot.com/{$slug}"]]
+[[span class="title"]]{$title}[[/span]] _
+[[span class="subtitle"]]{$subtitle}[[/span]] _
+[[span class="subbertitle"]]{$subbertitle}[[/span]] _
+[[/a]]
+[[/div]]
