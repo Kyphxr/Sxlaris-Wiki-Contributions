@@ -7,8 +7,9 @@
 [[div class="alphagriddle tall"]]
 [[/div]]
 
-[[include fragment:kyphbox3
+[[include fragment:kyphbox2
 |article-class=scp-white long tall
+|slug=https://hellstorm-software.github.io/theGrid/core/kultRising.html
 |title=LATEST UPDATES
 |subtitle=ㅤ
 |subbertitle=ㅤ
@@ -66,15 +67,15 @@
 |subbertitle=ㅤ
 ]]
 
-[[include fragment:kyphbox2
-|article-class=scp-xxxx
+[[include fragment:kyphbox5
+|article-class=scp-black
 |title=ㅤ
 |subtitle=ㅤ
 |subbertitle=ㅤ
 ]]
 
-[[include fragment:kyphbox2
-|article-class=scp-xxxx 
+[[include fragment:kyphbox5
+|article-class=scp-black
 |title=ㅤ
 |subtitle=ㅤ
 |subbertitle=ㅤ
