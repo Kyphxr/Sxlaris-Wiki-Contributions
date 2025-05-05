@@ -1,0 +1,210 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[!--
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="Item#" hide="‡ Hide Item#"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x002-37
+|clearance= 3
+|container-class= safe
+|secondary-class= none
+|disruption-class= dark
+|risk-class= warning
+]]
+
++ Special Containment Procedures:
+SCP-x002-1,  is only able to be entered via [[[level-0|SCP-x002-0]]] and thus does not need additional containment.
+
+[[/collapsible]]
+[[/div]]
+[[include :sxlaris:component:level-class
+|class=0
+]]
+ --]
+[[module css]]
+.titleblock {
+   background-color: rgb(var(--white-monochrome));
+   padding: 0.5rem 1rem 0.10rem;
+   margin: 1.5rem 0rem 0.5rem 0rem;
+   box-shadow: 0 0.2rem 0.3rem rgba(0,0,0,.25);
+   border: solid rgb(var(--pale-accent)) 2px;
+}
+ 
+.titlebox{
+  position: relative;
+  top: -1.6rem;
+  background-color: rgb(var(--pale-accent));
+  color: rgb(var(--white-monochrome));
+  padding: 0.25rem 1rem;
+  line-height: 0.1rem;
+}
+
+.headerbox{
+    padding:1rem 0;
+    background: linear-gradient(180deg, rgba(197, 197, 187,0.25) 0%, rgba(232, 228, 220,0.2) 90%);
+    float:none;
+    width:auto;
+    margin:auto;
+    border-radius:1rem 1rem 0 0;
+}
+
+.scrollheader{
+    background: url("http://backrooms-wiki.wikidot.com/local--files/level-37/Poolrooms-Header.jpg");
+    animation: slide2 180s linear infinite;
+    background-size: 330px;
+    background-repeat: repeat-x;
+    width:calc(100%);
+    max-width: 800px;
+    min-height: 170px;
+    border-radius:1rem 1rem 0 0;
+    position: static;
+    border-right: 5pt solid #C6C3BC;
+    border-left: 5pt solid #C6C3BC;
+    border-bottom: 5pt solid rgb(198, 198, 188);
+}
+@keyframes slide2{
+  0% {
+    background-position: 120px bottom;
+  }
+  100% {
+    background-position: -770px bottom;
+  }
+}
+.stroke {
+  color: white;
+  text-shadow: -1px -1px 0 #336A77, 1px -1px 0 #336A77, -1px 1px 0 #336A77, 1px 1px 0 #336A77;
+}
+
+.html-block-iframe:first-of-type {
+    width: 50%;
+    float: left;
+}
+[[/module]]
+
++++this level has been ported from the [https://backrooms-wiki.wikidot.com/level-37 Backrooms TS]
+
+[[div class="scrollheader"]]
+[[div class="headerbox"]]
+@@@@
+@@@@
+[[=]]
+[[div class="stroke"]][[/div]]
+//You feel a calming sensation.//
+[[/div]]
+[[/=]]
+@@@@
+@@@@
+[[/div]]
+[[/div]]
+[[include :backrooms-sandbox-2:component:custom-class
+|class=0
+|ddisplay=Class 0
+|color=85CBE2
+|border=2B4582
+|list-color=2B4582
+|image=http://zaskou.wdfiles.com/local--files/sublimity/class%200.png
+|one=Safe
+|two=Unsecure
+|three=Devoid of Entities
+]]
+
+[[include :scp-sandbox-3:image-zoom name=Poolrooms-1.jpg|caption=An image of **Level 37**.|width=300px|align=right]]
+
++ **Description**
+**Level 37** is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water. Each area of the level varies greatly in size and structure, ranging from uniform pools and hallways to more open, abnormally shaped areas. The majority of surfaces in the level are composed of white, ceramic tiling, with the only deviation from this color being the blue-green hue of the water. The tiles are eerily pristine in condition, all identical to one another, without a single hint of damage on their shiny surfaces.[[footnote]] Testing of said tiles with various destructive forces has shown them to be practically indestructible; consequently, the prospect of boring through the level's walls to aid travel has been deemed infeasible with currently available technology.[[/footnote]]
+
+The architecture of **Level 37** is varied, but strict in design; all areas in the level connect to one other in a senseless manner, with none having an easily-identifiable purpose. Although the intended use of each area is difficult to ascertain, they are much too large to properly serve the function of a pool. The abnormality of Level 37's geometry negates any purported purpose it might serve: pillars protrude out of the water in certain areas, much too large in quantity to be practical; many open areas of water lack ledges for one to hoist onto; light is cast from irregular angles, leaving some areas completely cast in darkness; and certain staircases descend directly into deep pits of water.[[footnote]] Entrances to these deeper areas are typically found in the form of descending staircases or direct underwater holes. It is strictly unadvised to explore such areas due to their inherent danger; without the proper equipment, one could easily drown in the level’s depths due to their lack of adequate lighting and/or exit points. [[/footnote]]
+
+[[include :scp-sandbox-3:image-zoom name=Poolrooms-3.jpg|caption=Another image of **Level 37**.|width=300px|align=right]]
+
+Investigation has shown that traces of Epsom salt (magnesium sulfate) are present in the waters of **Level 37**. This compound, when engulfing one’s body for extended periods of time, has a naturally relaxing effect, relieving muscles and alleviating bodily pains. Alongside this, traces of multiple unidentified compounds were also found present in the water; the origin and properties of these substances currently remain unknown, but due to their coexistence with the aforementioned Epsom salt, it is believed that they enhance the water's relieving effects via anomalous means.
+
+By unknown means, a minimal and constant rippling is present in the water covering **Level 37**, despite it being undisturbed. It is not known whether this rippling originates from a certain point in the level, or if it is a property inherent in the water itself, though some wanderers theorize the level may be so large that it has developed its own tidal forces.
+
+Sound is severely altered in **Level 37**. Examples include the sudden dropping-off of noises produced in the level, soundwaves not reverberating as they should, and speech feeling "muted" or "dampened". It is suspected that this primarily stems from the sound of the water, which behaves in a subtly unorthodox manner. In certain explorations, the sound of the water is reported to be quiet, almost calming, whilst in rarer cases, it quickly becomes obtrusive and drowns out other sounds. The cause of these effects is still undergoing research, but no concrete conclusion has been drawn thus far.
+
+[[include :scp-sandbox-3:image-zoom name=Poolrooms-2.jpg|caption=Water rippling through the halls.|width=300px|align=right]]
++ **Entities**
+**Level 37** is thought to be entirely devoid of life. No encounters with entities or other wanderers have been recorded in the level; it is unknown if this results from some isolating property of **Level 37**, or if the level is so unimaginably large that one could not possibly come across another living being within it.
+
++ **Bases, Outposts, and Communities**
+Due to its layout not easily allowing for permanent settlements, along with its possible isolating properties, no outposts currently exist within **Level 37**. The level's immense size and its inability to sustain life also do not incentivize the creation of permanent housing, and community-building would likely prove difficult due to its strange auditory properties.
+
++ **Attached Information**
+The following is what is generally accepted to be an excerpt of an unknown author's journal, transcribed verbatim. Its inclusion in this file stems from its popularity in wanderers' circles, particularly amongst free-spirited exploration groups.
+[[div class="titleblock"]]
+[[span class="titlebox"]]Recovered Note:[[/span]]
+
+[[=]]
+//My Musings//
+[[/=]]
+
+After numerous explorations, boundless journeys through unquantifiable locations, it seems I have finally reached a place of solitude. Endless halls, long darkly-lit corridors, empty structures of no end; those are what I have become accustomed to. This, however, is my first breathing point in a storm of chaos and confusion — a peaceful point where I can finally rest. Never before have I witnessed architecture such as this; brightly-lit rooms with pools of blue water, surrounding one’s body like a warm embrace. White ceramic tiles make up the walls and floor, reflecting the light and leaving no corner untouched by its radiance.
+
+These places are not bounded in reality — they are a macrocosm of one’s mental state, a reflection of their emotions; they are a twisted parody of reality, extended interpretations of locations one does not typically consider whilst passing through. Exploring them can be described as wandering within a dream. They are not infinite, nor are they finite; it is my belief that these places reflect the headspace of those experiencing them. It is not the doing of any force or overseeing entity whatsoever; instead, it is one’s emotions that keep the rooms extending — the impetus for their continued growth and existence. There is no architect to these places beside our minds; they are human thought pushed away from its makers, alien despite their familiarity.
+
+I’ve come to call them Scapes — dreamlike realms one passes through, experiencing and subsequently continuing to the next, like a journey of sorts. One could exit at any time with the right headspace; attaining it, however, would be no easy feat while continually passing through looping hallways and nonsensical corridors. While being illogical and foreign, these places are tailored to you. The places you commonly pass through without any thought become all you know. Each Scape is far too familiar, but far too strange to be comforting; it can be compared to a nightmare.
+
+I digress. In short, this Scape truly amazes me; while one may feel a permeating sense of peace and calmness within it, another cannot help but notice a feeling of dread wash over them as they notice the strange, lightless corners. This strange effect has never ceased to intrigue me. This Scape is without blemish or defect; the “Poolrooms” are simply stunning — an intricate design, a possibly infinite puzzle whose pieces form something peculiar — indescribably strange, yet indescribably perfect; it can only be the handiwork of a God.
+[[/div]]
+
++ **Entrances and Exits**
+[[include :scp-sandbox-3:image-zoom name=Poolrooms-4.jpg|caption=Light seeping into dark corners.|width=300px|align=right]]
+++ Entrances
+* Submerging oneself in the waters of [[[Level 58]]] and [[[Level 119]]] may lead to one reemerging in this level;
+* Porcelain-tiled areas of [[[Level 233]]] infrequently lead to this level;
+* In rare circumstances, underwater areas of [[[Level 130]]] may act as entrances to this level.
+* You can also enter via an arcade on [[[Level 25]]]
+++ Exits
+* Immersing oneself in the water of **Level 37** may cause reemergence in the pools of [[[Level 130]]];
+* Enclosed, dark tunnels in this level may lead to [[[Level 43]]];
+* Corridors in **Level 37** can rarely lead to similar corridors in [[[Level 233]]].
+~~~~
+------
+[!---------- ↓ Replace XXXW and XXXY with the previous and next Level#s ↓ -----------]
+[[=]]
+<< [[[Level-36]]] | Level-37 | [[[Level-38]]] >>
+[[/=]]
+
+[[include :backrooms-wiki:component:license-box]]
+=====
+> **Filename:** Poolrooms-1.jpg
+> **Author:** [https://www.instagram.com/anarky.3d/ u/AnarkyMusic]
+> **License:** [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0.]
+> **Source Link:** https://www.instagram.com/anarky.3d/
+
+> **Filename:** Poolrooms-2.jpg
+> **Author:** [https://www.instagram.com/anarky.3d/ u/AnarkyMusic]
+> **License:** [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0.]
+> **Source Link:** https://www.instagram.com/anarky.3d/
+
+> **Filename:** Poolrooms-3.jpg
+> **Author:** [https://www.instagram.com/anarky.3d/ u/AnarkyMusic]
+> **License:** [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0.]
+> **Source Link:** https://www.instagram.com/anarky.3d/
+
+> **Filename:** Poolrooms-4.jpg
+> **Author:** [https://www.instagram.com/anarky.3d/ u/AnarkyMusic]
+> **License:** [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0.]
+> **Source Link:** https://www.instagram.com/anarky.3d/
+=====
+[[include :backrooms-wiki:component:license-box-end]]
+ 
+
+
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "Level 37" by [[user egglord]], from the Backrooms Wiki TS. Source:
+> https://backrooms-wiki.wikidot.com/level-37 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+> Based on  
+[[/collapsible]]
+[[/div]]
