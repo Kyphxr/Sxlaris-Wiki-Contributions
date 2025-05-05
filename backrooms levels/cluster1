@@ -17,9 +17,10 @@
 [#90 90 to 99]
 [[/div]]
 
-This page is still under construction.
-@@ @@
-@@ @@
++ Non-Standar Levels
+- [[[Level-HUB|The Hub]]]
+- [[[Level-BLUE|The Blue Channel]]]
+- [[[Level-FOG|The Fog Ocean (Ω)]]]
 @@ @@
 @@ @@
 @@ @@
@@ -35,31 +36,31 @@ This page is still under construction.
 
 [[# 01]]
 + 00 to 09
-* [[[Level 00]]] - The Yellowrooms
-* [[[Level 01]]] - Habitable Zone
-* [[[Level 02]]] - [ACCESS DENIED]
-* [[[Level 03]]] - [ACCESS DENIED]
-* [[[Level 04]]] - Abandoned Office
-* [[[Level 05]]] - [ACCESS DENIED]
-* [[[Level 06]]] - [ACCESS DENIED]
-* [[[Level 07]]] - Thalassophobia
- *  [[[Level 7.1]]] - Breathable Water
-* [[[Level 08]]] - [ACCESS DENIED]
-* [[[Level 09]]] - The Suburbs
- * [[[Level 09.1]]] - Red Neighborhood
+* [[[Level-0|Level 00]]] - The Yellowrooms
+* [[[Level-1|Level 01]]] - Habitable Zone ##DD6611|(This article is under construction)##
+* [[[Level-2|Level 02]]] - [ACCESS DENIED]
+* [[[Level-3|Level 03]]] - [ACCESS DENIED]
+* [[[Level-4|Level 04]]] - Abandoned Office ##DD6611|(This article is under construction)##
+* [[[Level-5|Level 05]]] - [ACCESS DENIED]
+* [[[Level-6|Level 06]]] - [ACCESS DENIED]
+* [[[Level-7|Level 07]]] - Thalassophobia ##FF0000|(unfinished)##
+ *  [[[Level 7.1]]] - Breathable Water ##FF0000|(unfinished)##
+* [[[Level-8|Level 08]]] - Underground Dunes ##FF0000|(unfinished)##
+* [[[Level-9|Level 09]]] - The Suburbs ##FF0000|(unfinished)##
+ * [[[Level 09.1]]] - Red Neighborhood ##FF0000|(unfinished)##
 
 
 [[# 10]]
 + 10 to 19
-* [[[Level 10]]] - Endless City
- * [[[Level 10.1]]] - Red Light District
+* [[[Level 10]]] - Endless City ##FF0000|(unfinished)##
+ * [[[Level 10.1]]] - Red Light District ##FF0000|(unfinished)##
 * [[[Level 11]]] - [ACCESS DENIED]
 * [[[Level 12]]] - [ACCESS DENIED]
 * [[[Level 13]]] - [ACCESS DENIED]
-* [[[Level 14]]] - The Infinite Entertainment Complex
-* [[[Level 15]]] - Roller Rockin' Pizza
+* [[[Level 14]]] - Fog Ocean ##FF0000|(unfinished)##
+* [[[Level 15]]] - Roller Rockin' Pizza ##FF0000|(unfinished)##
 * [[[Level 16]]] - [ACCESS DENIED]
-* [[[Level 17]]] - The Classrooms
+* [[[Level 17]]] - The Classrooms ##FF0000|(unfinished)##
 * [[[Level 18]]] - [ACCESS DENIED]
 * [[[Level 19]]] - [ACCESS DENIED]
 
@@ -72,9 +73,9 @@ This page is still under construction.
 * [[[Level 23]]] - [ACCESS DENIED]
 * [[[Level 24]]] - [ACCESS DENIED]
 * [[[Level 25]]] - [ACCESS DENIED]
-* [[[Level 26]]] - Partyrooms
+* [[[Level 26]]] - Partyrooms ##FF0000|(unfinished)##
 * [[[Level 27]]] - [ACCESS DENIED]
-* [[[Level 28]]] - [ACCESS DENIED]
+* [[[Level 28]]] - Megaflora ##FF0000|(unfinished)##
 * [[[Level 29]]] - [ACCESS DENIED]
 
 
@@ -87,8 +88,10 @@ This page is still under construction.
 * [[[Level 34]]] - [ACCESS DENIED]
 * [[[Level 35]]] - [ACCESS DENIED]
 * [[[Level 36]]] - [ACCESS DENIED]
-* [[[Level 37]]] - The Poolrooms
- *  [[[Level 37.1]]]  - Abandoned Pools
+* [[[Level 37]]] - The Poolrooms ##FF0000|(unfinished)##
+ *  [[[Level 37.1]]]  - Outdoor Pools ##FF0000|(unfinished)##
+ *  [[[Level 37.2]]]  - The Deep Pools ##FF0000|(unfinished)##
+ *  [[[Level 37.3]]]  - Abandoned Pools ##FF0000|(unfinished)##
 * [[[Level 38]]] - [ACCESS DENIED]
 * [[[Level 39]]] - [ACCESS DENIED]
 
@@ -153,12 +156,12 @@ This page is still under construction.
 * [[[Level 80]]] - [ACCESS DENIED]
 * [[[Level 81]]] - [ACCESS DENIED]
 * [[[Level 82]]] - [ACCESS DENIED]
-* [[[Level 83]]] - The Playrooms
+* [[[Level 83]]] - The Playrooms ##FF0000|(unfinished)##
 * [[[Level 84]]] - [ACCESS DENIED]
 * [[[Level 85]]] - [ACCESS DENIED]
 * [[[Level 86]]] - [ACCESS DENIED]
 * [[[Level 87]]] - [ACCESS DENIED]
-* [[[Level 88]]] - The Windows
+* [[[Level 88]]] - The Windows ##FF0000|(unfinished)##
 * [[[Level 89]]] - [ACCESS DENIED]
 * 
 
@@ -167,8 +170,8 @@ This page is still under construction.
 * [[[Level 90]]] - [ACCESS DENIED]
 * [[[Level 91]]] - [ACCESS DENIED]
 * [[[Level 92]]] - [ACCESS DENIED]
-* [[[Level 93]]] - [ACCESS DENIED]
-* [[[Level 94]]] - Endless Suburbia
+* [[[Level 93]]] - Submerged Subway
+* [[[Level 94]]] - Endless Suburbia ##FF0000|(unfinished)##
 * [[[Level 95]]] - [ACCESS DENIED]
 * [[[Level 96]]] - [ACCESS DENIED]
 * [[[Level 97]]] - [ACCESS DENIED]
