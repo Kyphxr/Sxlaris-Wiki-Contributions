@@ -40,10 +40,9 @@ SCP-x002-19,  is only able to be entered via ████ and thus does not need
 
  
 + Description:
-SCP-x002-1, the Habitable Zone is an endless warehouse, predominately made up of rooms and hallways with white walls, and hardwood flooring. The rest the level is comprised of open sprawling areas comprised of concrete and rebar. It is common to find crates of supplies scattered throughout Level 1, containing survival essentials like water, almond water, moth jelly, ropes, and more.
+SCP-x002-19, the pinkrooms are a seemingly infinite expanse of interconnected shopping malls, all with a pink theme.
 
-Level 1 appears to have an endless supply of power, however lights will turn off intermittently, creating large patches of dark areas. These dark areas are prone to anomalous events, with crates, entities, and even entire rooms seemingly appearing and disappearing at random when completely dark.
- 
+
 
 + Entrances And Exits
 [!-- Add any entrances and exits to other levels. --]
@@ -51,8 +50,8 @@ Level 1 appears to have an endless supply of power, however lights will turn off
 ++++ Entrances
 [!-- If there are no entrances please write : "There is no known way to get to this level for now". --]
 * level 0 
-* some doors in [[[level-hub|the Hub]]] lead to level 1
-* [[[SCP-x216|SCP-x216-2]]] is able to reach Level 1
+* some doors in [[[level-hub|the Hub]]] lead to level 19
+* [[[SCP-x216|SCP-x216-2]]] is able to reach Level 19
  
 ++++ Exits
 [!-- If there are no exits please write: "There is no known way to leave this level for now.", though usually people can leave whence they came. --]
@@ -63,15 +62,15 @@ Level 1 appears to have an endless supply of power, however lights will turn off
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next Level#s ↓ -----------]
 [[=]]
-<< [[[Level-0|Level 0]]] | Level 1 | [[[Level-2|Level 2]]] >>
+<< [[[Level-18|Level 18]]] | Level 19 | [[[Level-20|Level 20]]] >>
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
 [[div class="collapsible"]]
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
 Cite this page as:
-> "Level 1" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/level-1 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+> "Level 19" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/level-19 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
 > Based on  "Level 1 - Habitable Zone" by [[user etoisle]] from the [https://backrooms-wiki.wikidot.com/ Backrooms TS] and
 > "Area 2: Gallery" by Kane Pixels from the [https://kane-pixels-backrooms.fandom.com/wiki/ Backrooms KP]
 [[/collapsible]]
