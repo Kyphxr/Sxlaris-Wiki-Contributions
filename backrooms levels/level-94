@@ -9,7 +9,7 @@
 [[div class="collapsible"]]
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="Item#" hide="‡ Hide Item#"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
-|item-number= x002-19
+|item-number= x002-94
 |clearance= 3
 |container-class= safe
 |secondary-class= none
