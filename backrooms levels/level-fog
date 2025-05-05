@@ -29,11 +29,13 @@ SCP-x002-19,  is only able to be entered via ████ and thus does not need
 [!-- If no picture is available please remove the image-block component --]
 [!-- Please remember to link the source of the image in the license box! --]
 ------
+[!--
 [[include component:image-block
 |name=https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/60b805037265f5457d240c45f93f9e0f.png
 |caption=An escalator in level 19.
 |align=right
 ]]
+--]
  
 [!-- Then you can add a short introduction. (Note: You may have seen pages with "Level n is the n+1th level of the Backrooms" here, but this has fallen out of fashion due to not being a strong hook.) --]
  
