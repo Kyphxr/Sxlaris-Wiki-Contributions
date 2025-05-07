@@ -1,0 +1,39 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x010
+|clearance= 3
+|container-class= safe
+|secondary-class= none
+|disruption-class= dark
+|risk-class= notice
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
+SCP-x067 is a species of tall, bipedal humanoids with smooth, leathery skin. Typically, their skin color is a bright yellow, although other color variants have been documented on rare occasions. Notable sightings include red, blue, green, and white instances of SCP-x067. One detail that remains consistent across all variations, however, is a carved smiley face smeared with blood that perfectly matches the grin of a Phobic Centipede.
+
+SCP-x067 entities are predominantly humanoid, with their legs possessing a thick, blocky shape. The chest area is shielded by a subtle carapace. They have long, noodle-like arms that end in sucker mouths full of hooked teeth that latch onto prey, turning them into an instance of SCP-x067. 
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x066]]] | SCP-x067| [[[SCP-x068]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-x067" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SCP-x067 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
