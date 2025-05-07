@@ -8,11 +8,11 @@
 
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x010
-|clearance= 3
-|container-class= safe
+|clearance= 4
+|container-class= keter
 |secondary-class= none
 |disruption-class= dark
-|risk-class= notice
+|risk-class= warning
 ]]
 
 +++++ Special Containment Procedures:
