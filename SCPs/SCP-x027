@@ -1,0 +1,37 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x027
+|clearance= 3
+|container-class= euclid
+|secondary-class= none
+|disruption-class= dark
+|risk-class= notice
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
+SCP-x027 is a species of plant that grows in swamps in remote swamps of Florida. It is a semi-sentient creature, capable of shooting glowing green spores to incapacitate its prey. These spores emit a noxious gas that causes temporary dysphoria and blindness.
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x026]]] | SCP-x027| [[[SCP-x028]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-x010" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SCP-x027 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
