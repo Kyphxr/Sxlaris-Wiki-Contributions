@@ -1,0 +1,38 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x010
+|clearance= 4
+|container-class= keter
+|secondary-class= none
+|disruption-class= dark
+|risk-class= danger
+]]
+
++++++ Special Containment Procedures:
+SCP-x084 is contained within [[SCP-x216]]
+
++++++ Description: 
+SCP-x084 is a humanoid automaton of unknown origin, measuring approximately 80 meters in height and weighing an estimated 1400 metric tons. Its frame is constructed from a high-tensile alloy of unknown composition, exhibiting extreme resistance to corrosion and damage. SCP-x084 possesses a predominantly crimson external shell with segmented plate armor, reinforced joint plating, and glowing photoreactive highlights concentrated around its chest and ocular region. Its cranial structure resembles a stylized female visage, partially obscured by white, fiber-optic strands arranged in a hair-like formation.
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x083]]] | SCP-x084| [[[SCP-x085]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-x084" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SCP-x084 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
