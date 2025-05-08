@@ -1,0 +1,37 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x034
+|clearance= 2
+|container-class= safe
+|secondary-class= none
+|disruption-class= dark
+|risk-class= notice
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
+SCP-x034 is a product created by ███████ known as Fast O████ Hardening Material, or F.O.H.M.
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x033]]] | SCP-x034 | [[[SCP-x035]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-x034" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SCP-x034 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
