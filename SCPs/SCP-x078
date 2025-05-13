@@ -1,0 +1,39 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x010
+|clearance= 3
+|container-class= safe
+|secondary-class= none
+|disruption-class= dark
+|risk-class= notice
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
+Created in 2004, SCP-x078 is an advanced chemical compound comprised of █████, ███████, and ███, each of which plays a critical role in its anomalous properties. The synthesis process for Mutazyne is exceptionally resource-intensive, requiring vast quantities of raw materials to produce only a minuscule amount of the final compound. This inefficiency, coupled with the scarcity and difficulty of acquiring the necessary components, has driven the cost of Mutazyne to nearly unattainable levels, making it a substance reserved exclusively for the wealthiest corporations, governments, or organizations.
+ 
+The complexity of Mutazyne's creation process also involves precise environmental conditions and advanced equipment, further limiting its production to only the most sophisticated laboratories. Despite its exorbitant cost, Mutazyne’s unparalleled utility in applications such as ██████████ and ██████████ ensures its continued demand, solidifying its status as a highly coveted yet elusive resource in technological and scientific advancements.
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x077]]] | SCP-x078| [[[SCP-x079]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-x078" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SCP-x078 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
