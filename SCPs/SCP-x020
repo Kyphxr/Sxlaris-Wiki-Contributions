@@ -1,0 +1,39 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x010
+|clearance= 5
+|container-class= safe
+|secondary-class= none
+|disruption-class= keneq
+|risk-class= danger
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
+SCP-x020 was initially developed in the late 1990s by Dr. ████ ██████ under the directive of the Atlas Corporation as part of their Physically Enhanced Individuals (PEI) program. Through a series of groundbreaking experiments, Dr. ██████ successfully synthesized the stem cells of a ██████ into a liquid polymer. When consumed, this polymer grants users dramatically enhanced physical strength, durability, and the ability to process information at speeds far beyond the human norm.
+ 
+However, frequent use of Glimmer comes with significant side effects; minor effects include the user's veins and eyes becoming stained with a glowing purple hue, a hallmark trait of prolonged exposure. Severe cases result in profound mental degradation, reducing users to a primal, animalistic state driven by instinct rather than reason. Despite its risks, Glimmer remains a pivotal, yet controversial element in Atlas Corporation's pursuit of human augmentation.
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x019]]] | SCP-x020| [[[SCP-x021]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-x020" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SCP-x020 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
