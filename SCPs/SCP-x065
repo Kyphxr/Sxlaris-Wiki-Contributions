@@ -8,7 +8,7 @@
 
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x065
-|clearance= 4
+|clearance= 2
 |container-class= safe
 |secondary-class= none
 |disruption-class= dark
