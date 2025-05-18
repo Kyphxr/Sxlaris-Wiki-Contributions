@@ -17,6 +17,7 @@ Rate of Fire:
 Caliber:
 MoA:
 Firing Mode:
+-----
 [[/div]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
@@ -39,6 +40,7 @@ Cite this page as:
     Background-color: #000;
     Width: 50%;
     Margin-left: 25%;
+    Border: 2px solid #4903fc;
 }
 .weapon-title {
     Text-align: center;
