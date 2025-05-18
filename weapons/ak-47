@@ -2,7 +2,7 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
-[[div style=“outline-color: red;”]]
+[[div class=“weapon-box”]]
 Test
 [[/div]]
 
@@ -14,3 +14,12 @@ Cite this page as:
 > http://sxlaris.wikidot.com/ak-47 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
 [[/collapsible]]
 [[/div]]
+
+DOING! --]
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
+.serif {
+    font-family: "DM Serif Display", serif;
+}
+[[/module css]]
