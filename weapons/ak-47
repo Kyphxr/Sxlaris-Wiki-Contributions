@@ -3,7 +3,9 @@
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
 [[div class="weapon-box"]]
+[[div class="weapon-title "]]
 Avtomat Kalashnikova 7.62x39 assault rifle
+[[/div]]
 -----
 Type: 
 Slot:
@@ -28,7 +30,6 @@ Cite this page as:
 }
 .weapon-box {
     Background-color: #000;
-    Text-align: center;
     Width: 50%;
     Margin-left: 25%;
 }
