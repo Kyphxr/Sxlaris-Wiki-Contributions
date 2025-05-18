@@ -3,7 +3,7 @@
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
 [[div class="weapon-box"]]
-Test
++ Avtomat Kalashnikova
 [[/div]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
@@ -24,6 +24,7 @@ Cite this page as:
 }
 .weapon-box {
     Background-color: #000;
+    Text-align: center;
 }
 
 [[/module]]
