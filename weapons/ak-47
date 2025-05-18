@@ -2,7 +2,7 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
-[[div class=“weapon-box”]]
+[[div class="weapon-box"]]
 Test
 [[/div]]
 
@@ -23,7 +23,7 @@ Cite this page as:
     font-family: "DM Serif Display", serif;
 }
 .weapon-box {
-    Background-color: black;
+    Background-color: #000;
 }
 
 [[/module]]
