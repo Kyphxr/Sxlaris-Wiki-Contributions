@@ -1,0 +1,55 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div class="weapon-box"]]
+[[div class="weapon-title "]]
+Weapon Name
+[[/div]]
+-----
+Type: 
+Slot:
+Weight:
+Grid Size:
+
+Effective Distance:
+Rate of Fire: 
+Caliber:
+MoA:
+Firing Mode:
+-----
+[[/div]]
+
+[[div class="desc"]]
++++++ Description:
+[[/div]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
+
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
+.serif {
+    font-family: "DM Serif Display", serif;
+}
+.weapon-box {
+    Background-color: #000;
+    Width: 50%;
+    Margin-left: 50%;
+    Border: 2px solid #4903fc;
+}
+.weapon-title {
+    Text-align: center;
+}
+.desc {
+    margin-top: -50%;
+}
+[[/module]]
