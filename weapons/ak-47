@@ -22,4 +22,8 @@ Cite this page as:
 .serif {
     font-family: "DM Serif Display", serif;
 }
+.weapon-box {
+    Background-color: black;
+}
+
 [[/module]]
