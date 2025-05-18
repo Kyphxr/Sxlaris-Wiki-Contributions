@@ -29,6 +29,11 @@ Cite this page as:
 .weapon-box {
     Background-color: #000;
     Text-align: center;
+    Width: 50%;
+    Margin-left: 25%;
+}
+.weapon-title {
+    Text-align: center;
 }
 
 [[/module]]
