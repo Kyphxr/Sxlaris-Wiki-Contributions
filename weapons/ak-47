@@ -1,7 +1,6 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
-
 [[div class="weapon-box"]]
 [[div class="weapon-title "]]
 Avtomat Kalashnikova 7.62x39 assault rifle
@@ -18,6 +17,10 @@ Caliber:
 MoA:
 Firing Mode:
 -----
+[[/div]]
+[[div class="desc"]]
++++++ Description:
+Developed in 1947, the AK-47 is a
 [[/div]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
@@ -39,11 +42,14 @@ Cite this page as:
 .weapon-box {
     Background-color: #000;
     Width: 50%;
-    Margin-left: 25%;
+    Margin-left: 50%;
     Border: 2px solid #4903fc;
 }
 .weapon-title {
     Text-align: center;
+}
+.desc {
+    margin-top: -10%;
 }
 
 [[/module]]
