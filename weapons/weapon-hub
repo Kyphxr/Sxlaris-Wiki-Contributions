@@ -4,7 +4,17 @@
 
 Weapons are your primary survival tool in Kult Rising. Almost all weapons are entirely modular, so they can be fitted for different situations.
 
+[[collapsible  show="Primary Wapons" hide="Primary Weapons" ]]
+  [[collapsible  show="Assault Rifles" hide="Assault Rifles" ]]
 
+  [[/collapsible]]
+[[/collapsible]]
+[[collapsible  show="Secondary Wapons" hide="Secondary Weapons" ]]
+  [[collapsible  show="Pistols" hide="Pistols" ]]
+
+  [[/collapsible]]
+[[/collapsible]]
+------
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
 [[div class="collapsible"]]
