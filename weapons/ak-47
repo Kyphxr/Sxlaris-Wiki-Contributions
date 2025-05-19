@@ -6,7 +6,8 @@
 Avtomat Kalashnikova 7.62x39 assault rifle
 [[/div]]
 -----
-**Type:** Assault Rifle
+[[image https://upload.wikimedia.org/wikipedia/commons/6/65/AK-47_type_II_noBG.png]]
+[[span class="titles" style="margin-left: 5%;"]]**Type:**[[/span]] Assault Rifle
 **Slot:** Primary/Secondary
 **Weight:** 4 kg
 **Grid Size:** 4x2
@@ -50,6 +51,9 @@ Cite this page as:
 }
 .desc {
     margin-top: -50%;
+}
+.titles {
+    Border: 2px solid #4903fc;
 }
 
 [[/module]]
