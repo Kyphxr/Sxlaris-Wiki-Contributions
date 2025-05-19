@@ -5,14 +5,14 @@
 [[div class="content-panel standalone series"]]
 [[div class="content-toc" style="margin-bottom: -100px;"]]
 **Table of Contents**
-PRIMARY WEAPONS
+RANGED WEAPONS
 [#ARs Assault Rifles]
 [#Boltys Bolt-Action Rifles]
 [#DMRs Designated Marksmen Rifles]
 [#Shottys Shotguns]
 [#SMGs Submachine Guns]
 [#Launchers Launchers]
-SECONDARY WEAPONS
+MELEE WEAPONS
 [#Pistols Pistols]
 [#x100 100 to 199]
 [[/div]]
@@ -22,9 +22,9 @@ Weapons are your primary survival tool in Kult Rising. Almost all weapons are en
 [[/div]]
 
 @@ @@
-[[collapsible show="show primary weapons" hide="hide primary weapons" folded="no"]]
+[[collapsible show="show ranged weapons" hide="hide ranged weapons" folded="no"]]
 ------
-+ Primary Weapons
++ Ranged Weapons
 ------
 [[# ARs]]
 + Assault Rifles
@@ -56,9 +56,9 @@ Weapons are your primary survival tool in Kult Rising. Almost all weapons are en
 
 @@ @@
 @@ @@
-[[collapsible show="show secondary weapons" hide="hide secondary weapons" folded="no"]]
+[[collapsible show="show melee weapons" hide="hide melee weapons" folded="no"]]
 ------
-+ Secondary Weapons
++ Melee Weapons
 ------
 [[# Pistols]]
 + Pistols
