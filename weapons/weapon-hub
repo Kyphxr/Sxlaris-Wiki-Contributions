@@ -1,26 +1,30 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
-[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
-Weapons are your primary survival tool in Kult Rising. Almost all weapons are entirely modular, so they can be fitted for different situations.
+[[# TOC]]
+[[div class="content-panel standalone series"]]
+[[div class="content-toc" style="margin-bottom: -100px;"]]
+**Table of Contents**
+PRIMARY WEAPONS
+[#ARs Assault Rifles]
+[#100 x100 to x199]
+[#200 x200 to x299]
+SECONDARY WEAPONS
+[#x001 001 to 099]
+[#x100 100 to 199]
+[[/div]]
 
-[[collapsible  show="Primary Wapons" hide="Primary Weapons" ]]
-  [[collapsible  show="Assault Rifles" hide="Assault Rifles" ]]
+[[div]]
+SCPs with an "x" in their designator, mark SCPs unique to the Sxlaris universe. For example, [[[SCP-x173]]] is different than [*https://scp-wiki.wikidot.com/scp-173 SCP-173]
+[[/div]]
 
-  [[/collapsible]]
-[[/collapsible]]
-[[collapsible  show="Secondary Wapons" hide="Secondary Weapons" ]]
-  [[collapsible  show="Pistols" hide="Pistols" ]]
-
-  [[/collapsible]]
-[[/collapsible]]
 ------
++ Primary Weapons
+------
+[[# ARs]]
++ Assault Rifles
+* [[[AK-47]]] - Avtomat Kalashnikova
+* [[[AKM]]] - Kalashnikov AKM
 
-[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
-[[div class="collapsible"]]
-[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
-Cite this page as:
-> "Weapon Hub" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/weapon-hub Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
-[[/collapsible]]
+
 [[/div]]
