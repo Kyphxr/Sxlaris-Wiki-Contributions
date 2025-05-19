@@ -9,6 +9,9 @@ PRIMARY WEAPONS
 [#ARs Assault Rifles]
 [#Boltys Bolt-Action Rifles]
 [#DMRs Designated Marksmen Rifles]
+[#Shottys Shotguns]
+[#SMGs Submachine Guns]
+[#Launchers Launchers]
 SECONDARY WEAPONS
 [#Pistols Pistols]
 [#x100 100 to 199]
@@ -40,6 +43,13 @@ Weapons are your primary survival tool in Kult Rising. Almost all weapons are en
 + Shotguns
 * [[[placeholder]]] - Placeholder
 
+[[# SMGs]]
++ Submachine Guns
+* [[[placeholder]]] - Placeholder
+
+[[# Launchers]]
++ Launchers
+* [[[placeholder]]] - Placeholder
 
 @@ @@
 [[/collapsible]]
