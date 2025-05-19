@@ -7,7 +7,7 @@
 **Table of Contents**
 PRIMARY WEAPONS
 [#ARs Assault Rifles]
-[#100 x100 to x199]
+[#boltys Bolt-Action Rifles]
 [#200 x200 to x299]
 SECONDARY WEAPONS
 [#Pistols Pistols]
@@ -18,6 +18,7 @@ SECONDARY WEAPONS
 Weapons are your primary survival tool in Kult Rising. Almost all weapons are entirely modular, so they can be fitted for different situations.
 [[/div]]
 
+@@ @@
 [[collapsible show="show primary weapons" hide="hide primary weapons" folded="no"]]
 ------
 + Primary Weapons
@@ -26,16 +27,21 @@ Weapons are your primary survival tool in Kult Rising. Almost all weapons are en
 + Assault Rifles
 * [[[AK-47]]] - Avtomat Kalashnikova
 * [[[AKM]]] - Kalashnikov AKM
+
+[[# Boltys]]
++ Bolt-Action Rifles
 [[/collapsible]]
 
-[[collapsible show="show primary weapons" hide="hide primary weapons" folded="no"]]
+@@ @@
+@@ @@
+[[collapsible show="show secondary weapons" hide="hide secondary weapons" folded="no"]]
 ------
 + Secondary Weapons
 ------
 [[# Pistols]]
 + Pistols
 * [[[610-k]]] - 610-K Luger
-* [[[p500]]] - Kalashnikov AKM
+* [[[p500]]] - P500
 [[/collapsible]]
 
 [[/div]]
