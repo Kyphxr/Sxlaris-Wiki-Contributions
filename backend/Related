@@ -1,0 +1,138 @@
+[[module css]]
+#page-content {
+--section-gap: 1.1rem;
+--grid-gap: 0.5rem;
+--related-gap: 1rem;
+}
+
+.flex-container { display: flex; }
+.grid-container { display: grid; }
+.main-container { display: flex; gap: var(--section-gap); flex-direction: column; }
+
+/* linnkblocks */
+.linnkblock { position: relative;}
+.linnkblock a:not(.linnkblock .nolinnkblock a):hover { opacity: 0.4; }
+.linnkblock a:not(.linnkblock .nolinnkblock a) { color: rgba(0,0,0,0);position: absolute; opacity: 0; z-index: 6; height: 100%; width: 100%; top: 0; left: 0; right: 0;  transition: 0.3s; background: rgba(255,255,255,0.3);}
+.nolinnkblock a { position: relative; z-index: 10; }
+.featureblock.linnkblock a:not(.linnkblock .nolinnkblock a):hover { opacity: 0; }
+
+/* related articles */
+.related-container { --pale-gray-monochrome: var(--white-monochrome); display: flex; flex-direction: column; margin: 0; padding-left: 0; padding-right: 0; padding-bottom: 0.8rem; }
+
+.related { background: rgb(var(--pale-gray-monochrome)); padding: 1rem; gap: var(--related-gap); flex-wrap:wrap; justify-content: center; position: relative; }
+
+.newest { margin: 0; }
+.newest .list-pages-box { display: grid; grid-template-columns: auto auto auto auto; }
+.newest .list-pages-box p { margin: 0; }
+
+.frontgridder:hover .styled-quote { height: 2.5em; }
+.frontgridder { position: static; width: 8rem; height: 8rem; box-shadow: 0 0.2rem 0.3rem rgb(0 0 0 / 25%); }
+.frontgridder .styled-quote { color: rgb(var(--white-monochrome)); border: none; margin: 0; box-shadow: 0; height: 2em; background: rgb(0,0,0); background: linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%); position: absolute; bottom: 0; width: 6rem;}
+.frontgridder .styled-quote p { margin: 5px; text-align: center; }
+.frontgridder div { transition: all 0.2s cubic-bezier(1, 0, 0, 1); display: flex; justify-content: center; align-items: center; }
+
+.frontgridder .linnkblock { z-index: 2; }
+
+.frontgridder::after { opacity: 0; content: ""; position: absolute; width: 100%; height: 100%; background: rgb(var(--bright-accent),0.5); background-size: cover; top: 0; left: 0; z-index: 1; pointer-events: none; transition: 0.3s; -webkit-mask-image: linear-gradient(black, rgba(0,0,0,0.3)); mask-image: linear-gradient(black, rgba(0,0,0,0.3));}
+
+.frontgridder:hover::after { opacity: 0.4; }
+
+.related .linnkblock { width: 100%; height: 100%; display: flex; flex-direction: column-reverse; align-items: stretch; }
+
+.levels::after { background-image: url("http://backrooms-wiki.wdfiles.com/local--files/level-0/Thebackrooms.jpg");}
+.entities::after { background-image: url("http://backrooms-wiki.wdfiles.com/local--files/entity-3/entity-3-cc.png");}
+.objects::after { background-image: url("http://natedagreat563.wdfiles.com/local--files/storage-unit-3/AlmondWater");}
+.phenomena::after { background-image: url("http://backrooms-sandbox-2.wdfiles.com/local--files/adikurtic1/RedRoom");}
+.tales::after { background-image: url("http://backrooms-wiki.wdfiles.com/local--files/long-forgotten-exclamation/run_img3.png");}
+.pois::after { background-image: url("http://backrooms-wiki.wdfiles.com/local--resized-images/eden-g/ConfirmedNew/medium.jpg");}
+.groups::after { background-image: url("http://backrooms-wiki.wdfiles.com/local--files/the-kalag-institute/kalaglogo.png");}
+.canons::after { background-image: url("http://backrooms-wiki.wdfiles.com/local--resized-images/entity-18/entity/medium.jpg");}
+[[/module]]
+[!-- tutorial level, smilers, almond water, blood moons or whatever, alfe, eden g, kalag, terror hotel --]
+[[div class="darkblock related-container"]]
+[[=]]
++++ Explore Sxlaris
+[[div class="flex-container related"]]
+
+[[div class="frontgridder levels"]]
+[[div class="linnkblock"]]
+[[div class="styled-quote"]]
+**{{Series-S SCPs}}**
+[[/div]]
+[[div style="background: url("http://backrooms-wiki.wdfiles.com/local--files/level-0/Thebackrooms.jpg"); background-size: cover; flex-grow: 2; background-position: center center;"]]
+[[/div]][[[scp-series#001]]]
+[[/div]]
+[[/div]]
+
+[[div class="frontgridder entities"]]
+[[div class="linnkblock"]]
+[[div class="styled-quote"]]
+**{{Backrooms Levels}}**
+[[/div]]
+[[div style="background: url("http://backrooms-wiki.wdfiles.com/local--files/level-0/Thebackrooms.jpg"); background-size: cover; flex-grow: 2; background-position: center center;"]]
+[[/div]][[[backrooms-cluster-1]]]
+[[/div]]
+[[/div]]
+
+[[div class="frontgridder objects"]]
+[[div class="linnkblock"]]
+[[div class="styled-quote"]]
+**{{Objects}}**
+[[/div]]
+[[div style="background: url("http://natedagreat563.wdfiles.com/local--files/storage-unit-3/AlmondWater"); background-size: cover; flex-grow: 2; background-position: center center;"]]
+[[/div]][[[objects]]]
+[[/div]]
+[[/div]]
+
+[[div class="frontgridder phenomena"]]
+[[div class="linnkblock"]]
+[[div class="styled-quote"]]
+**{{Phenomena}}**
+[[/div]]
+[[div style="background: url("http://backrooms-sandbox-2.wdfiles.com/local--files/adikurtic1/RedRoom"); background-size: cover; flex-grow: 2; background-position: center center;"]]
+[[/div]][[[phenomena]]]
+[[/div]]
+[[/div]]
+
+[[div class="frontgridder tales"]]
+[[div class="linnkblock"]]
+[[div class="styled-quote"]]
+**{{Tales}}**
+[[/div]]
+[[div style="background: url("http://backrooms-wiki.wdfiles.com/local--files/long-forgotten-exclamation/run_img3.png"); background-size: cover; flex-grow: 2; background-position: center center;"]]
+[[/div]][[[tales]]]
+[[/div]]
+[[/div]]
+
+[[div class="frontgridder pois"]]
+[[div class="linnkblock"]]
+[[div class="styled-quote"]]
+**{{POI's}}**
+[[/div]]
+[[div style="background: url("http://backrooms-wiki.wdfiles.com/local--resized-images/eden-g/ConfirmedNew/medium.jpg"); background-size: cover; flex-grow: 2; background-position: center center;"]]
+[[/div]][[[poi-s]]]
+[[/div]]
+[[/div]]
+
+[[div class="frontgridder groups"]]
+[[div class="linnkblock"]]
+[[div class="styled-quote"]]
+**{{Groups}}**
+[[/div]]
+[[div style="background: url("http://backrooms-wiki.wdfiles.com/local--files/the-kalag-institute/kalaglogo.png"); background-size: cover; flex-grow: 2; background-position: center center;"]]
+[[/div]][[[groups-list]]]
+[[/div]]
+[[/div]]
+
+[[div class="frontgridder canons"]]
+[[div class="linnkblock"]]
+[[div class="styled-quote"]]
+**{{Canons}}**
+[[/div]]
+[[div style="background: url("http://backrooms-wiki.wdfiles.com/local--resized-images/entity-18/entity/medium.jpg"); background-size: cover; flex-grow: 2; background-position: center center;"]]
+[[/div]][[[canons]]]
+[[/div]]
+[[/div]]
+[[/div]]
+[[/=]]
+[[/div]]
