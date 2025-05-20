@@ -16,7 +16,11 @@ RANGED WEAPONS
 [#Pistols Pistols]
 [#Launchers Launchers]
 MELEE WEAPONS
-[#Swords Swords]
+[#SSwords Straight Swords]
+[#GSwords Great Swords]
+[#CSwords Curved Swords]
+[#Katanas Katanas]
+[#KSwords Kolossal Swords]
 [[/div]]
 
 [[div]]
@@ -89,7 +93,15 @@ Weapons are your primary survival tool in Kult Rising. Almost all weapons are en
 * [[[Placeholder]]] - Placeholder
 
 [[# CSwords]]
-+ Colossal Swords
++ Curved Swords
+* [[[Placeholder]]] - Placeholder
+
+[[# Katanas]]
++ Katanas
+* [[[Placeholder]]] - Placeholder
+
+[[# KSwords]]
++ Kolossal Swords
 * [[[Placeholder]]] - Placeholder
 
 
