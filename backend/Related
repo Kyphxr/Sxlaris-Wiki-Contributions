@@ -25,9 +25,9 @@
 .newest .list-pages-box { display: grid; grid-template-columns: auto auto auto auto; }
 .newest .list-pages-box p { margin: 0; }
 
-.frontgridder:hover .styled-quote { height: 2.5em; }
+.frontgridder:hover .styled-quote { height: 2.5em; width: 100%; }
 .frontgridder { position: static; width: 8rem; height: 8rem; box-shadow: 0 0.2rem 0.3rem rgb(0 0 0 / 25%); }
-.frontgridder .styled-quote { color: rgb(var(--white-monochrome)); border: none; margin: 0; box-shadow: 0; height: 2em; background: rgb(0,0,0); background: linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%); position: absolute; bottom: 0; width: 6rem;}
+.frontgridder .styled-quote { color: rgb(var(--white-monochrome)); border: none; margin: 0; box-shadow: 0; height: 2em; background: rgb(0,0,0); background: linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%); position: absolute; bottom: 0; width: 6rem; width: 100%;}
 .frontgridder .styled-quote p { margin: 5px; text-align: center; }
 .frontgridder div { transition: all 0.2s cubic-bezier(1, 0, 0, 1); display: flex; justify-content: center; align-items: center; }
 
@@ -59,7 +59,7 @@
 [[div class="styled-quote"]]
 **{{Series-S SCPs}}**
 [[/div]]
-[[div style="background: url("http://backrooms-wiki.wdfiles.com/local--files/level-0/Thebackrooms.jpg"); background-size: cover; flex-grow: 2; background-position: center center;"]]
+[[div style="background: url("https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/1be2b92b90c7e10e4596005dd6de1516.png"); background-size: cover; flex-grow: 2; background-position: center center;"]]
 [[/div]][[[scp-series#001]]]
 [[/div]]
 [[/div]]
