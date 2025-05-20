@@ -1,5 +1,6 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
+[[include front-page:css]]
 
 [[=]]
 [!-- This image acts as a thumbnail. --]
@@ -61,6 +62,8 @@ With the emergence of a group known as the SCP Foundation, claiming to be the le
   [[/div]]
 [[/div]]
 
+[!-- category thing --]
+[[include front-page:related]]
 [!---------- END - WELCOME-BOX ::  BEGIN - FEATURED ARTICLES -----------]
 
 [!-- Left block --]
@@ -107,8 +110,7 @@ The primary site of the Sxlaris Canon.
 [[/div]]
 [[/div]]
 
-[!-- category thing --]
-[[include front-page:related]]
+
 
 [[div class="biggrid"]]
 
@@ -608,5 +610,11 @@ a {
     font-size: #333;
     font-size: 80%;
     margin: 5px 0;
+}
+.darkquotes {
+    display: grid !important;
+}
+.darkquotes, .art {
+   max-height: 30rem;
 }
 [[/module]]
