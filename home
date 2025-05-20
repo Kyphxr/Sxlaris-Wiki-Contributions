@@ -510,7 +510,7 @@ a {
 }
 
 .scp-games {
-  background-image: url(https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_the_SCP_Foundation.png);
+  background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/1be2b92b90c7e10e4596005dd6de1516.png);
   background-size: cover;
   background-blend-mode: darken;
 }
