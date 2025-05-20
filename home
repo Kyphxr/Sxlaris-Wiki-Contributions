@@ -121,7 +121,7 @@ The primary site of the Sxlaris Canon.
 
 [[include fragment:kyphbox2 
 |article-class=scp-xxx 
-|slug=kult-rising
+|slug=https://hellstorm-software.github.io/theGrid/core/kultRising.html
 |title=Kult Rising
 |subtitle=Immersive Sim RPG
 |subbertitle=SCP + The Backrooms
@@ -136,7 +136,7 @@ The primary site of the Sxlaris Canon.
 ]]
 
 [[include fragment:kyphbox2 
-|article-class=scp-xxx 
+|article-class=scp-xxx
 |slug=http://sxlaris.wikidot.com/other-games:scp
 |title=SCP Games
 |subtitle=our favorite SCP games
@@ -151,6 +151,13 @@ The primary site of the Sxlaris Canon.
 |subbertitle=other liminal games
 ]]
 
+[[include fragment:kyphbox2 
+|article-class=scp-xxx 
+|slug=weapon-hub
+|title=The Armory
+|subtitle=all of your weapons, all in one place
+|subbertitle=stabby stabby, pew pew
+]]
 
 [[/div]]
 
@@ -158,14 +165,23 @@ The primary site of the Sxlaris Canon.
 
 [[/div]]
 
+-----
+
+[[div]]
+> Much of the content on this wiki has been adapted from the wikis below. However, unless otherwise mentioned, all articles have been rewritten.
+>  - [*https://scp-wiki.wikidot.com/ SCP Wiki]
+> - [*https://backrooms-wiki.wikidot.com/ Backrooms TS]
+>  - [*https://backrooms.fandom.com/wiki/Backrooms_Wiki Backrooms Fandom]
+> - [*https://kane-pixels-backrooms.fandom.com/wiki/ Backrooms KP]
+>  - [*http://backrooms-mghc.wikidot.com/ Backrooms MGHC]
+[[/div]]
 
 -----
 [[div class="content-panel centered standalone"]]
 [[table]][[row]]
 [[cell style="padding:5px; width:88px;"]][[image https://i.creativecommons.org/l/by-sa/3.0/88x31.png link="http://creativecommons.org/licenses/by-sa/3.0/" alt="Creative Commons License"]][[/cell]]
 [[cell style="padding:5px;"]]This Wiki is licensed under [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 License]. _
-The Dimension-X theme was designed by [[user Rounderhouse]] and modified by [[user Kyphxr]].
-The SCP Foundation Wiki style was designed by [[user Aelanna]].
+The Dimension-X theme was designed by [[user Rounderhouse]] and modified by [[user Kyphxr]]. The SCP Foundation Wiki style was designed by [[user Aelanna]] and modified by [[user Kyphxr]].
 [[/cell]][[/row]][[/table]]
 [[/div]]
 
@@ -470,6 +486,12 @@ a {
 .scp-xxxx {
   background-size: cover;
   background-blend-mode: multiply;
+}
+
+.scp-games {
+  background-image: url(https://i.imgur.com/EivvYpx.png);
+  background-size: cover;
+  background-blend-mode: darken;
 }
 
 .commits {
