@@ -7,6 +7,7 @@
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
 ,,this level has been ported from the [*https://backrooms-wiki.wikidot.com/level-37 Backrooms TS],,
+[[collapsible]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= 127
 |clearance= 3
@@ -16,16 +17,17 @@
 |risk-class= warning
 ]]
 
++++++ Special Containment Procedures: 
+SCP-127 is considered no more dangerous than a normal firearm of its type. However, due to its extraordinary properties, it is to be held in Weapons Locker 7-C when not in use and suspended in water rich in calcium and protein. At this time, only the research team assigned to SCP-127 has clearance to access it.
+[[/collapsible]]
 
 [[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/scp-127/scp-127_1.png|caption=SCP-127.]]
 
-**Item #:** SCP-127
 
-**Object Class:** Safe
 
-**Special Containment Procedures:** SCP-127 is considered no more dangerous than a normal firearm of its type. However, due to its extraordinary properties, it is to be held in Weapons Locker 7-C when not in use and suspended in water rich in calcium and protein. At this time, only the research team assigned to SCP-127 has clearance to access it.
 
-**Description:** SCP-127, upon first glance, appears to be a standard MP5K-PDW submachine gun. Tests have revealed that aside from the outer steel and polymer shell, the entirety of the firearm is organic and alive. The weapon's ammunition initially appeared to be human-like teeth. However, DNA testing of the "bullets" resulted in no match to any known species on Earth.
++++++ Description: 
+SCP-127, upon first glance, appears to be a standard MP5K-PDW submachine gun. Tests have revealed that aside from the outer steel and polymer shell, the entirety of the firearm is organic and alive. The weapon's ammunition initially appeared to be human-like teeth. However, DNA testing of the "bullets" resulted in no match to any known species on Earth.
 
 SCP-127 features two settings: semi-automatic and fully automatic (an audible groan can be heard when switching between the two). Upon depleting the weapon's "magazine" (typically 60 shots), it takes between 3-5 days to regrow a new supply of ammunition. Attempts to remove the magazine have resulted in failure--it seems to be permanently attached to the weapon.
 
