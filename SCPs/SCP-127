@@ -99,7 +99,7 @@ Cite this page as:
     Text-align: center;
 }
 .desc {
-    margin-top: -50%;
+    margin-top: -70%;
 }
 .titles {
     Border: 1px solid gold;
