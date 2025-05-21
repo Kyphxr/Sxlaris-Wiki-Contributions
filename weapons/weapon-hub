@@ -15,6 +15,7 @@ RANGED WEAPONS
 [#Shottys Shotguns]
 [#Pistols Pistols]
 [#Launchers Launchers]
+[#Bows Bows]
 MELEE WEAPONS
 [#SSwords Straight Swords]
 [#GSwords Great Swords]
@@ -22,6 +23,7 @@ MELEE WEAPONS
 [#Katanas Katanas]
 [#KSwords Kolossal Swords]
 [#Daggers Daggers]
+[#Whips Whips]
 [[/div]]
 
 [[div]]
@@ -44,7 +46,8 @@ Weapons are your primary survival tool in Kult Rising. Almost all weapons are en
 
 [[# Boltys]]
 + Bolt-Action Rifles
-* [[[placeholder]]] - Placeholder
+* [[[SR-84]]] - SR-84
+* [[[R556]]] - Rust 5.56
 
 [[# DMRs]]
 + Designated Marksmen Rifles
@@ -56,8 +59,7 @@ Weapons are your primary survival tool in Kult Rising. Almost all weapons are en
 
 [[# SMGs]]
 + Submachine Guns
-* [[[placeholder]]] - Placeholder
-
+* [[[SCP-127]]] - The Living Gun
 [[# Casters]]
 + Casters
 * [[[610-k]]] - 610-K Luger
@@ -73,6 +75,10 @@ Weapons are your primary survival tool in Kult Rising. Almost all weapons are en
 
 [[# Launchers]]
 + Launchers
+* [[[placeholder]]] - Placeholder
+
+[[# Bows]]
++ Bows
 * [[[placeholder]]] - Placeholder
 
 
@@ -106,6 +112,10 @@ Weapons are your primary survival tool in Kult Rising. Almost all weapons are en
 
 [[# Daggers]]
 + Daggers
+* [[[Placeholder]]] - Placeholder
+
+[[# Whips]]
++ Whips
 * [[[Placeholder]]] - Placeholder
 
 
