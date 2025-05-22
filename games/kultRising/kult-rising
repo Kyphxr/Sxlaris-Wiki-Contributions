@@ -1,0 +1,681 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[[div class="wide" style="width:100%;"]]
+
+[[div class="biggrid"]]
+
+[[div class="alphagriddle tall"]]
+[[/div]]
+
+[[include fragment:kyphbox2
+|article-class=scp-white long tall
+|slug=https://hellstorm-software.github.io/theGrid/core/kultRising.html
+|title=LATEST UPDATES
+|subtitle=ㅤ
+|subbertitle=ㅤ
+]]
+
+[[include fragment:kyphBoxSocials
+|article-class=scp-xxxx tall
+|subbertitle=[ * ] DISCORD
+|subbertitle2=[ * ] YOUTUBE
+|subbertitle3=[ * ] STEAM
+|subbertitle4=[ * ] ITCH.IO
+|subbertitle5=[ * ] TWITTER
+|subbertitle6=[ * ] BLUESKY
+]]
+
+[[include fragment:kyphBox5
+|article-class=scp-black long tall
+|title=WISHLIST NOW
+|subtitle=Launching on Steam soon
+|subbertitle=ㅤ
+]]
+
+[[include fragment:kyphbox3
+|article-class=scp-whiteCross art
+|title=ㅤ
+|subtitle=ㅤ
+|subbertitle=ㅤ
+]]
+
+[[include fragment:kyphbox4
+|article-class=scp-black art
+|title=ㅤ
+|subtitle=ㅤ
+|subbertitle=ㅤ
+]]
+
+[[include fragment:kyphbox3
+|article-class=scp-white long
+|title=ㅤ
+|subtitle=ㅤ
+|subbertitle=ㅤ
+]]
+
+[[include fragment:kyphbox3
+|article-class=scp-whiteCross art
+|title=ㅤ
+|subtitle=ㅤ
+|subbertitle=ㅤ
+]]
+
+[[include fragment:kyphbox2
+|article-class=scp-xxxx long
+|title=ㅤ
+|subtitle=ㅤ
+|subbertitle=ㅤ
+]]
+
+[[include fragment:kyphbox4
+|article-class=scp-black
+|title=ㅤ
+|subtitle=ㅤ
+|subbertitle=ㅤ
+]]
+
+[[include fragment:kyphbox4
+|article-class=scp-black
+|title=ㅤ
+|subtitle=ㅤ
+|subbertitle=ㅤ
+]]
+
+[[include fragment:kyphbox2
+|article-class=scp-xxxx 
+|title=Entities
+|subtitle=ㅤ
+|subbertitle=All the things in Kult Rising
+]]
+[[/div]]
+
++ THIS PAGE IS UNDER CONSTRUCTION
+
+
+------
+
+[[html style="text-align: center;"]]
+<iframe frameborder="0" src="https://itch.io/embed/3407310?bg_color=3c3c3c&amp;fg_color=b3b3b3&amp;link_color=671bff" width="730" height="167"><a href="https://hellstorm-software.itch.io/kult-rising">Kult Rising by HellStorm Software</a></iframe>
+[[/html]]
+
++ What is Kult Rising?
+
+Kult Rising is our upcoming Immsersive-Sim RPG bringing the universe of Sxlaris to life. The game is being updated on our "living system" model, and is currently about to launch into Phase 1 of Alpha 1, you can read more about our schedule on the [https://hellstorm-software.github.io/theGrid/core/kultRising.html roadmap].
+
++ Latest Showcase
+[[div style="text-align: center;"]]
+[[html]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/whxZcBM36Pk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[[/html]]
+[[/div]]
+
++ What is a "Living System" model?
+
+A living system is the term we've come up with to describe the method through which the game will be updated. Kult Rising is a very in depth game with a heavy focus on customization, that extends all the way down to the gameplay loop. To account for this in testing, HellStorm Software will be releasing many smaller games that will serve as proof of concepts for overarching mechanics and systems. 
+
+These demos will be released as small standalone games on Itch.io, allowing you to pick and choose which of the mechanics you want to try out. Taking some inspiration from Old School Runescape, the games and gameplay systems that are popular with players will be incorporated into Kult Rising, and built into a singular cohesive system.
+
+This will allow us to test out a wide variety of systems for Kult Rising, without leading to  unused assets and spaghetti code. This also allows players to engage with the systems they want to, without being forced to go through tutorials for the mechanics they aren't interested in.
+
++ So how will the game play?
+
+Ultimately, Kult Rising is a story based game, where you play through a campaign, and build your Kult. However, being big fans of games like the Division and Monster Hunter, the end of the campaign does not mark the end of the game. As mentioned above, Kult Rising is a huge collection of systems and mechanics, allowing you to interact with the world in countless ways. 
+
+There are multiple open world areas where players can immerse themselves in the survival mechanics; building up a base and fending off the local denizens. Dojos can be found in some of the more populated areas, allowing you to engage in more traditional combo based, fighting game combat. All of these systems will be integrated back into your character, meaning that all activities will level your stats, and many will earn you loot and VEK.
+
++ But what if I don't want to play some of those game modes?
+
+At it's core, Kult Rising is an immersive sim. That means you play the game how you want to play the game. Every gameplay system and every style of gameplay will be a viable way to beat the game, and you will never be forced to engage with game modes or systems you aren't interested in to progress the story or acquire better gear.
+
++ Will there be multiplayer?
+
+there likely will be full co-op functionality with the entire campaign of the main game, but for now we have a multiplayer specific gamemode: [[[kult-rising:karve|KARVE]]]. KARVE is a co-op FPS horror game where you and up to 5 friends must explore the labyrinth,  kill entities, and karve out rare organs for extraction. Make sure to meet quota before you extract, your reputation means everything in this world.
+[[/div]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
+.serif {
+    font-family: "DM Serif Display", serif;
+}
+table.page-files, table.page-files tr > td > a:not(.btn) {
+    color: white;
+}
+
+#content-wrap {
+    height: 100%;
+}
+
+logo-image: {
+    display: none;
+}
+
+.biggrid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(10px, 1fr));
+    align-items: stretch;
+    column-gap: 0.75rem;
+    row-gap: 0.75rem;
+    grid-auto-flow: dense;
+
+    width: 75vw;
+    max-width: 100vw !important;
+    position: relative;
+    left: calc(-37.5vw + 50%);
+}
+
+.griddle > p {
+   margin: 0;
+}
+
+.griddle {
+    position: relative;
+    /* border: 3px solid green; */
+    background-color: #4000ff;
+    background-image: url('https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/126f6ae7c7a1e9861e0fbfc7ac688d27.png');
+    background-size: 60%;
+    background-blend-mode: screen;
+    background-position: center;
+    min-height: 12rem;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+
+    place-self: stretch;
+    transition: all 500ms ease-in-out;
+}
+
+.griddle2 {
+    position: relative;
+    /* border: 3px solid green; */
+    background-color:#f7f7f7;
+    background-size: 60%;
+    background-blend-mode: screen;
+    background-position: center;
+    min-height: 12rem;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    place-self: stretch;
+    transition: all 500ms ease-in-out;
+    color: black!important;
+}
+
+.griddle3 {
+    position: relative;
+    /* border: 3px solid green; */
+    background-color:#070707;
+    background-size: 60%;
+    background-blend-mode: screen;
+    background-position: center;
+    min-height: 12rem;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    place-self: stretch;
+    transition: all 500ms ease-in-out;
+}
+
+.griddle4 {
+    position: relative;
+    /* border: 3px solid green; */
+    background-color:#070707;
+    background-size: 60%;
+    background-blend-mode: screen;
+    background-position: center;
+    min-height: 12rem;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    place-self: stretch;
+    transition: all 500ms ease-in-out;
+}
+
+.griddle:hover, .griddle:focus, .griddle:active {
+    background-color: #ec0000;
+    background-position: 60% 60%;
+}
+
+.griddle h1, .griddle h2, .griddle h3 {
+    font-family: "DM Serif Display", serif;
+    font-style: italic;
+}
+/*
+.griddle p:first-of-type {
+   position: relative;
+   top: -1rem;
+}
+
+.griddle p:last-of-type {
+   position: relative;
+   bottom: -1rem;
+   align-self: flex-end;
+}
+
+
+*/
+
+.siddle {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3%;
+    padding-top: 0;
+    color: black!important;
+    text-decoration: none!important;
+}
+
+.siddle2 {
+    color: black!important;
+    text-decoration: none!important;
+}
+
+.griddle .title {
+    font-family: "DM Serif Display", serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 200%;
+    text-shadow: #3a00ed 0 0 1px;
+}
+
+.griddle2 .title {
+    font-family: "Space Mono", monospace;
+    font-style: BOLD;
+    font-weight: bold;
+    font-size: 350%;
+    text-shadow: #3a00ed 0 0 1px;
+}
+
+.griddle4 .title {
+    font-family: "Space Mono", monospace;
+    font-weight: bold;
+    font-size: 200%;
+    text-shadow: #3a00ed 0 0 1px;
+    color: #f7f7f7;
+}
+
+.griddle .subtitle {
+    font-family: "DM Serif Display", serif;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: #3a00ed 0 0 1px;
+}
+
+.griddle4 .subtitle {
+    font-family: "Space Mono", monospace;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: #3a00ed 0 0 1px;
+    color: #f7f7f7;
+}
+
+.griddle .subbertitle {
+    font-family: "Telex", sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.griddle4 .subbertitle {
+    font-family: "Space Mono", monospace;
+    font-style: italic;
+    font-size: 80%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: #f7f7f7;
+}
+
+.griddle .subbertitle2 {
+    font-family: "Telex", sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-bottom: -20%;
+}
+
+.griddle .subbertitle3 {
+    font-family: "Telex", sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-bottom: -20%;
+}
+
+.griddle .subbertitle4 {
+    font-family: "Telex", sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-bottom: -20%;
+}
+
+.griddle .subbertitle5 {
+    font-family: "Telex", sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-bottom: -20%;
+}
+
+.griddle .subbertitle6 {
+    font-family: "Telex", sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-bottom: -20%;
+}
+
+.alphagriddle {
+    display: block;
+    min-height: 10rem;
+    /* border: 3px solid blue; */
+    grid-row-end: span 3;
+    grid-column-end: span 5;
+   border-radius: 0.25rem;
+   background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/5be61e41bb087ad05c079a7c6b17a9b7.png);
+   background-size: cover;
+   background-position: center;
+}
+
+.alphagriddle img {
+   border-radius: 0.25rem;
+}
+
+.art {
+    background-size: cover;
+    pointer-events: none;
+    /* background-color: transparent; */
+    background-blend-mode: luminosity;
+}
+
+.art .title, .art .subtitle, .art .subbertitle {
+    display: none;
+}
+
+.art:hover {
+    background-color: transparent;
+}
+
+.long {
+    grid-column-end: span 2;
+}
+
+.elong {
+    grid-column-end: span 3;
+}
+
+.selong {
+    grid-column-end: span 4;
+}
+
+.fulllong {
+    grid-column-end: span 5;
+}
+
+.tall {
+    grid-row-end: span 2;
+}
+
+.etall {
+    grid-row-end: span 3;
+}
+
+.fave {
+}
+
+.fave::after {
+background-color: #db0000;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/ab/Radial_engine.gif');
+  background-blend-mode: screen;
+  background-size: contain;
+  background-position: center;
+  width: 1rem;
+  height: 1rem;
+  content: "";
+  z-index: 0;
+  display: block;
+  padding: 0.5rem 0.5rem;
+  position: absolute;
+  font-size: 70%;
+  right: -0.25rem;
+  top: -0.25rem;
+  color: black;
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+  background-repeat: no-repeat;
+}
+
+.threehundo {
+}
+
+.threehundo::after {
+  background: #db0000;
+  width: 10rem;
+  height: 1rem;
+  content: "+300";
+  z-index: 0;
+  display: block;
+  width: fit-content;
+  padding: 0.5rem 0.5rem;
+  position: absolute;
+  font-size: 60%;
+  right: -0.25rem;
+  top: -0.25rem;
+  color: black;
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+}
+
+.fivehundo {
+}
+
+.fivehundo::after {
+  background: #db0000;
+  width: 10rem;
+  height: 1rem;
+  content: "+500";
+  z-index: 0;
+  display: block;
+  width: fit-content;
+  padding: 0.5rem 0.5rem;
+  position: absolute;
+  font-size: 60%;
+  right: -0.25rem;
+  top: -0.25rem;
+  color: black;
+  outline: 5px solid black;
+}
+
+.thousando {
+}
+
+.thousando::after {
+  background: #db0000;
+  width: 10rem;
+  height: 1rem;
+  content: "+1000";
+  z-index: 0;
+  display: block;
+  width: fit-content;
+  padding: 0.5rem 0.5rem;
+  position: absolute;
+  font-size: 60%;
+  right: -0.25rem;
+  top: -0.25rem;
+  color: black;
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+}
+
+.info-container{
+--barColour: rgb(var(--dark-accent));
+--linkColour: rgb(var(--bright-accent));
+}
+
+.sign {
+    color: white;
+}
+
+.ature, .ature a, .ature a:visited {
+    color: rgb(var(--bright-accent));
+}
+
+#page-content > .collapsible-block {
+background-color: #0f0f0f;
+border-top: 0.125rem dashed rgb(var(--medium-accent));
+border-bottom: 0.125rem dashed rgb(var(--medium-accent));
+}
+
+a {
+ color: #4000ff;
+}
+
+.spcSCP {
+  background-color: rgba(72, 0, 255, 0.5);
+}
+
+.collapse {
+}
+
+.scp-6274 {
+  background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6274/table.png);
+  background-size: cover;
+  background-blend-mode: color-burn;
+}
+
+.scp-x002 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bb/HobbyTown_USA_Oshkosh_interior_under_construction_2002_%28The_Backrooms%29.jpg);
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.scp-xxxx {
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-image: none;
+}
+
+.scp-white {
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-color: #f7f7f7;
+  background-image: none;
+}
+
+.scp-whiteCross {
+  background-size: cover;
+  background-color: #d1d1d1;
+  background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/dee9a96b0f77ab5e75aefa25698eb785.png);
+}
+
+.scp-black {
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-color: #141414
+  background-image: none;
+}
+
+.scp-games {
+  background-image: url(https://i.imgur.com/EivvYpx.png);
+  background-size: cover;
+  background-blend-mode: darken;
+}
+
+.commits {
+  background-image: url(https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png);
+  background-size: cover;
+  background-blend-mode: color-burn;
+}
+
+.translatr {
+  background-image: url(https://ph-files.imgix.net/f318506a-0820-470b-85af-fe9392a2420d.png);
+  background-size: cover;
+  background-blend-mode: color-burn;
+}
+
+#page-title { display: none; }
+.feature-block {
+    height: 230px;
+}
+.feature-block .panel-body {
+    height: 160px;
+    overflow-y: hidden;
+}
+.feature-block .feature-title {
+    font-size: 120%;
+    font-weight: bold;
+}
+.feature-block .feature-subtitle {
+    font-size: 90%;
+}
+
+.feature-block .feature-title > p,
+.feature-block .feature-subtitle > p {
+    margin: 0;
+}
+
+.news-block .panel-body {
+    padding: 0;
+}
+.news-block .panel-body .alternate {
+    padding: 5px 10px;
+}
+.news-block .news-title {
+    font-weight: bold;
+    font-size: 110%;
+    margin-bottom: 5px;
+    color: #633;
+}
+.news-block .news-content {
+    margin: 5px 0;
+}
+.news-block .news-title > p,
+.news-block .news-content > p {
+    margin: 0;
+}
+
+.international-block .panel-body {
+    padding: 0;
+}
+.international-entry {
+    padding: 5px 10px;
+}
+.international-entry:nth-child(even),
+.alternate:nth-child(even) {
+    background-color: rgba(255,255,255,.9);
+    border-top: solid 1px #eeeee0;
+    border-bottom: solid 1px #eeeee0;
+}
+.international-entry div > p {
+    margin: 0;
+}
+.international-entry .international-title {
+    font-weight: bold;
+    font-size: 110%;
+}
+.international-entry .international-title img {
+    width: 16px;
+    height: 11px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+.international-entry .international-description {
+    font-size: 90%;
+    font-style: italic;
+    margin: 5px 20px;
+}
+.international-entry .international-footer {
+    font-size: #333;
+    font-size: 80%;
+    margin: 5px 0;
+}
+[[/module]]
