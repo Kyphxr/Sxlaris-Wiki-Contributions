@@ -8,14 +8,22 @@ items featured in Kult Rising that are not inherently passive or hostile.
 
 [[div style="background-color: rgba(0, 0, 0, .8);"]]
 + ARTIFACTS.
-* [[[placeholder]]] - placeholder
+* [[[bunny-mask|Bunny Mask]]] - Bunny Mask
+* [[[hermes-token|Hermes Token]]] - Hermes Token
+* [[[stalker-bolt|Stalker Bolt]]] - Stalker Bolt
+* [[[charged-zentrite|Charged Zentrite]]] - Charged Zentrite
 [[/div]]
 
 ------
 
 [[div style="background-color: rgba(0, 0, 0, .8);"]]
 + ITEMS.
+[!--
 * [[[SCP-914]]] - The Clockworks
+--]
+* [[[brain-disc|Brain Disks]]] - Brain Disks
+* [[[fohm-gun|F.O.H.M.R]]] - F.O.H.M Rifle
+* [[[spacial-distortion-rifle|SDR]]] - Spacial Distortion Rifle
 [[/div]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
