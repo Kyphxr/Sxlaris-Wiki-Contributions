@@ -1,0 +1,61 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+[[div class="weapon-box"]]
+[[div class="weapon-title "]]
+Mouse Statue
+[[/div]]
+-----
+[[image https://upload.wikimedia.org/wikipedia/commons/6/65/AK-47_type_II_noBG.png]]
+[[span class="titles" ]]**Type:**[[/span]] Artifact
+[[span class="titles" ]]**Slot:**[[/span]] Hands
+[[span class="titles" ]]**Weight:**[[/span]] .1 kg
+[[span class="titles" ]]**Grid Size:**[[/span]] 1x1
+
+[[span class="titles" ]]**Effect:**[[/span]] gives dash ability
+[[span class="titles" ]]**Rarity:**[[/span]] rare
+-----
+[[/div]]
+@@ @@
+@@ @@
+[[div class="desc"]]
++++++ Description:
+Mouse Statues are [[[artifacts]]] that can be found _
+throughout the world of Sxl. 
+[[/div]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "Mouse Statue" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/mouse-statue Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
+
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
+.serif {
+    font-family: "DM Serif Display", serif;
+}
+.weapon-box {
+    Background-color: #000;
+    Width: 50%;
+    Margin-left: 50%;
+    Border: 2px solid #4903fc;
+}
+.weapon-title {
+    Text-align: center;
+}
+.desc {
+    margin-top: -70%;
+}
+.titles {
+    Border: 1px solid gold;
+    padding-left: 8%;
+    text-align: left;
+}
+
+[[/module]]
