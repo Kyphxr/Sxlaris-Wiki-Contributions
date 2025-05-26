@@ -103,34 +103,9 @@
 
 Kult Rising is our upcoming Immsersive-Sim RPG bringing the universe of Sxlaris to life. The game is being updated on our "living system" model, and is currently about to launch into Phase 1 of Alpha 1, you can read more about our schedule on the [https://hellstorm-software.github.io/theGrid/core/kultRising.html roadmap].
 
-+ Latest Showcase
-[[div style="text-align: center;"]]
-[[html]]
-<iframe width="560" height="315" src="https://www.youtube.com/embed/whxZcBM36Pk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[[/html]]
-[[/div]]
 
-+ What is a "Living System" model?
+Placeholder
 
-A living system is the term we've come up with to describe the method through which the game will be updated. Kult Rising is a very in depth game with a heavy focus on customization, that extends all the way down to the gameplay loop. To account for this in testing, HellStorm Software will be releasing many smaller games that will serve as proof of concepts for overarching mechanics and systems. 
-
-These demos will be released as small standalone games on Itch.io, allowing you to pick and choose which of the mechanics you want to try out. Taking some inspiration from Old School Runescape, the games and gameplay systems that are popular with players will be incorporated into Kult Rising, and built into a singular cohesive system.
-
-This will allow us to test out a wide variety of systems for Kult Rising, without leading to  unused assets and spaghetti code. This also allows players to engage with the systems they want to, without being forced to go through tutorials for the mechanics they aren't interested in.
-
-+ So how will the game play?
-
-Ultimately, Kult Rising is a story based game, where you play through a campaign, and build your Kult. However, being big fans of games like the Division and Monster Hunter, the end of the campaign does not mark the end of the game. As mentioned above, Kult Rising is a huge collection of systems and mechanics, allowing you to interact with the world in countless ways. 
-
-There are multiple open world areas where players can immerse themselves in the survival mechanics; building up a base and fending off the local denizens. Dojos can be found in some of the more populated areas, allowing you to engage in more traditional combo based, fighting game combat. All of these systems will be integrated back into your character, meaning that all activities will level your stats, and many will earn you loot and VEK.
-
-+ But what if I don't want to play some of those game modes?
-
-At it's core, Kult Rising is an immersive sim. That means you play the game how you want to play the game. Every gameplay system and every style of gameplay will be a viable way to beat the game, and you will never be forced to engage with game modes or systems you aren't interested in to progress the story or acquire better gear.
-
-+ Will there be multiplayer?
-
-there likely will be full co-op functionality with the entire campaign of the main game, but for now we have a multiplayer specific gamemode: [[[kult-rising:karve|KARVE]]]. KARVE is a co-op FPS horror game where you and up to 5 friends must explore the labyrinth,  kill entities, and karve out rare organs for extraction. Make sure to meet quota before you extract, your reputation means everything in this world.
 [[/div]]
 
 [[module css]]
