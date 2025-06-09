@@ -2,7 +2,8 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
-[[div class="content-panel standalone series" style="background-color: rgba(0, 0, 0, .5);"]]
+[[div style="background-color: rgba(0, 0, 0, .5);"]]
+[[div class="content-panel standalone series"]]
 [[div class="content-toc"]]
 **Table of Contents**
 [#01 01 to 99]
@@ -178,7 +179,7 @@
 * [[[Level 97]]] - [ACCESS DENIED]
 * [[[Level 98]]] - [ACCESS DENIED]
 * [[[Level 99]]] - [ACCESS DENIED]
-
+[[/div]]
 
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
