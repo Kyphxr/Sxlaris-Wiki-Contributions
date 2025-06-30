@@ -16,6 +16,7 @@
 |comments= = Styles/CSS 
 ]]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x002
 |clearance= 4
@@ -62,6 +63,7 @@ SCP-x002 is accessed primarily through anomalies located in various places withi
 [http://sxlaris.wikidot.com/backrooms-cluster-1 (view all levels)]
 
 ------
+[[/div]]
 
 [[div class="collapsible"]]
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
