@@ -6,7 +6,8 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 ,,this level has been ported from the [*https://backrooms.fandom.com/wiki/Object_6 Backrooms Fandom],,
-[[div style="background-color: rgba(0, 0, 0, .8);"]]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 2px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x006
 |clearance= 2
