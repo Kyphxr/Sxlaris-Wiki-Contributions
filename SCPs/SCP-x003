@@ -16,6 +16,7 @@
 |comments= = Styles/CSS 
 ]]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x003
 |clearance= 2
@@ -80,6 +81,7 @@ In addition to their physical attributes, SCP-x003 possesses a unique memetic-re
 This belief-based ability has been shown to scale with the number of SCP-x003 involved. Larger groups of SCP-x003 demonstrate significantly stronger and more consistent reality-altering effects, making large congregations of SCP-x003 particularly hazardous.
 
 ------
+[[/div]]
 
 [[div class="collapsible"]]
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
