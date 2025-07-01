@@ -17,18 +17,19 @@
 |comments= = Styles/CSS 
 ]]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x007
 |clearance= 4
-|container-class= keter
-|secondary-class= none
+|container-class= esoteric
+|secondary-class= ticonderoga
 |disruption-class= amida
 |risk-class= critical
 ]]
 
 REPLACE_THIS_WITH_YOUR_PAGE
 
-
+[[/div]]
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
 [[=]]
