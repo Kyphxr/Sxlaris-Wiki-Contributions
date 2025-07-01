@@ -1,0 +1,681 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+,,the style of this page has been ported from the [*https://backrooms-wiki.wikidot.com/level-37 Backrooms TS],,
+[[div class="lightblock"]]
+++ What is a Person of Interest?
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+------
+Persons of Interest (POI) are singular individuals who hold high importance in the world of the Backrooms due to their nature or their role. They are often humans, though they are not limited to that, coming from other dimensions or even being native to the Backrooms themselves. Unlike entities, POIs are well-documented and important to the setting's overall history because of their actions. You can think of them as historical figures, past or present, being the core aspect of a group, level, time period, etc. Much like entities, however, they can be captivating because of their status, their behaviour, and the implications they create for future pages.
+
+[[collapsible show="[+] Profile Template" hide="[-] Hide Profile Template"]]
+[[div class="blockquote"]]
+@@[[include component:poi-block@@
+|poi=
+|poi-link= /* Formatted as **{{poi-name}}** */
+|status= /* See Status Key */
+|status-color= /* green, orange, red, or grey (must be spelled with an e) */
+|image= /* Image must have a height of 1566 and a width of 1532. If you do not have an image, please use [http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg this file] */
+]]
+@@+++ Alias(es):@@
+@@+++ Last Known Location(s):@@
+@@+++ Known Affiliations:@@
+@@------@@
+
+Description goes here.
+
+@@[[include component:poi-block-end]]@@
+[[/div]]
+[[div class="blockquote"]]
+Status Key:
+ACTIVE ##green|⬤##: Alive and actively engaged with the Backrooms and its communities
+INACTIVE ##orange|⬤##: Alive but retired
+DECEASED ##red|⬤##: Dead/Preseumed dead
+UNKNOWN ##grey|⬤##: Unspecified
+[[/div]]
+[[/collapsible]]
+@@@@
+[[/div]]
+----
+[[include component:poi-block
+|poi=The Actor
+|poi-link=lines-please
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): "The Shithead"
++++ Last Known Location(s): Numerous levels
++++ Known Affiliations: Himself
+------
+
+The Actor has a flower over one eye and vines all over his body, moves like he's being lead around by something, and has no objections to the scripts he's given.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Aiko Sato
+|poi-link=aiko-sato
+|status=ACTIVE
+|status-color=green
+|image=
+http://reyday.wikidot.com/local--files/poi-hub/as.png
+]]
++++ Alias(es): "The Lucky Great Samaritan"
++++ Last Known Location(s): Redacted for privacy
++++ Known Affiliations: [[[level-1|Tom's Diner]]]
+------
+
+A mysterious woman that was turned into a hero. She is trying whatever she can to escape her unwanted fame, but her curse will not give her peace.
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=The Alchemist
+|poi-link=the-alchemist
+|status=UNDEAD
+|status-color=grey
+|image=http://reyday.wikidot.com/local--files/poi-hub/Alchemist.png
+]]
++++ Alias(es): Alfred (affectionately)
++++ Last Known Location(s): Levels with an SD class of 2 or below
++++ Known Affiliations: Various members of Watchlist - P
+------
+
+An ancient scientist with boundless knowledge, with somewhat boundless enthusiasm to go with it.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=A. River
+|poi-link=a-river
+|status=UNKNOWN
+|status-color=grey
+|image= http://reyday.wikidot.com/local--files/poi-hub/etoisle.png
+]]
++++ Alias(es): (Former) Senior Archivist River
++++ Last Known Location(s):  [[[the-m-e-g|M.E.G.]]] Base Omega ([[[Level 4]]]), {{[[[level 404]]]}}
++++ Known Affiliations: Fused with Nostalgi Gaius, entry in Watchlist - P
+------
+
+##DD6611|(Trimmed; Open for Rewrite)##
+
+A significant portion of the M.E.G. archival database was personally programmed by River; hir insight continues to guide researchers on its development in hir absence.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=The Augur
+|poi-link=the-augur
+|status=UNKNOWN
+|status-color=grey
+|image=http://reyday.wikidot.com/local--files/poi-hub/augur.png
+]]
++++ Alias(es): Nara Kagan
++++ Last Known Location(s): [[[Level 4]]]
++++ Known Affiliations: None
+------
+
+The future is terrifying… but what if you could know exactly when your consciousness will expire? You could ask The Augur, who will outline your future if asked, but be careful not to burn yourself. Literally.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi="Bill"
+|poi-link=bill
+|status=ACTIVE
+|status-color=green
+|image=http://reyday.wikidot.com/local--files/poi-hub/bill.png
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 11]]]
++++ Known Affiliations: Unnamed group of graffiti artists
+------
+
+In a [[[Level 11]]] where the B.N.T.G. has been taken over by [[[George McCarson]]], a group of graffiti artists aims to drive the group out.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Callum Andrews
+|poi-link=callum-andrews
+|status=ACTIVE
+|status-color=green
+|image=
+http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 11]]]
++++ Known Affiliations: [[[Backrooms Robotics]]], [[[The Iron Fist]]]
+------
+
+Callum Andrews is a Backrooms Robotics engineer with an unusual carrier path, who went from a simple collector of the B.N.T.G. to the leader of one of the most powerful groups of the Backrooms.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Caspian Langellier
+|poi-link=caspianlangellier
+|status=ACTIVE
+|status-color=green
+|image=
+http://reyday.wikidot.com/local--files/poi-hub/caspian.png
+]]
++++ Alias(es): The Backrooms Bard, Casper
++++ Last Known Location(s): [[[Level 11]]] [[[Level 1]]]
++++ Known Affiliations: None
+------
+
+The self-titled "Backrooms Bard". And a bit more than just that, because otherwise he definitely wouldn't be on the M.E.G.'s radar.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=The Catalyst
+|poi-link=the-catalyst
+|status= Undead
+|status-color= red
+|image= https://backrooms-wiki.wikidot.com/local--files/the-catalyst/Mask_Profile
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 11]]]
++++ Known Affiliations: [[[entity-68|Frowning Husks]]]
+------
+
+The Catalyst is --a dangerous-- **an unstable** instance of Entity 68, dedicated to --terrorizing-- **conducting actions against** anti-entity groups of interest in order to prove --some unclear moral point-- **show them the error of their ways**.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Eden G.
+|poi-link=eden-g
+|status=UNKNOWN
+|status-color=grey
+|image= http://backrooms-wiki.wikidot.com/local--files/eden-g/ConfirmedNew
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 404]]]
++++ Known Affiliations: [[[The M.E.G.]]], [[[A. River]]]
+------
+
+Eden always had a specific philosophy and personality that made her feel trusted by the entities she studied. While many see entities as monsters, she always looked at them as her equal — even the dangerous “murder-monsters” of the Backrooms.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Evangeline Holmes
+|poi-link=evangeline-holmes
+|status=ACTIVE
+|status-color=green
+|image=
+http://reyday.wikidot.com/local--files/poi-hub/evie.png
+]]
++++ Alias(es): Madame Evangeline, Evie
++++ Last Known Location(s): [[[Level 4]]], [[[Level 294]]].
++++ Known Affiliations: Leader of [[[the Masked Maidens]]].
+------
+
+A madam of myth, of masks, and of //legacy//.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Father Pigeon
+|poi-link=father-pigeon
+|status=ACTIVE
+|status-color=green
+|image=
+http://backrooms-wiki.wikidot.com/local--files/father-pigeon/pigeon.jpg
+]]
++++ Alias(es): Francisque Alberici
++++ Last Known Location(s): [[[Level 11]]]
++++ Known Affiliations: The [[[Followers of Jerry]]]
+------
+
+Francisque Alberici, also known by his alias, "Father Pigeon", is a high-ranking member of the cult known as the Followers of Jerry who is currently staying involuntarily at the M.E.G. Psychiatric Hospital in Level 11. Before his admission, he engaged in several coordinated attacks on M.E.G. bases with other members of the Followers.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=FOGEL
+|poi-link=fogel
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/poi-s/FOGEL
+]]
++++ Alias(es): Viktor Valentin, The Master Administrator
++++ Last Known Location(s): Unknown
++++ Known Affiliations: [[[The Eternal Repository]]]
+------
+
+Viktor Valentin, the Master Administrator of the Eternal Repository, is hardly known across the entirety of the Backrooms. He remains completely anonymous, excluding the information he allows to provide, and doesn't usually interact with many other people. Of course, this could all be false, but information is scarce when it's kept under such lock and key.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Gani
+|poi-link=gani
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): Senior Archivist Isagani
++++ Last Known Location(s): [[[Level 11]]]
++++ Known Affiliations: [[[The Kalag Institute]]]
+------
+
+##DD6611|(Trimmed; Open for Rewrite)##
+
+Gani claims to be much older than they appear, allegedly having existed during the late 16th century.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=The Ghost Killer
+|poi-link=the-ghost-killer
+|status=UNKNOWN
+|status-color=grey
+|image=
+http://reyday.wikidot.com/local--files/poi-hub/I%20hate%20navy.png
+]]
++++ Alias(es):The Killer
++++ Last Known Location(s): [[[Level 11]]]
++++ Known Affiliations: [[[The Eyes of Argos]]] (formerly)
+------
+
+A former Inquisitor of Truth for the Eyes of Argos, the Ghost Killer is an unpredictable threat with his own mental troubles. He's well feared among those who knew him. Fair fights are his forte, and he hasn't lost one yet.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Mr. Guevara
+|poi-link=m-guevara
+|status=UNDEAD
+|status-color=grey
+|image=
+http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): Andes
++++ Last Known Location(s): [[[Level 215]]]
++++ Known Affiliations: None
+------
+
+Following their discovery on [[[Level 215]]],  Mr. Guevara was moved to a permanent residence within a center for biological research. He has asked that documentation on his discovery be made public. As of now, research on Mr. Guevara's condition continues.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Herne the Huntmaster
+|poi-link=herne-the-huntmaster
+|status=ACTIVE
+|status-color=green
+|image=http://reyday.wikidot.com/local--files/poi-hub/herne.png
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[The Grove]]]
++++ Known Affiliations: [[[Entity 398|The Wild Hunt]]].
+------
+
+Master of the [[[entity-398|Wild Hunt]]], Herne calls out to any who will answer him. Do not be fooled by his pleasant demeanor. He is not your friend.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=The Heretic
+|poi-link=the-heretic
+|status=UNKNOWN
+|status-color=grey
+|image=
+http://reyday.wikidot.com/local--files/poi-hub/heretic.png
+]]
++++ Alias(es): Alasdair Morgan
++++ Last Known Location(s): Unknown
++++ Known Affiliations: [[[The Eyes of Argos]]] (formerly)
+------
+
+Alasdair Morgan, now known as The Heretic, was an esteemed member of the Knights of Argos before betraying them and going against their way of life.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=The Intruder
+|poi-link=the-intruder
+|status=UNKNOWN
+|status-color=grey
+|image=
+http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): The Actor
++++ Last Known Location(s): Unknown
++++ Known Affiliations: Unknown
+------
+
+The Intruder is an evasive fugitive of unpredictable nature and unknown purposes. He is known to interfere with the hunts and operations of our organization for no reason other than to “follow his script.”
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=IronSoul, the Trickster Prophet
+|poi-link=ironsoul-the-trickster-prophet
+|status=ACTIVE
+|status-color=green
+|image=
+http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): Soul, The Trickster Prophet, Ironsoul
++++ Last Known Location(s): [[[the-m-e-g|M.E.G.]]] Base Gamma, [[[Level 3]]]
++++ Known Affiliations: [[[The Completionists]]]
+------
+
+IronSoul, known by many as the Trickster Prophet, is a wandering [[[entity 106 |tgochi.exe]]] player who has made a name for himself as one of the best players in [[[the Completionists]]]' ranks.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=J. Doe
+|poi-link=j-doe
+|status=UNKNOWN
+|status-color=grey
+|image=
+http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 1]]]
++++ Known Affiliations: None
+------
+
+M.E.G. members from Base Alpha have pieced together the following by combining information from dozens of witnesses: J. Doe has been described as having an average build, an androgynous voice, and "neutral" hair.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Janus
+|poi-link=janus
+|status=ACTIVE
+|status-color=green
+|image=http://reyday.wikidot.com/local--files/poi-hub/Janus.png
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 777]]]
++++ Known Affiliations: None
+------
+
+Janus is an inhuman individual who appears to possess inhuman powers which he channels using his multicolored eyes. It is unknown just how much power he possesses, though he doesn't appear to be a threat as of yet.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=&Ã£é‰9jöè Q_¶Ã©w¾¥ "or" 1'=1'
+|poi-link=joey-q
+|status=ACTIVE
+|status-color=green
+|image=http://reyday.wikidot.com/local--files/poi-hub/joeyq.png
+]]
++++ Alias(es): Joey-Q
++++ Last Known Location(s): Unknown
++++ Known Affiliations: None
+------
+
+Joey Q's status as "Head Party Animal and Smooth Kickin' Sexy Stuntman in Chief" of the M.E.G. is technically perfectly valid, but functionally meaningless, and his input should be ignored in discussions.
+
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Johnny Mason
+|poi-link=johnny-mason
+|status=ACTIVE
+|status-color=green
+|image=http://reyday.wikidot.com/local--files/poi-hub/THEDEVILWENTDOWNTOGEORGIAHEWASLOOKINGFORASOULTOSTEAL.png
+]]
++++ Alias(es): The Crossroads Wanderer
++++ Last Known Location(s): [[[Level 11]]]
++++ Known Affiliations: None
+------
+
+Johnny Mason is a performer and musician based in Level 11 who claims to have met the Devil before entering the backrooms. His skill in the fiddle, banjo, and other string instruments is considered unrivaled, though he is incapable of playing guitar.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Kain Petrie
+|poi-link=kain-petrie
+|status=UNKNOWN
+|status-color=grey
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 499]]]
++++ Known Affiliations: Amor Incrementum
+------
+Kain Petrie is a former member of the agriculture-based religious group, Amor Incrementum. He is believed to have been a high-ranking member, but at some point in August of 2020, he left the group for unknown reasons.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Kimiko
+|poi-link=kimiko
+|status=ACTIVE
+|status-color=green
+|image=http://reyday.wikidot.com/local--files/poi-hub/kimiko.png
+]]
++++ Alias(es): None
++++ Last Known Location(s): Near [[[the-m-e-g|M.E.G.]]] Base Alpha
++++ Known Affiliations: [[[The Masked Maidens]]].
+------
+
+An enigmatic shapeshifter fox spirit who infiltrates the M.E.G. for espionage purposes on numerous occasions. Has ties with [http://backrooms-wiki.wikidot.com/the-masked-maidens the Masked Maidens.]
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Leo Castellos
+|poi-link=leo-castellos
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/leo-castellos/leo.png
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 222]]]
++++ Known Affiliations: [[[The Lost]]] (formerly)
+------
+
+Leo is the manager of [[[Level 222]]] and is quite knowledgeable on entity biology. He is a member of The Lost, being born in Ancient Greece. If you are ever going to pay him a visit, be sure to bring some scones.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Maria
+|poi-link=maria
+|status=ACTIVE
+|status-color=green
+|image=http://reyday.wikidot.com/local--files/poi-hub/maria.png
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 4]]], [[[Level 11]]].
++++ Known Affiliations: G.P.D. Person of Interest "[[[The Alchemist]]]."
+------
+
+A curious child faceling who leaves drawings in various levels to inform and warn wanderers.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Partygoer Zero
+|poi-link=partygoer-zero
+|status=UNDEAD
+|status-color=grey
+|image=http://reyday.wikidot.com/local--files/poi-hub/partygoerzero.png
+]]
++++ Alias(es): Deacon Duncan
++++ Last Known Location(s): [[[level-26|The S.S. Fun =)]]]
++++ Known Affiliations: [[[Entity-67|The Partygoers =)]]]
+------
+
+
+Duncan's present mental condition is quite possibly corrupted by biochemical changes. There are concerns that his consciousness is merged with that of the Phobic Centipede. This makes Deacon Duncan the most dangerous man in the Backrooms.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Philia
+|poi-link=philia
+|status=INACTIVE
+|status-color=orange
+|image= https://backrooms-wiki.wikidot.com/local--files/philia/Poi%20philia
+]]
++++ Alias(es): Love
++++ Last Known Location(s): Unknown
++++ Known Affiliations: [[[https://backrooms-wiki.wikidot.com/pantheon-hub|The Pantheon]]], [[[https://backrooms-wiki.wikidot.com/the-lost|The Lost]]] (formerly)
+------
+
+Those irises of hers, pink as the dawning sky, containing all the knowledge of the world. A form still unknown, but ever so ethereal. Love let out a call, and the world responded.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Pillar Scribe
+|poi-link=pillar-scribe
+|status=ACTIVE
+|status-color=green
+|image=http://reyday.wikidot.com/local--files/poi-hub/pillarscribe.png
+]]
++++ Alias(es): Paris
++++ Last Known Location(s): [[[level-906|The Cygnus Archive]]]
++++ Known Affiliations: None
+------
+
+Paris, the Pillar Scribe is an unwilling servant of The Terminus, a messenger burdened with transcribing the forbidden knowledge imparted to him.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=The Rat Master
+|poi-link=the-rat-master
+|status=UNKNOWN
+|status-color=grey
+|image=http://backrooms-sandbox.wdfiles.com/local--files/vivamusludios-shit/RatMaster2.jpg
+]]
++++ Alias(es): Charles Turner
++++ Last Known Location(s): [[[Level 2]]], [[[Level 3]]], [[[Level 4]]].
++++ Known Affiliations: [[[The M.E.G.]]] (formerly)
+------
+
+##DD6611|(Trimmed; Open for Rewrite)##
+
+A few months ago The Rat Master began to attack minor outposts of The M.E.G devastating them completely, during this period multiple notes left by him were recovered. The survivors began to call their army of Death Rats "The Horde".
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Ryan Scrawling
+|poi-link=ryan-scrawling
+|status=UNKNOWN
+|status-color=grey
+|image=http://reyday.wikidot.com/local--files/poi-hub/ryanscrawling.png
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 300]]]
++++ Known Affiliations: None
+------
+
+##DD6611|(Trimmed; Open for Rewrite)##
+
+Scrawling has made a reputation of himself within the backrooms with the collections of audio tapes and notes he has littered around the multitude of levels he's found himself in.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Spec
+|poi-link=spec
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/spec/spec3.png
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 3]]], [[[Level 4]]], [[[Level 6.1]]], [[[Level 11]]]
++++ Known Affiliations: [[[Tom Von Haderach]]], [[[Evangeline Holmes]]], [[[Leo Castellos]]].
+------
+"Spec" is an individual whom the M.E.G. has encountered numerous times across many levels of The Backrooms. He has most frequently been found during events in which mass tears in reality transpire. While he has been encountered in many other levels during times of relative normalcy, his almost perfect attendance for these distortions and tears is most significant.
+
+The M.E.G. first encountered Spec during severe anomalous activity in Level 6.1 on 8/18/20. See [[[level-6-1|M.E.G. Level 6.1 Incident Report-1 for additional background information on this event.]]]
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=The Tarantula
+|poi-link=the-tarantula
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/the-tarantula/the-tarantula.jpg
+]]
++++ Alias(es): Manda Gullers, The Flamingo
++++ Last Known Location(s): [[[Level-11]]]
++++ Known Affiliations: Dr. Mesmer's Traveling Performance Troupe
+------
+
+She has been declared a person of interest due to her association with Dr. Mesmer's Travelling Performance Troupe and due to unparalleled acrobatic ability, which some members of the M.E.G. believe could make her a useful asset. She has, however, refused almost all contact with the M.E.G. and remains outside of the public eye. The reasons for this are unknown.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Tom Von Haderach
+|poi-link=tom-von-haderach
+|status=ACTIVE
+|status-color=green
+|image=
+http://reyday.wikidot.com/local--files/poi-hub/tvh.png
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 906]]], [[[Level 797]]].
++++ Known Affiliations: [[[Entity-140|Blanche Von Haderach]]].
+------
+
+Tom Von Haderach is a young male of Portuguese descent, age 18, easily recognizable by his shoulder-length, wavy blonde hair, and the black leather jacket he's usually seen wearing. Information on Tom is scarce. It is known that prior to the writing of this entry, Tom was often spotted roaming numerous levels with unknown purposes, aiding wanderers along the way.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=The Warren Jester
+|poi-link=the-warren-jester
+|status=UNKNOWN
+|status-color=grey
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): None
++++ Last Known Location(s): [[[Level 294]]].
++++ Known Affiliations: [[[The Masked Maidens]]] (formerly)
+------
+
+The Warren Jester was a person of high standing within the Masked Maidens before their disappearance. Out of thin air they vanished; no heads up, no foreshadowing to their location, and no traces of where they went. The Maidens are still searching for where they went.
+
+[[include component:poi-block-end]]
+
+[[include component:poi-block
+|poi=Xavier Cooper
+|poi-link=xavier-cooper
+|status=UNDEAD
+|status-color=grey
+|image=http://scutoidbox.wikidot.com/local--files/dossier-the-dealer/xavier2
+]]
++++ Alias(es): The Dealer
++++ Last Known Location(s): [[[Level 777]]]
++++ Known Affiliations: Morgana Casinos
+------
+
+Xavier Cooper, an eccentric and humorous individual who rose through the ranks in the Morgana Council, operating as the primary dealer within Level 777. After an incident with The Everything Machine, his fate is unknown.
+
+[[include component:poi-block-end]]
+
+[[/div]]
+
+
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "POIs" by [[user STAFF]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
