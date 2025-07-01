@@ -9,6 +9,13 @@
 [[/collapsible]]
 [[/div]]
 
+++ C
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="► Chest Rigs" hide="▼ Chest Rigs"]]
+> Pilgrim Backpack
+[[/collapsible]]
+[[/div]]
+
 ++ G
 [[div class="collapsible"]]
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="► Gloves" hide="▼ Gloves"]]
