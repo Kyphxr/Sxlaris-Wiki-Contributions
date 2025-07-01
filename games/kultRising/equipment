@@ -16,6 +16,13 @@
 [[/collapsible]]
 [[/div]]
 
+++ H
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="► Headsets" hide="▼ Headsets"]]
+> Pilgrim Backpack
+[[/collapsible]]
+[[/div]]
+
 ------
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
