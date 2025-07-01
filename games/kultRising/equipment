@@ -21,6 +21,10 @@
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="► Headsets" hide="▼ Headsets"]]
 > Pilgrim Backpack
 [[/collapsible]]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="► Headwear" hide="▼ Headwear"]]
+> Pilgrim Backpack
+[[/collapsible]]
 [[/div]]
 
 ------
