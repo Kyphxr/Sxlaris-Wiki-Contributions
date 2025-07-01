@@ -34,6 +34,13 @@
 [[/collapsible]]
 [[/div]]
 
+++ P
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="► Plate Carriers" hide="▼ Plate Carriers"]]
+> Pilgrim Backpack
+[[/collapsible]]
+[[/div]]
+
 ------
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
