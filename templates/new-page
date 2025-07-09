@@ -2,7 +2,9 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 REPLACE_THIS_WITH_YOUR_PAGE
+[[/div]]
 
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
