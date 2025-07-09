@@ -6,6 +6,7 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= 8157
 |clearance= 3
@@ -16,6 +17,7 @@
 ]]
 
 REPLACE_THIS_WITH_YOUR_PAGE
+[[/div]]
 
 
 
