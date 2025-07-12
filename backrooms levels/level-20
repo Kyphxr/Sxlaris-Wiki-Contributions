@@ -1,0 +1,92 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="Item#" hide="‡ Hide Item#"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x002-1
+|clearance= 3
+|container-class= keter
+|secondary-class= none
+|disruption-class= dark
+|risk-class= warning
+]]
+
++ Special Containment Procedures:
+SCP-x002-1,  is only able to be entered via [[[level-0|SCP-x002-0]]] and thus does not need additional containment.
+
+[[/collapsible]]
+[[/div]]
+[[include :sxlaris:component:level-class
+|class=0
+]]
+ 
+[!-- If no picture is available please remove the image-block component --]
+[!-- Please remember to link the source of the image in the license box! --]
+------
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include component:image-block
+|name=https://i.imgur.com/
+|caption=A hallway in Level 1.
+|align=right
+]]
+ 
+[!-- Then you can add a short introduction. (Note: You may have seen pages with "Level n is the n+1th level of the Backrooms" here, but this has fallen out of fashion due to not being a strong hook.) --]
+ 
+
+ 
++ Description:
+Level 20, the Infinite Entertainment complex is a series of interwoven malls, arcades, and indoor theme parks estimated to be about 50km across in any direction. 
+
+Most entrances into level 20 will bring you to the “Golden Rule,” a multi-story luxury hotel and casino. The complex is broken up into multiple floors, the scale of which can be seen from the center atrium which offers an open view of the floor to the ceiling. The main level consists of 4 large hallways branching out from the central atrium, with the Golden Rule, NoIDEA, Parade Store, and Placeholder occupying the headstone spots at the ends of each of the hallways. The walls are primarily made up of gray plaster, with a white tiled floor. 
+
+The NoIDEA sits in the north hallway at the opposite end of the Golden Rule, with the Parade Store in the west wing, and the Placeholder in the East. 
+
+## North Wing
+The North Wing sits opposite the entrance to level 20, with the NoIDEA at the end. It should be noted that while level 20 has no magnetic poles, an electromagnetic generator located within NoIDEA creates a strong enough magnetic force that it allows for compasses to function. 
+
+## South Wing
+The Golden Rule is located at the far end of the South Wing, with a food court situated just outside the entrance leading towards the atrium. 
+
+## West Wing
+The Parade store sits at the end of the West Wing, 
+
+## East Wing
+The east wing of the mall is positioned directly opposite the Parade Store, but it stands out sharply from the surrounding structure. Unlike the rest of the mall, which retains the dated brickwork, exposed skylights, and pastel tiling characteristic of the main floor’s original construction, this wing appears to have been **either extensively renovated or entirely rebuilt**. Its architecture and layout more closely resemble that of a separate commercial property. The ceiling is higher, the lighting colder and more directional, and the floor tiles follow a modern, polished grid pattern rather than the worn, speckled motif of the original structure. 
+ 
+
++ Entrances And Exits
+[!-- Add any entrances and exits to other levels. --]
+ 
+++++ Entrances
+[!-- If there are no entrances please write : "There is no known way to get to this level for now". --]
+* level 0 
+* some doors in [[[level-hub|the Hub]]] lead to level 0
+* [[[SCP-x216|SCP-x216-2]]] is able to reach Level 0
+ 
+++++ Exits
+[!-- If there are no exits please write: "There is no known way to leave this level for now.", though usually people can leave whence they came. --]
+* Level 0 
+ 
+----
+ [[/div]]
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next Level#s ↓ -----------]
+[[=]]
+<< [[[Level-0]]] | Level-1 | [[[Level-2]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "Level 1" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/level-1 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+> Based on  
+[[/collapsible]]
+[[/div]]
