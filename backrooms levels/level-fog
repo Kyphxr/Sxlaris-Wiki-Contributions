@@ -22,6 +22,8 @@ SCP-x002-19,  is only able to be entered via ████ and thus does not need
 
 [[/collapsible]]
 [[/div]]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :sxlaris:component:level-class
 |class=1
 ]]
@@ -60,6 +62,7 @@ The Ashen One is a species of magma wyrm unique to Level Ash. Measuring over 400
 [!-- If there are no exits please write: "There is no known way to leave this level for now.", though usually people can leave whence they came. --]
  
 ----
+[[/div]]
  
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next Level#s ↓ -----------]
