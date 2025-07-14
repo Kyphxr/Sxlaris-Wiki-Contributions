@@ -1,0 +1,41 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x099
+|clearance= 4
+|container-class= keter
+|secondary-class= none
+|disruption-class= keneq
+|risk-class= caution
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
+SCP-x099, the Ashen One is a species of magma wyrm unique to [[[level-ash|Level Ω]]]. Measuring over 400m long, this enormous creature has dozens of ports along the length of its body that release a gaseous exhaust that is ignited, allowing the wyrm to propel itself forward. The resulting heat vitrifies the surrounding ash into a fulgurite that is typically referred to as crying obsidian.
+
+The wyrm burrows through the ash by a mix of vitrification and vibratory liquification, allowing them to effectively swim through the ashy terrain. Only emerging once they sense vibrations on the surface, the Ashen One is the apex predator of Level Ω.
+[[/div]]
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x098]]] | SCP-x099 | [[[SCP-x100]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-x099" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/scp-x099 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
