@@ -23,6 +23,12 @@ SCP-x002-Ω,  is only able to be entered via ████ and thus does not need
 [[/collapsible]]
 [[/div]]
 
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="Author Note:" hide="‡ Hide Author Note"]]
+this level mostly exists to keep things that don't really have a liminal/Backrooms feel all in one area, so the game can still have a fully functioning story, but the Backrooms also retains its emptiness/liminality. If you feel like the Backrooms have become to gamified, you can ignore this level completely.
+[[/collapsible]]
+[[/div]]
+
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :sxlaris:component:level-class
 |class=2
