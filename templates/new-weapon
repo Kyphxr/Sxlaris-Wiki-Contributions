@@ -28,6 +28,7 @@ Firing Mode:
 [[/div]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[!--
 [[div class="collapsible"]]
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
 Cite this page as:
@@ -35,6 +36,9 @@ Cite this page as:
 > http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
 [[/collapsible]]
 [[/div]]
+--]
+[[include component:license-box]]
+[[include component:license-box-end]]
 
 
 [[module css]]
