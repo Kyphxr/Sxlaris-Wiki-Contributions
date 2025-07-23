@@ -1,0 +1,128 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[module CSS]]
+.ethan-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1em;
+}
+.ethan-l > .wiki-content-table {
+    float: left;
+}
+.ethan-r > .wiki-content-table {
+    float: right;
+}
+.ethan-r > .wiki-content-table td {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    background: #1a1a1a;
+    color: #ededed;
+}
+[[/module]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div style="background-color:black"]]
+[[=]]
++ [[span style="color:white"]]**HELLO AND WELCOME, FRIEND.**[[/span]]
+[[/=]]
+[[/div]]
+
+[[=]]
+THE CONTENT OF THIS DOSSIER IS RESTRICTED TO **[[[security-clearance-levels|>>$ERROR<<]]]** PERSONNEL AND ABOVE.
+
+> SYSTEM MESSAGE: SECURITY BREACH IDENTIFIED. PLEASE LOG OUT IMMEDIATELY.
+
+[[/=]]
+
+---------------
+
+[[tabview]]
+
+[[tab Overview]]
+
+Overview placeholder
+
+[[/tab]]
+
+[[tab Personnel 1]]
+
+**Personnel 1**
+
+Gender. Heritage descent. Country origin. Age. Notable features.
+
+Description.
+
+--------------------
+
+[[/tab]]
+
+[[tab Personnel 2]]
+
+**Personnel 2**
+
+Gender. Heritage descent. Country origin. Age. Notable features.
+
+Description.
+
+-----------
+
+
+[[/tab]]
+
+[[tab O5-3]]
+
+**Personnel 3**
+
+Gender. Heritage descent. Country origin. Age. Notable features.
+
+Description.
+
+---------------
+
+[[/tab]]
+
+[[tab O5-4]]
+
+**Personnel 4**
+
+Gender. Heritage descent. Country origin. Age. Notable features.
+
+Description.
+
+--------------
+
+[[/tab]]
+
+[[tab O5-5]]
+
+**Personnel 5**
+
+Gender. Heritage descent. Country origin. Age. Notable features.
+
+Description.
+
+-----------
+
+
+[[/tab]]
+
+[[/tabview]]
+
+--------------
+
+> RETURN TO THE [[[personnel-and-character-dossier|PERSONNEL DOSSIER]]].
+
+---------------
+[[/div]]
+
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[include component:license-box]]
+[[include component:license-box-end]]
