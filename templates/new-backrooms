@@ -6,25 +6,28 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="Item#" hide="‡ Hide Item#"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
-|item-number= 8157
+|item-number= x002-0
 |clearance= 3
 |container-class= keter
 |secondary-class= none
-|disruption-class= dark
-|risk-class= notice
+|disruption-class= vlam
+|risk-class= warning
 ]]
-
+[[/collapsible]]
+[[/div]]
 [[include :sxlaris:component:level-class
 |class=0
 ]]
  
 [!-- If no picture is available please remove the image-block component --]
 [!-- Please remember to link the source of the image in the license box! --]
- 
+------
 [[include component:image-block
-|name=filename or url
-|caption=Description
+|name=url
+|caption=The first picture ever taken of Level 0.
 |align=right
 ]]
  
@@ -92,6 +95,7 @@ These often go between Description and Bases & Outposts, or Entrances and Exits 
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[!--
 [[div class="collapsible"]]
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
 Cite this page as:
@@ -99,3 +103,6 @@ Cite this page as:
 > http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
 [[/collapsible]]
 [[/div]]
+--]
+[[include component:license-box]]
+[[include component:license-box-end]]
