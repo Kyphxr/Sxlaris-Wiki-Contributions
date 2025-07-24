@@ -1,0 +1,45 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x666
+|clearance= 5
+|container-class= keter
+|secondary-class= none
+|disruption-class= ekhi
+|risk-class= danger
+]]
+
++++++ Special Containment Procedures:
+Due to its expansive nature and the involvement of [url:https://www.worldanvil.com/w/sxlaris-sxlar-wasteland/a/the-knights-templar-article]GoI-004 ("The Knights Templar")[/url], direct containment of SCP-x666 is currently unfeasible. Foundation efforts are focused on monitoring known entry points and minimizing civilian exposure through misinformation, surveillance, and localized containment zones. The primary entry point, designated SCP-x666-A ("The Maw"), located on the northeastern border of Kazakhstan, is encircled by a perimeter maintained under the guise of a hazardous materials exclusion zone.
+
+Foundation operatives embedded within GoI-004 report sporadic activity and attempts by the group to manipulate the anomalies within SCP-x666 for their own purposes. Diplomatic efforts to gain partial control or intelligence about SCP-x666 continue under strict oversight from the O5 Council.
+
+Foundation-approved exploration of SCP-x666 is limited to D-Class personnel with specialized equipment and is overseen remotely. All expeditions must be approved by at least two Level-4 personnel. Survivors of SCP-x666 incursions are to be quarantined and subjected to extensive psychological and medical evaluations.
+[[/div]]
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-XXXW]]] | SCP-XXXX | [[[SCP-XXXY]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[!--
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
+--]
+[[include component:license-box]]
+[[include component:license-box-end]]
