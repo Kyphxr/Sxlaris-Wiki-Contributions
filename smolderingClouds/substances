@@ -3,7 +3,7 @@
 [[include :scp-wiki:component:rso]]
 
 
-
+[[=]]
 [[div class="biggrid"]]
 
 
@@ -30,16 +30,14 @@
 |subtitle=Condensed Humanity
 |subbertitle=Human Computation
 ]]
-
+[[/div]]
+[[/=]]
 
 [[include :scp-wiki:component:license-box]]
 [[include :scp-wiki:component:license-box-end]]
 
-[[div style="margin-top: 50px;"]]
-= [[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt]]
-[[/div]]
 
-[[/div]]
+
 
 
 
