@@ -6,7 +6,7 @@
 [[div class="biggrid" style="margin-left: -10%"]]
 
 
-[[include fragment:kyphbox2 
+[[include fragment:kyphboxs
 |article-class=scp-xxx
 |slug=medical-substances
 |title=Medical Substances
@@ -14,7 +14,7 @@
 |subbertitle=ㅤ
 ]]
 
-[[include fragment:kyphbox2 
+[[include fragment:kyphboxs
 |article-class=scp-xxx
 |slug=performance-enhancers
 |title=Performance Enhancers
@@ -22,7 +22,7 @@
 |subbertitle=ㅤ
 ]]
 
-[[include fragment:kyphbox2 
+[[include fragment:kyphboxs
 |article-class=scp-xxx
 |slug=recreational-substances
 |title=Recreational Substances
