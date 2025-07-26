@@ -44,7 +44,7 @@
 [!-- ########################################################################### --]
 [!-- ########################################################################### --]
 
-[[module CSS]]
+[[module css]]
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
 .serif {
@@ -62,28 +62,6 @@ logo-image: {
     display: none;
 }
 
-#extra-div-1 {
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 10.1rem;
-  background-image: url("https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/af0d8fbe7d2272cac97c3ebc85d90469.png");
-  background-size: cover;
-  background-position: 50% 65%;
-  background-repeat: repeat-x;
-  pointer-events: none;
-}
-
-#extra-div-2 {
-   display: none;
-}
-
-#extra-div-3 {
-   display: none;
-}
-
 .biggrid {
     display: grid;
     grid-template-columns: repeat(5, minmax(10px, 1fr));
@@ -94,7 +72,7 @@ logo-image: {
 
     width: 75vw;
     max-width: 100vw !important;
-    position: center;
+    position: relative;
     left: calc(-37.5vw + 50%);
 }
 
@@ -144,6 +122,21 @@ logo-image: {
 */
 
 .siddle {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3%;
+    padding-top: 0;
+    color: black!important;
+    text-decoration: none!important;
+}
+
+.siddle2 {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -355,6 +348,34 @@ a {
   background-blend-mode: color-burn;
 }
 
+.scp-x002 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bb/HobbyTown_USA_Oshkosh_interior_under_construction_2002_%28The_Backrooms%29.jpg);
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.scp-xxxx {
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.scp-ak47 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/65/AK-47_type_II_noBG.png);
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.scp-games {
+  background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/1be2b92b90c7e10e4596005dd6de1516.png);
+  background-size: cover;
+  background-blend-mode: darken;
+}
+
+.scp-BRgames {
+  background-image: url(https://static.wikia.nocookie.net/backrooms/images/e/e6/Site-logo.png);
+  background-size: cover;
+  background-blend-mode: darken;
+}
 .commits {
   background-image: url(https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png);
   background-size: cover;
@@ -367,4 +388,85 @@ a {
   background-blend-mode: color-burn;
 }
 
+#page-title { display: none; }
+.feature-block {
+    height: 230px;
+}
+.feature-block .panel-body {
+    height: 160px;
+    overflow-y: hidden;
+}
+.feature-block .feature-title {
+    font-size: 120%;
+    font-weight: bold;
+}
+.feature-block .feature-subtitle {
+    font-size: 90%;
+}
+
+.feature-block .feature-title > p,
+.feature-block .feature-subtitle > p {
+    margin: 0;
+}
+
+.news-block .panel-body {
+    padding: 0;
+}
+.news-block .panel-body .alternate {
+    padding: 5px 10px;
+}
+.news-block .news-title {
+    font-weight: bold;
+    font-size: 110%;
+    margin-bottom: 5px;
+    color: #633;
+}
+.news-block .news-content {
+    margin: 5px 0;
+}
+.news-block .news-title > p,
+.news-block .news-content > p {
+    margin: 0;
+}
+
+.international-block .panel-body {
+    padding: 0;
+}
+.international-entry {
+    padding: 5px 10px;
+}
+.international-entry:nth-child(even),
+.alternate:nth-child(even) {
+    background-color: rgba(255,255,255,.9);
+    border-top: solid 1px #eeeee0;
+    border-bottom: solid 1px #eeeee0;
+}
+.international-entry div > p {
+    margin: 0;
+}
+.international-entry .international-title {
+    font-weight: bold;
+    font-size: 110%;
+}
+.international-entry .international-title img {
+    width: 16px;
+    height: 11px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+.international-entry .international-description {
+    font-size: 90%;
+    font-style: italic;
+    margin: 5px 20px;
+}
+.international-entry .international-footer {
+    font-size: #333;
+    font-size: 80%;
+    margin: 5px 0;
+}
+.darkquotes {
+    display: grid !important;
+}
+.darkquotes, .art {
+   max-height: 30rem;
+}
 [[/module]]
