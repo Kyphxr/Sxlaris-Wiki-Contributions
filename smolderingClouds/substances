@@ -2,17 +2,9 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [[include :scp-wiki:component:rso]]
 
+[[div style="text-align:center;]]
+[[div class="biggrid"]]
 
-[[div class="biggrid" style="text-align: center;"]]
-
-
-[[include fragment:kyphbox2 
-|article-class=scp-5140
-|slug=https://scp-sandbox-3.wikidot.com/kyphxr-splitentity
-|title=SCP-8157
-|subtitle=Condensed Humanity
-|subbertitle=Human Computation
-]]
 
 [[include fragment:kyphbox2 
 |article-class=scp-5140
@@ -29,6 +21,15 @@
 |subtitle=Condensed Humanity
 |subbertitle=Human Computation
 ]]
+
+[[include fragment:kyphbox2 
+|article-class=scp-5140
+|slug=https://scp-sandbox-3.wikidot.com/kyphxr-splitentity
+|title=SCP-8157
+|subtitle=Condensed Humanity
+|subbertitle=Human Computation
+]]
+[[/div]]
 [[/div]]
 
 
