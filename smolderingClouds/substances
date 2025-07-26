@@ -3,8 +3,7 @@
 [[include :scp-wiki:component:rso]]
 
 
-[[=]]
-[[div class="biggrid"]]
+[[div class="biggrid" style="text-align: center;"]]
 
 
 [[include fragment:kyphbox2 
@@ -31,7 +30,7 @@
 |subbertitle=Human Computation
 ]]
 [[/div]]
-[[/=]]
+
 
 [[include :scp-wiki:component:license-box]]
 [[include :scp-wiki:component:license-box-end]]
