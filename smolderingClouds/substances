@@ -1,28 +1,14 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
 [[include :scp-wiki:component:rso]]
-[[include :scp-sandbox-3:more-by:kyphxr
-|color=#4000ff
-]]
-[[include :scp-wiki:component:centered-header-bhl]]
-[[include :scp-wiki:component:toggle-sidebar-bhl]]
 
-[[include :scp-wiki:component:info-ayers
-|lang=en
-|page=scp-xxxx[!-- url of your page on the scp wiki --]
-|authorPage=https://scp-wiki.wikidot.com/kyphxr-author-page[!-- link to your author page --]
-|comments= = Styles/CSS [[div class="collapsible" style="text-align: center;"]]
-[[collapsible show="☰" hide="☰"]]
-= A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out his page [https://scp-wiki.wikidot.com/rounderhouse-s-author-page here]
-[[/collapsible]]
-[[/div]]
 
 
 [[div class="biggrid"]]
 
 
 [[include fragment:kyphbox2 
-|article-class=scp-5140 tall long
+|article-class=scp-5140
 |slug=https://scp-sandbox-3.wikidot.com/kyphxr-splitentity
 |title=SCP-8157
 |subtitle=Condensed Humanity
@@ -30,7 +16,7 @@
 ]]
 
 [[include fragment:kyphbox2 
-|article-class=scp-5140 tall long
+|article-class=scp-5140
 |slug=https://scp-sandbox-3.wikidot.com/kyphxr-splitentity
 |title=SCP-8157
 |subtitle=Condensed Humanity
@@ -38,7 +24,7 @@
 ]]
 
 [[include fragment:kyphbox2 
-|article-class=scp-5140 tall long
+|article-class=scp-5140
 |slug=https://scp-sandbox-3.wikidot.com/kyphxr-splitentity
 |title=SCP-8157
 |subtitle=Condensed Humanity
