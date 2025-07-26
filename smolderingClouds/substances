@@ -66,13 +66,14 @@ logo-image: {
     display: grid;
     grid-template-columns: repeat(5, minmax(10px, 1fr));
     align-items: stretch;
+   margin-left: -10%;
     column-gap: 0.75rem;
     row-gap: 0.75rem;
     grid-auto-flow: dense;
 
     width: 75vw;
     max-width: 100vw !important;
-    position: relative;
+    position: center;
     left: calc(-37.5vw + 50%);
 }
 
