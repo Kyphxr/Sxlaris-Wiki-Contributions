@@ -82,7 +82,6 @@ logo-image: {
     display: grid;
     grid-template-columns: repeat(5, minmax(10px, 1fr));
     align-items: stretch;
-   margin-left: -10%;
     column-gap: 0.75rem;
     row-gap: 0.75rem;
     grid-auto-flow: dense;
