@@ -1,0 +1,131 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="Item#" hide="‡ Hide Item#"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x002-Ω
+|clearance= 3
+|container-class= safe
+|secondary-class= none
+|disruption-class= dark
+|risk-class= warning
+]]
+
++ Special Containment Procedures:
+SCP-x002-Ω,  is only able to be entered via ████ and thus does not need additional containment.
+
+[[/collapsible]]
+[[/div]]
+
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Author's Note" hide="‡ Hide Author Note"]]
+this level mostly exists to keep things that don't really have a liminal/Backrooms feel all in one area, so the game can still have a fully functioning story, but the Backrooms also retains its emptiness/liminality. If you feel like the Backrooms have become to gamified, you can ignore this level completely.
+[[/collapsible]]
+[[/div]]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :sxlaris:component:level-class
+|class=2
+]]
+ 
+[!-- If no picture is available please remove the image-block component --]
+[!-- Please remember to link the source of the image in the license box! --]
+------
+[!--
+[[include component:image-block
+|name=https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/60b805037265f5457d240c45f93f9e0f.png
+|caption=An escalator in level 19.
+|align=right
+]]
+--]
+ 
+[!-- Then you can add a short introduction. (Note: You may have seen pages with "Level n is the n+1th level of the Backrooms" here, but this has fallen out of fashion due to not being a strong hook.) --]
+ 
+
+ 
++ Description:
+SCP-x002-Ω, the Ashlands is a seemingly infinite desert made out of black, volcanic ash. Islands of land can be found dotted throughout the ash desert, many are encompassed by a ravine that stretches down seemingly endlessly, and filled with a thick gray fog.
+
+----
+
++ Ecology:
+Level Ω is the most densely populated levels of the Backrooms, both in human outposts, as well as entities and anomalies.
+
+
+++ Entities:
+
+[[tabview]]
+[[tab The Ashen One]]
+
++++ The Ashen One
+
+[[[SCP-x099]]], the Ashen One is a species of magma wyrm unique to Level Ω. Measuring over 400m long, this enormous creature has dozens of ports along the length of its body that release a gaseous exhaust that when ignited, allows the wyrm to propel itself forward. The resulting heat vitrifies the surrounding ash into a fulgurite that is typically referred to as crying obsidian.
+
+The wyrm burrows through the ash by a mix of vitrification and vibratory liquification, allowing them to effectively swim through the ashy terrain. Only emerging once it senses vibrations on the surface, the Ashen One is the apex predator of Level Ω.
+
+[[/tab]]
+[[tab Walkers]]
+
++++ Still Walkers
+
+[DATA EXPUNGED]
+
+[[/tab]]
+[[tab Emberstag]]
+
++++ Emberstag
+
+The Emberstag, [[[SCP-x012]]], is a reclusive, deer-like species of entities native to the Ashlands. Although they resemble ordinary cervid, Emberstags are clearly recognizable by their dark brown to pitch black fur, glass antlers, and orange hooves. 
+
+Their hooves glow a searing orange as if fresh from a forge, each step melting the ash beneath their feet, leaving a trail of partially formed crying obsidian behind them. These smooth, obsidian-like impressions allow for hunters to track Enderstags for hundreds of meters across the ashy wasteland, though their fur can still make them difficult to spot.
+@@@@
+@@@@
+@@@@
+
+[[/tab]]
+[[/tabview]]
+
+++ Environment:
+Level Ω is made up of several geographical and environmental anomalies, most notably an impossibly thick fog that appears after descending down some 45m. This fog appears to be some sort of spacial anomaly, allowing wanderers to [DATA EXPUNGED] through to other levels.
+
+----
+
+Factions/Outposts
+Level Ω holds an abnormally large population of humans, both because of the value of substances like crying obsidian, but also because of nexus-like properties. The fog in the lower areas of the level, while sometimes unpredictable, is one of the fastest ways of traversing through the Backrooms, allowing for [DATA EXPUNGED].
+
+----
+
++ Entrances And Exits
+[!-- Add any entrances and exits to other levels. --]
+ 
+++++ Entrances
+[!-- If there are no entrances please write : "There is no known way to get to this level for now". --]
+* some doors in [[[level-hub|the Hub]]] lead to level Ω
+* [[[SCP-x216|SCP-x216-2]]] is able to reach Level Ω
+ 
+++++ Exits
+[!-- If there are no exits please write: "There is no known way to leave this level for now.", though usually people can leave whence they came. --]
+ 
+----
+[[/div]]
+ 
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next Level#s ↓ -----------]
+[[=]]
+<< [[[Level-BLUE|Blue Channel]]] | Level Ω | [[[Level-0|Level 0]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "Ashlands" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/ashlands Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
