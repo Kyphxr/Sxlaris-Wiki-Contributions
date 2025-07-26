@@ -2,7 +2,7 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [[include :scp-wiki:component:rso]]
 
-[[div style="margin-left: 55%;]]
+
 [[div class="biggrid"]]
 
 
@@ -29,7 +29,6 @@
 |subtitle=Condensed Humanity
 |subbertitle=Human Computation
 ]]
-[[/div]]
 [[/div]]
 
 
