@@ -10,6 +10,10 @@
 [[image page-1.webp style="height: 200%; width: 200%;"]]
 [[/div]]
 
+[[=]]
+<< [[[mriask-page-0]]] | Page 1| [[[mriask-page-2|Page 2]]] >>
+[[/=]]
+
 [!---------- ↓ License Box ↓ -----------]
 [[include :sxlaris:component:license-box]]
 [[include :sxlaris:component:license-box-end]]
