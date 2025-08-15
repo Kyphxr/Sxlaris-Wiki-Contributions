@@ -1,0 +1,20 @@
+[[include :sxlaris:theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↓ Rating Box ↓ -----------]
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↓ Main Page ↓ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8)"]]
+[[image page-7.webp style="height: 200%; width: 200%;"]]
+[[/div]]
+
+[[=]]
+<< [[[mriask-page-6|Page 6]]] | Page 7 | [[[mriask-page-8|Page 8]]] >>
+| [[[mriask-page-1|Page 1]]] |
+[[/=]]
+
+[!---------- ↓ License Box ↓ -----------]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
