@@ -29,10 +29,5 @@
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
-[[div class="collapsible"]]
-[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
-Cite this page as:
-> "SCP-x018" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/SCP-x018 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
-[[/collapsible]]
-[[/div]]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
