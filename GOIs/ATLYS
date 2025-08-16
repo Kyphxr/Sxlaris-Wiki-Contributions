@@ -1,0 +1,20 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8);"]]
+The ATLYS Corporation is a private military company formed by Johnathan Atlas in the late 1990’s.
+
+In the early 21st century, ATLYS played a pivotal role in several major geopolitical conflicts, acting as a private force for the United States. 
+[[/div]]
+
+----
+ 
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
