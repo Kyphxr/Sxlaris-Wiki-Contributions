@@ -8,6 +8,7 @@
 
 [!---------- BEGIN - HEADER -----------]
 
+[[div class="content-panel centered standalone"]]
 [[div style="text-align: center; color: #4000ff;"]]
 [[div class="unmargined"]]
 WARNING: THE FOUNDATION DATABASE IS
@@ -21,7 +22,7 @@ PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED
 [[/div]]
 [[/div]]
 
-[[div class="content-panel centered standalone"]]
+
 [[/div]]
 
 [!---------- END - HEADER :: BEGIN - ANNOUNCEMENT -----------]
@@ -155,13 +156,6 @@ The primary site of the Sxlaris Canon.
 |subbertitle=other liminal games
 ]]
 
-[[include fragment:kyphboxs
-|article-class=scp-ak47 
-|slug=weapon-hub
-|title=The Armory
-|subtitle=all of your weapons, all in one place
-|subbertitle=ㅤ
-]]
 
 [[/div]]
 
