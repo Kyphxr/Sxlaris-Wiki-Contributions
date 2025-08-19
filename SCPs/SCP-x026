@@ -1,0 +1,96 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include :scp-wiki:component:rso]]
+[[include :sxlaris:more-by:kyphxr
+|color=#4000ff
+]]
+[[include :scp-wiki:component:info-ayers
+|lang=en
+|page=scp-x002[!-- url of your page on the scp wiki --]
+|authorPage=*https://sxlaris.wikidot.com/kyphxr-author-page[!-- link to your author page --]
+|comments= = Styles/CSS 
+]]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x003
+|clearance= 2
+|container-class= euclid
+|secondary-class= none
+|disruption-class= vlam
+|risk-class= caution
+]]
+
+----
+
+[[div class="scp-image-block block-center" style="width:100%;"]]
+[[image https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/2c599f506f12f2e504bd91b1bec19be7.png style="width:100%;" link=#]]
+[[div class="scp-image-caption" style="width:100%;"]]
+An instance of SCP-x003
+[[/div]]
+[[/div]]
+
+----
+
++++++ Special Containment Procedures:
+All instances of SCP-x003 are to be contained in individual holding cells constructed of reinforced steel and high-security materials at Site-██. Each cell must be equipped with automated feeding and sanitation systems, as the species exhibits an unpredictable temperament that can make direct interaction hazardous. The holding cells must also be equipped with standard surveillance equipment to monitor the activity of each specimen.
+ 
+Personnel tasked with the observation or handling of SCP-x003 specimens must undergo psychological evaluations to ensure their ability to handle the subject's behavior. Due to the goblins' aggressive and territorial nature, direct human interaction is to be minimized, and only trained personnel should be assigned to manage or contain SCP-x003 instances.
+ 
+To prevent accidental or unauthorized release, all containment areas must be double-locked and require two-factor authentication from Level 3 personnel or higher. No less than three armed guards should be stationed at the entrance to any containment area housing SCP-x003 specimens.
+ 
+In the event of an escape attempt, response teams are to be deployed immediately to subdue and recapture any fleeing specimens. Use of non-lethal force is recommended; however, lethal force may be authorized if the threat level escalates.
+
++++++ Description: 
+SCP-x003 refers to a species of bipedal humanoid creatures resembling the "goblin" archetype common in various fantasy traditions. These creatures exhibit many physical and behavioral characteristics associated with goblins in folklore, though their true origins remain uncertain.
+ 
+ **Physical Characteristics:**
+ 
+**▣ Height:** Typically range from 1.2 to 1.5 meters in height.
+ 
+**▣ Skin:** SCP-x003 specimens possess rough, greenish skin, which appears to be resistant to minor abrasions and environmental factors such as heat or cold.
+ 
+**▣ Eyes:** Large, yellow or orange eyes with slit pupils, allowing them to see clearly in low-light conditions.
+ 
+**▣ Limbs:** Long arms with clawed hands, and short, stout legs designed for quick movement in various terrains. Their feet are large and flat, adapted for both running and climbing.
+ 
+**▣ Ears:** Large, pointy ears similar to those depicted in folklore, which provide heightened hearing.
+ 
+**▣ Mouth:** All instances of SCP-x003 lack an external oral cavity, despite autopsy results confirming the presence of standard internal oral and esophageal anatomy. This includes teeth, a tongue, salivary glands, and other typical components of a functional human mouth.
+ 
+The anomalous nature of SCP-x003’s oral structure results in an unusual vocalization pattern. Speech from SCP-x003 instances sounds muffled, as though their mouths are physically obstructed. Consequently, their communication relies heavily on tonal variations rather than clear enunciation, making their speech uniquely distinctive and often difficult to interpret.
+ 
+SCP-x003 instances possess a distinctive odor resembling rotting vegetation and decaying flesh, which is produced by a glandular secretion found in their sweat and skin. This scent appears to be used for communication within their species, as well as for territorial marking.
+
++++++ Addendum x003-1:
+In addition to their physical attributes, SCP-x003 possesses a unique memetic-reality alteration capability. This ability stems from a collective subconscious belief system among SCP-x003 instances. When a significant number of SCP-x003 specimens hold a shared belief about a concept or physical property, this belief can manifest as an actual alteration to reality.
+ 
+++++++ Examples of documented manifestations include:
+ 
+**▣ Enhanced Speed:** SCP-x003 instances painted a number of their tools and equipment red, resulting in a measurable increase in their movement and reaction speeds.
+ 
+**▣ Immunity to Harm:** During an observed skirmish between rival groups of SCP-x003, one faction repeatedly chanted that their leader was “unkillable.” The leader demonstrated a temporary immunity to otherwise lethal injuries.
+ 
+**▣ Functional Constructs:** SCP-x003 have constructed crude machines and weapons that operate beyond the capability of their primitive design, seemingly powered by the collective belief that these constructs “should” function.
+ 
+This belief-based ability has been shown to scale with the number of SCP-x003 involved. Larger groups of SCP-x003 demonstrate significantly stronger and more consistent reality-altering effects, making large congregations of SCP-x003 particularly hazardous.
+
+------
+[[/div]]
+
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-x003 by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/scp-x003 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
+
+[[=]]
+<< [[[SCP-x002]]] | SCP-x003 | [[[SCP-x004]]] >>
+[[/=]]
