@@ -22,8 +22,9 @@
 +++++ Description: 
 SCP-x003 is a large mechanical bed that measures approximately 3 m in length, and .8m in width. The top end of the bed is lifted into a reclined position, with a padded foam surface lining the top section. A mechanical apparatus is attached to the back of the top end, with a mechanic arm reaching over the top, with a visor attached to the end. This arm is adjustable, and allows for anyone sitting in the chair, hereby referred to as the "subject", to place the visor over their eyes regardless of their height.
 
-The visor is approximately 30 cm in diameter, with a plain black backing, and a black screen across the inside. The rim of the visor is lined with a foam padding similar to the padding of the bed. Attached to the foot of the bed is a small desk measuring 75 cm in height. Attached to the desk is what appears to be a ████ Trinitron CRT TV with 3 circular input slots on the bottom. A mouse and keyboard sit on the desk with wires connecting into the top end of the desk itself.
+The visor is approximately 30 cm in diameter, with a plain black backing, and a black screen across the inside. The rim of the visor is lined with a foam padding similar to the padding of the bed. Attached to the foot of the bed is a small desk measuring 75 cm in height. Attached to the desk is what appears to be a ████ Trinitron CRT TV with 3 circular input slots on the bottom. A mouse and QWERTY keyboard sit on the desk with wires connecting into the top end of the desk itself.
 
+By default, the machine appears in a dormant state, but will begin functioning upon a keypress or mouse movement. When activated, the screen will display a series of menus 
 
 [[/div]]
 
