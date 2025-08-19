@@ -20,25 +20,19 @@
 [DATA EXPUNGED]
 
 +++++ Description: 
-SCP-x003 is a large mechanical bed that measures approximately 3m in length, and .8m in width. The top end of the bed is lifted into a reclined position, with a padded foam surface lining the top section. 
+SCP-x003 is a large mechanical bed that measures approximately 3m in length, and .8m in width. The top end of the bed is lifted into a reclined position, with a padded foam surface lining the top section. A mechanical apparatus is attatched to the back of the top end, with a mechanic arm reaching over the top, with a visor attached to the end. 
+
+This arm is adjustable, and allows for anyone sitting in the chair, hereby referred to as the "subject", to place the visor over their eyes regardless of their height.
 [[/div]]
 
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
 [[=]]
-<< [[[SCP-XXXW]]] | SCP-XXXX | [[[SCP-XXXY]]] >>
+<< [[[SCP-x002]]] | SCP-x003 | [[[SCP-x004]]] >>
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
-[!--
-[[div class="collapsible"]]
-[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
-Cite this page as:
-> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
-[[/collapsible]]
-[[/div]]
---]
+
 [[include component:license-box]]
 [[include component:license-box-end]]
