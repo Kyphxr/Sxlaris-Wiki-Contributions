@@ -16,7 +16,6 @@
     font-family: 'Sans Normalcy', 'Nanum Gothic', 'Arial', sans-serif;
 }
 
-
 div#extra-div-1 {
     height: 140px;
     width: 100%;
@@ -26,7 +25,7 @@ div#extra-div-1 {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: calc(50vw - 380px) 50%;
-    z-index: -1;
+    z-index: 1;
 }
 @media (max-width: 767px) {
     div#extra-div-1 {
