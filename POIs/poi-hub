@@ -20,7 +20,6 @@ Persons of Interest (POI) are singular individuals who hold high importance in t
 |image= /* Image must have a height of 1566 and a width of 1532. If you do not have an image, please use [http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg this file] */
 ]]
 @@+++ Alias(es):@@
-@@+++ Last Known Location(s):@@
 @@+++ Known Affiliations:@@
 @@------@@
 
@@ -38,16 +37,17 @@ UNKNOWN ##grey|⬤##: Unspecified
 [[/collapsible]]
 @@@@
 [[/div]]
+
 ----
+
 [[include component:poi-block
-|poi=Placeholder
-|poi-link=placeholder
+|poi=Ellie
+|poi-link=poi-placeholder
 |status=ACTIVE
 |status-color=green
 |image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
 ]]
 +++ Alias(es): "placeholder"
-+++ Last Known Location(s): placeholder
 +++ Known Affiliations: placeholder
 ------
 
