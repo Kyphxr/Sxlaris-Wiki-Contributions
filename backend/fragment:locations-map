@@ -1,0 +1,1435 @@
+[[iftags +fragment]]
+
+**Note**: the map below (and nothing else on this page) can be included on any page that doesn't have the fragment tag, using the following code:
+[[div class="code"]]
+@<[[include :scp-wiki:fragment:locations-map>@
+]]
+[[/div]]
+@@@@
+[[collapsible show="▷ Instructions for Additions" hide="◁ Adding a Nexus, Free Port, or Other Location of Interest"]]
+Copy and edit the following code, replacing x_coordinate and y_coordinate with numbers (representing distance from the top left corner in percent) and replacing url_for_the_image with the image link for the Site or Area icon.
+
+For a Nexus, use {{textclass=numbermap}} to overlay the Nexus or Freeport number using {{text=##}}:
+[[div class="code"]]
+@<[[include :scp-wiki:component:mapping-source>@
+facility=-- |
+x=x_coordinate |
+y=y_coordinate |
+image=url_for_the_image|
+textclass=numbermap |
+text=##|
+font-size=0.4 |
+]]
+[[/div]]
+
+The URLs for the 7 Area Class images, defined in the key below the map:
+https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg
+https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Asphodel.svg
+https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg
+https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg
+https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg
+https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Crossroads.svg
+https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Turing.svg
+
+For a Free Port, use {{textclass=numbermap}} to overlay the Free Port number using {{text=##}}:
+[[div class="code"]]
+@<[[include :scp-wiki:component:mapping-source>@
+facility=-- |
+x=x_coordinate |
+y=y_coordinate |
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg|
+textclass=numbermap |
+text=##|
+font-size=0.5 |
+]]
+[[/div]]
+
+While it would be nice to have subtitles for every Nexus and Free Port, this would put too much text on the map, so it's reserved for Locations without numbers.
+
+For a Location of Interest, use {{textclass=subtitlemap}} to place the name below the icon using {{text=Name}}:
+[[div class="code"]]
+@<[[include :scp-wiki:component:mapping-source>@
+facility=-- |
+x=x_coordinate |
+y=y_coordinate |
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg|
+textclass=subtitlemap |
+text=Name|
+]]
+[[/div]]
+
+[[/collapsible]]
+@@@@
+++ Map of Locations of Interest
+[[/iftags]]
+
+[[include :scp-wiki:component:mapping-source
+code=-- |
+]]
+
+[[div class="mainmap"]]
+[[image https://scp-wiki.wdfiles.com/local--files/fragment%3Alocations-map/Map-World-Locations.png]]
+
+[!-- North American Map --]
+[[include :scp-wiki:component:mapping-source
+secmap=-- |
+sx= 25|
+sy= 36|
+x=10|
+y=5|
+image=https://scp-wiki.wdfiles.com/local--files/fragment%3Afacilities-map/Map-North-America.png|
+]]
+
+[!-- Locations in North America --]
+
+[!-- Locations of Interest --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=43.2|
+y=56.8|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=Chugwater|
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=31.2|
+y=64.3|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=Undervegas|
+]]
+
+[!-- Briar Class --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=26.9|
+y=48.9|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg |
+textclass=numbermap |
+text=17|
+font-size=0.4 |
+]]
+
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=77.5|
+y=54.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg |
+textclass=numbermap |
+text=33|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=78.4|
+y=55.7|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg |
+textclass=numbermap |
+text=36|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=69.2|
+y=52.0|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg |
+textclass=numbermap |
+text=94|
+font-size=0.4 |
+]]
+
+
+[!-- Asphodel Class --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=28|
+y=45 |
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Asphodel.svg |
+textclass=numbermap |
+text=32|
+font-size=0.4 |
+]]
+
+
+[!-- Camelot Class --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=66|
+y=62.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=25|
+font-size=0.4 |
+]]
+
+
+[!-- Shangri-La --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=44.5|
+y=65.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg |
+textclass=numbermap |
+text=04|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=57.9|
+y=50.1|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg |
+textclass=numbermap |
+text=18|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=58|
+y=61|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg |
+textclass=numbermap |
+text=59|
+font-size=0.4 |
+]]
+
+[!-- Dunwich --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=29|
+y=52|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=51|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=76|
+y=57|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=52|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=65 |
+y=59|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=78|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=35.5|
+y=64|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=5525|
+font-size=0.4 |
+]]
+
+[!-- Free Ports --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=26|
+y=48.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=01|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=81|
+y=49|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=01|
+font-size=0.5|
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=78.7|
+y=54.0|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=02|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=62.2|
+y=74.2|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=04|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=75|
+y=82|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=57|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=46|
+y=90|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=72|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=81|
+y=51|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=84|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=50|
+y=85|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=150|
+font-size=0.5 |
+]]
+[[/div]]
+
+[!-- Europe Map --]
+
+[[include :scp-wiki:component:mapping-source
+secmap=-- |
+sx= 16|
+sy= 24|
+x=42|
+y=7|
+image=https://scp-wiki.wdfiles.com/local--files/fragment%3Afacilities-map/Map-Europe.png|
+]]
+
+[!-- Locations in Europe --]
+
+
+[!-- Locations of Interest --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=45.0|
+y=38.0|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=Baltic Trench|
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=63.5|
+y=68.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=Samothrace|
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=22|
+y=46|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=UnLondon|
+]]
+
+[!-- Briar Class --]
+
+[!-- Asphodel Class --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=16.5|
+y=45|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Asphodel.svg |
+textclass=numbermap |
+text=07|
+font-size=0.4 |
+]]
+
+[!-- Camelot Class --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=16|
+y=42|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=02|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=7.5|
+y=37|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=03|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=18|
+y=42|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=56|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=18|
+y=32|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=33|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=34|
+y=54|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=43|
+font-size=0.4 |
+]]
+
+[!-- Shangri-La Class --]
+
+[!-- Dunwich Class --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=30.5|
+y=60|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=12|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=53.0|
+y=45.0|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=79|
+font-size=0.4 |
+]]
+
+
+[!-- Free Ports --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=19|
+y=47.6|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=01|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=45|
+y=60|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=07|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=29|
+y=46|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=08|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=35|
+y=57|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=08|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=41.5|
+y=44|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=10|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=42|
+y=59.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=108|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=50.0|
+y=48.0|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=120|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=90.5|
+y=8.0|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=129|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=40|
+y=44|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=178|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=49.5|
+y=63|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=178|
+font-size=0.5 |
+]]
+
+[[/div]]
+
+
+[!-- Japan Korea Map --]
+
+[[include :scp-wiki:component:mapping-source
+secmap=-- |
+sx=6|
+sy= 11|
+x=79|
+y=22|
+image=https://scp-wiki.wdfiles.com/local--files/fragment%3Alocations-map/Map-East-Asia-Japan-Korea.png|
+]]
+
+[!-- Locations in Japan and Korea--]
+
+[!-- Locations of Interest --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=46.5|
+y=50|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=Drunkness Street|
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=56.5|
+y=51|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=Koigerizaki|
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=69|
+y=31|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=Tōno Yokai Sanctuary|
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=6.5|
+y=42|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=West Korea|
+]]
+
+[!-- Asphodel --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=14|
+y=52|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Asphodel.svg |
+textclass=numbermap |
+text=64|
+font-size=0.4 |
+]]
+
+
+[!-- Shangri-La --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=42 |
+y=56|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg |
+textclass=numbermap |
+text=58|
+font-size=0.4 |
+]]
+
+[!-- Free Port --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=33|
+y=54|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=06|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=61.6|
+y=52|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=178|
+font-size=0.5 |
+]]
+
+[[/div]]
+
+[!-- World Map --]
+
+[!-- Locations of Interest --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=75|
+y=95|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=Antarctic Empire|
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=52 |
+y=15.5 |
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+[!-- textclass=subtitlemap |
+text=Baltic Trench|--]
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=21|
+y=25.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+[!-- textclass=subtitlemap |
+text=Chugwater| --]
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=78.3|
+y=36.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=Hong Kong|
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=83.2 |
+y=28.3|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+[!--textclass=subtitlemap |
+text=Koigerizaki|--]
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=54|
+y=25|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+[!--textclass=subtitlemap |
+text=Samothrace|--]
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=61|
+y=22.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+textclass=subtitlemap |
+text=Shigastan|
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=83.5 |
+y=26.0|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+[!--textclass=subtitlemap |
+text=Tōno|--]
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=17.8|
+y=27.4|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+[!-- textclass=subtitlemap |
+text=Undervegas| --]
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=47.5|
+y=18.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+[!--textclass=subtitlemap |
+text=UnLondon|--]
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=80|
+y=27.8|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg |
+[!--textclass=subtitlemap |
+text=West Korea|--]
+]]
+
+[!-- Briar Class --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=78.8|
+y=34|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg |
+textclass=numbermap |
+text=CN-08|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=17|
+y=22 |
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg |
+textclass=numbermap |
+text=17|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=27.8|
+y=26.2|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg |
+textclass=numbermap |
+text=36|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=80|
+y=65.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg |
+textclass=numbermap |
+text=28|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=27.6 |
+y=22.7 |
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg |
+textclass=numbermap |
+text=94|
+font-size=0.4 |
+]]
+
+[!-- Asphodel Class --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=46.7|
+y=18.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Asphodel.svg |
+textclass=numbermap |
+text=07|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=18|
+y=21 |
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Asphodel.svg |
+textclass=numbermap |
+text=32|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=80.5|
+y=28.6|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Asphodel.svg |
+textclass=numbermap |
+text=64|
+font-size=0.4 |
+]]
+
+[!-- Camelot Class --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=46.5|
+y=17|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=02|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=44.7|
+y=16.3|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=03|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=25.5|
+y=26.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=25|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=46.5|
+y=15.2|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=33|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=49.5|
+y=20.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=43|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=47|
+y=18|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg |
+textclass=numbermap |
+text=56|
+font-size=0.4 |
+]]
+
+[!-- Shangri-La --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=20.5|
+y=28.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg |
+textclass=numbermap |
+text=04|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=25.8|
+y=22.0|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg |
+textclass=numbermap |
+text=18|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=82.7 |
+y=29.6|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg |
+textclass=numbermap |
+text=58|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=24|
+y=25|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg |
+textclass=numbermap |
+text=59|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=31|
+y=79|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg |
+textclass=numbermap |
+text=572|
+font-size=0.4 |
+]]
+
+[!-- Dunwich --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=49|
+y=21.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=12|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=31|
+y=47.8|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=14|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=17.5|
+y=23|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=51|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=27|
+y=26|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=52|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=26.0 |
+y=25.6|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=78|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=53|
+y=18|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=79|
+font-size=0.4 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=19|
+y=27|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg |
+textclass=numbermap |
+text=5525|
+font-size=0.4 |
+]]
+
+[!-- Free Ports --]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=16.8|
+y=22 |
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=01|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=29.5|
+y=22.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=01|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=47.2|
+y=19.2|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=01|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=28.5|
+y=25|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=02|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=24|
+y=31.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=04|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=82.3|
+y=29.0|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=06|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=51.3|
+y=21.7|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=07|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=48.5|
+y=18.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=08|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=50|
+y=21|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=08|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=50.6|
+y=17.7|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=10|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=25.2|
+y=36|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=57|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=20|
+y=38.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=72|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=29|
+y=24|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=84|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=88|
+y=67|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=88|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=86.5|
+y=70.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=88|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=50.5|
+y=21|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=108|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=52|
+y=18.5|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=120|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=61|
+y=13|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=129|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=20|
+y=35|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=150|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=50.2|
+y=17.7|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=178|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=51.5|
+y=22|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=178|
+font-size=0.5 |
+]]
+
+[[include :scp-wiki:component:mapping-source
+facility=-- |
+x=83.4|
+y=28.3|
+image=https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg |
+textclass=numbermap |
+text=178|
+font-size=0.5 |
+]]
+[[/div]]
+
+[[iftags +fragment]]
+
+@@ @@
+
+[[module CSS]]
+.legend-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(90px, 100%), 1fr));
+    grid-gap: 10px;
+    box-sizing: border-box;
+}
+
+.legend-box {
+    width:90px;
+    border: 1px solid white;
+}
+[[/module]]
+[[=]]
+++ Area Classes
+[[/=]]
+[[div class="legend-grid"]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg width="50px"]]
+[[div class="legend-text"]]
+= **##blue|Briar##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Asphodel.svg width="50px"]]
+[[div class="legend-text"]]
+= **##green|Asphodel##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg width="50px"]]
+[[div class="legend-text"]]
+= **##FFDD00|Camelot##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg width="50px"]]
+[[div class="legend-text"]]
+= **##orange|Shangri-La##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg width="50px"]]
+[[div class="legend-text"]]
+= **##red|Dunwich##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg width="50px"]]
+[[div class="legend-text"]]
+= **##purple|Free Port##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg width="50px"]]
+[[div class="legend-text"]]
+= **Other Location of Interest**
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+@@ @@
+
+[[=]]
+[[div class="licensebox"]]
+[[collapsible show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "Facilities Map" by Jerden, from the [https://scp-wiki.wikidot.com SCP Wiki]. Source: https://scp-wiki.wikidot.com/fragment:locations-map. Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA].
+For more information, see [https://scp-wiki.wikidot.com/licensing-guide Licensing Guide].
+**Licensing Disclosures**
+[[<]]
+=====
+> **Filename:** World-Map
+> **Original Author:** Canuckguy, see File history for full list of contributors.
+> **Modified By:** [[*user L200]] and [[*user Jerden]]
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:BlankMap-World.svg
+
+> **Filename:** Map-North-America
+> **Original Authors:** Kaldari and Halava
+> **Modified By:** [[*user L200]] and [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:North_America_map_with_states_and_provinces.svg
+
+> **Filename:** Map-Europe
+> **Original Filename:** Europe_laea_location_map
+> **Original Author:** Alexrk2
+> **Modified By:**  [[*user Jerden]]
+> **License:** CC-SA-3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Europe_laea_location_map.svg
+
+> **Filename:** Map-East-Asia-Japan-Korea
+> **Original Authors:** Maximilian Dörrbecker
+> **Modified By:** [[*user Jerden]] using the South_Korea_location_map
+> **License:** CC BY-SA 3.0
+> **Source Links:** https://commons.wikimedia.org/wiki/File:Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg
+
+> **Filename:** South_Korea_location_map
+> **Original Authors:** NordNordWest
+> **License:** CC BY-SA 3.0
+> **Source Links:** https://commons.wikimedia.org/wiki/File:South_Korea_location_map.svg
+
+> **Filename:** Briar
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/locations-of-interest
+>**Derivative of:** Thorny vine icon
+
+> **Filename:** thorny-vine
+> **Name:** Thorny vine icon
+> **Author:** Lorc
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://game-icons.net/1x1/lorc/thorny-vine.html
+
+> **Filename:** Asphodel
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/locations-of-interest
+
+> **Filename:** Camelot
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/locations-of-interest
+
+> **Filename:** Shangri-La
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/locations-of-interest
+
+> **Filename:** Dunwich
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/locations-of-interest
+>**Derivative of:** Curled tentacle icon
+
+> **Filename:** curled-tentacle
+> **Name:** Curled tentacle icon
+> **Author:** Lorc
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://game-icons.net/1x1/lorc/curled-tentacle.html
+
+> **Filename:** Freeport
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/locations-of-interest
+
+> **Filename:** Location-of-Interest
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/locations-of-interest
+
+=====
+[[/<]]
+[[include :scp-wiki:component:license-box-end]]
+[[/=]]
+
+[[/iftags]]
