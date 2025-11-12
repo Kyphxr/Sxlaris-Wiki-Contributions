@@ -2,9 +2,7 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
-[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:theme:paperstack]]
-[[include :scp-wiki:component:toggle-sidebar]]
 
 [[module CSS]]
 @media (min-width: 768px) {
