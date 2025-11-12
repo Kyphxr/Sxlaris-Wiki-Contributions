@@ -1,0 +1,2969 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:theme:paperstack]]
+[[include :scp-wiki:component:toggle-sidebar]]
+
+[[module CSS]]
+@media (min-width: 768px) {
+    #main-content { max-width: min(900px, calc(100% - 4rem)); }
+}
+:root {
+  --header-subtitle: "Locations of Interest";
+  --sp_header-subtitle-scale: 2.125;
+}
+#header h1 a::before, #header h2 span::before {
+    font-family: 'Sans Normalcy', 'Nanum Gothic', 'Arial', sans-serif;
+}
+
+body {
+    background-image: linear-gradient(
+        to bottom,
+        #FCFCFC, #FCFCFC 100%);
+}
+
+div#extra-div-1 {
+    height: 140px;
+    width: 100%;
+    top: 28px;
+    position: absolute;
+    background: url("https://scp-wiki.wdfiles.com/local--files/sigma-9-themes/SCP_F.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: calc(50vw - 380px) 50%;
+    z-index: -1;
+}
+@media (max-width: 767px) {
+    div#extra-div-1 {
+         opacity: 0.2;
+         background-position: 50% 50%;
+    }
+}
+
+.socontent.header h1 {
+    font-size: 1.85rem;
+    max-width: max-content;
+    margin: 2.5rem auto 1rem;
+}
+.socontent.header h1 span {
+    padding: 0 .25em;
+    text-transform: uppercase;
+}
+
+blockquote,
+div.blockquote,
+#toc,
+.code {
+    background-color: var(--paper-background-color);
+    border: solid .05rem var(--paper-block-color);
+    box-shadow: 0 0 .25rem var(--paper-shadow-color);
+}
+
+.legend-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(90px, 100%), 1fr));
+    grid-gap: 10px;
+    box-sizing: border-box;
+}
+
+.legend-box {
+    border: 1px solid white;
+}
+[[/module]]
+
+[!-- Author Information --]
+
+[[include :scp-wiki:info:start]]
+[[=]]
+Written by [[*user Jerden]] and [[*user Ralliston]].
+
+A rewrite of the [[[nexus-series|Nexus Hub]]] by [[*user HotCocoaNerd]] and [[*user IronDruid]].
+
+With additional locations based on [http://pseudo-scp-jp.wikidot.com/stray-nexus this Japanese Page] by [[*user dr-kasugai]], [[*user gipolibidemia]], and [[*user stengan774]].
+
+**[[[jerden|Jerden's Author Page]]]**
+
+**[[[ralliston-s-authorpage|Ralliston's Authorpage]]]**
+[[/=]]
+[[include :scp-wiki:info:end]]
+
+[[div class="blockquote" style="font-size: 106.25%"]]
+The Foundation has identified a number of locations around the world (and beyond it) that are actively anomalous and support permanent communities. While these places would generally be given an SCP designation and evacuated, in some cases this is not possible, due to practical or political constraints. Although not all Locations of Interest are fully controlled by the Foundation,  containment measures are in place to ensure that the general public remains unaware of their existence or anomalous nature.
+
+An inhabited anomalous location designated as a Nexus permits residents to remain within it, under the supervision of the Foundation or another Group of Interest, since the anomalous properties of a Nexus generally cannot extend beyond its borders. Additionally, the Foundation has permitted the existence of a number of Free Ports, paranormal enclaves and other locations accessible only through anomalous means, within which the concealment and containment of anomalies is unnecessary. These communities are usually self-managed, with observation from the Foundation and local governments to ensure that anomalous phenomena remain within the Free Port. A number of additional Locations of Interest are known to the Foundation at this time, ranging in scale from small towns to entire countries, as well as entire alternate realities accessible from our own.
+[[/div]]
+
+[[div class="blockquote"]]
+[[# toc]]
+[[collapsible show="Show Table of Contents" hide="Hide Table of Contents"]]
+@@ @@[#map Map of Locations of Interest]
+@@ @@[#classes Nexus Area Classes]
+@@ @@[#nexus List of Nexuses]
+@@    @@[#consensus-reality Nx-00: Consensus Reality]
+@@    @@[#wanderers-library Nx-01: The Wanderer's Library]
+@@    @@[#annwn Nx-02: Annwn]
+@@    @@[#hy-brasil Nx-03: Hy-Brasil]
+@@    @@[#murky-lake Nx-04: Murky Lake]
+@@    @@[#spiral-forest Nx-05: The Spiral Forest]
+@@    @@[#gwag-hen Nx-07: Gwag Hen y Cwn]
+@@    @@[#publin Nx-09: Publin]
+@@    @@[#univers-isle Nx-12: Univers'Isle]
+@@    @@[#buon-ma-thuat Nx-13: Buôn Ma Thuật]
+@@    @@[#hoiohina Nx-14: Hoiohiña]
+@@    @@[#boring Nx-17: Boring]
+@@    @@[#sloths-pit Nx-18: Sloth's Pit]
+@@    @@[#kleinberg Nx-20: Kleinberg]
+@@    @@[#olive-hill Nx-25: Olive Hill]
+@@    @@[#broken-hill Nx-28: Broken Hill]
+@@    @@[#negaseattle Nx-32: Negaseattle]
+@@    @@[#drake Nx-33: Drake]
+@@    @@[#frauds-hill Nx-35: Fraud's Hill]
+@@    @@[#atlantic-city Nx-36: Atlantic City]
+@@    @@[#daleport Nx-37: Daleport]
+@@    @@[#verstecktedorf Nx-43: Verstecktedorf]
+@@    @@[#laputa Nx-44: Laputa]
+@@    @@[#eventide Nx-51: Eventide]
+@@    @@[#harkness Nx-52: Harkness]
+@@    @@[#old-benevento Nx-55: Old Benevento]
+@@    @@[#summerstone Nx-56: Summerstone]
+@@    @@[#shambhala Nx-57: Shambhala]
+@@    @@[#yumegemu Nx-58: Yumegēmu]
+@@    @@[#amityville Nx-59: Amityville]
+@@    @@[#district-zero NX-59-VN: District Zero]
+@@    @@[#irkalla Nx-61: Irkalla]
+@@    @@[#mujin Nx-64: Mujin]
+@@    @@[#usher-house Nx-76: Usher House]
+@@    @@[#markhaven Nx-78: Markhaven]
+@@    @@[#gmina-cycow Nx-79: Gmina Cyców]
+@@    @@[#camelot Nx-89: Camelot]
+@@    @@[#elelin Nx-90: Elelín]
+@@    @@[#cipher-city Nx-91: Cipher City]
+@@    @@[#lake-huron Nx-94: Lake Huron]
+@@    @@[#mamonokai Nx-96: Mamonokai]
+@@    @@[#green-pastures Nx-97: Green Pastures]
+@@    @@[#bacata-nyia Nx-99: Bacatá Nyia (El Dorado)]
+@@    @@[#ipperwash Nx-143: Camp Ipperwash]
+@@    @@[#sculpture-island Nx-173: Sculpture Island]
+@@    @@[#houyhnhnmland Nx-300: Houyhnhnmland]
+@@    @@[#puerto-extrano Nx-572: Puerto Extraño]
+@@    @@[#piss-world Nx-933: The Piss World]
+@@    @@[#pillar-library Nx-1726: The Pillar Library]
+@@    @@[#alexandria-eternal Nx-4001: Alexandria Eternal]
+@@    @@[#new-atlantis Nx-5525: New Atlantis]
+@@ @@[#free-port List of Free Ports]
+@@    @@[#three-portlands FP-01: Three Portlands]
+@@    @@[#backdoor-soho FP-02: Backdoor SoHo]
+@@    @@[#eurtec FP-03: Eurtec]
+@@    @@[#la-rue-macabre FP-04: La Rue Macabre]
+@@    @@[#the-pillars FP-05: The Pillars]
+@@    @@[#chugoku-cellar FP-06: Chūgoku Cellar]
+@@    @@[#zagrobnika FP-07: Zagrobnika]
+@@    @@[#sjhlfels FP-08: Sjhlfels am Rhein]
+@@    @@[#outer-lichtenberg FP-10: Outer Lichtenberg]
+@@    @@[#wilheim FP-11: Wilheim]
+@@    @@[#meat-market FP-12: Meat Market]
+@@    @@[#san-kowloon FP-14: San Kowloon]
+@@    @@[#new-amsterdam FP-20: New Amsterdam]
+@@    @@[#toyoho FP-21: Tōno Yōkai Sanctuary (Toyoho)]
+@@    @@[#koigarezaki FP-22: Koigarezaki]
+@@    @@[#ai-gazar-en FP-23: Ai'gazar-En]
+@@    @@[#avalon FP-26: Avalon]
+@@    @@[#fernafaun FP-32: Fernafaun]
+@@    @@[#fata-morgana FP-39: Fata Morgana]
+@@    @@[#new-cha-ling FP-46: New Cha Ling]
+@@    @@[#little-havana FP-57: Little Havana]
+@@    @@[#middle-normandy FP-61: Middle Normandy]
+@@    @@[#other-london FP-67: Other London]
+@@    @@[#ireta-keri FP-71: Ireta K'éri]
+@@    @@[#ireta-sapi FP-72: Ireta Sapi]
+@@    @@[#agate FP-77: Agate]
+@@    @@[#wonder-world FP-84: Wonder World!™]
+@@    @@[#two-blackbutts FP-88: Two Blackbutts]
+@@    @@[#the-net FP-99: The Net]
+@@    @@[#goricna FP-108: Gorična]
+@@    @@[#esterberg FP-120: Esterberg]
+@@    @@[#arcadia FP-129: Arcadia]
+@@    @@[#tlaneyanco FP-150: Tlaneyanco]
+@@    @@[#butai FP-178: Butai]  
+@@    @@[#nova-cannae FP-216: Nova Cannae]  
+@@    @@[#parashops FP-250: The Parashops]
+@@    @@[#zeta-01 FP-260: Zeta-01]
+@@ @@[#other Other Locations of Interest]
+@@    @@[#adytum Adytum]
+@@    @@[#alagadda Alagadda]
+@@    @@[#amoni-ram Amoni-Ram]
+@@    @@[#antarctic-empire Third Antarctic Empire]
+@@    @@[#baltic-trench The Baltic Trench]
+@@    @@[#chugwater Chugwater]
+@@    @@[#confederate-island Confederate Island Countries of Phantom]
+@@    @@[#corbenic Corbenic]
+@@    @@[#drunkness-street Drunkness Street]
+@@    @@[#druv-tuul-al-lhad Druv'tuul Al-lhad]
+@@    @@[#farpoint-station Farpoint Station]
+@@    @@[#new-finnfolkaheem New Finnfolkaheem]
+@@    @@[#hydras-spine The Hydra's Spine]
+@@    @@[#infinite-ikea "Infinite" IKEA]
+@@    @@[#paramax Paramax]
+@@    @@[#samothrace Islamic Republic of Eastern Samothrace]
+@@    @@[#scp-5572-prime SCP-5572-PRIME]
+@@    @@[#shigastan Republic of Shigastan]
+@@    @@[#taboo REDACTED PER PROTOCOL 4000-ESHU]
+@@    @@[#undervegas Undervegas]
+@@    @@[#unlondon UnLondon]
+@@    @@[#west-korea Republic of West Korea]
+@@ @@[#related-pages Related Pages]
+@@ @@[#about-this-page About this Page]
+@@ @@[#adding-to-this-page Adding to this Page]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+[[div class="blockquote"]]
+
+[[# map]]
+
+[[=]]
++ Map of Locations of Interest
+[[/=]]
+-----
+
+= //Locations shown on the map are approximate, and do not accurately represent their extradimensional nature.//
+
+[[include :scp-wiki:fragment:locations-map]]
+
+@@ @@
+
+[[=]]
+++ Area Classes
+[[/=]]
+[[div class="legend-grid"]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg width="50px"]]
+[[div class="legend-text"]]
+= **##blue|Briar##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Asphodel.svg width="50px"]]
+[[div class="legend-text"]]
+= **##green|Asphodel##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg width="50px"]]
+[[div class="legend-text"]]
+= **##FFDD00|Camelot##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg width="50px"]]
+[[div class="legend-text"]]
+= **##orange|Shangri-La##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg width="50px"]]
+[[div class="legend-text"]]
+= **##red|Dunwich##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg width="50px"]]
+[[div class="legend-text"]]
+= **##purple|Free Port##**
+[[/div]]
+[[/div]]
+
+[[div class="legend-box"]]
+= [[image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg width="50px"]]
+[[div class="legend-text"]]
+= **Other Location of Interest**
+[[/div]]
+[[/div]]
+
+[[/div]]
+
+----
+[[# classes]]
+
++ Area Classes
+
+As shown on the map above, anomalous locations are given one of the following classifications, based on how obvious their anomalous properties are and how likely civilians from outside the Nexus are to encounter them. For more information on Nexus definitions and properties, see [[[nexus-series| this page]]].
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Briar.svg height="80px"]]
+
+[[size 130%]]**##blue|Briar##**[[/size]]
+
+Nexus features extranormal events and anomalous objects at a higher-than-normal rate. These are generally only noticeable to permanent inhabitants, requiring little or no cover-up by the Foundation.
+
+Name derived from the Briar Patch, from the Br'er Rabbit folktales.
+@@ @@
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Asphodel.svg height="80px"]]
+
+[[size 130%]]**##green|Asphodel##**[[/size]]
+
+Nexus features a high frequency of extranormal events and anomalous objects. Most visitors will notice that something about this place is unusual, requiring some cover-up by the Foundation.
+
+Name derived from the Fields of Asphodel, the afterlife in Greek Mythology.
+@@ @@
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Camelot.svg height="80px"]]
+
+[[size 130%]]**##FFDD00|Camelot##**[[/size]]
+
+Anomalous activity is an integral part of the town. The Foundation must regularly perform cover-ups, and takes measures to prevent visitors, such as removing the settlement from maps of the area. Containment Facilities may be required on a case-by-case basis.
+
+Name derived from castle of Camelot, from the legends of King Arthur.
+@@ @@
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Shangri-La.svg height="80px"]]
+
+[[size 130%]]**##orange|Shangri-La##**[[/size]]
+
+Frequent and unpredictable anomalous activity, which the Foundation deals with as it occurs. The Foundation actively prevents civilians from entering the area. Containment facility required.
+
+Name derived from the hidden valley of Shangri-La, from James Hilton's Lost Horizon novel.
+@@ @@
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Dunwich.svg height="80px"]]
+
+[[size 130%]]**##red|Dunwich##**[[/size]]
+
+The entire place is anomalous, and almost entirely cut off from the non-anomalous world. Special measures may be required to keep personnel safe. Entry and exit tightly controlled. Containment facility required.
+
+Name derived from the insular town of Dunwich, from the works of H.P. Lovecraft.
+@@ @@
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Free-Port.svg height="80px"]]
+
+[[size 130%]]**##purple|Free Port##**[[/size]]
+
+Hubs of commerce and living, accessible only through anomalous means. These communities are aware of the anomalous, and make use of it in everyday life. These hubs are protected by national or international law, restricting or forbidding Foundation intervention, with law enforcement within the Nexus often performed by its own local government.
+@@ @@
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Crossroads.svg height="80px"]]
+
+[[size 130%]]**##grey|Crossroads##**[[/size]]
+
+Anomalous location connected to one or more alternate realities in addition to our own reality. These may be alternative timelines that diverged from our own at some point in the past, or entire universes operating under different physical laws to our own. These alternate realities are distinct  from so-called "pocket universes", which are also separated from baseline reality, but are significantly smaller in size.
+@@ @@
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Turing.svg height="80px"]]
+
+[[size 130%]]**##008888|Turing##**[[/size]]
+
+Anomalous location existing within a computer simulation, rather than in physical space.
+
+Named after the computer scientist and philosopher, Alan Turing.
+@@ @@
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/jerden-insignia/Location-of-Interest.svg height="80px"]]
+
+[[size 130%]]**Other Locations of Interest**[[/size]]
+
+A number of other inhabited anomalous locations have come to the attention of the Foundation, but are not currently categorised as a Nexus or Free Port, or may have unusual attributes resulting in a non-standard Nexus Class.
+@@@@
+
+[[/div]]
+
+[[# nexus]]
+[[=]]
++ [[span style="font-family: Verdana; font-size: 105%;"]]##black|**List of Nexuses**##[[/span]]
+[[/=]]
+
+@@ @@
+
+[[# consensus-reality]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[scp-7243| Nx-00]]]: Consensus Reality (Formerly Nx-7243) [[/span]]
+
+**Area Class:** --##grey|**Ohanna**##-- ##green|**ENTIRE**## (##666|**Crossroads**##)
+
+**Accessible From:** Baseline, Multiverse
+
+**Surveillance Facility:** Outpost-7243
+
+**Description:** The "Prime Universe" or "Nexus-00" designates consensus reality: all that which is observably, measurably extant and compatible with our universe. This includes any other extrauniversal space which is tethered to, or interfaces with, our reality in a coherent fashion. Any region which can successfully be referenced within consensus reality is, itself, an extension of consensus reality, and therefore comprises Nexus-00. Nexus-00 is of course not a single contiguous, continuous physical surface. It incorporates various physically-disconnected locales which are at least informationally-adjacent to consensus reality. However, it has been evidenced to Our Foundation that the manifold of our local universe (Nexus-00-A) also possesses points and/or boundaries of informational discontinuity. These discontinuities are not to be confused with embedded pocket-universes (ie. a black hole's interior), nor [*/scp-3930 regions of non-existence], nor extreme antimemetic influence, nor local breakdown of conventional physics, nor **##green|hazardous nomenclative influence##**; all such regions can still be referenced, however circuitously, within the manifold of Nexus-00.
+
+**Associated Articles:**
+* [[[SCP-7243]]] - **##gray|EXISTENTIAL ABATEMENT##**
+[[/div]]
+
+[[# wanderers-library]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[scp-6000| Nx-01]]]: [http://wanderers-library.wikidot.com/ The Wanderers' Library] [[/span]]
+
+[[f>image https://wanderers-library.wdfiles.com/local--files/component%3Atheme/wl_logo.png width="150px"]]
+
+**Area Class:** --##red|**Dunwich**##-- ##666|**Crossroads**##
+
+**Accessible From:** Baseline, Multiverse
+
+**Description:** This vast extradimensional library allegedly catalogs everything that has ever been written down, containing countless books that cannot be found anywhere else, including many documenting the occult and paranormal. Although the Foundation has been aware of the Library since 1955, it has existed for much longer than that. The Library is also known as the Nexus of Worlds and the Great Library Yggdrasil due to its connection to multiple universes, with a particularly close connection to other anomalous libraries such as [[[SCP-1726]]] and [[[SCP-4001]]]. The Nexus and the books within are maintained and protected by various inhuman entities known as [[[wanderers-library-hub|Librarians]]]. Individuals that harm the Library, its books, or its patrons are punished by transformation into one of these Librarians, serving the Library until they work off their debt. This has been the fate of a number of Foundation personnel during incursions into the Library, and so the Foundation has adopted a more diplomatic approach to this specific location. The Library is reportedly headed by an entity known as [[[divine-dossier#the-serpent| The Serpent]]], and serves as the base of operations for GoI-014 ("[[[serpent-s-hand-hub|The Serpent's Hand]]]").
+
+**Associated Articles:**
+* [[[wanderers-library-hub|The Wanderer's Library Hub]]]
+* [[[yggdrasils-surveyor|Yggdrasil's Surveyor Hub]]]
+* [[[Third Law Hub]]]
+* [[[another-goddamn-magic-system|Magic Orientation]]]
+* [[[Lessons Learned]]]
+* [[[secrets-and-their-keepers|Secrets and Their Keepers]]]
+* [[[The Black Vaults of Alagadda]]]
+* [[[SCP-6000]]] - The Serpent, the Moose, and the Wanderer's Library
+* All pages tagged [/system:page-tags/tag/wanderers-library wanderers-library].
+[[/div]]
+
+[[# annwn]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[nx-02 |Nx-02]]]: Annwn (Formerly Avalon) [[/span]]
+
+**Area Class:** ##FFDD00|**Camelot**##
+
+**Accessible From:** Irish Sea
+
+**Containment Facility:** [[[secure-facility-dossier-site-12|Site-12]]]
+
+**Description:** Known as Tír na nÓg by the Tuatha Dé Danann (//Homo sapiens tumuli//), and as Avalon by the Fae (//Homo sapiens sidhe//), Annwn is an island located in an extradimensional space. Nx-02 is populated by an unknown number of spectral entities, and is accessible only to those subject to certain [[[SCP-6916| oneirological triggers]]]. Due to growing animosity between the Foundation and the ruler of Nexus, the Foundation's access to the space has now been revoked. Initially believed to have been created and governed by the Fae, recent evidence collated by the Foundation suggests the Nexus was actually originally under human governance, likely Celtic Britons. At some point, between the Roman invasion of Britain, the area was taken over by the Fae and exiled from baseline reality, becoming Nx-02..
+
+**Associated Articles:**
+* [[[SCP-6916]]] - Hiraeth and the Land of My Fathers
+* [[[Nx-02]]]
+* [[[Finding Avalon]]]
+* [[[fae-myths-and-legends|Fae Myths and Legends]]]
+* [[[Immrama|Immrama Series]]]
+[[/div]]
+
+[[# hy-brasil]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[nx-03 |Nx-03]]]: The Kingdom of Hy-Brasil [[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/art%3Alocations-of-interest/COA-Hy-Brasil.svg width="150px"]]
+
+**Area Class:** --##purple|**Free Port**##-- ##FFDD00|**Camelot**##
+
+**Accessible From:** 100 km west of Ireland
+
+**Surveillance Facility**: Site-03
+
+**Description:** One of the Five Fae Kingdoms, Known as Tír na nÓg, The Kingdom of Hy Brasil is a magical island nation state located on an island in the Atlantic Ocean, accessible through non-anomalous means only one day every seven years. The Nexus is governed by the Tuatha Dé Danann (//Homo sapiens tumuli//), an anomalous hominid subspecies native to the island, and acts as a neutral ground for many organisations to operate in, including the Foundation, although the Kingdom is also member of the [[[goc-hub-page| Global Occult Coalition's]]] Council of 108. The island was devastated in 1988 by the arrival of [[[lte-0851-cetus | LTE-0851-Cetus]]] and the subsequent fallout from the GOC's military response.  Both High King Nuada Airgetlám VII and Crown Princess Mór-Ríoghain were killed, and much of the island's surviving population migrated to other Free Ports and paranormal enclaves. The Nexus remains, significantly diminished in power, strength, and population, although reconstruction efforts are ongoing.
+
+**Associated Articles:**
+* [[[War On All Fronts Hub]]]
+* [[[A Foul Storm In A Fair Land]]]
+* [[[storm-more-foul-land-less-fair|A Storm More Foul, A Land Less Fair]]]
+* [[[SCP-7010]]] - "We Will Endure"
+* [[[UTE-1919-Discofather]]]
+* [[[From 120's Archives Hub]]]
+ * [[[the-lost-spire-part-2|The Lost Spire, Part 2]]]
+* [[[Immrama]]]
+ * [[[a-folklorist-approach-to-myth-case-study-01-the-tuatha-de-da|A Folklorist Approach to Myth - Case Study 01: The Tuatha Dé Danann]]]
+* All pages tagged [/system:page-tags/tag/hy-brasil hy-brasil]
+[[/div]]
+
+[[# murky-lake]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-04: Murky Lake[[/span]]
+
+**Area Class:** ##orange|**Shangri-La**##
+
+**Containment Facility:** Site-107
+
+**Location:** New Mexico, USA
+
+**Description:** Murky Lake is a town that has been abandoned since 1936, before which it was notable for an unusually high rate of disappearances and other anomalous events. In addition to lacking a human population at present, wildlife, chlorophyl, music and many parts of the buildings are absent. A number of intangible humanoid figures have been sighted within the Nexus, but all attempts at communication have failed.
+
+**Associated Articles:**
+* [[[SCP-5352]]] - Absence
+[[/div]]
+
+[[# spiral-forest]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[nx-05|Nx-05]]]: The Spiral Forest [[/span]]
+
+**Area Class:** ##green|**EMBLA**##[[footnote]]An anomalous location functions as a esoteric area use to create anomalies.[[/footnote]] (##666|**Crossroads**##)
+
+**Accessible From:** Baseline, Multiverse
+
+**Surveillance Facility:** [[[secure-facilities-locations| Site-01]]]
+
+**Description:** Nx-05 is a large forest located in upstate [REDACTED], nearby Site-01. It is one of the smallest Nexuses on record, being only 8.3 acres of land in total. The area exhibits mild, albeit consistent non-Euclidean activity. This most often manifests in the form of its various hiking paths temporarily being subject to anomalous activity such as going upward endlessly when travelled in a certain direction, but operating normally otherwise. Nx-05 is unique compared to other Nexuses in that no other anomalous phenomena naturally forms in its confines, with all anomalies resulting from it being entirely manmade. Despite its fairly unimpressive features, Nx-05 remains the only location known to the Foundation which can be accurately studied to provide information on how the anomalous as a whole operates; equations derived from this study have provided the basis for the entirety of the Foundation’s understanding of anomalies since the organization's inception.
+
+**Associated Articles:**
+* [[[nx-05 |Nx-05]]]
+* [[[dr-manns-proposal| Dr. Mann's Proposal]]] - The Spiral Path
+[[/div]]
+
+[[# gwag-hen]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[nx-07 | Nx-07]]]: Gwag Hen y Cwn[[/span]]
+
+**Area Class:** ##green|**Asphodel**##
+
+**Location:** Swansea, Wales, United Kingdom
+
+**Containment Facility:** Site-78
+
+**Description:** A small town located on an island off the southern coast of Wales. Most of its inhabitants suffer from therianthropy, or the ability to metamorphose (shapeshift) into other animals.
+
+**Associated Articles:**
+* [[[Nx-07]]]
+[[/div]]
+
+[[# publin]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-09: [[[publin| Publin]]][[/span]]
+
+**Area Class:** ##orange|**Shangri-La**##
+
+**Accessible From:** Wanderer Library, Dublin and Lublin
+
+**Description:** A pub located between the Wanderers' Library and baseline reality. Accessible from the Library, Dublin and Lublin. Popular among members of the Serpent's Hand.
+
+**Associated Articles:**
+* [[[From 120's Archives Hub]]]
+* [[[publin| Publin]]]
+[[/div]]
+
+[[# univers-isle]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-12: [http://scp-int.wikidot.com/groupes-d-interet-fr#univers-isle The Kingdom of Univers'Isle] [[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Univers-Isle.png width="150px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible from:** Savoy, France (formerly)
+
+**Description:** GoI-842 "The Kingdom of Univers'Isle" is an anomalous civilization built on a floating island in an extradimensional reality that otherwise consists of a completely empty sky. The kingdom was founded in the early 18th Century by the inhabitants of Saint-Guérin in Savoy, France, who traveled through cracks in the sky to colonize the landmass. The intervention of the Catholic Church stranded them there, causing the isolated society to develop their own identity as "Isleans". Their paratechnology eventually enabled them create interdimensional portals, resuming contact with the baseline universe, although there is tension between factions that wish for peace, and others that believe that the "Worldians" of Earth should be conquered. The Foundation is collaborating with the peace-seeking Desilist faction to prevent conflict and ensure the Kingdom of Univers'Isle remains concealed.
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/centro-centre-18-20-oct-312 "Centro-Centered" — The Blue Sky 18:20Oct302]
+* [http://scp-int.wikidot.com/patapouf PATAPOUF]
+* [http://scp-int.wikidot.com/le-phare-du-vide Lighthouse of Nil]
+* [http://scp-int.wikidot.com/scp-471-fr SCP-471-FR] - Riders on the Storm
+* [http://scp-int.wikidot.com/scp-522-fr SCP-522-FR] - Body, Soul, Spirit
+* All articles tagged with [http://scp-int.wikidot.com/system:page-tags/tag/univers-isle univers-isle] on the International Translation Archive.
+[[/div]]
+
+[[# buon-ma-thuat]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[nexus-13|Nx-13]]]: Buôn Ma Thuật[[/span]]
+
+[[f>image https://khoaigarret.wdfiles.com/local--files/ht%3Akirq-pic-site-21-vn/buonmathuatlogo width="150px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Đắk Lắk, Vietnam
+
+**Surveillance Facility:** Site-21-VN
+
+**Description:** An anomalous extradimensional area located in [https://en.wikipedia.org/wiki/Bu%C3%B4n_Ma_Thu%E1%BB%99t Buôn Ma Thuột City], Đắk Lắk Province in the Central Highlands of Vietnam. The Nexus itself is one of the largest communities for witches and thaumaturges in Vietnam. In addition to being a hub for trade and business (as its name Buôn Ma Thuật - Selling Magics) for anomalous world behind the Veil, Nexus-13 engages in a variety of activities linked to thaumatology study, the protection of anomalous individuals and entertaining affluent travelers.
+
+**Associated Articles:**
+* [[[nexus-13|Nx-13]]]
+[[/div]]
+
+[[# hoiohina]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][http://scp-int.wikidot.com/nx-14 Nx-14]: Hoiohiña[[/span]]
+
+**Area Class:** ##red|**Dunwich**##
+
+**Location:** Underneath the Guiana Shield, South America.
+
+**Containment Facility:** Site-14
+
+**Description:** A Subterranean ecosystem located at least 40 km beneath South America, inhabited by large intelligent rodents (//Rattus abissos//). These rodents rely on their skill at biothaumaturgy and paraminerology for survival in their underground environment. Site-14 maintains a diplomatic relationship with these non-human inhabitants of the Nexus, prevents exploration by other groups, and cooperates with them to contain entities found deeper within the Abyss. Due to its depth, no further containment is required.
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/nx-14 Nx-14]
+* [http://scp-int.wikidot.com/el-abismo-de-odosha Odosha's Abyss]
+* [http://scp-int.wikidot.com/scp-es-220 SCP-ES-220] - Burning Soul
+* [http://scp-int.wikidot.com/kte-3770-ex-machina-pigmalion KTE-3770-Ex Machina-Pygmalion]
+* All articles tagged [http://scp-int.wikidot.com/system:page-tags/tag/hoiohiña Hoiohiña] on the International Translation Archive.
+
+[[/div]]
+
+[[# boring]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[on-the-radar#toc1|Nx-17]]]: Boring[[/span]]
+
+[[f>image
+https://scp-wiki.wdfiles.com/local--files/art%3Alocations-of-interest/Sign-Boring.svg width="200px"]]
+
+**Area Class:** ##blue|**Briar**##
+
+**Location:** Oregon, USA
+
+**Containment Facility:** [[[secure-facility-dossier-site-64|Site-64]]]
+
+**Description:** Located southeast of Portland, Oregon, Boring's main anomaly is the increased occurrence of almost all known varieties of anomalous fauna. Additionally, Boring is headquarters to [[[groups-of-interest#wilsons-wildlife|Wilson's Wildlife Solutions]]] (WWS), an organisation concentrated on the discovery and preservation of anomalous flora and fauna. Following the establishment of the Boring Agreement, the Foundation -- via Site-64 -- and WWS have agreed to support each other and not to interfere in each other's operations, with WWS handling containment of most of the anomalous animals in Boring, as well as handling containment of additional low-risk anomalies from outside Boring.
+
+**Associated Articles:**
+* [[[wilson-s-wildlife-solutions-hub|Wilson's Wildlife Solutions Hub]]]
+* [[[uiu-file-2008-21|UIU File 2008-021: Ursus Maritimus Incident]]]
+* [[[scp-3160|SCP-3160]]] - There Are Wasps Inside Your Microwave, And They're Stinging You Right Now
+* [[[take-it-away-my-darling|Take It Away, My Darling]]]
+* All pages tagged [/system:page-tags/tag/wilsons-wildlife wilsons-wildlife]
+
+[[/div]]
+
+[[# sloths-pit]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-18: [[[the-s-c-plastics-hub|Sloth's Pit]]][[/span]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/the-s-c-plastics-hub/SCPlastics.png width="150px"]]
+
+**Area Class:** ##orange|**Shangri-La**##
+
+**Location:** Wisconsin, USA
+
+**Containment Facility:** [[[secure-facilities-locations| Site-87]]]
+
+**Description:** Named for the town's founder, Jackson Sloth, Sloth's Pit is a Nexus driven by narrative force. Known anomalies associated with the town include gravity reversal in Main Street every Tuesday at 12:00 PM., a colony of sentient, talking praying mantises, and individuals meeting misfortune upon saying the phrase "What could possibly go wrong?" or variants of it. Many Unclassed Anomalous Entities (UAEs) have emerged from the narrative force of Sloth's Pit, including The Goatman, Sinning Jessie, and the Hook Handed Man. Despite its often goofy and friendly appearance, Sloth's Pit has also been host to multiple terrifying incidents and has its own dark history.
+
+**Associated Articles:**
+* [[[the-s-c-plastics-hub|S&C Plastics Hub]]]
+* [[[SCP-4040]]] - At The Bottom Of A Bottomless Pit
+* [[[Last Days At Camp]]]
+* [[[Black Autumn Hub]]]
+* [[[site-87-faq|Site-87 Orientation: FAQ]]]
+* All pages tagged [/system:page-tags/tag/s%26c-plastics s&c-plastics]
+[[/div]]
+
+[[# kleinberg]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-20: [[[scp-1309|Kleinberg]]][[/span]]
+
+**Area Class:** ##orange|**Shangri-La**##
+
+**Location:** Dewey County, South Dakota, USA
+
+**Surveillance Facility:** Site-24
+
+**Description:** Known as SCP-1309 is the town of Kleinberg, South Dakota, which is trapped in a time loop between the years 1920 to 1928. Long-term observation has determined that events do not repeat with each cycle, and inhabitants retain all memories and experiences between cycles.
+
+**Associated Articles:**
+* [[[SCP-1309]]] - Time-Locked Town
+* [[[broken-masquerade-hub|Broken Masquerade Hub]]]
+ * [[[freekleinberg| Free Kleinberg]]]
+[[/div]]
+
+[[# olive-hill]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-25: Olive Hill[[/span]]
+
+**Area Class:** ##FFDD00|**Camelot**##
+
+**Location:** Kentucky, USA
+
+**Containment Facility:** Site-10
+
+**Description:** Outside the Veil, Olive Hill is well-known for the Tygarts State Forest; a popular attraction for tourists. But come the later hours of midnight, strange events happen, such as young children going missing and strange noises emanating from the forest itself. Rumors of a witch inhabiting the forest also plague the city's populace as they mourn over their lost children. The forest itself has been avoided by civilians and Foundation personnel alike, as many have entered to explore and investigate the missing children but have yet to return.
+
+**Associated Articles:**
+* [[[SCP-4530]]] - And Into The Woods We Go
+
+[[/div]]
+
+[[# broken-hill]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[nx-28|Nx-28]]]: Broken Hill[[/span]]
+
+**Area Class:** ##blue|**Briar**##
+
+**Location:** Western Australia, Australia
+
+**Containment Facility:** Outpost-86
+
+**Description:** A former mining town in Western Australia, currently populated by a number of ghosts. These ghosts are attempting to expand the tunnel network in the search for more gold, causing a network of mines that does not conform to standard topological models.
+
+**Associated Articles:**
+* [[[Nx-28]]]
+[[/div]]
+
+[[# negaseattle]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-32: Negaseattle[[/span]]
+
+**Area Class:** ##green|**Asphodel**##
+
+**Location:** Washington, USA
+
+**Containment Facility:** Outpost-32
+
+**Description:** A small area of the Cascade Mountain range with a significantly high volume of illusory flora and fauna. Although mostly harmless when left alone, direct interaction with the anomalous plants and animals of the area can yield unpredictable and sometimes dangerous results, as things are often not what they appear to be. The town of Negaseattle is a Foundation retirement village, populated entirely by Foundation employees and former employees and hidden from civilians, and is also the home of the SCP-5132 Project.
+
+**Associated Articles:**
+* [[[SCP-5132]]] - The Kids Aren't Alright
+* [[[working-dogs|Working Dogs]]]
+* [[[holy-terrors-1|Holy Terrors]]]
+
+[[/div]]
+
+[[# drake]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[nx-33|Nx-33]]]: Drake[[/span]]
+
+**Area Class:** ##FFDD00|**Camelot**##
+
+**Location:** Inverness-shire, Scotland, United Kingdom
+
+**Containment Facility:** Site-127
+
+**Description:** This Nexus is inhabited by Humanoid Anomalous Constructs (HACs), who have been integrated into everyday life in the Nexus. An abundance of [[[scp-936|SCP-936]]] are also located around the town, and may actually be posing as members of the community.
+
+**Associated Articles:**
+* [[[Nx-33]]]
+[[/div]]
+
+[[# frauds-hill]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-35: Fraud's Hill[[/span]]
+
+**Area Class:** ##FFDD00|**Camelot**##
+
+**Location:** Unknown
+
+**Containment Facility:** Site-CB
+
+**Description:** Nx-35 is a small town whose population is daily partitioned into "Mourners" and "Rejoicers", distinguished by masks with a frown and a smile, respectively.
+
+**Associated Articles:**
+* [[[SCP-9341]]] - Containment Breach: Capacity
+[[/div]]
+
+[[# atlantic-city]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-36: Atlantic City[[/span]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Seal-Atlantic-City.png width="150px"]]
+**Area Class:** ##blue|**Briar**##
+
+**Location:** New Jersey, USA
+
+**Containment Facility:** [[[secure-facility-dossier-site-333|Site-333]]]
+
+**Description:** Designated as a Nexus after the New Jersey Rapture, in which 25 kind-hearted individuals inexplicably demanifested. Since this event, the city has gained an abnormal increase in "unfortunate" events, its background Akiva radiation has dropped to 0 and its residents have been experiencing a constant feeling of despair, hopelessness and distrust on others, as well as general apathy towards the human condition. Notably, these emotions are temporarily diminished when inside the city's various casinos, although whether this is an anomalous phenomenon or a natural reaction is a matter of debate.
+
+**Associated Articles:**
+* [[[secure-facility-dossier-site-333|Welcome to Site-333: Atlantic City]]]
+* [[[SCP-7399]]] - Notice of Review by the Records, Archival, and Information Security Administration
+[[/div]]
+
+[[# daleport]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-37: [[[SCP-1936| Daleport]]][[/span]]
+
+**Area Class:** ##red|**Dunwich**##
+
+**Location:** New England, USA
+
+**Surveillance Facility**: Area-37
+
+**Description:** Daleport is the only Nexus without a mortal population following an incident in 1997, where a cult in the town attempted to summon multiple omnipotent entities in order to 'cleanse' the town. The ritual failed, and the entire town's population was wiped out. Today, the Nexus is a hotbed of anomalous activity, including the apparition of disembodied limbs and voices belonging to the slaughtered townsfolk.
+
+**Associated Articles:**
+* [[[SCP-1936]]] - Daleport
+* [[[SCP-8400]]] - The Birch Knight and the Game of Three Chestnuts
+* [[[lord-jeser|Lord Jeser]]]
+* [[[party-of-gods|Not a contest entry, but a crackfic about gods anyways]]]
+
+[[/div]]
+
+[[# verstecktedorf]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-43: Verstecktedorf[[/span]]
+
+**Area Class:** ##FFDD00|**Camelot**##
+
+**Location:** Baden-Württemberg, Germany
+
+**Containment Facility:** Site-99
+
+**Description:** Verstecktedorf is a small town in Germany which experiences anomalous activities related to the fairy tales of the Grimm Brothers. This Nexus also hosts the Black Forest, a notable location from the Grimm Brothers' tales. Some stories from the town had managed to circulate the Internet through sites such as [[[parawatch-hub|Parawatch]]], but are often dismissed as urban legends.
+
+**Associated Articles:**
+* [[[Der Machandelbaum]]]
+* [[[Verdure]]]
+* [[[the-halloween-watch|Halloween Watch]]]
+[[/div]]
+
+[[# laputa]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-44: Flying Island of Laputa[[/span]]
+
+**Area Class:** ##purple|**Open Free Port**##
+
+**Location:** Mobile
+
+**Description:** Laputa is a large floating island city-state in the sky inhabited by scientists, philosophers and Thaumaturges capable of floating due to the technology of The Grand Lodestone.
+
+**Associated Articles:**
+* [[[scp-6460| EE-6460]]] - Super-Sargasso Sea
+[[/div]]
+
+[[# eventide]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-51: Eventide[[/span]]
+
+**Area Class:** ##red|**Dunwich**##
+
+**Location:** Oregon, USA
+
+**Surveillance Facility**: Site-51
+
+**Description:** Eventide is a city in Oregon that never sees the Sun due to an unknown impermeable object blocking the sky. The almost continuous downpour of rain, along with the lack of sunlight and anomalous nature, has accelerated the growth of anomalous fungi, which are used to create anomalous drugs to supply Eventide's black market. Due to the control exerted by the Bavarian Illuminati[[footnote]] A member of the GOC's Council of 108.[[/footnote]] upon the city, the Foundation must operate covertly to gain control of the city.
+
+**Associated Articles:**
+* [[[hotline-eventide|Hotline: Eventide]]]
+* [[[d-a-r-e-drugs-are-really-extreme|D.A.R.E (Drugs Are Really Extreme!)]]]
+* [[[critter-profile-bakugo| Critter Profile: Bakugo]]]
+* [[[how-did-we-get-here|  How Did We Get Here?]]]
+[[/div]]
+
+[[# harkness]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-52: Harkness[[/span]]
+
+**Area Class:** ##red|**Dunwich**##
+
+**Location:** Maryland, USA
+
+**Containment Facility:** Site-52
+
+**Description:** Harkness, Maryland is the single most concentrated population with anomalous diseases. The equivalent of an anomalous leper community, following the intentional infection of the town's water supply by an unknown group in the 1980s, the entire population is immune to non-anomalous disease, but afflicted with at least one anomalous disease. The Nexus is also covered in a dense, green miasma, which does not dissipate or affect the population of Harkness. Harkness Nexus is used as a vaccine procurement and testing facility, due to the rare specimens present within the Nexus.
+
+**Associated Articles:**
+* [[[An Apple A Day]]]
+* [[[scp-7864|VNP-7864]]] - These are the things that I never will learn
+[[/div]]
+
+[[# old-benevento]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-55: Old Benevento (Benevento Vecchia)[[/span]]
+
+**Area Class:** ##FFDD00|**Camelot**##
+
+**Accessible From:** Benevento (BN), Campania
+
+**Description:** Founded by the [[[http://scp-int.wikidot.com/gruppi-di-interesse#CCSG| Brotherhood of the Knights of St. George]]] in recognition [[[http://scp-int.wikidot.com/scp-001-it-graf| of ancient joint containment operations]]] , Nx-55 is a matriarchal pagan village frequented by would-be thaumaturges, sorcerer students, and other Blue Types alike. Being governed and patronized primarily by the [[[http://scp-int.wikidot.com/gruppi-di-interesse#OI|Order of Janus]]], in line with the Foundation, no containment facilities are required.
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/locations-of-interest-it Locations of Interest-IT]
+* [[[SCP-198-IT]]] - The Duck with Balls
+[[/div]]
+
+[[# summerstone]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-56: Summerstone[[/span]]
+
+**Area Class:** ##FFDD00|**Camelot**##
+
+**Location:** Wales, United Kingdom
+
+**Containment Facility:** Site-17
+
+**Description:** Nx-56 was Summerstone, a Welsh logging town surrounding a temperate rainforest. Originally the host of a semi-stable SCP-4886-A ecosystem, the events of Incident 4886-AO forced the Foundation to reassess the extent of Nx-56's anomalous properties. Reevaluation of Nx-56's Nexus status is also being considered.
+
+**Associated Articles:**
+* [[[SCP-4886]]] - The Cop and the Countryside
+* [[[wwydftltimd-hub|When Will You Die for the Last Time in My Dreams - Hub]]]
+[[/div]]
+
+[[# shambhala]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-57: Shambhala[[/span]]
+
+**Area Class:** ##666|**Crossroads**##
+
+**Accessible From:** Mount Meru, Central Asia
+
+**Description:** Shambhala, known as Nx-57, is an ancient city located within Mount Meru know Mount Sumeru in Central Asia. and is notable for being the site where the monk Xuanzang acquired the Buddhist sūtras.
+
+**Associated Articles:**
+* [[[scp-6460| EE-6460]]] - Super-Sargasso Sea
+* [[[new-atlantis|New Atlantis, Arizona]]]
+[[/div]]
+
+[[# yumegemu]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[nx-58 | Nx-58]]]: Yumegēmu[[/span]]
+
+**Area Class:** --##orange|**Shangri-La**##-- ##red|**Dunwich**##
+
+**Location:** Tokushima, Japan
+
+**Containment Facility:** [[[http://scp-int.wikidot.com/secure-facility-dossier-site-81tg|Site-81TG]]] (formerly [[[secure-facilities-locations| Site-79]]])
+
+**Description:** Yumugēmu is a Nexus located in Japan that features multiple topographical anomalies. The Nexus also incorporates games and challenges into its surroundings, causing buildings in the Nexus to mirror those often found in video games. The Nexus also causes alterations in the people living in it, as well as shows signs of temporal and chronal abnormalities.
+
+**Associated Articles:**
+* [[[SCP-2117]]] - The Stolen Solidarity
+* [[[SCP-6722]]] - The Phantasmic Foundation Speedrunning Competition of '11
+* [[[SCP-7813]]] - Stunlocked
+* [[[Bad End]]]
+* [[[the-time-after-time-password-hub|The Time After Time Password (Hub)]]]
+ * [[[ready-or-not|Ready or Not...]]]
+ * [[[here-i-come|...Here I Come]]]
+[[/div]]
+
+[[# amityville]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-59: Amityville[[/span]]
+
+**Area Class:** ##orange|**Shangri-La**##
+
+**Location:** Missouri, USA
+
+**Containment Facility:** Site-59
+
+**Description:** Unlike the haunted house of the same name, Amityville is a small town in Missouri that relies heavily upon the laws of irony and bad luck. Many events in the town are often accompanied by sudden unpredictable changes or conform to local superstitions. However, rumors have emerged from the town regarding the abuse of power of Foundation personnel in Site-59, who have allegedly formed a dictatorship in Amityville.
+
+**Associated Articles:**
+* [[[SCP-2920]]] - What Did You Expect?
+* [[[the-amityville-triumph|The Amityville Triumph]]]
+* [[[project-isorropia|Project Isorropía]]]
+[[/div]]
+
+[[# district-zero]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][*http://scp-int.wikidot.com/nx-59-vn NX-59-VN]: District Zero (Quận Không)[[/span]]
+
+**Area Class:** ##FFDD00|**Camelot**##
+
+**Location:** Thủ Đức Sub-City, Vietnam; District One of Hồ Chí Minh City, Vietnam
+
+**Surveillance Facility:** [[[http://scp-int.wikidot.com/secure-facility-dossier-site-75-vn|Site-75-VN]]]
+
+**Description:** The city-state of District Zero is one of the largest anomalous communities in Southeast Asia, and has a lengthy history as a location where various cultures and anomalous communities collide. Although the existence of NX-59-VN has long been known to the paranormal world, political upheaval in the region prevented the Foundation from conducting research and diplomatic outreach within the area until 1976. Due to the unstable nature of NX-59-VN’s entrances, for a long time only individuals with certain thaumatological or reality bending capabilities could freely access it. In 2011, the construction of the Varenne Gate[[footnote]]A massive paratechnological space-stabilizing machine[[/footnote]] by the Global Occult Coalition and the District Zero government, with support from the government of Vietnam, created a stable entrance to District Zero, enabling the community to become more actively involved in the outside anomalous community.
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/nx-59-vn NX-59-VN - District Zero]
+* [http://scp-int.wikidot.com/don-vi-tam-linh-hub Spiritual Division Hub]
+* [http://scp-int.wikidot.com/diep-ton-hub GOI-VN File: Children of the Leaf]
+* [http://scp-int.wikidot.com/scp-420-vn SCP-420-VN] -  Pothood Godhood
+* All articles tagged with [http://scp-int.wikidot.com/system:page-tags/tag/district-zero district-zero] on the International Translation Archive.
+@@@@
+[[/div]]
+
+[[# irkalla]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-61: [[[ptt-1666-gray-templum|Irkalla]]][[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Zagros mountains of Northern Iraq and Western Iran
+
+**Description:** One of the many afterlives available to humanity, Irkalla, also known as Ir-Kalla, Irkalia, Kukku, Arali, Kigal, Kur or Erṣetu, a vast, partially extraspatial underground cavern below the Middle East, with a single spiral staircase acting as its entrance. This cavern contains many spirits and demons from the collection of societies that once resided in pre-Islamic Mesopotamia, and is one of a number of locations that have been traditionally described as a hell. Is the ancient Babylonian and Sumerian underworld or Sumerian Netherworld. It was a dark, dreary cavern located deep below the ground, where inhabitants were believed to continue "a shadowy version of life on earth".
+
+Irkalla was host to a large-scale slave revolt and civil war in the latter half of the 20th century, spurred on by competing interests from both America and the Soviet Union. Relations between Irkalla and the United States have eased lately, allowing an embassy and a UIU International Office to be established in its capital, but tensions still remain high. As the Tartarean Realm slowly industrializes and reaches out to the broader occult community, The United States hopes to use it as a pawn in their cold war against the Prince of Darkness, though the current regime is loath to be manipulated.
+
+**Associated Articles:**
+* [[[third-law-hub|Third Law Hub]]]
+* [[[dead-king-s-march|Dead King's March]]]
+* [[[ptt-1666-gray-templum|PTT-1666-Gray-Templum — "Irkalla, House of Dumuzi, the Netherworld"]]]
+* [[[SCP-8660]]] - The Empty Birdcage
+* [[[welcome-to-spectral-affairs|Welcome To Spectral Affairs]]]
+[[/div]]
+
+[[# mujin]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-64: [[[scp-8540|Mujin]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Mujin-si.png width="200px"]]
+
+**Area Class:** ##green|**Asphodel**##
+
+**Location:** South Jeolla, South Korea
+
+**Containment Facility:** [[[secure-facility-dossier-site-64k|Site-64K]]]
+
+**Description:** Mujin is located along the coast of the Yeosu Peninsula, and experiences a never-ending fog that blankets the city. In addition to the fog, this Nexus also contains [[[scp-521-ko|SCP-521-KO]]], and possesses the lowest Hume level for any known Nexus, catalyzing an increase in the number of anomalies encountered by personnel at Site-64K.
+
+**Associated Articles:**
+* [[[http://scp-int.wikidot.com/mujin-yarn|Mujin Yarn]]]
+* [[[SCP-8540]]] - A Journey to Mujin
+* [[[SCP-521-KO]]] - What is Seeing?
+* [[[secure-facility-dossier-site-64k|Secure Facility Dossier: Site-64K]]]
+* [http://scp-int.wikidot.com/scp-137-ko SCP-137-KO] - The Bad Land
+* [http://scp-int.wikidot.com/in-the-world-where-the-fog-has-vanished In The World Where The Fog Has Vanished]
+* All pages tagged [http://scp-int.wikidot.com/system:page-tags/tag/mujin mujin] on the International Translation Archive.
+[[/div]]
+
+[[# usher-house]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] Nx-76: Usher House [[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Baltimore, Maryland, USA; Providence, Rhode Island, USA; Bangor, Maine, USA.
+
+**Description:** An Autonomous Extradimensional State with entrances in Baltimore, Maryland, Providence, Rhode Island, and Bangor, Maine, population 4,481. Possesses a large subculture of horror writers. It falls under the jurisdiction of the US government according to the [[[paralaw|Hoover Mandate]]].
+
+**Associated Articles:**
+* [[[SCP-3256]]] - Web of Murder
+[[/div]]
+
+[[# markhaven]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-78: [[[scp-5478|Markhaven]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/scp-5478/Flag_of_Fremont,_California.gif style="border:1px solid black;" width="200px"]]
+
+**Area Class:** ##red|**Dunwich**##
+
+**Location:** Indiana, USA
+
+**Containment Facility:** Site-42
+
+**Description:** A gated community, built in the style of 1950s American suburbia and isolated from the outside world by an anomalous fence. The town is run by a socially conservative authoritarian government, utilizing indoctrination, propaganda and chemical compounds to maintain control of the population. Deliveries have been made to the town by GoI-627 ([[[factory-hub|"The Factory"]]]), and funding appears to have originally come from the [/system:page-tags/tag/pentagram#pages PENTAGRAM], the occult branch of the United States Department of Defense.
+
+**Associated Articles:**
+* [[[SCP-5478]]] - Markhaven, Indiana
+* [[[SCP-5078]]] - A Nuclear Family
+[[/div]]
+
+[[# gmina-cycow]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-79: Gmina Cyców[[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/COA-Cyc%C3%B3w.png height="150px"]]
+
+**Area Class:** ##red|**Dunwich**##
+
+**Location:** Lublin Voivodeship, Poland
+
+**Containment Facility:** Site-PL-79
+
+**Description:** The entire area of the Cyców commune in Poland is classified as a Nexus. As the area where the barrier separating our reality from the demonic reality layer is at its thinnest, demonic anomalies are extremely common in this region. Due to this, the Foundation has isolated the commune from the rest of civilization and established its own Site within. The headquarters of [[[hunter-industries-hub| GoI-PL-079 ("Hunter Industries")]]] are also located within this nexus.
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/pieklo-cycow-hub Cyców's Hell]
+* [http://scp-int.wikidot.com/scp-pl-289 SCP-PL-289] — A Multidimensional Solution For Shopping at Biedronka
+* [http://scp-int.wikidot.com/zlecenie-mef-2839 Order MEF-2839]
+* [http://scp-int.wikidot.com/zlecenie-mef-7629 Order MEF-7629]
+[[/div]]
+
+[[# camelot]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] Nx-89: The Kingdom of Camelot [[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** London, Great Britain, United Kingdom, Europe
+
+**Description:** One of the Five Fae Kingdoms, The Kingdom of [*https://scp-wiki.wikidot.com/scp-4918 King Arthur].[[footnote]]Identified individually as SCP-4918 of Camelot (hero of various English and Breton sagas).[[/footnote]] Camelot, an anomalous nation which existed in the British Isles and surrounding territories during the fifth and sixth centuries, C.E. Following the fall of Camelot, the kingdom was removed from baseline reality becoming a Paranormal Free Port and nation under the Fae rule espeaclly with the [[[NT-4041-Nimuedianetic-Karhu|Lady of the Lake]]] being one of the most prominent survivors of the [[[finding-avalon|destruction]]] of FP-26 (Avalon) the upholder of [[[goc-tale-sequence-assessment|The Arthurian Charter]]].[[footnote]]An agreement between the humans and the Fae of England to facilitate a peaceful coexistence.[[/footnote]]
+
+**Associated Articles:**
+* [[[SCP-1777]]] - Kings Cave
+* [[[SCP-2307]]] - The Pen Is Mightier
+* [[[SCP-4918]]] - Bergentruckung
+* [[[SCP-6265]]] - The Royal Nursery
+* [[[scp-6460| EE-6460]]] - Super-Sargasso Sea
+* [[[scp-8471| VNP-8471]]] - Return of the Summer Court
+* [[[a-once-and-future-king| A Once and Future King: The Intersection of Folklore and Popular Religion in the Field of Tactical Theology]]]
+[[/div]]
+
+[[# elelin]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-90: [[[scp-6623|Elelín]]] (City of the Caesars)[[/span]]
+
+**Area Class:** ##red|**Dunwich**##
+
+**Accessible From:** Patagonia region of South America
+
+**Surveillance Facility:** Area-41
+
+**Description:** The mythical city of Elelín, known as Ciudad de los Césares, City of Patagonia, The Wandering City, Trapalanda or Trapananda, Lin Lin, Elelín and City of Ceasars. Accessible via numerous Ways within the Patagonia region of South America. SCP-6623 is a two-tiered city, organised into numerous hub areas. The lower tier is mostly residential areas, consisting of typical 17th-century Spanish architecture as well as small farms. Due to the quantity of farms, most replacing typical plazas within buildings, it is assumed much of this city's food source was gained through subsistence farming. The city's upper-tier largely consists of intact governmental buildings, schools, marketplaces, and libraries, in addition to a large central building. This building appears to be the focal piece of the city, dwarfing all other buildings on the upper tier. Member of The Seven Cities of Gold.
+
+**Associated Articles:**
+* [[[SCP-6623]]] - The Wandering City
+[[/div]]
+
+[[# cipher-city]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]] Nx-91: Cipher City[[/span]]
+
+**Area Class:** ##008888|**Turing**##
+
+**Surveillance Facility:** [[[secure-facilities-locations|Site-15]]]
+
+**Description:** A digital city located in the [[[church-of-the-broken-god-hub|Maxwellist]]] network. Believers of WAN connect their consciousness to the network through cybernetic implants, and interact with the city through digital avatars. Despite its simulated nature, Cipher functions in many ways like an ordinary city, with buildings, stores, and its own currency. To manage the city and raise funds for the church a council composed of six individuals known as the Hexagon control the city, conducting their will through a special task force known as The Compilation Layer. While officially only Maxwellists are allowed to access the network, it is possible for AIs and humans alike to infiltrate the city through 'backdoors'.
+
+**Associated Articles:**
+* [[[Hello World]]] (Series)
+* [[[Basic Observations]]]
+* [[[Corruption]]]
+* [[[Mindfall]]]
+[[/div]]
+
+[[# lake-huron]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-94: Lake Huron [[/span]]
+
+**Area Class:** ##blue|**Briar**##
+
+**Location:** Ontario, Canada
+
+**Containment Facility:** [[[secure-facility-dossier-site-43|Site-43]]]
+
+**Description:** Nx-94 designates not a single contiguous area, but instead a series of First Nations reserves along the coast of Lake Huron where culturally-specific anomalous occurrences are common. As these occurrences typically only involve members of the related cultures, and as local populations are low, only nominal monitoring activities organized at Site-43 have been necessary thus far. Indigenous peoples carrying out their traditional rituals have successfully propitiated nearly all mythological beings within the Nexus, making their actual containment a non-issue.
+
+**Associated Articles:**
+* [[[on-guard-43-hub|On Guard 43 Hub]]]
+* [[[SCP-5494]]] - The Lords of the Beneath World
+* [[[whose-lake-is-it-anyway|Whose Lake Is It Anyway?]]]
+* [[[Dead Dogs, Magic Mounties]]]
+* [[[the-good-work|The Good Work]]]
+[[/div]]
+
+[[# mamonokai]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-96: Mamonokai (魔物界) [[/span]]
+
+**Area Class:** ##red|**Dunwich**##
+
+**Accessible from:** Japan
+
+**Surveillance Facility:** [[[secure-facilities-locations|Site-50]]]
+
+**Description:** Once known as SCP-6979-1, Mamonokai was a dimensional mirror of Japan, where the Mamono, a type of Yokai entity lived. The Mamono were once formless entities that gained form and names thanks to the folktales of Japan that they inspired, becoming a cycle that fed both the anomalous world of Japan as well as the one in Mamonokai. Following the Meiji Restoration, Mamonokai was invaded and used by the IJAMEA in order to create the Yokai Battalion, the group murdering all opposition and enslaving the remains. Over 90% of Mamonokai’s population was murdered or removed from the area, and the place was left to rot. Following the discovery of the Kuchisake-Onna, Mamonokai was revitalized, and a town was built inside of it for the residence of anomalous entities and the flourishing of an anomalous society that would benefit Site-50 and the Japanese Branch of the Foundation in general, the once destroyed place becoming a Nexus. While some survivors have accepted the move, others still resent the Japanese for crimes committed by the Empire of Japan.
+
+**Associated Articles:**
+* [[[SCP-6979]]] - Night Parade of a Single Demon
+[[/div]]
+
+[[# green-pastures]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-97: Green Pastures[[/span]]
+
+**Area Class:** ##purple|**Open Free Port**##
+
+**Accessible From:** Iowa, USA.
+
+**Description:** Green Pastures, Iowa, an anomalous nexus and town whose four formerly feuding families acquired anomalous abilities in the Antebellum. When the town was founded in the 1800s, four families were feuding over a plot of land where the soil was fertile: the Schafers, the Storms, the Gardeners, and the Aldermanns. It falls under the jurisdiction of the US government according to the [[[paralaw|Hoover Mandate]]].
+
+**Associated Articles:**
+* [[[there-s-magic-in-the-air|There's Magic in the Air]]]
+* [[[uiu-series-with-no-name-hub|The UIU Series With No Name Hub]]]
+ * [[[taproots|Taproots]]]
+ * [[[midnight-plane-going-anywhere|Midnight Plane Going Anywhere]]]
+ * [[[it-s-too-cold-for-you-here|It's Too Cold For You Here]]]
+[[/div]]
+
+[[# bacata-nyia]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-99: Bacatá Nyia (El Dorado)[[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** South America, Latin america.
+
+**Description:** Also known as New Teotihuacan and "El Dorado" of legend, although this is a Spanish exonym. Already possesses a mild memetic effect compelling explorers to attempt to discover it, Member of The Seven Cities of Gold.
+
+**Associated Articles:**
+* [[[scp-6460| EE-6460]]] - Super-Sargasso Sea
+* [[[https://wanderers-library.wikidot.com/legends-of-midgard|Legends of Midgard]]]
+ * [[[https://wanderers-library.wikidot.com/on-amvat-s-children|On Amvat's Children]]]
+[[/div]]
+
+[[# ipperwash]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[Nx-143]]]: Camp Ipperwash[[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/on-guard-43-hub/LHR2.png height="200px"]]
+
+**Area Class:** ##blue|**Briar**##
+
+**Location:** Ontario, Canada
+
+**Containment Facility:** [[[secure-facility-dossier-site-43|Site-43]]]
+
+**Description:** Nx-143 designates the subterranean footprint of Site-43 and its immediate environs, wherein romantic activities occur at a statistically improbable rate. The effect itself cannot be reversed, as its source is not yet known; SCP Foundation staff are granted access to pharmaceutical means of regulating their libidos.
+
+**Associated Articles:**
+* [[[Nx-143]]]
+* [[[on-guard-43-hub|On Guard 43 Hub]]]
+* [[[0-underture |Underture]]]
+[[/div]]
+
+[[# sculpture-island]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-173: Sculpture Island[[/span]]
+
+**Area Class:** ##red|**Dunwich**##
+
+**Location:** Dr. Moto's office, Site-19
+
+**Containment Facility:** [[[experiment-log-914-hub|Site-19]]]
+
+**Description:** Nx-173 is a small island accessible via a wooden door in Dr. Moto's office, Site-19. The door appeared somewhere in 1993 along with the disappearance of Dr. Moto. Origin and where the island is situated are unknown, but exploration of the region strongly suggests that it is located somewhere on Earth. Flora is non-anomalous, but the fauna of Nx-173 is extremely hostile.
+
+**Associated Articles:**
+* [[[SCP-173 But... it's a Collaborative Log|SCP-173 But... it's a Nexus]]]
+[[/div]]
+
+[[# houyhnhnmland]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-300: Houyhnhnmland (Formerly SCP-9A8C)[[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Indian Ocean
+
+**Description:** Known as Houyhnhnm Land is the island home of the Houyhnhnms, a race of sentient equines who govern their society with strict order and reason.
+
+**Associated Articles:**
+* [[[scp-6460| EE-6460]]] - Super-Sargasso Sea
+[[/div]]
+
+[[# puerto-extrano]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-572: Puerto Extraño[[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Flag-Puerto-Extrano.png width="200px" style="border:1px solid black;"]]
+
+**Area Class:** ##orange|**Shangri-La**##
+
+**Location:** Southern Argentina
+
+**Containment Facility:** Site-572
+
+**Description:** One of the few Nexuses of extraterrestrial origin, Puerto Extraño was created when an exploration group sent by Argentina's Ministry of Science, Technology, and Innovation discovered an alien terraformer in the Antarctic and brought it back to their country. The colonists themselves were physically altered by exposure to the device, and its activation created an alien atmosphere, with organisms in it being physically altered to adapt them to the light of a grey sun. Additionally, a neural network formed, allowing the sharing of emotions within the confines of the Nexus. This resulted in the voluntary self-isolation of its inhabitants.
+
+**Associated Articles:**
+* [[[SCP-6500]]] - Inevitable
+* [[[SCP-8273]]] - The Severed
+[[/div]]
+
+[[# piss-world]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-933: The Piss World[[/span]]
+
+**Area Class:** ##666|**Crossroads**##
+
+**Surveillance Facility**: Outpost-933
+
+**Description:** Recognized as one of the more peculiar alternate universes to directly contact baseline reality, the Piss World[[footnote]](Provisional codename; official name pending translation.)[[/footnote]] refers to an anomalous planetary body and biosphere which heavily incorporate a potent substance that, for all intents and purposes, is identical to human urine. Residing here is Species of Interest-9155 ("Bacteranoids") -- gelatinous, metamorphic organisms responsible for creating entire civilizations, economies and cultures all revolving around the liquid that forms their landscape. A former utopia, Nx-933 and its society is suffering from an ecological catastrophe caused by the gradual, inexplicable disappearance of its main fluid, forcing the species' most brilliant minds to search outside the bounds of their universe in hopes of discovering an alternate source of the only liquid that can save them from an impending apocalypse.
+ 
+**Associated Articles:**
+* [[[SCP-6833]]] - The Piss World
+[[/div]]
+
+[[# pillar-library]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-1726: [[[scp-1726|The Pillar Library]]][[/span]]
+
+**Area Class:** ##666|**Crossroads**##
+
+**Accessible From:** [REDACTED] Province, China, Wanderer Library
+
+**Description:**  The anomalous library of SCP-1726 known as "The Pillar Library" a branch of Nx-01: The Wanderers' Library. SCP-1726 is a library in China containing information philosophical, theological, and historical texts, accompanied by artifacts from civilizations in east and central Asia on ancient anomalous civilisations From the Yeren, Shambhalan dynasties, the Lemurian river peoples, the dynasties of Mu, and the Daevic Empire. The library can only be accessed when accompanied by the animate porcelain statues know as SCP-1726-1 that serve as caretakers.
+
+**Associated Articles:**
+* [[[SCP-1726]]] - The Library and the Pillar
+[[/div]]
+
+[[# alexandria-eternal]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-4001: [[[scp-4001|Alexandria Eternal]]][[/span]]
+
+**Area Class:** ##666|**Crossroads**##
+
+**Accessible From:** City of Alexandria, Egypt, Wanderer Library
+
+**Description:**  The anomalous library of SCP-4001 known as "The Alexandria Library" a branch of Nx-01: The Wanderers' Library. SCP-4001 is an unending subterranean library beneath the Mouseion of Alexandria represents the complete archive of every human life to date, and is continuously self-updating. Every human being that has ever lived has a single corresponding book within the archive, detailing all important events in their life. As humans are born, new books corresponding to them are added to the archive.
+
+**Associated Articles:**
+* [[[SCP-4001]]] - Alexandria Eternal
+* [[[mundus-liberari|Mundus, Liberari Hub]]]
+ * [[[ecce-insurgo|Ecce Insurgo]]]
+[[/div]]
+
+[[# new-atlantis]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-5525: [[[new-atlantis|New Atlantis]]] [[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/new-atlantis/AtlantisArizonaFlag2.png width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Glen Canyon Dam, Arizona, USA
+
+**Description:**  The Republic of New Atlantis, also known The Restored Thalassocracy of the Peoples of the Sea, is an Atlantean Colony and a City-State located in Arizona. It was founded by a small number of Atlanteans (//Homo sapiens aquarius//) removed from [[[SCP-5525]]], where they were maintained in stasis within an anomalous device known as the "Untimely Mirror". The Atlanteans were subsequently granted a small region of land around a reservoir by the US Government, which has been developed into a small but secluded city, concealed through techno-thaumaturgy, but heavily monitored by the United States Military. Serving as a continuation of the original Atlantis, New Atlantis has an oligarchic and thalassocratic republic, with the rulers being the Admiralty Board of Senator-Admirals, elected from the New Atlantis Senate. The relationship between Atlantean race and the United States Government is based on the [[[paralaw|Biltmore Treaty]]], which was established with the help of the United Nation's [[[goc-hub-page| Global Occult Coalition]]].
+
+**Associated Articles:**
+* [[[Third Law Hub]]]
+* [[[new-atlantis|New Atlantis, Arizona]]]
+* [[[paralaw|UIU Memorandum — Paralaw Briefing]]]
+* [[[SCP-5525]]] - The United States Government Loots Atlantis
+[[/div]]
+
+[[# free-port]]
+[[=]]
++ [[span style="font-family: Verdana; font-size: 105%;"]]##black|**List of Free Ports**##[[/span]]
+[[/=]]
+
+@@ @@
+
+[[# three-portlands]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-01: [[[three-portlands-hub |Three Portlands]]] [[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/three-portlands-hub/three_ports_flag width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Portland, Oregon, USA; Portland, Maine, USA; Isle of Portland, Dorset, England, United Kingdom
+
+**Surveillance Facility:** [[[secure-facility-dossier-site-64| Site-64]]]
+
+**Description:** The city-state of Three Portlands is located in its own pocket universe, connected through anomalous means to the Isle of Portland in the United Kingdom and the cities of Portland in Oregon and Maine in the USA. A haven for anartists, occultists, and parahumans, Three Portlands has a population of at least 80,000, making it one of the largest paranormal enclaves in the world. It falls under the jurisdiction of the US government according to the [[[paralaw|Hoover Mandate]]], severely curtailing Foundation operations within the city. Under the terms of this policy, the United States guarantees the city's independence and status as a Free Port, while assuming responsibility for its security and secrecy; execution of these duties falls to the [[[unusual-incidents-unit-hub| Unusual Incidents Unit]]], which shares law enforcement jurisdiction with the local police.
+
+**Associated Articles:**
+* [[[third-law-hub|Third Law Hub]]]
+* [[[those-twisted-pines-hub|Those Twisted Pines Hub]]]
+* [[[unusual-investigations|The Unusual Investigations of Kenneth Spencer and Robin Thorne]]]
+* [[[portland-vice|Portland Vice]]]
+* [[[make-portland-weirder|Make Portland Weirder]]]
+* [[[paralaw|UIU Memorandum — Paralaw Briefing]]]
+* All pages tagged [/system:page-tags/tag/three-portlands three-portlands]
+[[/div]]
+
+[[# backdoor-soho]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-02: Backdoor SoHo [[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Backdoor-SoHo.png height="150px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Manhattan, New York, USA
+
+**Surveillance Facility:** [[[secure-facilities-locations|Site-28]]]
+
+**Description:** Backdoor SoHo is a Free Port dedicated to the artistic display of the anomalous, with the primary entrance located off of Houston Street in SoHo, Manhatten. Backdoor SoHo hosts numerous art studios and galleries, in addition to Groups of Interest such as [[[ambrose-backdoor-soho|Ambrose Restaurants]]]. Access is controlled by the Doorman, an anomalous entity known as Charlie, and the area is policed to some extent by the FBI's [[[unusual-incidents-unit-hub|Unusual Incident's Unit]]],  under the terms of the [[[paralaw|Hoover Mandate]]]. However, the Free Port remains a hotbed of paracriminal activity, ranging from black market transactions brokered by [[[marshall-carter-and-dark-hub|Marshal, Carter and Dark]]], to illegal medical clinics operated by the [[[sarkicism-hub|Sarkic]]] Weilstedt.
+
+**Associated Articles:**
+* [[[SCP-184]]]  - The Architect
+* [[[third-law-hub|Third Law Hub]]]
+* [[[The Good of the Other]]]
+* [[[A Farewell To Kings]]]
+* [[[How To Remove Glitter From A Polyester Dress]]]
+* [[[Alternate Character Interpretations]]]
+* All pages tagged [/system:page-tags/tag/backdoor-soho backdoor-soho]
+[[/div]]
+
+[[# eurtec]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-03: Eurtec[[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/art%3Alocations-of-interest/Flag-Eurtec.svg width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Multiple European Cities, Europe
+
+**Description:** Eurtec, The EURopean Technological Esoteric Capital and The So-called "Capital of the Coalition".[[footnote]]Also known as Homeland GOC codeword for Eurtec.[[/footnote]] Is the prime technological metropolis in the west and an apple of the [[[goc-hub-page|Global Occult Coalition's]]] (GOC)'s eye, being one of the GOC most ambitious projects. The city state and paratechnological enclave was founded by the Servants of the Silicon Nornir.[[footnote]]A member of the GOC's Council of 108.[[/footnote]] Following their addition to the Council of 108.[[footnote]]The servants were part of the Allied Occult Initiative (AOI) 1939-1945, GOC precursor and founding member of the coalition and membership of Council of 108 but the Project EURTEC was only aproved in 1970 by the GOC High Command and the Council of 108, while the founding resources started in 1969.[[/footnote]] In the 1970s in order to speed up the development of paratechnology for the purposes of their own agenda. While relatively young, it has nonetheless established a presence in the anomalous world as an important global city and the primary European Free Port.
+
+Is where the most advanced technology in the world is developed, dominated by towering skyscrapers, the offices and the paratech research divisions of multiple multinational corporations. It is divided between the upper city and the lower city. The section of the city 600 meters above sea level or higher is officially designated the upper city. The upper city operates as the de facto capital of the Council of 108, and houses both the regional Coalition headquarters and the modern Council Assembly building. The Golden District 1000 meters above sea level housing the city's richest, important and most powerful individuals and organizations in Eurtec. However, beneath Eurtec's advanced technology and shining skyscrapers and highest towers is a Lower City infamous for crime and violence, while this district in the lower city earning it the nickname of the "Blood District"  is notorious for being rife with paracrime.
+
+**Associated Articles:**
+* [[[third-law-hub|Third Law Hub]]]
+* [[[speed-demon-hub|Speed Demon Hub]]]
+ * [[[hypervelocity|Hypervelocity]]]
+* [[[outfounded-hub|Outfounded Hub]]]
+* [http://scp-int.wikidot.com/centre-embargo EMBARGO Hub]
+* [[[From 120's Archives Hub]]]
+* [http://scp-int.wikidot.com/goc-supplemental-implantation-fr Supplemental Information: French GOC Division] (Eurtec Five Gates)
+* All pages tagged [/system:page-tags/tag/eurtec eurtec]
+[[/div]]
+
+[[# la-rue-macabre]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-04: [[[larue-hub |La Rue Macabre]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/La-Rue-Macabre.png height="150px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Location:** New Orleans, Louisiana, USA
+
+**Surveillance Facility:** Site-93
+
+**Description:** La Rue Macabre also known as LoI-504, Is a pocket dimension and anomalous Free Port consisting mostly of uninhabited swampland, with a small settlement built where the Free Port borders on the French Quarter of New Orleans. La Rue Macrabe is home to a number of anomalous entities, many with nowhere else to go, and on market days it serves as a hub for trade in anomalous items. While lacking any formal system of government, its residents handle their own affairs, and overt intervention by the Foundation is not currently deemed necessary.
+
+**Associated Articles:**
+* [[[SCP-4421]]]  - Papa Legba's Walkin' Stick
+* [[[SCP-5038]]]  - La Rue Macabre is CLOSED
+* [[[anthropological-report-darkwater |An Anthropological Approach to Sarkicism - Case Study 03: The Darkwater Lodge]]]
+* [[[nancy-shoe|LaRue Post - Nancy's Shoe]]]
+* All pages tagged [/system:page-tags/tag/la-rue-macabre la-rue-macabre]
+[[/div]]
+
+[[# the-pillars]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-05: The Pillars[[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Description:** An extradimensional space containing a number of gigantic black stone pillars, suspended in an empty void and shrouded constantly by grey fog. Several towns have been constructed on multiple layers within, around and on bridges between these vast structures. Lanterns must remain constantly lit to protect its human inhabitants from hostile entities known as The-Shapes-In-The-Fog.
+
+**Associated Articles:**
+* [[[Lantern Bearer]]]
+[[/div]]
+
+[[# chugoku-cellar]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-06: Chūgoku Cellar[[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Chūgoku Region, Japan
+
+**Surveillance Facility:** Site-81CH
+
+**Description:** One of the largest free ports in East Asia, Chūgoku Cellar is a pocket reality in which anomalous reflections of the Japanese cities of Tottori, Shimane, Okayama, Hiroshima, and Yamaguchi visibly merge together. A chaotic and densely populated space, home to numerous anomalous entities and hosting many different paranormal industries and trades, ranging from the refining of pure ideas to the working of anomalous materials. Foundation operatives currently have all known entrances to the Chūgoku Cellar under surveillance.
+
+**Associated Articles:**
+* [[[SCP-184]]]  - The Architect
+* [[[Making a Scene]]]
+* [[[Seven Characters Die Unexpectedly]]]
+* [[[SCP-7813]]] - Stunlocked
+* [!-- All pages tagged [http://scp-jp.wikidot.com/system:page-tags/tag/%E7%A9%B4%E8%94%B5 "穴蔵" (the-cellar)] on the Japanese wiki. --]
+[[/div]]
+
+[[# zagrobnika]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-07: Zagrobnika[[/span]]
+
+**Area Class:** --##purple|**Open Free Port**##-- Neutralized
+
+**Accessible From:** Zagreb, Croatia, Europe
+
+**Description:** Zagrobnika a former Free Port and Paranormal Enclave in Croatia, founded in 1937 is characterized by the high density of humans, parahumans and other species with extra-psychic (or psionic) abilities. It was partially controlled by the [[[gru-p-hub|GRU-P]]] and later by the [[[goc-hub-page| Global Occult Coalition]]], and characterized by a high density of births of indiviauals with oneiromantic properties. In 1985, the Global Occult Coalition destroyed FP-07, apparently as an unavoidable casualty of the liquidation of an [[[oneiroi| Oneiroi]]] [[[lte-6679-otranto-silver| Type Black]]] entity originated from [[[scp-2264| Alagadda]]] affecting the psychics and telepaths of the Free Port, although reconstruction efforts are ongoing.
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/nuova-gestione-e-pesanti-bagagli New Management, Heavy Baggages]
+* [[[SCP-6709]]] - The Gang of Broken Dreams
+* [[[lte-6679-otranto-silver|LTE-6679-Otranto-Silver]]]
+* [[[SCP-8265]]] -  In the Hall of the Crybaby King
+[[/div]]
+
+[[# sjhlfels]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-08: Sjhlfels am Rhein[[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/art%3Alocations-of-interest/Flag-Sjhlfels-am-Rhein.svg height="150px"  style="border:1px solid black;"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Sihl Valley, Switzerland; Rhein Delta, Netherlands
+
+**Surveillance Facility:** [http://scp-int.wikidot.com/standortliste#u-DE20 Site-DE20]
+
+**Description:** Sjhlfels am Rhein is a city-state located in a pocket dimension, accessible from both the Swiss Alps and the Dutch Rhine Delta. Due to its neutrality, the town of around 12,000 inhabitants is home to a number of Groups of Interest, including adherents of multiple anomalous religions, the only fixed location of [http://scp-int.wikidot.com/goi-1995-de-das-wunderkabinett Das Wunderkabinet], and a campus of the [http://scp-int.wikidot.com/magierakademie-hub Mages Academy], the Sjhlfelser Hochschule für Angewandte Magie. In addition to the Foundation's surveillance of the Free Port, the [[[goc-hub-page| Global Occult Coalition]]] maintains a presence through [[[scp-208-de|St. Caesarius Hospital]]], a specialist clinic for anomalous ailments operated by the World Parahealth Organisation.[[footnote]]A member of the GOC's Council of 108.[[/footnote]]
+
+**Associated Articles:**
+* [*http://scp-int.wikidot.com/projekt-trickster Project Trickster]
+* [*http://scp-int.wikidot.com/kreaturenprofil-eden Critter Profile: EDEN!]
+* [*http://scp-int.wikidot.com/ein-langweiliger-valentinstag A Boring Valentine's Day]
+* [*http://scp-int.wikidot.com/der-legendaere-zauberstab-von-morgan-le-fay The Legendary Wand of Morgan Le Fay]
+* [*http://scp-int.wikidot.com/scp-es-229 SCP-ES-229] - End-of-century night; or a non-ideal future
+* [[[SCP-208-DE]]] - St. Caesarius Hospital
+* [[[ein-mahl-nach-naelkae-art|A Meal à la Nälkä]]]
+* [[[das-taegliche-leben-mit-einer-ausserirdischen|Everyday Life With An Extraterrestrial Girl]]]
+* [[[re-kto-1466-houdini|Re: KTO-1466-Houdini "Mages Academy"]]]
+* [[[Occult Warfare]]]
+* [[[project-proposal-2024-878-die-gedanken-sind-frei|]]]
+* [[[The Conspiracy to Murder]]]
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# outer-lichtenberg]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-10: Outer Lichtenberg[[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Berlin, Germany
+
+**Description:** As an extradimensional extension of the borough of Lichtenberg, Outer Lichtenberg is an unstable and inconsistent arrangement of apartments, factories, streets, and courtyards. Although known to both the Nazi Obskurrakorps and the paranatural wing of the Stasi, neither organisation was able to exert control over the area, and Outer Lichtenberg has remained a haven for political dissidents and anarchists. The population is loosely organised into several independent communes that grow their own food in rooftop gardens, notably including multiple members of the anartist collective [[[are-we-cool-yet-hub|Sind Wir Jetzt Cool]]].
+
+**Associated Articles:**
+* [[[the-trashfire|The Trashfire]]]
+* [[[bawarao-hub|Black and White and Red All Over (Series Hub)]]]
+ * [[[Degenerate Art]]]
+ * [[[Last Minute Resistance]]]
+ * [[[A Cloud Over Lichtenberg]]]
+* [[[Occult Warfare]]]
+* [[[project-proposal-2008-041|Project Proposal 2008-041: "The Spark to Raise the World Ablaz]]]
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# wilheim]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-11: [[[scp-6268| Wilheim]]][[/span]]
+
+**Area Class:** ##purple|**Open Free Port**##[[footnote]] Anomalous location existing within the baseline. Functions as a Free Port but can be entered through non-anomalous means. [[/footnote]]
+
+**Location:** Mobile
+
+**Description:** The floating city-state of Wilheim the Free port and paranormal enclave was founded when SCP-6268 and their following, likewise-minded sidhe and similar fae subjects, managed to take control of Wilheim, a massive aerial eigenweapon created by the German Empire between 1912 and 1917. The construction of Wilheim was mainly aided and supervised by the [[[magierakademie-hub|Mages Academy]]] (Magickademia Germanica), and was intended to function as a weather-manipulating mobile station, but, due to several installation errors, never saw actual deployment.
+
+Under the order of SCP-6268, Wilheim was rebuilt as a floating city-state, operating as a self-proclaimed sanctuary for paranormal beings and human subjects affiliated with the anomalous. Following several disputes between SCP-6268, the government of West Germany, the Global Occult Coalition and the Foundation, Wilheim was officially recognized as an allied and independent geopolitical entity in 1977.
+
+**Associated Articles:**
+* [[[SCP-6268]]] - Commission
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# meat-market]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-12: Meat Market [[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Bevendean Down Nature Reserve, Brighton, BN2 4LA, United Kingdom
+
+**Description:** Located in a particularly overgrown area of the nature reserve, this very unique market must be sought out by only those who know the chant. You must imagine the market, you must imagine the wares, imagine yourself there — and then offer a sacrifice before you make your wish. As you spin into a new world and land, hopefully on your feet, you realise that a crowded, dusty market surrounds you. Some forms might well be human, but many more forms are clearly not even humanoid — and known earth languages were far from the only ones spoken here. Almost whatever you wish for can be found here, in exchange for meat, preferably removed fresh as the hanging blades and cleavers adorning every market stall. And almost every meat you could ever wish for was also available there, with humans being quite the rarity, as they struggled to recall and retain the chant that let them into a place that sold 'Vincent's (slightly used) Vulvas' and 'Pied Piper's Premie Pies'. Brighton, so far, has the only entrance and exit known to the Meat Market, but is unlikely to truly be the only way in and out — so maybe someone else will stumble across the mystical place beyond the veil too, countries away, and the Meat Market will get something new.
+
+**Associated Articles:**
+* [[[kit-s-home-hub-of-happening|Kit's Home Hub of Happenings]]]
+* [[[an-arm-and-a-leg|An Arm and a Leg]]]
+* [[[kit-s-bloomin-adventure|Kit's Bloomin' Adventure]]]
+* [[[and-then-gabriel-slept|And Then, Gabriel Slept]]]
+* [[[kit-s-christmas-miracle-pt-1|One Kit and an (Anomalous) Baby Pt. 1]]]
+* [[[a-pound-of-flesh-a-piece-of-meat|A Pound Of Flesh, A Piece Of Meat]]]
+[[/div]]
+
+[[# san-kowloon]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-14: San Kowloon (新九龍) [[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Hong Kong, China
+
+**Description:** An expansive extradimensional space, formerly part of the Kowloon Walled City in Hong Kong. The Freeport exists due to the lingering effects of [[[SCP-184]]], which was utilized by an unknown party to significantly expand the internal space of buildings within the Walled City. Although these were thought to have been destroyed by the demolition of the city in 1994, it appears that significant portions survived within a pocket dimension. San Kowloon is a labyrinth of interconnected rooms, corridors and stairwells, and is now entirely controlled by Triads, who have divided up San Kowloon between them, creating twelve districts each one controlled by a organization together the "Twelve Lords of San Kowloon". The Foundation and [[[goc-hub-page| Global Occult Coalition]]] are currently working on finding a way into the paranormal enclave, although all attempts so far have failed.
+
+**Associated Articles:**
+* [[[SCP-184]]]  - The Architect
+* [[[SCP-7250]]] - You Make Your Own
+* [[[sammy-skipper-s-fact-of-the-day|]]]
+[[/div]]
+
+[[# new-amsterdam]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-20: New Amsterdam[[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Manhattan, New York, USA
+
+**Description:** Named after and accessible from the former Dutch colony in south Manhattan, New Amsterdam is an artificial pocket universe and paranormal enclave established during the Paranormal Renaissance. Created under contract for a group of wealthy New York industrialists and socialites, New Amsterdam was originally founded as a tax haven. While it has since been brought under American jurisdiction by the [[[paralaw|Hoover Mandate]]], New Amsterdam continues to function as an exclusive community for extremely wealthy individuals behind the Veil.
+
+Some of the oldest and most powerful families known as "Veiled Nobility" and "Veiled Royalty" of the Veiled/Anomalous World, hail from or reside in New Amsterdam, where they are perfectly positioned to manipulate mundane and paranormal affairs while still being free to openly indulge in anomalous interests and activities. The main New York offices of [[[marshall-carter-and-dark-hub| Marshall, Carter & Dark]]] are located in New Amsterdam, and it is suspected that at least one [[[o5-command-dossier|Foundation Overseer]]] maintains a residence in the enclave.
+
+**Associated Articles:**
+* [[[Third Law Hub]]]
+* [[[paramax|UIU Location Dossier — "Paramax"]]]
+* [[[paralaw|UIU Memorandum — Paralaw Briefing]]]
+[[/div]]
+
+[[# toyoho]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-21: [[[toyoho-hub|Tōno Yōkai Sanctuary (Toyoho)]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Flag-Tono-Yokai-Sanctuary.png width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Iwate Prefecture, Japan
+
+**Description:** Tōno Yōkai Sanctuary (Toyoho) also known as LoI-8128 and Tohno Youkai Sanctuary (遠野妖怪保護区), An extradimensional space and Paranormal Free Port, accessible from the Kitakami Mountains on the outskirts of Tōno City. The Sanctuary, referred to as Toyoho for short or as the Samuto Locality, is inhabited by anomalous entities known as "Yōkai", in addition to a small number of humans, as well as people of mixed human and Yōkai ancestry. The mountainous land is surrounded by freshwater, with the central peak of Mount Kakura hosting the resident mountain goddess. Most of the population lives in the town of Samuto, on the eastern shore of the landmass. A southwestern area known as Īhatōv was originally the dreamscape of the Japanese fiction author Kenji Miyazawa, but merged with Samuto following the death of its creator.
+
+**Associated Articles:**
+* [[[toyoho-hub|Tōno Yōkai Sanctuary (Toyoho) Hub]]]
+* [[[http://scp-int.wikidot.com/kanshin-ryoiki-tono|Area of ​​Special Domestic Interest: Tōno Yōkai Sanctuary]]]
+* [[[http://scp-int.wikidot.com/scp-1642-jp|SCP-1642-JP]]] - Initial Dai
+* [[[dreamlandiwate|]]]
+* [[[surface-to-air-bamboo|]]]
+* [[[http://scp-int.wikidot.com/locations-of-interest-jp#toyoho|Locations of Interest-JP]]]
+* [[[http://scp-int.wikidot.com/groups-of-interest-jp#toyoho|Groups of Interest-JP]]]
+* All pages tagged [http://scp-int.wikidot.com/system:page-tags/tag/tōno-yōkai-sanctuary tōno-yōkai-sanctuary] on the International Translation Archive.
+[[/div]]
+
+[[# koigarezaki]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-22: [[[http://scp-int.wikidot.com/kanshin-ryoiki-koigarezaki|Koigarezaki]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Koigarezaki.svg width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Shizuoka Prefecture, Japan
+
+**Description:** An extradimensional space consisting of an island floating in an ocean, experiencing a cycle of perpetual evening and night. Koigarezaki serves as a refuge for a number of Persons and Groups of Interest, however the Foundation has so far been unable to successfully infiltrate this Location of Interest (LoI-0850). Investigations by the [http://scp-int.wikidot.com/groups-of-interest-jp#tokuzika Special Affairs Division of the Japanese Metropolitan Police Department's Public Security Bureau] have independently obtained some information on this Location, some of which the Foundation has access to. It is known that a number of corporations are based in the region, including the publisher of the Koigarezaki Shimbun, a newspaper documenting political and social events in the anomalous world.
+
+**Associated Articles:**
+* [[[http://scp-int.wikidot.com/kanshin-ryoiki-koigarezaki|Area of ​​Special Domestic Interest: Koigarezaki]]]
+* [http://scp-int.wikidot.com/locations-of-interest-jp#koigarezaki Locations of Interest-JP]
+* [http://scp-int.wikidot.com/scp-2955-jp SCP-2955-JP] - Septette for the Dead CN-Aniki
+* All pages tagged [http://scp-int.wikidot.com/system:page-tags/tag/koigarezaki koigarezaki] on the International Translation Archive.
+[[/div]]
+
+[[# ai-gazar-en]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-23: [[[SCP-8023| Ai'gazar-En]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/scp-8023/Ai'gazar-En_flag.png width="200px"]]
+
+**Area Class:** ##666|**Crossroads**##
+
+**Accessible From:** Baseline, Multiverse
+
+**Surveillance Facility:** Site-1Ξ
+
+**Description:** Also known as City of the Accursed, the anomalous city-state of Ai'gazar-En was founded in 2022 by a group of survivors from Universe-ZL/018b, one of the first universes conquered by Rea Utis-per during the [[[SCP-7023| Crisis]]]. This initial community, led by a man named Sajid Inturmann, faced many hardships due to the inherent anomalies within [[[SCP-8023]]], but they were also able to harness these anomalies and use them to their benefit. Today Ai'gazar-En is permanently inhabited by hundreds to thousands of people at any given time, mostly multiversal refugees, however the exact overall number of citizens has never been counted. The local atmosphere is breathable, albeit with some difficulty, as it contains slightly less oxygen than humans from most universes are accustomed to.
+
+**Associated Articles:**
+* [[[SCP-7023]]] - The Last Remaining Variant
+* [[[SCP-8023]]] - Secrets in the Dark and City of the Accursed
+[[/div]]
+
+[[# avalon]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-26: The Kingdom of Avalon[[/span]]
+
+**Area Class:** --##purple|**Free Port**##-- Neutralized
+
+**Accessible From:** United Kingdom, Europe, Otherworld
+
+**Description:** The Kingdom of Avalon know as "New Avalon" One of the Five Fae Kingdoms. Once a thriving hub for Fae societies, the Sixth Occult War and the establishment of the Veil led to the significant weakening of the nomenclative narrative spells that held Avalon together. This eventually led to its full deconceptualization and disappearance from baseline reality in 1907, forcing most of its citizens to seek refuge in Three Portlands, with the help of the British Occult Service. Although in the modern day, Avalon has been gone for over a century, the [[[finding-avalon|influence of its culture can still be seen throughout most of the paranormal world]]], although reconstruction efforts are ongoing.
+
+The destruction of Avalon resulted in a cultural and political cleavage amongst the survivors. The majority of the Sídhe, including the royal family, resettled in the Outer Hebrides and established the realm of New Avalon; however, a sizable population of Sídhe, driven by anti-royal sentiment, refused to settle in New Avalon, with most instead opting to reside in FP-01 (Three Portlands). The royalists in New Avalon are known as the Seelie, while the anti-royalists in Three Portlands call themselves the Unseelie.
+
+**Associated Articles:**
+* [[[third-law-hub|Third Law Hub]]]
+* [[[three-portlands-hub |UIU Location Dossier — "Three Portlands"]]]
+* [[[paralaw|UIU Memorandum — Paralaw Briefing]]]
+* [[[fate-of-avalon|The Fate of Avalon ]]]
+* [[[From 120's Archives Hub]]]
+ * [[[Finding Avalon]]]
+ * [[[fae-myths-and-legends|Fae Myths and Legends]]]
+ * [[[the-lost-spire-part-2|The Lost Spire, Part 2]]]
+ * [[[scp-8471|VNP-8471]]] - Return of the Summer Court
+* [[[https://wanderers-library.wikidot.com/the-lion-bleeds-stark-epiphanies|The Lion Bleeds Stark Epiphanies]]]
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# fernafaun]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-32: Fernafaun [[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Ireland; The Kingdom of Hy-Brasil
+
+**Surveillance Facility:** Site-32
+
+**Description:** Fernafaun is a large pocket dimension, taking the form of a large, heavily forested island, which is home to a number of small communities, alongside the city and namesake of the Free Port at its centre. Predominantly populated by members of several Fae subspecies, the island is home to a number of anomalous flora and fauna previously thought to be extinct, and several previously undiscovered species.
+
+The residents of Fernafaun make their homes within nature, utilising thaumaturgy to reshape the earth and plant-life of the island to fit similar purposes to buildings, bridges and lampposts. Residents believe that artifical structures may damage the essence of the island and, with the sole exception of a small coastal area set aside for a permanent Foundation facility, no truly man-made structures exist on the island.
+
+**Associated Articles:**
+* [[[From 120's Archives Hub]]]
+* [[[the-lost-spire-part-1|]]]
+* [[[the-spire-star-extended-edition|The Spire Star (Extended Edition)]]]
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# fata-morgana]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-39: [[[SCP-3903|The Isle of Fata Morgana]]][[/span]]
+
+**Area Class:** ##666|**Crossroads**##
+
+**Accessible From:** Baseline, Multiverse
+
+**Surveillance Facility:** [[[secure-facility-dossier-site-120|Site-120]]]
+
+**Description:** The Isle of Fata Morgana is an extradimensional location accessible only to SCP-3903-A instances, Faeries[[footnote]]Reincarnated Fae turned into Changelings known as "Otherkin"[[/footnote]] who have been reborn as humans. It appears as a mirage on the ocean horizon under specific conditions: a full moon and complete darkness. SCP-3903-A individuals can access the Isle by skipping enough stones to create a bridge made of circular silver discs. Once on the Isle, they enter a realm between worlds, the homeland of the Seelie race a mythological species native to the realm.
+
+The city-state is governed by The Seelie Court of Fata Morgana.[[footnote]]A member of the GOC's Council of 108.[[/footnote]]   It is inhabited by various mythological and magical creatures, including fairies, elves, nymphs, Otherkin, and more. The inhabitants combine technology and magic, using "Tech-Magic" to create unique devices and amenities. The city is ruled by Queen Titania, Ruler of the Seelie Court.
+
+**Associated Articles:**
+* [[[SCP-3903]]] - Fata Morgana
+* [[[A Fellow Scholar]]]
+* [[[mcd-thunderbolt-iron| 'Thunderbolt Iron' (PE679/RE245/EM285)]]]
+* [[[From 120's Archives Hub]]]
+ * [[[the-lost-spire-part-1|]]]
+ * [[[the-lost-spire-part-2|]]]
+ * [[[the-spire-star-extended-edition|The Spire Star (Extended Edition)]]]
+[[/div]]
+
+[[# new-cha-ling]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-46: [[[new-cha-ling|New Cha Ling]]] (新茶嶺)[[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Flag-New-Cha-Ling.png width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Cha Kwo Ling, Hong Kong, China
+
+**Description:** New Cha Ling is a Free Port located inside a pocket dimension, officially classified as part of the Kwun Tong District of Hong Kong, with residents permitted to secretly elect a representative to the City Council. Although originally created as an autonomous squatter settlement, New Cha Ling was discovered by the [http://scp-int.wikidot.com/groups-of-interest-zh#ZT "Zero Team"] of the Royal Hong Kong Police in 1961, and was placed under their jurisdiction. Following the transfer of Hong Kong to the People's Republic of China in 1997, the Zero Team was reorganised into the "Cha Ling Police Station", limiting the scope of their paranormal investigations to within New Cha Ling. Although the population is only around 1,500 people, the pocket dimension serves as a haven for anomalous individuals, including refugees and fugitives from outside Hong Kong.
+
+**Associated Articles:**
+* [[[new-cha-ling|HKSAR Abnormal Constituency Database: New Cha Ling Constituency]]]
+* [[[file-no-hkc454| File No.HKC454/1]]]
+* [http://scp-int.wikidot.com/yamizushi-file-no233 Dark Sushi File No.233 "Jiantizi Roll"]
+* [http://scp-int.wikidot.com/groups-of-interest-zh#ZT Groups Of Interest of the ZH branch]
+* All pages tagged [http://scp-int.wikidot.com/system:page-tags/tag/new-cha-ling new-cha-ling] on the International Translation Archive.
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# little-havana]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-57: [http://scp-int.wikidot.com/dossier-lph Little Havana][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Flag-La-Pequena-Habana.jpg style="border:1px solid black;" width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Multiple locations in the Caribbean
+
+**Description:** Little Havana (La Pequeña Habana), also known as "Habanita", "Habanados", or "La Que Tiene Libertad" (LQTL, She Who Has Freedom), is an independent island city-state and paranormal enclave. It is located in a self-contained pocket universe, accessible through Ways located in and around southern Florida and the Caribbean islands. The town was run by the [[[chicago-spirit|Chicago Rum Runners]]] until 1982, and the paracriminal syndicate maintains a presence in the city to this day. Little Havana is the largest paranormal enclave in the Caribbean, containing two universities as well as the Royal Palm Hotel, a resort run by [[[marshall-carter-and-dark-hub| Marshall, Carter & Dark]]]. Due to tensions with the Cuban government, the Foundation has been unable to get the inhabitants of the Nexus to sign the [http://scp-int.wikidot.com/i-57-hub Treaty on Free Anomalous Communities].
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/i-57-hub| Facility-57 Hub]
+* [http://scp-int.wikidot.com/dossier-lph UIU Location Dossier -- "Little Havana"]
+* [http://scp-int.wikidot.com/carroll-305-la-pequena-habana| Carroll 305: Little Havana]
+* All pages tagged [http://scp-int.wikidot.com/system:page-tags/tag/little-havana little-havana] on the International Translation Archive.
+[[/div]]
+
+[[# middle-normandy]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-61: Middle-Normandy (Formerly Nordabris)[[/span]]
+ 
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Frémont, France
+
+**Surveillance Facility:** Site-61
+
+**Description:** Middle-Normandy known as "Middle Normandy" a Anomalous enclave and Paranormal Free Port in France that contains Ways that lead to Site-61, the town of Frémont. Conquered by Jarl Rollon in 915, revealed to the crown in the next century. Once occupied during the 7th Occult War.
+
+**Associated Articles:**
+* [[[SCP-7317]]] - The Einherjar of Site-61
+* [[[32-executive-dysfunction|Executive Dysfunction]]]
+* [[[No Return Hub]]]
+ * [[[list-of-common-anomalous-misconceptions|List of Common Anomalous Misconceptions]]]
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# other-london]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-67: Other London[[/span]]
+
+**Area Class:** ##purple|**Exoterrestrial Free Port**##
+
+**Accessible From:** London, UK; London, Ontario, Canada; 8837 London (Asteroid)
+
+**Description:** Hollowed-out asteroid 8837 London is home to mankind's first extraterrestrial colony. Accessible through Ways linked to England and Canada, this "Other London" was established in the Victorian era, gradually developing into a mining town and penal labor camp. Abandoned by the Allies during the Seventh Occult War, surviving residents organized their own People's Council, which rebelled against the GOC's attempts to retake the station. After seven long years, an agreement was reached and Other London was finally recognized as an autonomous community.
+
+Per the Kitchener Accords of 1953, GOC-affiliated normalcy protection agencies are allowed in Other London, but their enforcement powers are very limited. This makes the colony a popular hiding spot for anahuman refugees, paracriminals, spies and militants — provided that they contribute to the common good somehow. Those who don't are likely to be judged and "made unwelcome" by the community.
+
+**Associated Articles:**
+* [[[Third Law Hub]]]
+* [[[nte-2858-cyan-blaecca|NTE-2858-Cyan-Blaecca]]]
+* [[[australian-rules| Australian Rules Drag Racing]]]
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# ireta-keri]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-71: Ireta K'éri[[/span]]
+ 
+**Area Class:** --##purple|**Open Free Port**##-- Neutralized
+
+**Accessible From:** Mexico
+
+**Description:** A former paranormal enclave, this Mexican town defied both drug cartels and government corruption through a revival of ancient traditions and theurgic practices, particularly through tribute to the Purépecha sun deitiy Curicaueri. The success of the town forced both the Mexican government and the Foundation to recognize its autonomy as a Paranormal Free Port. However, this recognition was short-lived, as Ireta K'éri was subsequently destroyed.
+ 
+Reporting by the Fifth [[[wandsmen-hub|Wandsman]]] of Elysium exposed a Mexican government conspiracy to hire the [[[valravn-corporation-hub|Valravn Corporation]]] to destroy Ireta K'éri and massacre its residents. The Foundation was suspected of involvement in the plot, [[[A Wandsman in the Navel of the Moon| but no evidence was found to support this allegation]]]. Some of the surviving members of the Ireta K'éri community moved to FP-72, the miniature town of [[[SCP-7269|Ireta Sapi]]], although reconstruction efforts are ongoing.
+
+**Associated Articles:**
+* [[[Our Open Veins Hub]]]
+* [[[A Wandsman in the Navel of the Moon]]]
+* [[[SCP-7269]]] - Las Hormigas
+* All pages tagged [/system:page-tags/tag/our-open-veins#pages our-open-veins]
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# ireta-sapi]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-72: [[[SCP-7269|Ireta Sapi]]][[/span]]
+
+**Area Class:** ##purple|**Open Free Port**## (provisional)
+
+**Accessible From:** Michoacán, Mexico
+
+**Description:** [[[SCP-7269]]] designates as an anomalous 30 x 30 x 30 meter area located near Pátzcuaro, Michoacán. Humans, vertebrate animals, and human-made objects will shrink gradually upon entering the area, and grow back to their original size when exiting it. Taking advantage of this property, Las Viboras, a left-wing guerrilla group with connections to the [[[serpent-s-hand-hub|the Serpent's Hand]]], built a miniature town inside the area, as the successor to the recently destroyed paranormal enclave of Ireta K'éri (formerly FP-71).
+
+The existance of the settlment of Ireta Sapi initially raised security concerns, due to it providing a safe haven for anomalous fugitives pursued by both the Foundation and the Mexican government. However, reporting by the [[[wandsmen-hub| Wandsman]]] as well as diffusion of information through FP-99 (The Net) gained Ireta Sapi considerable support from the international anomalous community, including the [[[manna-charitable-foundation-hub|Manna Charitative Foundation]]] and [[[wilson-s-wildlife-solutions-hub|Wilson's Wildlife Solutions]]], as well as other Free Ports and paranormal enclaves, particularly [[[three-portlands-hub|Three Portlands]]]. Ireta Sapi has been granted provisional Free Port status by the Foundation, allowing it to continue to operate as an autonomous community.
+
+**Associated Articles:**
+* [[[Our Open Veins Hub]]]
+* [[[SCP-7269]]] - Las Hormigas
+* [[[arboles-bajo-la-tierra|Árboles Bajo La Tierra]]]
+* [[[aar-7890-logovo-volka|AAR-7890-Logovo Volka]]]
+* [[[fbi-uiu-updated-2018orientation|FBI UIU ONBOARDING PACKAGE (2018)]]]
+* All pages tagged [/system:page-tags/tag/our-open-veins#pages our-open-veins]
+[[/div]]
+
+[[# agate]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-77: [[[scp-7766|City of Agate]]][[/span]]
+
+**Area Class:** ##008888|**Turing**##
+
+**Surveillance Facility:** [[[secure-facilities-locations|Site-119]]]
+
+**Description:** Agate, an advanced simulation hosted through [[[simulacrum-project-hub|SIMULACRUM]]] hardware and Site-119's physical infrastructure. Utilizes a combination of cyberanomalous technologies that allows it to remain indistinguishable from baseline reality. Is maintained and monitored internally via the local Agate government and several large companies operating within the city, all of which are controlled by integrated Foundation officials. The city itself has been separated into 6 unique quadrants or "Districts" that are divided between socioeconomic status, geographic conditions, and other identifying factors.
+
+**Associated Articles:**
+* [[[simulacrum-project-hub|The SIMULACRUM Project]]]
+* [[[SCP-7766]]] - New World Order
+* [[[SCP-7745]]] - When You Wish Upon A Binary Star
+* All pages tagged [/system:page-tags/tag/simulacrum simulacrum]
+[[/div]]
+
+[!-- Number based on SCP-7035 --]
+[[# wonder-world]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-84: [[[wonder-world| Wonder World!™]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/art%3Alocations-of-interest/Wonder-World.svg width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible from:** Boston, Massachusetts, USA
+
+**Surveillance Facility:** [[[secure-facility-dossier-site-55| Site-55]]]
+
+**Description:** Pronounced "Wonder World, Tee Emm," this city-sized extradimensional space serves as the headquarters for the [[[dr-wondertainment-hub|Dr. Wondertainment Corporation]]], which employs the majority of the residents of Wonder World!™ in the research, development and manufacturing of their toys and other products.  In addition to its role as a company town, Wonder World!™ has many of the attractions of a theme park, making it a popular tourist destination for the anomalous community. Permanent inhabitants of Wonder World!™ have been observed to develop changes to their physical appearance, ranging from alterations in pigmentation to more extreme mutations such as the growth of additional limbs.
+
+**Associated Articles:**
+* [[[Wonder World Dossier]]]
+* [[[city-of-wonder|City of Wonder™]]]
+* [[[what-a-wonderful-world|And I Think To Myself...]]]
+* [[[vend-a-friend|Vend A Friend (Series Hub)]]]
+* [[[SCP-7035]]] - Wonder Coast
+* All pages tagged [/system:page-tags/tag/wonderful-world wonderful-world]
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# two-blackbutts]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-88: Two Blackbutts[[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Blackbutt, Queensland, Australia; Blackbutt, New South Wales, Australia
+
+**Description:** An extradimensional region of dense Eucalyptus bushland with artificial clearings used for Parasport Drag Racing. Accessible from two towns named Blackbutt due to a nomenclative connection between them. Objects and entities to be transported to the location must be surrounded with a ring of burning branches taken from Eucalyptus patens, pilularis, or todtiana (all commonly known as blackbutt) trees.
+
+**Associated Articles:**
+* [[[parasport-dossier-parasport-drag-racing|Parasport Dossier: Parasport Drag Racing]]]
+* [[[australian-rules|Australian Rules Drag Racing]]]
+[[/div]]
+
+[[# the-net]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-99: The Net[[/span]]
+
+**Area Class:** ##008888|**Turing**##
+
+**Surveillance Facility:** [[[secure-facility-dossier-site-78|Site-78]]]
+
+**Description:** The Net is a digital dimension containing  a full 3D representation of the world's data. Hosted on various anomalous servers, it can be accessed by directly uploading the mind into one of them, or through the use of a portable device called a cyberdeck. These servers host various spaces for commerce, entertainment, and combat, including plenty of illegal anomalous activity, and power struggles between multiple Groups of Interest.
+
+**Associated Articles:**
+* [[[the-ninth-world-hub| The Ninth World Hub]]]
+* [[[SCP-7114]]] - The Fangoddess
+* [[[aar-7890-logovo-volka| AAR-7890-Logovo Volka]]]
+* All pages tagged [/system:page-tags/tag/ninth-world#pages ninth-world]
+[[/div]]
+
+[[# goricna]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-108: Gorična[[/span]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/COA-Gori%C4%8Dna.jpg width="150px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Gorizia, Friuli Venezia Giulia, Italy; Nova Gorica, Primorska, Slovenia
+
+**Description:** Gorična is known across the paranormal world as a hub for anomalous trade. The city is the product of cultural exchange and fusion, after many years of mixing between the culture of northern Italy and the  Balkan culture of Slovenia. For a long time, the Free Port was controlled by [[[marshall-carter-and-dark-hub| Marshall, Carter & Dark]]], but after multiple riots and demonstrations in the 2000s, the city has recently gained greater independence. Gorična is also famous for political scandals and the presence of mafia-type groups that control the anomalous black market.
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/locations-of-interest-it Locations of Interest-IT]
+* [[[SCP-014-INT]]] - A Net of Amnestics
+* [http://scp-int.wikidot.com/ricordi-di-un-nessuno Memories of a Nobody]
+* [*http://scp-int.wikidot.com/nuova-gestione-e-pesanti-bagagli New Management, Heavy Baggages]
+* All pages tagged [/system:page-tags/tag/gorična gorična].
+* All articles tagged [http://scp-int.wikidot.com/system:page-tags/tag/gori%C4%8Dna gorična] on the International Translation Archive.
+[[/div]]
+
+[[# esterberg]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[scp-5373|FP-120]]]: [[[esterberg-city-wikipedia| Esterberg]]][[/span]]
+[[f>image https://scp-wiki.wdfiles.com/local--files/art%3Alocations-of-interest/Flag-Esterberg.svg width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Silesian Voivodeship, Poland
+
+**Surveillance Facility:** [[[secure-facility-dossier-site-120|Site-120]]]
+
+**Description:** The largest and oldest city built by anomalous species still in existence. Esterberg is home to some of the biggest Fae and Yeren populations around the world, and acts as the main hub for anomalous activity in Central Europe, [[[gaslight-gatekeep-girlboss-hub|especially]]] [[[scp-6772|related]]] [[[scp-643|to]]] [[[nt-4041-nimuedianetic-karhu|these]]] [[[scp-5373|aforementioned]]] [[[scp-6471|species]]]. Filled with magic on a scale almost never seen elsewhere, Esterberg is a monument to cooperation between different species, organizations, and people, showing what can be achieved when the good of the many is placed before the good of the few.
+
+[[[i-did-not-fade|In 2034, it merged with its baseline reality sister city of Częstochowa, forming New Częstochowa in the process]]].
+
+**Associated Articles:**
+* [[[From 120's Archives Hub]]]
+* [[[Gaslight, Gatekeep, Girlboss Hub]]]
+* [[[esterberg-city-wikipedia|Esterberg (City) — Wikipedia]]]
+* [[[SCP-5373]]] - Project Neverland
+* [[[historia-polskiego-projektu-przechowawczego|The SCP Foundation in Poland — The History of The Polish Containment Project]]]
+* All pages tagged [/system:page-tags/tag/esterberg esterberg].
+[[/div]]
+
+[[# arcadia]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-129: [[[scp-7629| The Droganian City of Arcadia]]][[/span]]
+[[f>image http://scp-wiki.wikidot.com/local--files/fragment:scp-7629-2/Arcadia-Flag.png width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Ural Mountains, Russia
+
+**Surveillance Facility:** [[[secure-facility-dossier-site-120|Site-120]]]
+
+**Description:** The ancestral subterranean home of the Droganian species (Draconis sapiens), led by the Dragoon’s Circle under the rule of the 19th Vajra King Ragna Von Morrowind. Accessible from a thaumaturgically hidden tunnel cavern located within the Ural Mountains. Originally rural and living a paranoia fueled lifestyle until its discovery in 1998, leading to the forming of the ROUND TABLE AGREEMENT Protocol with Site-120. Now more advanced with its own thaumaturgic based technology, the city of Arcadia has become a prime supporter and partner with the SCP Foundation, and with its successor, [[[No Return Hub| Vanguard]]].
+
+**Associated Articles:**
+* [[[From 120's Archives Hub]]]
+* [[[SCP-7629]]] - Sanctuary of The Sky Keepers
+* [[[the-enlightened-children|The Enlightened Children]]]
+* [[[nexus-hyperline|'Nexus HyperLine' (N7S2M/ER9C3/X56ID)]]]
+* [[[the-lost-spire-part-1|]]]
+* [[[the-lost-spire-part-2|]]]
+[[/div]]
+
+[!-- Free Port number assigned by author LechugaNinja with the original author's permission--]
+[[# tlaneyanco]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-150: [http://scp-int.wikidot.com/hub-sueno-nuclear The Kingdom of Tlaneyanco][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/art%3Alocations-of-interest/Flag-Tlaneyanco.svg width="200px"]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Mexico
+
+**Description:** The Kingdom of Tlaneyanco (El Reino de Tlaneyanco) is a Paranormal Free Port and Nation located beneath and extradimensionally anchored to the Sierra Madre Oriental mountain range in Mexico, within a pocket dimension lit by an artificial sun. The population is notable for their use of a source of energy known as "tlanextlitetl," a power with creative, destructive, and transformative capacities, associated with the four solar deities that the inhabitants of Tlaneyanco worship. Tlaneyanco is a monarchy that pre-dates the Spanish conquest of Mexico, but the inhabitants of the kingdom have only recently resumed contact with the outside world.
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/hub-sueno-nuclear Nuclear Dream Hub]
+* [http://scp-int.wikidot.com/comienza-el-sueno-nuclear The Nuclear Dream Begins]
+* [http://scp-int.wikidot.com/dragones-tonatiuh Tonatiuh Dragons - The Divinities of Tlaneyanco]
+* [http://scp-int.wikidot.com/scp-097-int SCP-097-INT] -  The Radiomancer's Curse
+* [[[Your Eyes Shall Be Opened]]]
+* All pages tagged [http://scp-int.wikidot.com/system:page-tags/tag/tlaneyanco#pages tlaneyanco] on the International Translation Archive.
+[[/div]]
+
+[!-- Free Port number assigned by author LechugaNinja with the original author's permission--]
+[[# butai]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]FP-178: [http://scp-int.wikidot.com/scp-es-278 Butai][[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Reichstag Building, Berlin, Germany ; Mount Mihara, Izu Ōshima Island, Japan; National Museum of Bosnia and Herzegovina, Sarajevo, Bosnia and Herzegovina.
+
+**Surveillance Facility:** Zone-42
+
+**Description:** Butai is a city-state located in a pocket dimension and founded by Germany and Japan during some point in the 1890s for the purpose of strengthening the esoteric and paratechnological weapons industry. However, from 1933 to 1943, Butai found itself temporarily isolated from the rest of the world, forcing its autonomy and causing the development of its own cultures, drawing on previously existing ones. Butai is currently one of the main hotbeds of anomalous trade. It is protected and partially guarded by the German Regional Council, whose operations center with respect to this location is located in Zone-42, which serves as both a facility and an embassy of the Foundation in the place, where since 2001 it has seen the blossoming of positive relations between the city-state and the Foundation.
+
+**Associated Articles:**
+* [[[http://scp-int.wikidot.com/i-57-hub| Facility-57 Hub]]]
+* [http://scp-int.wikidot.com/scp-es-229 SCP-ES-229] -  End-of-century night; or a non-ideal future
+* [http://scp-int.wikidot.com/scp-es-278 SCP-ES-278] -  Between East and West; Larger than Berlin
+* [http://scp-int.wikidot.com/scp-es-293 SCP-ES-293] -  Simple Nostalgic Spectator
+* All articles tagged with [http://scp-int.wikidot.com/system:page-tags/tag/butai butai] on the International Translation Archive.
+[[/div]]
+
+[[# nova-cannae]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-216: Nova Cannae[[/span]]
+
+**Area Class:** ##purple|**Free Port**##
+
+**Accessible From:** Battle Reeds, Barletta (BT), Italy
+
+**Description:** Nova Cannae is a Free Port located in a Yota-type dimension connected to the [[[wanderers-library-hub| Wanderer's Library]]], with the appearance of a seaside resort extended more in length, with beaches made up of sheets of papyrus and black rocks. Founded and controlled by the Order of Janus until the 1980s, after several scandals and abuses of power, the [[[http://scp-int.wikidot.com/gruppi-di-interesse#OI|OI]]] was defeated in city elections, with democratically elected members affiliated with [[[serpent-s-hand-hub|The Serpent's Hand]]] winning. It is today the largest Free Port under [[[http://scp-int.wikidot.com/it-hub|Italian jurisdiction]]], hosting various GOIs and POIs seeking refuge.
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/locations-of-interest-it Locations of Interest-IT]
+* [*http://scp-int.wikidot.com/nuova-gestione-e-pesanti-bagagli New Management, Heavy Baggages]
+* [[[SCP-6709]]] - The Gang of Broken Dreams
+[[/div]]
+
+[!-- Free Port number assigned with author's permission --]
+[[# parashops]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-250: The Parashops[[/span]]
+
+**Area Class:** ##666|**Crossroads**##
+
+**Accessible From:** Baseline, Multiverse
+
+**Description:** Eponymously named, The Parashops are a Free Port marketplace with connections to sites across the anomalous world, [[[wanderers-library-hub| Library]]] included. Within are conventional shops holding wares and everyday products. The place is also home to a massive weekly [https://en.wikipedia.org/wiki/Really_Really_Free_Market Really Really Free Market], where anomalous items change hands freely. The Parashops have no true terrestrial location; the only way out and in is through Ways and other paranatural transportation methods. There are Doors on all seven continents -- but they are ever-shifting mysteries known only for a month at a time.
+
+**Associated Articles:**
+* [https://wanderers-library.wikidot.com/lampyra-the-watcher| Lampyra, the Watcher]
+* [https://wanderers-library.wikidot.com/take-you-to-the-parashops| I'll Take You to the Parashops]
+[[/div]]
+
+[[# zeta-01]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]] FP-260: Zeta-01[[/span]]
+
+**Area Class:** ##purple|**Exoterrestrial Free Port**##[[footnote]]Anomalous location existing within the baseline or deep space. Functions as a Free Port, but are located in outer space.[[/footnote]]
+
+**Accessible From:** The Kuiper Belt, Outer Solar System
+
+**Description:** Is an extradimensional city-state with entrances strewn throughout the cosmos with a massive extraterrestrial population. The locale has picked up hundreds of groups and entities, ranging from the evacuees of war-torn star systems to groups of wandering tradescreatures. Dozens of layers segment the interior, containing ranges of atmospheres and compositions to accommodate a range of species. The main entrance within the Solar System is in the Kuiper Belt, though others exist.
+
+Since the [[[ad-astra-per-aspera-hub|2040s]]] the Foundation has managed extraterrestrial immigration from Zeta-01 into the solar system. All travel is directed through Transit Compound Naught-11, built into the cavern walls encompassing Zeta-01, and exits via Way at the Red Zeta Kuiper Belt outpost. From there ships distribute the arrivals throughout inner system areas. On occasion, some are recruited into the Foundation.
+
+[[[marshall-carter-and-dark-hub| Marshall, Carter & Dark]]], has a heavy influence, not directly impacting the communities there but rather enlisting them for aid. How much alien tech they've attained this way is unclear.
+
+**Associated Articles:**
+* [[[ad-astra-per-aspera-hub|Ad Astra Per Aspera]]]
+* [[[directive-a-42|DIRECTIVE A-42]]]
+* [[[xyreaux-schulman-extension-component-ac42e-nc77q-95dcw|'Xyreaux-Schulman Extension Component' (AC42E/NC77Q/95DCW)]]]
+* [[[autonomy-part-ii|Autonomy, Part II]]]
+[[/div]]
+
+[[# other]]
+[[=]]
++ [[span style="font-family: Verdana; font-size: 105%;"]]##black|**Other Locations of Interest**##[[/span]]
+[[/=]]
+
+@@ @@
+
+[[# adytum]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[sarkicism-hub|Adytum]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/scp-2815/Adytumsmall.png width="200px"]]
+
+**Location:** Northern Urals, Western Siberia, Russia (Formerly)
+
+**Description:** Adytum[[footnote]] Greek transliteration of the [[[old-adytite-language|Adytite term]]] //Adí-üm//. Not to be confused with adytum, meaning innermost sanctuary.[[/footnote]] was the capital of the ancient //Kalmaktama// Empire (Adi-um Empire), and is believed to have been located in Western Siberia, now part of Russia. The empire was established in 1,800 BCE by a successful rebellion against the [[[daevite-hub|Daevite civilisation]]], lead by a man known as Grand Karcist Ion. For the next 800 years the city flourished as the center of a new civilization, with grand structures built from organic material through the practice of carnomancy. However, after an ancient [[[scp-2406|Occult War]]] between the //Kalmaktama// Empire and various Mediterranean states, incuding the [[[church-of-the-broken-god-hub|Mekhanites]]], Adytum disappeared from the baseline reality along with Grand Karcist Ion, resulting in the collapse of the //Kalmaktama// civilization and the dispersal of a Sarkic diaspora throughout the world.
+
+The current location and status of Adytum are unclear. Minimal archeological evidence for its existence has been found, although given the organic nature of Sarkic structures and tools, this is not unexpected. Various Sarkic sects believe that Adytum still exists somewhere in the void outside the universe, and some accounts suggest it may still be accessible. Multiple Proto-Sarkic sources claim that the city was deliberately removed from baseline reality, although it is unclear if this was intended to protect the city from invaders, or to prevent something within the city from entering into our reality. Several neo-Sarkic sects are actively working toward the rediscovery and [[[scp-2480|return of Adytum]]], an event that would represent a severe disruption to normalcy, and is to be prevented at all costs.
+
+**Associated Articles:**
+* [[[Sarkicism Hub]]]
+* [[[memoria-adytum|In Memoria, Adytum]]]
+* [[[Metaphysician/Karpin Proposal]]]
+* [[[Laid In Blood]]]
+* [[[A Real Humdinger]]]
+* [[[freaky-commodities-ii-freak-harder|Freaky Commodities II: Freak Harder]]]
+* All pages tagged [/system:page-tags/tag/adytum adytum].
+
+[[/div]]
+
+[[# alagadda]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[scp-2264| The Kingdom of Alagadda]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/art%3Alocations-of-interest/COA-Alagadda.svg height="150px"]]
+
+**Accessible From:** London, England, United Kingdom
+
+**Description:**  Although an entrance located in the Tower of London is contained as part of [[[SCP-2264]]],  the extradimensional city-state of Alagadda is not controlled by the Foundation, but is instead ruled by a powerful reality-bending entity known as the [[[divine-dossier#hanged-king| Hanged King]]]. The are many other entrances to Alagadda, some connecting to universes other than our own. Within the city itself, architecture is non-euclidean, the direction of gravity is variable, and the only colors that occur are black, white, yellow, and red. Expeditions into Alagadda have also reported the replacement of all clothing with costumes appropriate for a masquerade ball, the inability to bring back any objects, and difficulty in estimating the passage of time. Further exploration has been put on hold, following violent opposition from the city's ruler.
+
+**Associated Articles:**
+* [[[SCP-2264]]] - In the Court of Alagadda
+* [[[SCP-3573]]] - The Rubedo Reserve Oinopoeic Sublimator
+* [[[A Wandsman in the Court of the Hanged King]]]
+* [[[The Black Vaults of Alagadda]]]
+* [[[There Are No Children In Alagadda]]]
+* All pages tagged [/system:page-tags/tag/alagadda alagadda].
+
+[[/div]]
+
+[[# amoni-ram]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[rounderhouse-gold-proposal| Amoni-Ram]]][[/span]]
+
+**Location:** Southern Arabian Desert
+
+**Description:** [[[rounderhouse-gold-proposal| SCP-001]]] is the ancient Mekhanite city of Amoni-Ram, ruined and abandoned around 2600 BCE. The city is concealed within an extradimensional "bubble", preventing any individual without prior knowledge of its location from finding it. Although referred to in the Quran as "Iram of the Pillars", the location of the city was not identified until directions to it were provided by [[[SCP-1867]]], leading to its rediscovery by a Foundation expedition.
+
+The leaders of this expedition, Doctor Robert Aram and Doctor Hedvig Nussbaum, subsequently went rogue, relocating the city through anomalous means to prevent further Foundation access. For more information on the religious movement lead by Robert Aram (AKA Robert Bumaro), refer to Foundation files on the [[[church-of-the-broken-god-hub| Church of the Broken God]]].
+
+**Associated Articles:**
+* [[[redtape|REDTAPE HUB]]]
+* [[[rounderhouse-gold-proposal| ROUNDERHOUSE's Gold Proposal]]]
+* [[[lord-blackwood-in-amon-iram|Gold Prelude: Lord Blackwood in the City of Amon Iram!]]]
+* [[[interregnum-blackstar|INTERREGNUM: THE BLACKSTAR AT AMONI-RAM]]]
+* [[[heresy| Hedvig's Heresy]]]
+* [[[SCP-7866]]] - Processing Issues
+* [[[SCP-7882]]] - Cargo Cult Capsule
+* [[[SCP-8600]]] - The Hall of the Empresses
+* All pages tagged [/system:page-tags/tag/amoni-ram amoni-ram].
+
+[[/div]]
+
+[[# antarctic-empire]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[scp-1483| The Third Antarctic Empire]]][[/span]]
+
+**Accessible From:** Queen Alexandra Mountain range, Antarctica
+
+**Surveillance Facilities:** Site-1483 (Alpha, Beta, Gamma)
+
+**Description:** A small crevasse in a remote region of Antarctica leads to Universe B-10208-Alpha-1483, an alternate reality in which Antarctica is a more temperate region inhabited by sapient hominids known as //Homo antarcticus//. The majority of //Homo antarcticus//, known as “The Summer Court”, are visually similar to baseline humanity, but additional subspecies such as "The Black Court" have many more anatomical and physiological differences. This universe's level of technological advancement is roughly equivalent to our own, with more advanced nuclear, geothermal, and solar power, but more primitive communication and aerospace technologies. The continent is unified under the Third Antarctic Empire, a matriarchal imperialist monarchy founded in 1526 CE. The Foundation is currently engaged in establishing a diplomatic relationship with the Empire, facilitating cross-cultural exchange of knowledge and technology.
+
+**Associated Articles:**
+* [[[Antarctic Exchange Hub]]]
+* [[[On the Other Side of the Coin]]]
+* [[[A Merry Fellow]]]
+* [[[The Glorious Revolution]]]
+* [[[SCP-6483]]] - The Polar Express
+* All pages tagged [/system:page-tags/tag/antarctic-exchange antarctic exchange]
+
+[[/div]]
+
+[[# baltic-trench]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]The Baltic Trench[[/span]]
+
+**Location:** The Baltic Sea, Poland
+
+**Containment Facility:** [http://scp-int.wikidot.com/dokumentacja-bezpiecznej-placowki-osrodek-pl-69 Site-PL-69]
+
+**Description:** An anomalously formed 13-kilometer-deep trench located in the Baltic Sea. Inhabited by a //Homo sapiens sidhe// subspecies [http://scp-int.wikidot.com/powrot-do-niflheimu that has radically adapted to their harsh environment], it is filled with [http://scp-int.wikidot.com/szczeki-w-ruinach ruins and other destroyed structures that have once been a part of the Fae Empire] prior to its fall. Though the Trench was previously isolated and hidden from the outside world via the deployment of masquerading magic, it was discovered by the Foundation in [http://scp-int.wikidot.com/10-kwietnia-2010 2010], and [http://scp-pl.wikidot.com/krewetkowy-bol sporadical outside contact] prior to 2010 has also been noted to occur.
+
+**Associated Articles:**
+* [http://scp-int.wikidot.com/morskie-opowiesci Tales From the Bottom of the Sea]
+ *  [http://scp-int.wikidot.com/10-kwietnia-2010 April 10th, 2010]
+ * [http://scp-int.wikidot.com/szczeki-w-ruinach Jaws in the Ruins]
+ * [http://scp-int.wikidot.com/podwodne-ogrody-ktorych-nie-ma The Underwater Gardens That Weren't There]
+ * [http://scp-int.wikidot.com/powrot-do-niflheimu The Return to Niflheim]
+
+[[/div]]
+
+[[# chugwater]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Chugwater[[/span]]
+
+**Location:** Wyoming, USA
+
+**Surveillance Facility:** [[[secure-facility-dossier-site-78| Site-78]]]
+
+**Description:** A rural town with an area of only 3.06 square miles, with an estimated population of 300. Foundation interest in Chugwater began when it was discovered that its residents were more likely to accept anomalous activity as a part of baseline normalcy compared to average, leading its local site to adopt a more lenient strategy of containment around Chugwater's many anomalous happenings.
+
+The cause of Chugwater's apparent draw for anomalous entities, features, and parafauna has yet to be determined, and its status as a Nexus is currently pending.
+
+**Associated Articles:**
+* [[[SCP-7975]]] - The Chugwater Frogman
+* [[[SCP-7970]]] - Horton's Corner
+* [[[SCP-2704]]] - The Lonely Star
+* [[[SCP-6294]]] - Cold, Cold, Cold
+[[/div]]
+
+[[# confederate-island]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[http://scp-int.wikidot.com/groups-of-interest-jp|Confederate Island Countries of Phantom]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/CICP.png width="150px"]]
+
+**Accessible From:** Baseline, Multiverse
+
+**Description:** The Confederate Island Countries of Phantom (CICP) is a federated nation of islands that exist in a different world. The member islands existed in our world until around the 14th to the 16th century, but relocated through anomalous means to another world, in part to avoid investigation and colonization by the great powers of the time. This resulted in the disappearance of a number of so-called "phantom island", previously documented on nautical charts but unable to be relocated by later expeditions. In the world of the CICP, there are a group of unusual items called "relics", and especially powerful items are called with the initials of T or 丁 and are used for the defense of the member islands. The movement of the member islands out of this world was also made possible by relics, said to have been given by a paranormal civilization known as Thule. Thule is said to have disappeared after the formation of the CICP, and no details of it are known to the inhabitants of the member islands. Travel between our reality and the world of the CICP remains possible, and has been the source of a number of anomalies, some of them dangerous and destructive.
+
+**Associated Articles:**
+* [[[http://scp-int.wikidot.com/groups-of-interest-jp| Japanese Groups of Interest]]]
+
+[[/div]]
+
+[[# corbenic]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Corbenic[[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/three-moons-initiative-hub/threemoonsinitiative.jpg width="200px" style="border:1px solid black;"]]
+
+**Description:** As one of the many afterlives available to humanity, Corbenic is an extradimensional reality that the Foundation is in the [[[scp-2922|process of exploring]]]. While the gravity and atmosphere are similar to Earth, the pea-green sky is illuminated by three moons, with no day-night cycle. Various regions and political entities exist within Corbenic, most notably the Group of Interest known as the [[[three-moons-initiative-hub|Three Moons Initiative]]], a political entity known for an aggressive interventionist foreign policy directed towards our own reality.
+
+**Associated Articles:**
+* [[[SCP-2922]]] - Notes From the Under
+ * [[[Operation Galahad]]]
+* [[[Three Moons Initiative Hub]]]
+ * [[[pravoslavia|Intelligence Covenant Dossier: Region-9440AF9 "Pravoslavia"]]]
+ * [[[stella-secundus| Intelligence Covenant Dossier: Region-5257GR4 "Stella Secundus"]]]
+ * [[[wielka-altana|Intelligence Covenant Dossier: Region-3824FA1 "Wielka Altana"]]]
+* [[[The Lithopedion]]]
+* [[[SCP-6718]]] - But if there's Nothing on the Other Side?
+[[/div]]
+
+[[# drunkness-street]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[http://scp-int.wikidot.com/groups-of-interest-jp|Drunkness Street]]] [[/span]]
+
+**Accessible From:** Kyoto Prefecture, Japan, Asia
+
+**Description:** Drunkness Street (酩酊街), likely referring to a large residential district, is the source of multiple anomalies contained and documented by the Foundation, and appears to be some sort of extradimensional location or parallel universe, associated in some way with Drunkenness, Oblivion and Stagnation. It is primarily (but not exclusively) accessible from Kyoto Prefecture in Japan, but little else is known about the location at this time. Although Drunkness Street does have sapient inhabitants, it is unknown whether they are aware of the Foundation. After the loss of multiple D-Class personel, any further attempt to access Drunkness Street have been prohibited.
+
+**Associated Articles:**
+* [[[http://scp-int.wikidot.com/groups-of-interest-jp|GROUPS OF INTEREST-JP]]]
+* [[[the-worst-version-of-myself| The Worst Version Of Myself]]]
+* [[[http://scp-int.wikidot.com/town-orbit-rendezvous| Bottom of Town]]]
+* [[[http://scp-int.wikidot.com/scp-1407-jp| SCP-1407-JP]]]
+* All articles tagged [http://scp-int.wikidot.com/system:page-tags/tag/drunkness-street drunkness-street] on the international translation archive.
+[[/div]]
+
+
+[[# druv-tuul-al-lhad]]
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[SCP-7600|The Sacred Yeren City of Druv'tuul Al-lhad]]][[/span]]
+
+**Accessible From:** Valdivia, Chile (located near the Earth's core)
+
+**Surveillance Facility:** [[[secure-facilities-locations| Site-01]]]
+
+**Description:** [[[SCP-7600]]] is a gigantic biomechanical underground city, continually moving through the Earth's inner and outer cores. Known as "Druv'tuul Al-lhad" or "Druv'tuul" by its inhabitants,  it is home to over 99.5% of the [[[SCP-1000]]] population, also known as Yeren or [/system:page-tags/tag/children-of-the-night "Children of the Night"].
+
+Prior to its discovery by the Foundation, Druv'tuul was an oppressive monarchy ruled by Met'heus, an ancient Yeren thaumaturge who claimed to be the brother of the mythical figure of Phomet. Following the collapse of the [[[hour-zero| Veil in 2021]]], Druv'tuul was internationally recognised as a a sovereign city state with a newly-established system of elective monarchy, and is currently [[[scp-7629| ruled by king Eldröl Gérunda]]].
+
+**Associated Articles:**
+* [[[From 120's Archives Hub]]]
+* [[[SCP-7600]]] - Six Feet Under
+* [[[SCP-7629]]] - Sanctuary of The Sky Keepers
+* [[[the-enlightened-children|The Enlightened Children]]]
+* [[[drzewa-wolnosci|終-Y-1789 "Trees of Liberty" Sales Catalog]]]
+* [[[art:sketches-made-by-o5-4-the-annalist-during-his-visit-to-s|SKETCHES MADE BY O5-4 ("THE ANNALIST") DURING HIS VISIT TO SCP-7600]]]
+[[/div]]
+
+[[# farpoint-station]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Farpoint Station[[/span]]
+
+**Location:** Pluto, Outer Solar System
+
+**Description:** Farpoint Forward Operating Base is the [[[goc-hub-page| Global Occult Coalition's]]] most remote outpost. Accessible only through thaumatological apportation, and inhabited and maintained by only a dozen GOC operatives, Farpoint Station is used by the GOC to contain anomalous entities that they cannot liquidate. Farpoint Station may also be utilized for the resupply of extrasolar missions, although such ventures are not currently possible with non-anomalous technology.
+
+**Associated Articles:**
+* [[[goc-tale-sequence-farpoint|"Farpoint"]]]
+* [[[SCP-6523]]] - The Machine (ISV Joyeuse)
+* [[[Burnin' for You]]]
+[[/div]]
+
+[[# new-finnfolkaheem]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]New Finnfolkaheem[[/span]]
+
+**Location:** Mobile
+
+**Description:** [[[SCP-4700]]] is the designation assigned to several large-scale submersible vehicles under the joint Foundation-Finnfolk command of Operation HIGH TIDE. Currently, only SCP-4700-1 is complete, and is referred to by the Finnfolk as Finnfolkaheem, or alternatively as Guð-Bani (The God-Slayer). It consists of two components: SCP-4700-1-A, a 5 km wide paratechnological "hermit-crab" armed with advanced weapons systems and concealment technology, and SCP-4700-1-B, a crystalline shell containing a vast extradimensional space. A series of nested cylinders have been constructed inside SCP-4700-1-B, 60 km long and 60 km in diameter, creating multiple environments intended for habitation by the Finnfolk, a species of scaled amphibious hominids.
+
+At time of discovery SCP-4700-1-B was overrun by hostile anomalous entities, including [[[SCP-3456]]]. Control over the location was reestablished by the combined efforts of the Foundation and the Finnfolk. Under the terms of the Foundation-Finnfolk Cooperative Agreement, the Finnfolk (Homo aqueous) have been granted permanent asylum aboard SCP-4700-1, and it is currently the largest known Finnfolk settlement.
+
+**Associated Articles:**
+* [[[Seas of Orcadia Hub]]]
+* [[[SCP-4700]]] - Orkney Rising
+* [[[SCP-6700]]] - A Mithers' Love Underneath an Orkney Sky
+* [[[lets-get-physical| Let's Get Physical]]]
+* [[[Hotter Than Hell]]]
+* [[[From 120's Archives Hub]]]
+* [[[the-enlightened-children|The Enlightened Children]]]
+* All pages tagged [/system:page-tags/tag/orcadia orcadia].
+[[/div]]
+
+[[# hydras-spine]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Hydra's Spine [[/span]]
+
+**Accessible from:** [REDACTED]
+
+**Surveillance Facility:** Site-93
+
+**Description:** [[[SCP-2344]]], also known as "[[[the-hydra-s-spine|The Hydra’s Spine]]]," is an expansive extradimensional network of underground tunnels, connecting together doorways leading to other planets and realities. The majority of these tunnels are of uniform appearance, passing through smooth dirt, although other appearances have been observed. Entry through a doorway connected to the network can be facilitated by physical contact with at least 7 grams of biological material from a member of the genus Gallus (Chicken), or local equivalent. Exploration is ongoing, including the establishment of outposts for resupply and diplomatic relations, but is complicated by the fact that many doorways connect to the [#wanderers-library Wanderer's Library].
+
+**Associated Articles:**
+* [[[SCP-2344]]] - The DoorWay
+* [[[the-hydra-s-spine|The Hydra's Spine]]]
+* [[[Wayfarers Hub]]]
+* Pursuing Ghosts
+ * [[[pursuing-ghosts-part-1|Part I]]]
+ * [[[pursuing-ghosts-part-2|Part II]]]
+
+[[/div]]
+
+[[# infinite-ikea]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]"Infinite" Ikea[[/span]]
+
+**Description:** [[[scp-3008|SCP-3008-1]]] is an extradimensional space of potentially infinite volume, resembling an IKEA store and located within a building previously owned and operated by the Swedish furniture retailer. It is inhabited by an unknown number of trapped humans, as well as by faceless entities dressed as IKEA employees (SCP-3008-2). Although harmless at times corresponding to the original store's opening hours, these entities exhibit violent hostility during periods when the store would be closed. The Foundation prevents further entry and amnesticises any individual that manages to leave, although escape is infrequent due to the labyrinthine layout of the extradimensional store.
+
+**Associated Articles:**
+* [[[SCP-3008]]] - A Perfectly Normal, Regular Old IKEA
+* [[[Tjalla]]]
+* [[[Your Call Is Important To Us]]]
+* [[[The Drooling Path]]]
+ * [[[the-drooling-path-part-5|The Drooling Path: Part 5]]]
+[[/div]]
+
+[[# paramax]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[Paramax]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/paramax/ParamaxLogoHiRes.png height="150px"]]
+
+**Description:** Paramax is a maximum security prison for paranormal criminals. Although built with Foundation and Global Occult Coalition assistance, it is operated as a United States Penitentiary by the FBI's [[[unusual-incidents-unit-hub| Unusual Incidents Unit]]], holding paracriminals from across North America for the duration of their sentences. The prison was built on a slab of granite suspended in an artificial orphan universe half a mile in diameter,  and is only accessible by temporary ways created using thaumatology. Through the use of reality anchors, anti-occult sigils and psionic dampeners, the prison can contain the majority of humanoid anomalies, with specialized countermeasures enabling the maximum security wing to hold even the most powerful mages, reality benders and demigods. Although many attempts have been made, no prisoner has ever successfully escaped from Paramax.
+
+**Associated Articles:**
+* [[[Third Law Hub]]]
+* [[[paramax|UIU Location Dossier — "Paramax"]]]
+* [[[paramax-inmate-list|UIU Memorandum — Paramax Inmate Register, Abridged]]]
+* [[[Moving Pictures]]]
+* [[[Dead Man Walking]]]
+* [[[bones-malone-and-the-spooky-boys-tonight-there-s-gonna-be| Bones Malone and the Spooky Boys: Tonight There's Gonna Be A Jailbreak]]]
+* [[[Paramax Connection]]]
+
+[[/div]]
+
+[!--
+Not including this until there's a link to an actual (translated) article
+[[# the-peninsula]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[http://scp-int.wikidot.com/i-57-hub|The Peninsula]]][[/span]]
+
+**Accessible From:** [[[http://scp-int.wikidot.com/i-57-hub|Wing 5 of Facility-57]]]
+
+**Description:** The Peninsula is a pocket dimension in which there is a small island surrounded by a sea that acts like a normal one, but whose surface has a seemingly infinite amount of images of many places in the world. The only known access to The Peninsula is in its Northwest corner, which despite not possessing solid ground, walking there in a Northeast direction will eventually end up in the subject reaching a point in Wing 5 of the Facility-57. It is used by the Latin-American Regional Council to hold meetings. It is one of the most secret and safe places in the entire world, and its existence is only known to the aforementioned Council. However, the Council knows that when they are called to The Peninsula, it is not exactly for good news, and long nights of sleeplessness and stress will surely await them.
+
+**Associated Articles:**
+* [[[http://scp-int.wikidot.com/i-57-hub| Facility-57 Hub]]]
+
+[[/div]]
+--]
+
+[[# samothrace]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Islamic Republic of Eastern Samothrace[[/span]]
+
+**Warning:** This fictitious location has been included on this list due to a memetic effect. This delusion is prevalent amongst Foundation personnel, and requires amnestic treatment. See [[[SCP-1173]]] for full details.
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/art%3Alocations-of-interest/Flag-Samothrace.svg width="200px"]]
+
+**Location:** Anatolian Peninsula and Aegean Sea, Europe
+
+**Description:** The Islamic Republic of Eastern Samothrace (IDAS) is a small country located between Greece and Turkey that is subject to a memetic phenomenon ([[[SCP-1173]]]) erasing awareness of its existence. The ongoing religious, ethnic and political conflict within the region has only been exacerbated by the nation's lack of international recognition, and efforts are ongoing to counter the anomalous effect and alleviate the humanitarian crisis.
+
+**Associated Articles:**
+* [[[SCP-1173]]] - The Islamic Republic of Eastern Samothrace
+* [[[SCP-6396]]] - Overhead
+* [[[oria-025-117|MEMORANDUM 117 REGARDING PROJECT 025]]]
+* [[[Djoric-Dmatix Proposal]]]
+* [[[document-owi|Document OWi]]]
+[[/div]]
+
+[[# scp-5572-prime]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[scp-5572|SCP-5572-PRIME]]][[/span]]
+
+**Accessible From:** Anywhere, as long as its requirements are met
+
+**Surveillance Facility:** [[[secure-facility-dossier-site-120|Site-120]]]
+
+**Description:** One of the many afterlives available to humanity, SCP-5572-PRIME can be accessed by anyone buried without the phrase "Rest in Peace" marking their grave. Affected individuals are immediately transported to SCP-5572-PRIME, a battlefield in which the skeletal forms of the deceased must wage war on demonic forces. Though never confirmed by any explicit data, several theories created by Site-666 staff consider SCP-5572-PRIME to be the Seventh Circle of Hell, the domain of violence.
+
+**Associated Articles:**
+* [[[SCP-5572]]] - I Ain't No Skeleton's Son
+* [[[From 120's Archives Hub]]]
+ * [[[Gaslight, Gatekeep, Girlboss Hub]]]
+  * [[[The Lands Nobody Returns From]]]
+[[/div]]
+
+[[# shigastan]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][http://scp-int.wikidot.com/locations-of-interest-jp#shigastan Republic of Shigastan][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/Flag-Shigastan.jpeg width="200px"]]
+
+**Location:** Eastern coast of the Caspian Sea, Central Asia
+
+**Description:** "Shigastan" is an anomalous territory where multiple parallel universes overlap, enabling the movement of objects and individuals between them. In some of these universes, Shigastan is a non-anomalous republic known of by the general public; in others it has a long history of alchemy and is known only to the anomalous community, while in others Shigastan does not exist, although [http://scp-int.wikidot.com/wikipedia-shigastan traces of its existence remain].  Investigation into the origin of the anomalous phenomena associated with Shigastan is still ongoing, but there is a suspected connection to the [http://scp-int.wikidot.com/goi2015-saiga "Saiga Factions"], a Group of Interest extensively involved in movement between universes.
+
+**Associated Articles:**
+* [[[SCP-7722]]] - Nyctopolis
+* [http://scp-int.wikidot.com/wikipedia-shigastan Republic of Shigastan (Deleted Page) - Wikipedia]
+* [[[http://scp-int.wikidot.com/ambrose-shigastan|Ambrose Shigastan]]]
+* [http://scp-int.wikidot.com/scp-1300-jp SCP-1300-JP] - An Offering to S
+* [http://scp-int.wikidot.com/scp-1304-jp SCP-1304-JP] - The Day the Wild Thistle Fell
+* All pages tagged [http://scp-int.wikidot.com/system:page-tags/tag/shigastan shigastan] on the International Translation Archive.
+[[/div]]
+
+[[# taboo]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]##bc0e2e|@@[@@[[[taboo| REDACTED PER PROTOCOL 4000-ESHU]]]@@]@@##[[/span]]
+
+**Warning:** **##green|This extradimensional location##** as well as all entities and landmarks within it are Eshu Class nomenclative hazards. They may not be referred to by any name, title, or designation. Descriptions may be used instead, but must be varied to avoid repetition. For further information, refer to the [[[scp-4000|relevant Special Containment Procedures]]].
+
+**Description:** **##green|This Location of Interest##** is accessible by performing Procedure 4000-Halloway in any suitable location, transporting the subject to **##green|an unusual forest##** that can only be safely traversed by following **##sienna|a single dirt path##**. The **##green|nameless woods##** do not correspond to linear space, and the route of the **##sienna|track that must be followed##** is different for each expedition, and can loop back on itself without intersecting. **##green|This unnamed space##** is inhabited by a number of sapient anomalous entities of variable appearance. Most can be interacted with safely as long as 4000-SEP precautions are followed, most notably the requirement to never give any inhabitant of the **##green|tree-lined region##** a name or consistent descriptor.
+
+**Associated Articles:**
+* [[span class="taboo"]][[[SCP-4000|Taboo]]][[/span]]##transparent| - Taboo##
+* [[[The Grove of Exiles]]]
+* [[[most-beautiful-things|Most Beautiful Things]]]
+* [[[SCP-5935]]] - Blood and the Breaking of My Heart
+* [[[SCP-6800]]] - The White Ashes
+* [[[Ralliston's Proposal]]] - The Queen's Gambit
+* [[[they-had-names|They Had Names]]]
+* All pages tagged [/system:page-tags/tag/nameless nameless].
+[[/div]]
+
+[[# undervegas]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]][[[undervegas-hub|Undervegas]]][[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/undervegas-hub/Undervegas2.png width="200px" style="background-color:black;"]]
+
+**Location:** Las Vegas, Nevada, USA; The Fourth Circle of Hell
+
+**Surveillance Facility**: [[[secure-facilities-locations|Site-666]]]
+
+**Description:** [[[SCP-7666]]] is a region of space in which the city of Las Vegas overlaps with the Fourth Circle of Hell, the domain of greed. While the Foundation's actions in 1992 were able to anchor Las Vegas to baseline reality, Las Vegas and Hell continue to influence each other. This has resulted in a region of the Fourth Circle resembling a distorted and exaggerated version of Las Vegas, and has also enabled a number of Tartarean-class demonic entities to cross over from this demonic metropolis into Las Vegas. These entities are drawn towards and draw power from alcohol use, sexual intercourse, and gambling, and so it has been deemed impossible to fully exclude them from Las Vegas. Instead, containment of Undervegas involves cooperation with and employment of these Tartarean Entities, to ensure that the general public remains unaware of their presence within the city.
+
+Undervegas is mostly populated by demons of all seven classical sins (i.e. Lust, Greed, Pride, etc.) and is controlled by seven Pit Bosses that each represent one of the seven sins and one of seven estates. The city of Undervegas is split into seven districts or known as estates, each representing a cardinal sin with each estate being controlled by the most powerful demon in that area or at that time, otherwise known as a 'Pit Boss'. The Fourth Estate, or the Moneypit, is the largest of all seven estates which is controlled by Ba'al, the pit boss of that estate.
+
+**Associated Articles:**
+* [[[undervegas-hub|Agent Calendar's Undervegas Hub]]]
+* [[[SCP-4661]]] - Sin City
+* [[[SCP-5690]]] - Professional Demonatrix
+* [[[SCP-7666]]] - UNDERVEGAS ORIENTATION: The House Loses
+* [[[The Signing Of The Las Vegas Accords]]]
+* [[[Third Law Hub]]]
+* [[[paralaw|UIU Memorandum — Paralaw Briefing]]]
+* All pages tagged [/system:page-tags/tag/undervegas undervegas].
+[[/div]]
+
+[[# unlondon]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]UnLondon[[/span]]
+
+[[f>image https://scp-wiki.wdfiles.com/local--files/locations-of-interest/COA-UnLondon.png width="200px"]]
+
+**Location:** London, England, United Kingdom
+
+**Description:** [[[SCP-1678]]] is a reconstruction of the British city of London, located 1 kilometer underground and constructed entirely in a Victorian style. While it is currently only inhabited by a number of bio-mechanical constructs, it appears to have been constructed through anomalous means to serve as a shelter for survivors of an XK-class end-of-the-world event. The suitability of the location as a disaster shelter is currently being assessed by the Foundation, although it is far from being an ideal option.
+
+**Associated Articles:**
+* [[[SCP-1678]]] - UnLondon
+* [[[The Lord of the Redacted]]]
+* [[[Hop On Hop Off]]]
+* [[[the-sun-ever-sets-on-the-british-empire|May The Sun Never Set On The British Empire]]]
+* [[[project-isorropia|Project Isorropía]]]
+[[/div]]
+
+[[# west-korea]]
+
+[[div class="blockquote"]]
+
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Republic of West Korea[[/span]]
+
+**Location:** Yellow Sea, East Asia
+
+**Description:** The Republic of West Korea is a nation formerly situated on a landmass in the Yellow Sea, west of and presumably connected to the Korean peninsula. Following an engineered reality-altering event, the entirety of the country and its geographical boundaries were displaced from consensus reality, leaving behind only [[[SCP-5345]]]. Analysis of documents recovered from SCP-5345 corroborate the existence of a competent national normalcy organization, the West Korean Ministry of Abnormal Affairs, which was primarily responsible for the nation's disappearance.
+
+While it is possible to access the Republic of West Korea by traversing to its current plane of existence -- believed to be one of many potential afterlives -- or [[[SCP-7722|vice versa]]], the presence of unidentified hostile entities haunting the nation's extraplanar territory have prompted the Foundation's current policy of non-invasive monitoring. There are currently no proposals to make contact with the Republic of West Korea, or restore it to baseline reality.
+
+**Associated Articles:**
+
+* [[[SCP-3812]]] - A Voice Behind Me
+* [[[SCP-5345]]] - Almost Heaven, West Korea
+* [[[SCP-7722]]] - Nyctopolis
+
+[[/div]]
+
+@@ @@
+
+[[# related-pages]]
+[[# about-this-page]]
+[[# adding-to-this-page]]
+[[tabview]]
+[[tab Related Pages]]
+* [[[universe-hub| Foundation Universe Hub]]] -- Further information about the Foundation.
+* [[[locations-complete-list| A Semi-Comprehensive List of Locations of Interest]]] - a list of additional inhabited anomalous locations that don't meet the requirements for inclusion on this page.
+* [[[nexus-series|Nexus Hub]]] -- The page originally created for listing Nexus formats.
+* [http://scp-int.wikidot.com/locations-of-interest International Locations of Interest] -- An international version of this page.
+* [http://scp-int.wikidot.com/locations-of-interest-jp Locations of Interest-JP] -- Locations of Interest translated from the Japanese Wiki.
+* [http://fondazionescp.wikidot.com/luoghi-dinteresse-italiani Locations of Interest-IT] -- Locations of Interest from the Italian Wiki. (untranslated)
+* [http://scp-int.wikidot.com/locations-of-interest-cn-list Locations of Interest-CN] -- Locations of Interest from the Chinese Wiki.
+* [[[secure-facilities-locations|Foundation Facilities]]] -- Foundation Facilities from around the world.
+* [[[log-of-unexplained-locations|]]] -- Minor locations requiring limited containment and concealment.
+[[/tab]]
+[[tab About this Page]]
+This page compiles a list of settings that have been used within the SCP Universe, places for readers to explore and for writers to utilize in their own work. Note that their coexistence on this page does not mean they necessarily coexist in-universe! Also note that different depictions of a location may differ, and there's nothing wrong with changing some of the details to better fit the story you intend to tell.
+
+Nexuses were originally defined on the [[[nexus-series|Nexus Hub]]] as a specific type of article format, although over time various locations were added to the page that were described as Nexuses in SCPs and Tales. Free Ports were added later, as another type of anomalous location. This page also includes a number of additional "Locations of Interest" that appear in multiple articles but aren't officially defined as a Nexus or Free Port. Some anomalous locations will be been omitted from the list above - they either don't have at least 2 appearances in published articles, or they simply haven't been added to the page yet.
+
+The map is the best representation we can manage of where the Locations shown on it are, or at least where they are accessible from, in the case of locations within pocket dimensions or alternate realities. Although it was created using the same map as the [[[secure-facilities-locations|Facilities page]]], created by [[*user L200]], it was inspired by earlier work by IAmPuzzlr, [https://www.reddit.com/r/SCP/comments/pzugc5/another_guide_poster_for_your_rooms_this_time_for/ posted on reddit].
+
+The images used here are a mixture of flags, coats of arms, signs and logos -- anything that can represent a place. Not all locations have one, and people are welcome to create more. Some existed already, while others were created specifically to be included on this page -- feel free to use them elsewhere!
+[[/tab]]
+[[tab Adding to this Page]]
+This collaborative page is open for any site member to edit and add to, but you're welcome to make suggestions or get feedback on proposed additions in the Discussion. In general, the idea was to be as inclusive as possible within the general scope of "inhabited anomalous location".
+
+Anyone is welcome to add to the list of articles in which a location appears or is described, although we're looking for more than just a brief mention. If there is a tag, please limit the appearances to no more than the 5, prioritising the most relevant or most informative articles.
+
+This page is the responsibility of the [http://05command.wikidot.com/curation-main Curation Team]. If you have any questions or suggestions, you can contact us via the #help-desk channel on the [https://discord.com/invite/scp SCP Wiki Official Discord server], or via [https://scp-wiki.wikidot.com/chat-guide IRC chat #site17], or by messaging a member of the Collaboration Pages subteam.
+
+++ Adding New Locations
+
+The first section of this page is for all locations described in a [[[nexus-series|Nexus format]]]. Additional locations that are referred to as a Nexus within an SCP or Tale can be added, as long as they're given a number and described in sufficient detail to enable their inclusion here. Merely mentioning the name and Nexus number is insufficient, although there is a list of those on [[[locations-complete-list| this page]]]. International articles using a non-standard format will be added to the list at the appropriate place numerically if articles are translated, treating Nx-CN-08 as equivalent to Nx-08. Any entirely non-numerical designations will have to be listed at the end of the section.
+
+Free Ports don't have a specified format in exactly the same way, but will generally be treated the same as just another type of Nexus -- if the Free Port number appears in a published article, it can be included in the list.
+
+For Locations of Interest, we're looking for a minimum of 2 appearances -- otherwise we'd end up listing every SCP with the [/system:page-tags/tag/location location] and [/system:page-tags/tag/city city] tags, and we want to keep the length of this page manageable. To count as an appearance, we're looking for more than just the mention of the name -- part of the story should focus on or take place in the Location of Interest. For an alternate reality to count as a Location of Interest, there needs to be a reliable way for people to travel there, as well as some way of communicating information about it back.
+
+[[collapsible show="Template for new additions" hide="Omit any section that's not applicable!"]]
+[[code]]
+[[# table-of-contents-anchor]]
+[[div class="blockquote"]]
+++ [[span style="font-family: Verdana; font-size: 125%;"]]Nx-XX: Nexus Name[[/span]]
+
+[[f>image image-url height="150px"]] [!--(or width="200px")--]
+
+**Area Class:** ##blue|**Briar**##/##green|**Asphodel**##/##FFDD00|**Camelot**##/ ##orange|**Shangri-La**##/##red|**Dunwich**##/##purple|**Free Port**##
+
+**Location:**/**Accessible From:** City, State, Country [!--Can list more than one, but don't list more than 4--]
+
+**Containment Facility:**/**Surveillance Facility:** Site-YY
+
+**Description:** About the Location [!--Write from the perspective of the Foundation--]
+
+**Associated Articles:**
+* [[[link|Title]]] [!--If there's a tag, limit it to 5 articles, then link the tag as the last one. --]
+[[/div]]
+[[/code]]
+[[/collapsible]]
+
+++ Adding to the Map
+If a Location is added to this list, it can also be added to the map, to indicate the general area it's located in or accessible from. Instructions for doing this can be found on the [[[fragment:locations-map|page where the map is hosted]]].
+
+++ Adding New Images
+New images representing specific locations or Nexus types can be added to the page, but before uploading them it's best to get feedback from the creator of the location, or at least from someone who's written articles featuring the location. While there's flexibility on size since the proportions of these images vary, as a general rule the height should not be more than 150px, and the width should not be more than 200px. To keep things consistent, for flags and other wide images set width="200px", while for coats of arms, seals and other round or square logos, set height="150px".
+
+[[/tab]]
+
+[[tab Nexus Format]]
+A Nexus is defined as an actively anomalous area that supports a permanent community. When creating a new Nexus, keep the following characteristics in mind.
+
+++ Low Population
+Most Nexuses have very low population numbers, generally with only a few thousand people. A large population would make it much harder for their existence to be concealed by the Foundation, as news of the Nexus's existence would spread much more easily.
+
+++ Nexus Confines
+A Nexus's anomalies only occur within the confines of the Nexus (or in certain cases, other Nexuses). For example, you couldn't force the Goatman from Sloth's Pit to exit the confines of the Nexus: the act would simply make him a normal goat after a while. What happens in the Nexus, stays in the Nexus.
+
+++ Thematic Influence
+Each Nexus has its central theme that encompasses the entire idea of the anomaly in the Nexus. They can exist anywhere in the world, so long as they have around ~25 people at least, and should not match any real-world location. Besides that, you're free to do whatever you want. If you want a Nexus that rains salmon, go ahead[[footnote]]Someone's already done that idea, unfortunately[[/footnote]].
+
+++ The Nexus Format
+
+To create a new Nexus Article, copy the following template:
+
+[[code]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+**Nexus #:** Nx-XX
+
+**Civilian Designation:** [Name of Nexus Town]
+
+**Population:** [Approximate number of people living in the Nexus]
+
+**Area Class:** Briar/Asphodel/Camelot/Shangri-La/Dunwich (indicate which class)
+
+**Nexus Interaction Protocol:** [Paragraphs explaining special requirements for personnel working in the Nexus]
+
+**Containment Facility:** [Optional Site/Area dedicated to containment and monitoring]
+
+**Description:** [Paragraphs describing the Nexus]
+
+**Addendum:** [Optional additional paragraphs]
+
+[[/code]]
+[[/tab]]
+[[tab Footnotes]]
+[[footnoteblock]]
+[[/tab]]
+
+[[/tabview]]
+
+@@ @@
+
+[[include :scp-wiki:component:license-box
+|author=Jerden and Ralliston, using material from the [/nexus-series Nexus Hub] by HotCocoaNerd and Irondruid
+]]
+=====
+> **Filename:** World-Map
+> **Original Author:** Canuckguy, see File history for full list of contributors.
+> **Modified By:** [[*user L200]] and [[*user Jerden]]
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:BlankMap-World.svg
+
+> **Filename:** Map-North-America
+> **Original Authors:** Kaldari and Halava
+> **Modified By:** [[*user L200]] and [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:North_America_map_with_states_and_provinces.svg
+
+> **Filename:** Map-Europe
+> **Original Filename:** Europe_laea_location_map
+> **Original Author:** Alexrk2
+> **Modified By:**  [[*user Jerden]]
+> **License:** CC-SA-3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Europe_laea_location_map.svg
+
+> **Filename:** Map-Japan-Korea
+> **Original Authors:** Maximilian Dörrbecker
+> **Modified By:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg
+
+> **Filename:** Briar
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/jerden-insignia
+>**Derivative of:** Thorny vine icon
+
+> **Filename:** thorny-vine
+> **Name:** Thorny vine icon
+> **Author:** Lorc
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://game-icons.net/1x1/lorc/thorny-vine.html
+
+> **Filename:** Asphodel
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/jerden-insignia
+
+> **Filename:** Camelot
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/jerden-insignia
+
+> **Filename:** Shangri-La
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/jerden-insignia
+
+> **Filename:** Dunwich
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/jerden-insignia
+>**Derivative of:** Curled tentacle icon
+
+> **Filename:** curled-tentacle
+> **Name:** Curled tentacle icon
+> **Author:** Lorc
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://game-icons.net/1x1/lorc/curled-tentacle.html
+
+> **Filename:** Free-Port
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/jerden-insignia
+
+> **Filename:** Turing
+> **Author:** [[*user Jerden]], [[*user SunnyClockwork]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/jerden-insignia
+>**Derivative of:** SPMax.png
+
+> **Filename:** SPMax.png
+> **Author:** [[*user SunnyClockwork]]
+> **License:** CC BY 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/church-of-the-broken-god-hub
+
+> **Filename:** Crossroads
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/jerden-insignia
+
+> **Filename:** Location-of-Interest
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/jerden-insignia
+
+> **Filename:** wl_logo.png
+> **Author:** [[*user Woedenaz]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://wanderers-library.wikidot.com/component:theme
+
+> **Filename:** COA-Hy-Brasil
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/art:locations-of-interest
+> **Derivative of:** Provincial Arms of Ireland
+
+> **Filename:** Provincial_Arms_of_Ireland
+> **Author:**  Caomhan27
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Provincial_Arms_of_Ireland.svg
+
+> Filename: Univers-Isle.png
+> Original Filename: univ.png
+> Author: [[*user Tanija]], [[*user macro_au_micro]]
+> License: CC BY-SA 3.0
+> Source Link: http://fondationscp.wikidot.com/groupes-d-interet-fr
+
+> **Filename:** Sign-Boring
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/art:locations-of-interest
+
+> **Filename:** SCPlastics.png
+> **Author:** [[*user SunnyClockwork]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/the-s-c-plastics-hub
+
+> **Filename:** Seal-Atlantic-City
+> **Author:** Unknown author
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Seal_of_Atlantic_City.svg
+
+> **Filename:** Mujin-Si
+> **Author:** [[*user thd-glasses]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/locations-of-interest
+
+> **Filename:** Flag_of_Fremont,_California
+> **Author:** Unknown
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Flag_of_Fremont,_California.gif
+
+> **Filename:** COA-Cyców
+> **Author:** Unknown author
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:POL_gmina_Cyc%C3%B3w_COA.png
+
+> **Filename:** SPMax
+> **Author:** [[*user SunnyClockwork]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/church-of-the-broken-god-hub
+
+> **Filename:** LHR2
+> **Author:** [[*user HarryBlank]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/on-guard-43-hub
+
+> **Filename:** Flag-Puerto-Extrano
+> **Oriignal File:** PE
+> **Author:** [[*user HarryBlank]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/scp-6500
+
+> **Filename:** AtlantisArizonaFlag2.png
+> **Author:** [[*user GreenWolf]], Denelson83, Madden
+> **License:** CC BY-SA 3.0
+> **Source Link:** [https://scp-wiki.wikidot.com/new-atlantis SCP Foundation Wiki]
+> **Derivative of:** Flag of Arizona, Flag of Barbados
+
+> **Name:** Flag of Arizona.svg
+> **Author:** Madden
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Flag_of_Arizona.svg Wikimedia Commons]
+
+> **Name:** Flag of Barbados.svg
+> **Author:** Denelson83
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Flag_of_Barbados.svg Wikimedia Commons]
+
+> **Filename:** three_ports_flag
+> **Author:** [[*user Zhange]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/three-portlands-hub
+
+> **Filename:** Backdoor-SoHo
+> **Author:** [[*user SunnyClockwork]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://www.deviantart.com/sunnyclockwork/art/Backdoor-SoHo-949798342
+
+> **Filename:** La-Rue-Macabre
+> **Original Name:** sigil2
+> **Author:** [[*user MalyceGraves]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/larue-hub
+
+> **Filename:** Flag-Sjhlfels-am-Rhein
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/art:locations-of-interest
+
+> **Filename:** Flag-Esterberg
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/art:locations-of-interest
+
+> **Filename:** Flag-Eurtec
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/art:locations-of-interest
+
+> **Filename:** Adytumsmall
+> **Author:** [[*user  Nederbird]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:**https://scp-wiki.wikidot.com/scp-2815
+
+> **Filename:** COA-Alagadda
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/art:locations-of-interest
+> **Derivative of:** slipknot
+
+> **Filename:** slipknot
+> **Author:**  Delapouite
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://game-icons.net/1x1/delapouite/slipknot.html
+
+> **Filename:** Flag-Antarctic-Empire
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/art:locations-of-interest
+
+> **Filename:** threemoonsinitiative
+> **Author:** [[*user daveyoufool]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/three-moons-initiative-hub
+
+> **Filename:** CICP
+> **Original Filename:** cicpmark.png
+> **Author:** [[*user yosh0123]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-jp.wikidot.com/sadahiko-s-homepage-html
+
+> **Filename:** Koigarezaki
+> **Author:** [[*user SOYA-001]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-jp.wikidot.com/kanshin-ryoiki-koigarezaki
+
+> **Filename:** Flag-New-Cha-Ling
+> **Original Filename:** NCL-flag
+> **Author:** [[*user Miziquan]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-zh-tr.wikidot.com/new-cha-ling
+
+> **Filename:** Flag-Pequena-Habana
+> **Original Filename:** small.jpg
+> **Author:** [[*user Dc_Yerko]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://lafundacionscp.wikidot.com/dossier-lph
+> **Derivative of:** Rooster closeup 03.svg
+
+> **Filename:** Rooster closeup 03.svg
+> **Author:** LadyofHats
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Rooster_closeup_03.svg
+
+> **Filename:** ParamaxLogoHiRes
+> **Author:** [[*user DrGooday]] and [[*user JackalRelated]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/paramax
+
+> **Filename:** Flag-Samothrace
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/art:locations-of-interest
+
+> **Filename:** Flag-Shigastan
+> **Author:** [[*user Nanimono Demonai]] (Based on [[*user y33r41]]'s original design)
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://ja.scp-wiki.net/foundation-or-goi-logo
+
+> **Filename:** Flag-Tlaneyanco
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/art:locations-of-interest
+
+> **Filename:** Flag-Tono-Yokai-Sanctuary
+> **Author:** [[*user snoj ]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-jp.wikidot.com/tono-logo
+
+> **Filename:** Undervegas2
+> **Author:** [[*user Jerden]], [[*user Rounderhouse]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/undervegas-hub
+> **Derivative of:** Las_vegas_sign
+
+> **Filename:** Las_vegas_sign
+> **Author:** Anasofiapaixao
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Las_vegas_sign.svg
+
+> **Filename:** COA-UnLondon
+> **Author:** [[*user Olympic Error]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** https://scp-wiki.wikidot.com/locations-of-interest
+
+> **Filename:** Violet
+> **Original Filename:** 제비꽃.png
+> **Author:** [[*user thd-glasses]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scpko.wikidot.com/groups-of-interest-ko
+
+> **Filename:** Wonder-World
+> **Author:** [[*user Jerden]]
+> **License:** CC BY-SA 3.0
+> **Source Link:** http://scp-wiki.wikidot.com/art:locations-of-interest
+
+=====
+[[include component:license-box]]
+[[include component:license-box-end]]
