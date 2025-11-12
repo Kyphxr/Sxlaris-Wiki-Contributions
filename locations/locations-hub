@@ -16,11 +16,6 @@
     font-family: 'Sans Normalcy', 'Nanum Gothic', 'Arial', sans-serif;
 }
 
-body {
-    background-image: linear-gradient(
-        to bottom,
-        #FCFCFC, #FCFCFC 100%);
-}
 
 div#extra-div-1 {
     height: 140px;
