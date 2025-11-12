@@ -81,6 +81,7 @@ With additional locations based on [http://pseudo-scp-jp.wikidot.com/stray-nexus
 [[/=]]
 [[include :scp-wiki:info:end]]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[div class="blockquote" style="font-size: 106.25%"]]
 The Foundation has identified a number of locations around the world (and beyond it) that are actively anomalous and support permanent communities. While these places would generally be given an SCP designation and evacuated, in some cases this is not possible, due to practical or political constraints. Although not all Locations of Interest are fully controlled by the Foundation,  containment measures are in place to ensure that the general public remains unaware of their existence or anomalous nature.
 
@@ -646,6 +647,8 @@ To create a new Nexus Article, copy the following template:
 [[/tab]]
 
 [[/tabview]]
+
+[[/div]]
 
 @@ @@
 
