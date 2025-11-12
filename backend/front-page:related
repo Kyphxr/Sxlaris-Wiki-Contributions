@@ -110,7 +110,7 @@
 **{{POIs}}**
 [[/div]]
 [[div style="background: url("http://backrooms-wiki.wdfiles.com/local--resized-images/eden-g/ConfirmedNew/medium.jpg"); background-size: cover; flex-grow: 2; background-position: center center;"]]
-[[/div]][[[poi-s]]]
+[[/div]][[[poi-hub]]]
 [[/div]]
 [[/div]]
 
@@ -120,17 +120,17 @@
 **{{Locations}}**
 [[/div]]
 [[div style="background: url("http://backrooms-wiki.wdfiles.com/local--files/the-kalag-institute/kalaglogo.png"); background-size: cover; flex-grow: 2; background-position: center center;"]]
-[[/div]][[[groups-list]]]
+[[/div]][[[locations-hub]]]
 [[/div]]
 [[/div]]
 
 [[div class="frontgridder canons"]]
 [[div class="linnkblock"]]
 [[div class="styled-quote"]]
-**{{Canons}}**
+**{{Equipment}}**
 [[/div]]
 [[div style="background: url("http://backrooms-wiki.wdfiles.com/local--resized-images/entity-18/entity/medium.jpg"); background-size: cover; flex-grow: 2; background-position: center center;"]]
-[[/div]][[[canons]]]
+[[/div]][[[kult-rising:equipment]]]
 [[/div]]
 [[/div]]
 [[/div]]
