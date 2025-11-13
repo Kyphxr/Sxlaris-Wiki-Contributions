@@ -73,22 +73,6 @@ Ellie Selene is [DATA EXPUNGED].
 
 
 [[include component:poi-block
-|poi=Nightshade
-|poi-link=poi-placeholder
-|status=ACTIVE
-|status-color=green
-|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
-]]
-+++ Alias(es): "Gianna Sloat"
-+++ Known Affiliations: N/A
-------
-
-Gianna Sloat, better known as Nightshade, is an eco-terrorist with the anomalous ability to control plants via use of SCP-x███.
-
-[[include component:poi-block-end]]
-
-
-[[include component:poi-block
 |poi=Kleo
 |poi-link=poi-placeholder
 |status=ACTIVE
@@ -104,6 +88,23 @@ Kleo ██████ is a non-anomalous human woman who serves as a high prie
 [[include component:poi-block-end]]
 
 [[/div]]
+
+
+[[include component:poi-block
+|poi=Nightshade
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): "Gianna Sloat"
++++ Known Affiliations: N/A
+------
+
+Gianna Sloat, better known as Nightshade, is an eco-terrorist with the anomalous ability to control plants via use of SCP-x███.
+
+[[include component:poi-block-end]]
+
 
 
 
