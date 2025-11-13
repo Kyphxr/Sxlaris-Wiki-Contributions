@@ -41,6 +41,23 @@ UNKNOWN ##grey|⬤##: Unspecified
 ----
 
 [[include component:poi-block
+|poi=Ares
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Name: Ares
+++++ Alias(es): SCP-x007-7
+++++ Known Affiliations: the Greek Pantheon
+------
+
+SCP-x007-7, is the Ares, the Greek god of war.
+
+[[include component:poi-block-end]]
+
+
+[[include component:poi-block
 |poi=Blackhawk
 |poi-link=poi-placeholder
 |status=ACTIVE
