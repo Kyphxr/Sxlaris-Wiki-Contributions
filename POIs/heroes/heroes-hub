@@ -1,0 +1,69 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+,,the style of this page has been ported from the [*https://backrooms-wiki.wikidot.com/level-37 Backrooms TS],,
+[[div class="lightblock"]]
+++ What is a Person of Interest?
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+------
+Heroes are superhumans that act as crime fighting vigilantes. 
+
+[[collapsible show="[+] Profile Template" hide="[-] Hide Profile Template"]]
+[[div class="blockquote"]]
+@@[[include component:poi-block@@
+|poi=
+|poi-link= /* Formatted as **{{poi-name}}** */
+|status= /* See Status Key */
+|status-color= /* green, orange, red, or grey (must be spelled with an e) */
+|image= /* Image must have a height of 1566 and a width of 1532. If you do not have an image, please use [http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg this file] */
+]]
+@@+++ Alias(es):@@
+@@+++ Known Affiliations:@@
+@@------@@
+
+Description goes here.
+
+@@[[include component:poi-block-end]]@@
+[[/div]]
+[[div class="blockquote"]]
+Status Key:
+ACTIVE ##green|⬤##: Alive and actively engaged with the Backrooms and its communities
+INACTIVE ##orange|⬤##: Alive but retired
+DECEASED ##red|⬤##: Dead/Preseumed dead
+UNKNOWN ##grey|⬤##: Unspecified
+[[/div]]
+[[/collapsible]]
+@@@@
+[[/div]]
+
+----
+
+[[include component:poi-block
+|poi=Ellie
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Alias(es): "Ellie"
++++ Known Affiliations: █████
+------
+
+placeholder.
+
+[[include component:poi-block-end]]
+
+[[/div]]
+
+
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "Heroes Hub" by [[user STAFF]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
