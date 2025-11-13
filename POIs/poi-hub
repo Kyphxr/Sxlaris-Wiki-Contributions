@@ -75,6 +75,23 @@ Ellie Selene is [DATA EXPUNGED].
 
 
 [[include component:poi-block
+|poi=Jack the Ripper
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Name: Jack the Ripper
+++++ Alias(es): Jack
+++++ Known Affiliations: N/A
+------
+
+Jack Walker, better known as Jack the Ripper, is an infamous serial killer active in the late 1880s.
+
+[[include component:poi-block-end]]
+
+
+[[include component:poi-block
 |poi=Kleo
 |poi-link=poi-placeholder
 |status=ACTIVE
