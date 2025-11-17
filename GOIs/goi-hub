@@ -11,6 +11,7 @@ Persons of Interest (POI) are singular individuals who hold high importance in t
 
 [[collapsible show="[+] Table of Contents" hide="[-] Hide Table of Contents"]]
 [#ATLYS ATLYS Corporation]
+[#Shigiraki Shigaraki Corporation]
 [[/collapsible]]
 [[/div]]
 
@@ -30,7 +31,24 @@ Persons of Interest (POI) are singular individuals who hold high importance in t
 
 ATLYS corporation is an American based arms and vehicle manufacturer that works closely with the United States Government.
 
-[[include component:poi-block-end]]
+[[include component:goi-block-end]]
+
+
+[[# Shigaraki]]
+[[include component:goi-block
+|goi=Shigaraki Corporation
+|goi-link=atlys-corporation-hub
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ GOI: ATLYS Corporation
+++++ Category: Megacorporation
+------
+
+Shigaraki corporation is a Japanese based arms and robotics manufacturer, specializing in prosthetics and bio-technological enhancements..
+
+[[include component:goi-block-end]]
 
 
 
