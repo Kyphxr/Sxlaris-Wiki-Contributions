@@ -17,19 +17,18 @@ Persons of Interest (POI) are singular individuals who hold high importance in t
 
 ----
 [[# ATLYS]]
-[[include component:poi-block
-|poi=ATLYS Corporation
-|poi-link=poi-placeholder
+[[include component:goi-block
+|goi=ATLYS Corporation
+|goi-link=atlys-corporation-hub
 |status=ACTIVE
 |status-color=green
 |image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
 ]]
-+++ Name: Ares
-++++ Alias(es): SCP-x007-7
-++++ Known Affiliations: the Greek Pantheon
++++ GOI: ATLYS Corporation
+++++ Category: Megacorporation
 ------
 
-SCP-x007-7, better known as Ares, is the Greek god of war.
+ATLYS corporation is an American based arms and vehicle manufacturer that works closely with the United States Government.
 
 [[include component:poi-block-end]]
 
