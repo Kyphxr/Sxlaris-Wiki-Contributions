@@ -196,6 +196,23 @@ Kleo ██████ is a non-anomalous human woman who serves as a high prie
 
 
 [[include component:poi-block
+|poi=Magnetique
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Name: Magnetique
+++++ Alias(es): N/A
+++++ Known Affiliations: N/A
+------
+
+Magnetique is human woman with the anomalous ability to manipulate any form of metal.
+
+[[include component:poi-block-end]]
+
+
+[[include component:poi-block
 |poi=Nightshade
 |poi-link=poi-placeholder
 |status=ACTIVE
