@@ -27,8 +27,8 @@ Persons of Interest (POI) are singular individuals who hold high importance in t
 [#TrixieVice Trixie Vice]
 [[/collapsible]]
 
-[!--
-[[collapsible show="[+] Profile Template" hide="[-] Hide Profile Template"]]
+[!----
+collapsible show="[+] Profile Template" hide="[-] Hide Profile Template"
 [[div class="blockquote"]]
 @@[[include component:poi-block@@
 |poi=
@@ -52,10 +52,10 @@ INACTIVE ##orange|⬤##: Alive but retired
 DECEASED ##red|⬤##: Dead/Preseumed dead
 UNKNOWN ##grey|⬤##: Unspecified
 [[/div]]
-[[/collapsible]]
+/collapsible
 @@@@
 [[/div]]
---]
+----]
 
 ----
 [[# Ares]]
