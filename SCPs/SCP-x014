@@ -101,7 +101,7 @@ On ██/██/20██, SCP-x014-A underwent a medical examination, during wh
  
 Preliminary analysis revealed that the device is capable of receiving and interpreting specific radio frequencies or other forms of electromagnetic signals. The exact purpose of the device remains unknown, but it is hypothesized to serve as a remote triggering mechanism for SCP-x014's transformation into SCP-x014-B. This discovery has led researchers to theorize that SCP-x014-A may have been deliberately modified to act as a sleeper agent, with the transformation into SCP-x014-B occurring either as a contingency or as part of a coordinated attack.
  
-[[collapsible show="Show x014_medicalAnalysis.md" hide="x014_medicalAnalysis.md"]]
+[[collapsible show="Show x014_medicalAnalysis.md" hide="Hide x014_medicalAnalysis.md"]]
  
 > ▣ The receiver is encased in a biologically inert material, making surgical removal without severe damage to SCP-x014-A’s brainstem impossible.
 >  ㅤ
@@ -118,7 +118,7 @@ Preliminary analysis revealed that the device is capable of receiving and interp
 
 [[/collapsible]]
 
-[[collapsible show="Show x014_incidentLog.md" hide="x014_incidentLog.md"]]
+[[collapsible show="Show x014_incidentLog.md" hide="Hide x014_incidentLog.md"]]
 ++ Addendum x014-4 - Incident Report x014-RF-01:
 On ██/██/20██, the shielding in SCP-x014’s containment cell briefly malfunctioned during a routine power grid update. During the 7-minute downtime, SCP-x014-A exhibited signs of severe discomfort, including clutching his head and shouting incoherently. SCP-x014-A did not transform into SCP-x014-B during this period, though his distress subsided immediately after the shielding was restored.
  
