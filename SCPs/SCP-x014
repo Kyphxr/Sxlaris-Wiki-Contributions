@@ -62,13 +62,13 @@ SCP-x014 may receive visitors at his request. Access is restricted to individual
 
 SCP-x014 is a humanoid entity with two distinct forms, designated SCP-x014-A and SCP-x014-B.
  
-SCP-x014-A:
-SCP-x014-A is a 6’2” Caucasian male with medium-length brown hair, blue eyes, and tanned skin. He exhibits no anomalous abilities and has the personality of a mild-mannered, introspective pianist. SCP-x014-A spends most of his time composing music, playing the piano, or engaging in other non-violent activities.
+**SCP-x014-A:**
+//SCP-x014-A// is a 6’2” Caucasian male with medium-length brown hair, blue eyes, and tanned skin. He exhibits no anomalous abilities and has the personality of a mild-mannered, introspective pianist. SCP-x014-A spends most of his time composing music, playing the piano, or engaging in other non-violent activities.
  
 Psychological evaluations indicate that SCP-x014-A is cooperative, intelligent, and generally pleasant to interact with. However, he appears to have no knowledge of how or why his transformations occur, nor of his activities in the SCP-x014-B form.
  
-SCP-x014-B:
-SCP-x014-B manifests when SCP-x014-A is killed. Upon death, SCP-x014-A undergoes a rapid transformation into SCP-x014-B, which is a highly dangerous and anomalously enhanced version of himself.
+**SCP-x014-B:**
+//SCP-x014-B// manifests when SCP-x014-A is killed. Upon death, SCP-x014-A undergoes a rapid transformation into SCP-x014-B, which is a highly dangerous and anomalously enhanced version of himself.
  
 In his -B form, SCP-x014's hair turns a vivid blue, his skin becomes pale, his right eye glows red, his body is adorned with intricate black tattoos that glow faintly, and a white gloved hand materializes over his face. SCP-x014-B exhibits abilities including, but not limited to:
  
@@ -101,6 +101,7 @@ On ██/██/20██, SCP-x014-A underwent a medical examination, during wh
 Preliminary analysis revealed that the device is capable of receiving and interpreting specific radio frequencies or other forms of electromagnetic signals. The exact purpose of the device remains unknown, but it is hypothesized to serve as a remote triggering mechanism for SCP-x014's transformation into SCP-x014-B. This discovery has led researchers to theorize that SCP-x014-A may have been deliberately modified to act as a sleeper agent, with the transformation into SCP-x014-B occurring either as a contingency or as part of a coordinated attack.
  
 Further examination of the device has revealed:
+[[collapsible show="Show x014_medicalAnalysis.md" hide="x014_medicalAnalysis.md"]]
  
 ▣ The receiver is encased in a biologically inert material, making surgical removal without severe damage to SCP-x014-A’s brainstem impossible.
  
@@ -114,6 +115,8 @@ To mitigate the risk posed by the receiver, SCP-x014's containment cell has been
 All wireless communication devices, including radios, smartphones, and short-range transmitters, are strictly prohibited within a 50-meter radius of SCP-x014's containment chamber. Personnel entering the vicinity are to undergo thorough scans to ensure compliance.
  
 SCP-x014-A was informed of the discovery and has expressed distress over the possibility that he is being used as an unwitting pawn. Psychological support has been increased to address his concerns and maintain cooperation.
+
+[[/collapsible]]
 
 ++ Addendum x014-4 - Incident Report x014-RF-01:
 On ██/██/20██, the shielding in SCP-x014’s containment cell briefly malfunctioned during a routine power grid update. During the 7-minute downtime, SCP-x014-A exhibited signs of severe discomfort, including clutching his head and shouting incoherently. SCP-x014-A did not transform into SCP-x014-B during this period, though his distress subsided immediately after the shielding was restored.
