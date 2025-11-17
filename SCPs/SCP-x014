@@ -103,9 +103,7 @@ Preliminary analysis revealed that the device is capable of receiving and interp
 [[collapsible show="Show x014_medicalAnalysis.md" hide="x014_medicalAnalysis.md"]]
  
 > ▣ The receiver is encased in a biologically inert material, making surgical removal without severe damage to SCP-x014-A’s brainstem impossible.
- >
 > ▣ Attempts to block its functionality through internal means have proven ineffective, as the device appears to self-regulate its power source.
- >
 > ▣ The device has an internal mechanism that may detonate or otherwise destroy itself if tampered with, further complicating removal efforts.
  
 Containment Modifications
@@ -117,12 +115,15 @@ SCP-x014-A was informed of the discovery and has expressed distress over the pos
 
 [[/collapsible]]
 
+[[collapsible show="Show x014_incidentLog.md" hide="x014_incidentLog.md"]]
 ++ Addendum x014-4 - Incident Report x014-RF-01:
 On ██/██/20██, the shielding in SCP-x014’s containment cell briefly malfunctioned during a routine power grid update. During the 7-minute downtime, SCP-x014-A exhibited signs of severe discomfort, including clutching his head and shouting incoherently. SCP-x014-A did not transform into SCP-x014-B during this period, though his distress subsided immediately after the shielding was restored.
  
 Subsequent investigation revealed a spike in local radio frequencies during the incident, suggesting an external entity attempted to activate the receiver. This event has raised concerns about the existence of an unknown third party monitoring or attempting to manipulate SCP-x014.
  
 Further analysis is underway to determine the origin of the signal. Mobile Task Forces have been assigned to monitor potential Groups of Interest that may be responsible for SCP-x014's creation or attempted activation.
+
+[[/collapsible]]
 
 ++ Addendum x014-5: 
 Proceeding the events of Incident x014-RF-01, SCP-x014's containment procedure has been modified. The previous containment procedure has been listed below for archival purposes.
