@@ -9,6 +9,25 @@
 ------
 Persons of Interest (POI) are singular individuals who hold high importance in the world of the Backrooms due to their nature or their role. They are often humans, though they are not limited to that, coming from other dimensions or even being native to the Backrooms themselves. Unlike entities, POIs are well-documented and important to the setting's overall history because of their actions. You can think of them as historical figures, past or present, being the core aspect of a group, level, time period, etc. Much like entities, however, they can be captivating because of their status, their behaviour, and the implications they create for future pages.
 
+[[collapsible show="[+] Table of Contents" hide="[-] Hide Table of Contents"]]
+[#Ares Ares]
+[#HHO Hundred Handed One]
+[#Blackhawk Blackhawk]
+[#Cain Cain]
+[#Pyre Edward Pyre]
+[#343 God?]
+[#GDiaz Gwen Diaz]
+[#Hex Hex]
+[#Ripper Jack the Ripper]
+[#Kleo Kleo]
+[#Magnetique Magnetique]
+[#Myrage Myrage]
+[#Nightshade Nightshade]
+[#Myrage Myrage]
+[#TrixieVice Trixie Vice]
+[[/collapsible]]
+
+[!--
 [[collapsible show="[+] Profile Template" hide="[-] Hide Profile Template"]]
 [[div class="blockquote"]]
 @@[[include component:poi-block@@
@@ -36,27 +55,9 @@ UNKNOWN ##grey|⬤##: Unspecified
 [[/collapsible]]
 @@@@
 [[/div]]
+--]
 
 ----
-[[collapsible show="[+] Table of Contents" hide="[-] Hide Table of Contents"]]
-[#Ares Ares]
-[#HHO Hundred Handed One]
-[#Blackhawk Blackhawk]
-[#Cain Cain]
-[#Pyre Edward Pyre]
-[#343 God?]
-[#GDiaz Gwen Diaz]
-[#Hex Hex]
-[#Ripper Jack the Ripper]
-[#Kleo Kleo]
-[#Magnetique Magnetique]
-[#Myrage Myrage]
-[#Nightshade Nightshade]
-[#Myrage Myrage]
-[#TrixieVice Trixie Vice]
-[[/collapsible]]
-----
-
 [[# Ares]]
 [[include component:poi-block
 |poi=Ares
