@@ -6,6 +6,18 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[include :scp-wiki:component:rso]]
+[[include :sxlaris:more-by:kyphxr
+|color=#4000ff
+]]
+[[include :scp-wiki:component:info-ayers
+|lang=en
+|page=scp-x002[!-- url of your page on the scp wiki --]
+|authorPage=*https://sxlaris.wikidot.com/kyphxr-author-page[!-- link to your author page --]
+|comments= = Styles/CSS 
+]]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x014
 |clearance= 5
@@ -22,7 +34,7 @@
 Note: proceeding the events of Incident x014-RF-01, SCP-x014's containment procedures have been modified. For the old procedures, see the attached document.
 [[/div]]
 
-SCP-x014 is to be contained on the specialized containment floor located █ miles below the bottom floor of Site-██. The 1000 ft^^2^^ floor is designed in a modular fashion with walls that can be raised or lowered to change the floor plan, and thus the acoustics of the layout. The room is furnished with a grand piano that is bolted to the floor, several guitars, and a library of sheet music. There are 75 cameras, 25 microphones, and 10 software-defined radios (SDRs), broken up between 5 surveillance teams that monitor the site 24/7.
+SCP-x014 is to be contained on the specialized containment floor located █ miles below the bottom floor of [[[site-814-home | Site-814]]]. The 1000 ft^^2^^ floor is designed in a modular fashion with walls that can be raised or lowered to change the floor plan, and thus the acoustics of the layout. The room is furnished with a grand piano that is bolted to the floor, several guitars, and a library of sheet music. There are 75 cameras, 25 microphones, and 10 software-defined radios (SDRs), broken up between 5 surveillance teams that monitor the site 24/7.
  
 A computer with no internet connection is mounted in the south west corner of the room, outfit with a few monitors, and connected to a recording booth directly next to it. A bedroom with a couch, a bed, and a smart phone and TV that can only connect to each other and the computer is located in the north west corner. The computer is connected to a Foundation monitored server that is to be updated on a weekly basis, primarily with new music, as well as any news, games, or other media requested by SCP-x014. All electronic devices are equipped with killswitches that will fry the motherboard should the device recieve any form of outside signal.
  
@@ -114,7 +126,7 @@ Further analysis is underway to determine the origin of the signal. Mobile Task 
 Proceeding the events of Incident x014-RF-01, SCP-x014's containment procedure has been modified. The previous containment procedure has been listed below for archival purposes.
  
 [OLD DO NOT USE] Containment Procedures:
-SCP-x014 is to be contained in a standard humanoid containment cell at Site-██. The cell is to be outfitted with accommodations designed to maintain the comfort and psychological stability of SCP-x014-A. These accommodations include:
+-- SCP-x014 is to be contained in a standard humanoid containment cell at Site-██. The cell is to be outfitted with accommodations designed to maintain the comfort and psychological stability of SCP-x014-A. These accommodations include:
  
 ▣ A grand piano and an assortment of sheet music.
  
@@ -122,7 +134,7 @@ SCP-x014 is to be contained in a standard humanoid containment cell at Site-█�
  
 ▣ Comfortable furniture, including a bed, a desk, and a chair.
  
-▣ Recreational items such as books, puzzles, and non-violent games.
+▣ Recreational items such as books, puzzles, and non-violent games. --
  
 SCP-x014-A has shown no anomalous abilities and poses no threat in his current state. Routine psychological evaluations and interviews are to be conducted bi-weekly to monitor SCP-x014-A's mental well-being and detect any signs of distress that could lead to self-harm or external threats.
  
@@ -160,7 +172,7 @@ The injuries sustained by the subject are consistent with SCP-x014-B’s documen
 Further study is required to determine whether SCP-x014-B’s abilities have limitations or predictable patterns. It is recommended that personnel maintain a minimum distance of 25 meters from SCP-x014-B when active, as previous reports suggest close proximity significantly increases the likelihood of targeted alteration.
  
 End of Report.
-
+[[/div]]
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
 [[=]]
@@ -172,6 +184,6 @@ End of Report.
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
 Cite this page as:
 > "SCP-x014" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/SCP-x014Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+> http://sxlaris.wikidot.com/SCP-x014 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
 [[/collapsible]]
 [[/div]]
