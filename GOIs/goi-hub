@@ -1,0 +1,46 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div class="lightblock"]]
+++ What is a Person of Interest?
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+------
+Persons of Interest (POI) are singular individuals who hold high importance in the world of the Backrooms due to their nature or their role. They are often humans, though they are not limited to that, coming from other dimensions or even being native to the Backrooms themselves. Unlike entities, POIs are well-documented and important to the setting's overall history because of their actions. You can think of them as historical figures, past or present, being the core aspect of a group, level, time period, etc. Much like entities, however, they can be captivating because of their status, their behaviour, and the implications they create for future pages.
+
+[[collapsible show="[+] Table of Contents" hide="[-] Hide Table of Contents"]]
+[#ATLYS ATLYS Corporation]
+[[/collapsible]]
+
+
+
+----
+[[# ATLYS]]
+[[include component:poi-block
+|poi=ATLYS Corporation
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Name: Ares
+++++ Alias(es): SCP-x007-7
+++++ Known Affiliations: the Greek Pantheon
+------
+
+SCP-x007-7, better known as Ares, is the Greek god of war.
+
+[[include component:poi-block-end]]
+
+
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "POIs" by STAFF, from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+
+ ,,the style of this page has been ported from the [*https://backrooms-wiki.wikidot.com/level-37 Backrooms TS],,
+[[/collapsible]]
+[[/div]]
