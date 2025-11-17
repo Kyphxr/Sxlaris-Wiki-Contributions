@@ -100,14 +100,13 @@ On ██/██/20██, SCP-x014-A underwent a medical examination, during wh
  
 Preliminary analysis revealed that the device is capable of receiving and interpreting specific radio frequencies or other forms of electromagnetic signals. The exact purpose of the device remains unknown, but it is hypothesized to serve as a remote triggering mechanism for SCP-x014's transformation into SCP-x014-B. This discovery has led researchers to theorize that SCP-x014-A may have been deliberately modified to act as a sleeper agent, with the transformation into SCP-x014-B occurring either as a contingency or as part of a coordinated attack.
  
-Further examination of the device has revealed:
 [[collapsible show="Show x014_medicalAnalysis.md" hide="x014_medicalAnalysis.md"]]
  
-▣ The receiver is encased in a biologically inert material, making surgical removal without severe damage to SCP-x014-A’s brainstem impossible.
- 
-▣ Attempts to block its functionality through internal means have proven ineffective, as the device appears to self-regulate its power source.
- 
-▣ The device has an internal mechanism that may detonate or otherwise destroy itself if tampered with, further complicating removal efforts.
+> ▣ The receiver is encased in a biologically inert material, making surgical removal without severe damage to SCP-x014-A’s brainstem impossible.
+ >
+> ▣ Attempts to block its functionality through internal means have proven ineffective, as the device appears to self-regulate its power source.
+ >
+> ▣ The device has an internal mechanism that may detonate or otherwise destroy itself if tampered with, further complicating removal efforts.
  
 Containment Modifications
 To mitigate the risk posed by the receiver, SCP-x014's containment cell has been retrofitted with specialized shielding designed to block all incoming electromagnetic wavelengths. The shielding operates on multiple layers, ensuring redundancy in the event of mechanical failure.
