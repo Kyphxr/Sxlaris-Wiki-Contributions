@@ -184,6 +184,24 @@ Gwen Diaz is [DATA EXPUNGED].
 [[include component:poi-block-end]]
 
 
+[[# Harkolden]]
+[[include component:poi-block
+|poi=Harkolden
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Name: Harkolden
+++++ Alias(es): Conquest
+++++ Known Affiliations: The Project
+------
+
+Harkolden is [DATA EXPUNGED].
+
+[[include component:poi-block-end]]
+
+
 [[# Hex]]
 [[include component:poi-block
 |poi=Hex
