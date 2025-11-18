@@ -132,24 +132,6 @@ Edward Pyre is [DATA EXPUNGED].
 [[include component:poi-block-end]]
 
 
-[[# 343]]
-[[include component:poi-block
-|poi=God?
-|poi-link=poi-placeholder
-|status=ACTIVE
-|status-color=green
-|image=https://i.imgur.com/uVYOIWs.png
-]]
-+++ Name: God?
-++++ Alias(es): SCP-343
-++++ Known Affiliations: the Foundation
-------
-
-SCP-343 is a seemingly omnipotent reality bender who claims to be the creator of existence.
-
-[[include component:poi-block-end]]
-
-
 [[# Ghost]]
 [[include component:poi-block
 |poi=Ghost
@@ -164,6 +146,24 @@ SCP-343 is a seemingly omnipotent reality bender who claims to be the creator of
 ------
 
 Ashley Monroe is a human woman with bright orange skin who has anomalous power of segmentation and is an aspect of Death.
+
+[[include component:poi-block-end]]
+
+
+[[# 343]]
+[[include component:poi-block
+|poi=God?
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=https://i.imgur.com/uVYOIWs.png
+]]
++++ Name: God?
+++++ Alias(es): SCP-343
+++++ Known Affiliations: the Foundation
+------
+
+SCP-343 is a seemingly omnipotent reality bender who claims to be the creator of existence.
 
 [[include component:poi-block-end]]
 
