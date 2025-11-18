@@ -76,24 +76,6 @@ SCP-x007-7, better known as Ares, is the Greek god of war.
 [[include component:poi-block-end]]
 
 
-[[# Ghost]]
-[[include component:poi-block
-|poi=Ghost
-|poi-link=poi-placeholder
-|status=ACTIVE
-|status-color=green
-|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
-]]
-+++ Name: Ghost
-++++ Alias(es): Ashley Monroe, Death
-++++ Known Affiliations: God's Hand
-------
-
-Ashley Monroe is a human woman with bright orange skin who has anomalous power of segmentation and is an aspect of Death.
-
-[[include component:poi-block-end]]
-
-
 [[# Blackhawk]]
 [[include component:poi-block
 |poi=Blackhawk
@@ -162,6 +144,24 @@ Edward Pyre is [DATA EXPUNGED].
 ------
 
 SCP-343 is a seemingly omnipotent reality bender who claims to be the creator of existence.
+
+[[include component:poi-block-end]]
+
+
+[[# Ghost]]
+[[include component:poi-block
+|poi=Ghost
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Name: Ghost
+++++ Alias(es): Ashley Monroe, Death
+++++ Known Affiliations: God's Hand
+------
+
+Ashley Monroe is a human woman with bright orange skin who has anomalous power of segmentation and is an aspect of Death.
 
 [[include component:poi-block-end]]
 
