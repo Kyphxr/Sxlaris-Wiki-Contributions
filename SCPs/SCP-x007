@@ -6,41 +6,33 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
-[[include :scp-wiki:component:rso]]
-[[include :sxlaris:more-by:kyphxr
-|color=#4000ff
-]]
-[[include :scp-wiki:component:info-ayers
-|lang=en
-|page=scp-x002[!-- url of your page on the scp wiki --]
-|authorPage=*https://sxlaris.wikidot.com/kyphxr-author-page[!-- link to your author page --]
-|comments= = Styles/CSS 
-]]
-
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x007
 |clearance= 4
-|container-class= esoteric
-|secondary-class= ticonderoga
+|container-class= keter
+|secondary-class= none
 |disruption-class= amida
 |risk-class= critical
 ]]
 
-REPLACE_THIS_WITH_YOUR_PAGE
++++++ Special Containment Procedures:
+SCP-x004 cannot be contained however, all instances of SCP-x004 seem either confined to their realm of extradimensional space, or have no desire to interface with humanity.
+
++++++ Description: 
+SCP-x007 describes a pantheon of dieties designated SCP-x007-1 through SCP-x004-12.
+
+
+
 
 [[/div]]
+
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
 [[=]]
-<< [[[SCP-x006]]] | SCP-x007| [[[SCP-x008]]] >>
+<< [[[SCP-x006]]] | SCP-x007 | [[[SCP-x008]]] >>
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
-[[div class="collapsible"]]
-[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
-Cite this page as:
-> "SCP-x007" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/SCP-x007 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
-[[/collapsible]]
-[[/div]]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
