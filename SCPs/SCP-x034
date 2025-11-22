@@ -6,6 +6,7 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x034
 |clearance= 2
@@ -19,7 +20,7 @@
 
 +++++ Description: 
 SCP-x034 is a product created by ███████ known as Fast O████ Hardening Material, or F.O.H.M.
-
+[[/div]]
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
