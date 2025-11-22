@@ -6,6 +6,7 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x010
 |clearance= 3
@@ -21,7 +22,7 @@
 SCP-x010 describes a set of 10 rings measuring approximately 11.33 cm in diameter. When 5 rings are placed over a subjects forearm, they become imbued with a glowing blue energy. 
 
 This energy gives the host an array of powers, ranging from enhanced strength, to slower aging, to telekinetic manipulation of the rings which can be fired as projectiles.
-
+[/div]
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
