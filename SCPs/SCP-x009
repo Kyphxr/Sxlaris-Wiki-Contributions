@@ -18,7 +18,7 @@
 
 +++++ Special Containment Procedures:
 SCP-x009 is more or less impossible to contain, due to its non-adherence to our understanding of physical space.
- 
+
 +++++ Description: 
 SCP-x009 describes an anomalous non-Euclidean space that appears to those in need. SCP-x009 appears to possess some level of sentience, as it will configure itself to the necessities of its inhabitants. 
 [[/div]]
@@ -27,18 +27,10 @@ SCP-x009 describes an anomalous non-Euclidean space that appears to those in nee
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
 [[=]]
-<< [[[SCP-XXXW]]] | SCP-XXXX | [[[SCP-XXXY]]] >>
+<< [[[SCP-x008]]] | SCP-x009| [[[SCP-x010]]] >>
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
-[!--
-[[div class="collapsible"]]
-[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
-Cite this page as:
-> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
-[[/collapsible]]
-[[/div]]
---]
+
 [[include component:license-box]]
 [[include component:license-box-end]]
