@@ -6,6 +6,7 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x010
 |clearance= 4
@@ -16,11 +17,11 @@
 ]]
 
 +++++ Special Containment Procedures:
-SCP-x084 is contained within [[SCP-x216]]
+SCP-x084 is contained within [[[SCP-x216]]]
 
 +++++ Description: 
 SCP-x084 is a humanoid automaton of unknown origin, measuring approximately 80 meters in height and weighing an estimated 1400 metric tons. Its frame is constructed from a high-tensile alloy of unknown composition, exhibiting extreme resistance to corrosion and damage. SCP-x084 possesses a predominantly crimson external shell with segmented plate armor, reinforced joint plating, and glowing photoreactive highlights concentrated around its chest and ocular region. Its cranial structure resembles a stylized female visage, partially obscured by white, fiber-optic strands arranged in a hair-like formation.
-
+[[/div]]
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
