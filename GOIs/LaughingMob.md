@@ -2,3 +2,4 @@ The Laughing Mob is an organized crime ring lead by Trixie Vice, that primarily 
 
 Members:
 - Trixie Vice
+- Loki
