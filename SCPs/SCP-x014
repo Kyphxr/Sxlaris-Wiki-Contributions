@@ -6,195 +6,39 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
-[[include :scp-wiki:component:rso]]
-[[include :sxlaris:more-by:kyphxr
-|color=#4000ff
-]]
-[[include :scp-wiki:component:info-ayers
-|lang=en
-|page=scp-x002[!-- url of your page on the scp wiki --]
-|authorPage=*https://sxlaris.wikidot.com/kyphxr-author-page[!-- link to your author page --]
-|comments= = Styles/CSS 
-]]
-
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
-|item-number= x014
+|item-number= x013
 |clearance= 5
-|container-class= esoteric
-|secondary-class= apollyon
-|secondary-icon=https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/apollyon-icon.svg
+|container-class= keter
+|secondary-class= none
 |disruption-class= amida
-|risk-class= eldritch
+|risk-class= critical
 ]]
 
-+ Special Containment Procedures:
++++++ Special Containment Procedures:
+[DATA EXPUNGED].
 
-[[div style="font-size: 14px;"]]
-Note: proceeding the events of Incident x014-RF-01, SCP-x014's containment procedures have been modified. For the old procedures, see the attached document.
++++++ Description: 
+SCP-x013 is an ancient diety, the god of blood, and bone, and sinew, who's rule is just. The justice of the dark. 
 [[/div]]
 
-SCP-x014 is to be contained on the specialized containment floor located █ miles below the bottom floor of [[[site-814-home | Site-814]]]. The 1000 ft^^2^^ floor is designed in a modular fashion with walls that can be raised or lowered to change the floor plan, and thus the acoustics of the layout. The room is furnished with a grand piano that is bolted to the floor, several guitars, and a library of sheet music. There are 75 cameras, 25 microphones, and 10 software-defined radios (SDRs), broken up between 5 surveillance teams that monitor the site 24/7.
- 
-A computer with no internet connection is mounted in the south west corner of the room, outfit with a few monitors, and connected to a recording booth directly next to it. A bedroom with a couch, a bed, and a smart phone and TV that can only connect to each other and the computer is located in the north west corner. The computer is connected to a Foundation monitored server that is to be updated on a weekly basis, primarily with new music, as well as any news, games, or other media requested by SCP-x014. All electronic devices are equipped with killswitches that will fry the motherboard should the device recieve any form of outside signal.
- 
-The type of media consumed by SCP-x014 is of minimal concern, provided it undergoes prior screening by a panel of psychologists before being delivered to SCP-x014's server. Any form of media—such as music, books, games, movies, artwork, news, or other subject matter—is permissible, as long as it does not pose a risk to SCP-x014's mental stability. Additionally, any food requests made by SCP-x014 should be accommodated within reasonable limits.
- 
-The entire floor containing SCP-x014 is to be operated on its own power grid, with at least 2 backup power supplies available at all times. At least 3 specialized electromagnetic shields are to be active surrounding SCP-x014's containment site at all times. SCP-x014-A has shown no anomalous abilities and poses no threat in his current state. Routine psychological evaluations and interviews are to be conducted bi-weekly to monitor SCP-x014-A's mental well-being and detect any signs of distress that could lead to self-harm or external threats.
- 
-Under no circumstances is SCP-x014-A to be harmed or subjected to lethal force. Any personnel interacting with SCP-x014-A must undergo thorough psychological evaluations to ensure they pose no threat to his safety.
- 
-In the event of SCP-x014's transformation into SCP-x014-B, all personnel are to evacuate the immediate area, and Mobile Task Force Delta-14 ("Jekyll-n-Hyde") is to be dispatched to neutralize SCP-x014-B. Use of heavy firearms, incendiary devices, and anomalous weaponry is authorized to terminate SCP-x014-B and trigger his reversion to SCP-x014-A. This process should be carried out as quickly as possible to minimize casualties.
- 
-[[collapsible show="Show x014_additionalInsturctions.md" hide="Hide x014_additionalInsturctions.md"]]
-SCP-x014's containment chamber is to remain under constant video surveillance, with on-site personnel ready to respond to any containment breaches. All potentially dangerous items located in SCP-x014's floor are to be modified as such:
- 
-▣ large or heavy objects are to be bolted to the floor or wall
- 
-▣ any sharp/pointed objects (pencils, pens, forks, etc.) are to be outfitted so that any points or sharp edges can be retracted remotely
- 
-▣ no cords or strings longer than 12 in (30 cm) are allowed within the vicinity of SCP-x014
- 
-▣ no open blades are allowed within the vicinity of SCP-x014
- 
-SCP-x014 may receive visitors at his request. Access is restricted to individuals listed in the attached document (guestList.md). All visitors must undergo a psychological screening before entering SCP-x014's designated area. If SCP-x014 is ever out of sight of the cameras monitoring his floor, MTF Delta-14 is to respond immediately, as this occurrence is considered impossible.
-[[/collapsible]]
 
-+ Description:
-
-SCP-x014 is a humanoid entity with two distinct forms, designated SCP-x014-A and SCP-x014-B.
- 
-**SCP-x014-A:**
-//SCP-x014-A// is a 6’2” Caucasian male with medium-length brown hair, blue eyes, and tanned skin. He exhibits no anomalous abilities and has the personality of a mild-mannered, introspective pianist. SCP-x014-A spends most of his time composing music, playing the piano, or engaging in other non-violent activities.
- 
-Psychological evaluations indicate that SCP-x014-A is cooperative, intelligent, and generally pleasant to interact with. However, he appears to have no knowledge of how or why his transformations occur, nor of his activities in the SCP-x014-B form.
- 
-**SCP-x014-B:**
-//SCP-x014-B// manifests when SCP-x014-A is killed. Upon death, SCP-x014-A undergoes a rapid transformation into SCP-x014-B, which is a highly dangerous and anomalously enhanced version of himself.
- 
-In his -B form, SCP-x014's hair turns a vivid blue, his skin becomes pale, his right eye glows red, his body is adorned with intricate black tattoos that glow faintly, and a white gloved hand materializes over his face. SCP-x014-B exhibits abilities including, but not limited to:
- 
-> ▣ Enhanced physical strength and speed.
-> ㅤ 
-> ▣ Regenerative capabilities that render him highly resistant to conventional damage.
-> ㅤ 
-> ▣ Manipulation of an unknown form of energy, which he uses for offensive and defensive purposes.
- 
-SCP-x014-B's energy manipulation seems to follow no discernable pattern. Known effects range from severe physical disfiguration, to blasts capable of dismemberment. SCP-x014-B's personality is highly sadistic, arrogant, and violent. He displays an intense enjoyment of causing destruction and suffering, referring to himself as "The Godhand". SCP-x014-B displays a strategic intellect well beyond that of an ordinary human making him difficult to neutralize.
-
-+ Discovery:
-SCP-x014 was discovered following a containment breach at Site-██. During the breach, SCP-x014-B was observed killing several personnel and using his anomalous abilities to disable containment systems, leading to multiple additional breaches. Analysis suggests that SCP-x014-A may have been planted at the site and subsequently killed by an unknown individual or group to deliberately trigger the transformation. Investigation into potential motives and affiliations is ongoing.
- 
-SCP-x014-B was neutralized after entering the containment cell housing SCP-173. Unaware of SCP-173's properties, SCP-x014-B turned his back on the entity, resulting in immediate fatality due to cervical fracture. This event caused SCP-x014 to revert to its -A form. SCP-x014-A was subsequently recovered in a disoriented but compliant state and has remained in containment since the incident.
-
-[[collapsible show="Show addendum_x014_1.md" hide="Hide addendum_x014_1.md"]]
-++ Addendum x014-1:
-On ██/██/20██, SCP-x014-A was found in his containment chamber displaying signs of severe distress after viewing footage of the Site-██ breach. SCP-x014-A expressed guilt over the deaths caused by SCP-x014-B and requested termination to prevent further harm. This request was denied. The Foundation has since implemented stricter monitoring of SCP-x014-A’s mental state, including weekly therapy sessions and increased recreational allowances.
- 
-Note: The idea was proposed to deliver amnestics to SCP-x014-A to prevent possible complications. However this was rejected on the basis that SCP-x014-A has become much more cooperative upon learning the reason for his imprisonment. An experiment has been proposed to inform SCP-x014 of his trigger mechanism in an effort to prevent him from attempting to harm himself.
-[[/collapsible]]
-
-[[collapsible show="Show addendum_x014_2.md" hide="Hide addendum_x014_2.md"]]
-++ Addendum x014-2:
-On ██/██/20██, SCP-x014-A was informed of the true nature of his condition and the mechanism behind his abilities. Although visibly distressed by this revelation, amnestics were not administered. This decision was based on SCP-x014-A's understanding and acceptance of the denial of his termination request, as well as his expressed desire to prevent the reemergence of SCP-x014-B.
-[[/collapsible]]
-
-[[collapsible show="Show addendum_x014_3.md" hide="Hide addendum_x014_3.md"]]
-++ Addendum x014-3 - Medical Examination Findings: 
-On ██/██/20██, SCP-x014-A underwent a medical examination, during which Foundation physicians discovered an anomalous device embedded at the base of his skull, directly interfacing with the brainstem. The device appears to be a small, metallic receiver, with microscopic wiring integrating into the central nervous system.
- 
-Preliminary analysis revealed that the device is capable of receiving and interpreting specific radio frequencies or other forms of electromagnetic signals. The exact purpose of the device remains unknown, but it is hypothesized to serve as a remote triggering mechanism for SCP-x014's transformation into SCP-x014-B. This discovery has led researchers to theorize that SCP-x014-A may have been deliberately modified to act as a sleeper agent, with the transformation into SCP-x014-B occurring either as a contingency or as part of a coordinated attack.
- 
- 
-> ▣ The receiver is encased in a biologically inert material, making surgical removal without severe damage to SCP-x014-A’s brainstem impossible.
->  ㅤ
-> ▣ Attempts to block its functionality through internal means have proven ineffective, as the device appears to self-regulate its power source.
->  ㅤ
-> ▣ The device has an internal mechanism that may detonate or otherwise destroy itself if tampered with, further complicating removal efforts.
-> ㅤ
-> **Containment Modifications**
-> To mitigate the risk posed by the receiver, SCP-x014's containment cell has been retrofitted with specialized shielding designed to block all incoming electromagnetic wavelengths. The shielding operates on multiple layers, ensuring redundancy in the event of mechanical failure.
-> ㅤ
-> All wireless communication devices, including radios, smartphones, and short-range transmitters, are strictly prohibited within a 50-meter radius of SCP-x014's containment chamber. Personnel entering the vicinity are to undergo thorough scans to ensure compliance.
-> ㅤ
-> SCP-x014-A was informed of the discovery and has expressed distress over the possibility that he is being used as an unwitting pawn. Psychological support has been increased to address his concerns and maintain cooperation.
-
-[[/collapsible]]
-
-[[collapsible show="Show addendum_x014_4.md" hide="Hide addendum_x014_4.md"]]
-++ Addendum x014-4 - Incident Report x014-RF-01:
-On ██/██/20██, the shielding in SCP-x014’s containment cell briefly malfunctioned during a routine power grid update. During the 7-minute downtime, SCP-x014-A exhibited signs of severe discomfort, including clutching his head and shouting incoherently. SCP-x014-A did not transform into SCP-x014-B during this period, though his distress subsided immediately after the shielding was restored.
- 
-Subsequent investigation revealed a spike in local radio frequencies during the incident, suggesting an external entity attempted to activate the receiver. This event has raised concerns about the existence of an unknown third party monitoring or attempting to manipulate SCP-x014.
- 
-Further analysis is underway to determine the origin of the signal. Mobile Task Forces have been assigned to monitor potential Groups of Interest that may be responsible for SCP-x014's creation or attempted activation.
-
-[[/collapsible]]
-
-[[collapsible show="Show addendum_x014_5.md" hide="Hide addendum_x014_5.md"]]
-++ Addendum x014-5: 
-Proceeding the events of Incident x014-RF-01, SCP-x014's containment procedure has been modified. The previous containment procedure has been listed below for archival purposes.
- 
-[OLD DO NOT USE] Containment Procedures:
--- SCP-x014 is to be contained in a standard humanoid containment cell at Site-██. The cell is to be outfitted with accommodations designed to maintain the comfort and psychological stability of SCP-x014-A. These accommodations include:
- 
-▣ A grand piano and an assortment of sheet music.
- 
-▣ A computer with no internet access, preloaded with music composition software.
- 
-▣ Comfortable furniture, including a bed, a desk, and a chair.
- 
-▣ Recreational items such as books, puzzles, and non-violent games. --
- 
-SCP-x014-A has shown no anomalous abilities and poses no threat in his current state. Routine psychological evaluations and interviews are to be conducted bi-weekly to monitor SCP-x014-A's mental well-being and detect any signs of distress that could lead to self-harm or external threats.
- 
-Under no circumstances is SCP-x014-A to be harmed or subjected to lethal force. Any personnel interacting with SCP-x014-A must undergo thorough psychological evaluations to ensure they pose no threat to his safety.
- 
-In the event of SCP-x014's transformation into SCP-x014-B, all personnel are to evacuate the immediate area, and Mobile Task Force Tau-5 ("Samsara") is to be dispatched to neutralize SCP-x014-B. Use of heavy firearms, incendiary devices, and anomalous weaponry is authorized to terminate SCP-x014-B and trigger his reversion to SCP-x014-A. This process should be carried out as quickly as possible to minimize casualties.
- 
-SCP-x014's containment chamber is to remain under constant video surveillance, with on-site personnel ready to respond to any containment breaches.
-
-++ Addendum x014-6 - Medical Examination Report: Autopsy of SCP-x014-B Victim:
-
-**Summary:**
-
-The subject, a known victim of SCP-x014-B, was recovered following Incident x014-SB. The autopsy reveals significant and anomalous physical disfigurement consistent with reports of SCP-x014-B’s capabilities. The injuries are extreme and exhibit no known correlation to conventional trauma or biological processes, suggesting a deliberate and unnatural alteration of cellular and structural integrity.
- 
-**External Observations:**
-The subject’s body displayed grotesque distortions and severe asymmetry. Limbs were misshapen, with the left arm contorted at multiple unnatural angles and the right leg appearing elongated beyond human proportions. The facial structure had been drastically rearranged, with the eyes displaced asymmetrically, the jawline extended and warped, and the nasal cavity nearly collapsed. Patches of the skin were mottled and exhibited irregular pigmentation, ranging from a pale gray to a darkened, almost necrotic hue.
- 
-**Internal Observations:**
-Skeletal Structure: Bones throughout the body were malformed. Several were fractured in ways inconsistent with physical trauma, instead appearing as though they had been reshaped through localized, uncontrolled growth or compression. Musculature: Muscle tissue was fragmented and restructured in a manner suggesting forced redistribution. Striations were uneven, and some muscle groups were fused with adjacent tissues, rendering them nonfunctional. Organs: Internal organs exhibited severe displacement and deformation. The heart was relocated to the right side of the thoracic cavity, while the liver and stomach were fused into a single mass with no discernible function.
- 
-**Cellular Analysis:**
-Microscopic examination revealed significant anomalies at the cellular level. Cell structures appeared to be fused or stretched in ways that defy biological function, with some cells demonstrating incomplete division or irregular nuclei. Tissue samples displayed evidence of accelerated entropy, with cellular membranes exhibiting unusual brittleness.
- 
-**Neurological Damage:**
-The brain showed extensive deformation, with sections of the frontal lobe missing entirely and other regions appearing compressed into smaller-than-normal volumes. Despite this, some neural pathways appeared to have rerouted in an erratic but functional manner prior to death, suggesting a short period of cognitive activity post-alteration. Spinal cord examination revealed similar anomalies, with nerves stretched and fused into disorganized bundles.
- 
-**Cause of Death:**
-Death was attributed to systemic organ failure due to the complete disruption of the body’s structural and functional integrity. The level of alteration indicates an external force capable of targeting and manipulating biological matter at both the macroscopic and microscopic levels.
- 
-**Conclusions:**
-The injuries sustained by the subject are consistent with SCP-x014-B’s documented anomalous abilities. These findings reinforce the hypothesis that SCP-x014-B can exert control over the physical composition of living organisms, causing extreme and irreversible mutations. The mechanism by which these alterations are achieved remains unknown, though it is suspected to involve a form of targeted molecular or cellular reconfiguration.
- 
-**Recommendations:**
-Further study is required to determine whether SCP-x014-B’s abilities have limitations or predictable patterns. It is recommended that personnel maintain a minimum distance of 25 meters from SCP-x014-B when active, as previous reports suggest close proximity significantly increases the likelihood of targeted alteration.
- 
-End of Report.
-[[/collapsible]]
-[[/div]]
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
 [[=]]
-<< [[[SCP-x013]]] | SCP-x014 | [[[SCP-x015]]] >>
+<< [[[SCP-x012]]] | SCP-x013| [[[SCP-x014]]] >>
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[!--
 [[div class="collapsible"]]
 [[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
 Cite this page as:
-> "SCP-x014" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/SCP-x014 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
 [[/collapsible]]
 [[/div]]
+--]
+[[include component:license-box]]
+[[include component:license-box-end]]
