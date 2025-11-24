@@ -114,6 +114,25 @@ SCP-073 is a middle eastern man with cybernetic enhancements.
 [[include component:poi-block-end]]
 
 
+[[# Annihai]]
+[[include component:poi-block
+|poi=Dr. Annihai
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=https://i.imgur.com/a1jtN9y.png
+]]
++++ Name: Dr. Annihai
+++++ Alias(es): Annihilation
+++++ Known Affiliations: N/A
+------
+
+Dr. Annihai is an evil genius and megalomaniac, being both an expert martial artist, as well as a very powerful magician.
+
+[[include component:poi-block-end]]
+
+
+
 [[# Pyre]]
 [[include component:poi-block
 |poi=Edward Pyre
