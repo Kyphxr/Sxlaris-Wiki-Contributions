@@ -1,0 +1,40 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x023
+|clearance= 4
+|container-class= keter
+|secondary-class= none
+|disruption-class= amida
+|risk-class= critical
+]]
+
++++++ Special Containment Procedures:
+SCP-x023 cannot be contained however, all instances of SCP-x004 seem either confined to their realm of extradimensional space, or have no desire to interface with humanity.
+
++++++ Description: 
+SCP-x023 describes a pantheon of dieties designated SCP-x023-1 through SCP-x023-12.
+
+SCP-x023-1, is a large, muscular man with dark skin, and a falcon head who identifies as the Egyptian god "Ra" and has the ability to manipulate the Sun.
+
+
+
+
+[[/div]]
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x006]]] | SCP-x007 | [[[SCP-x008]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
