@@ -6,6 +6,7 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x010
 |clearance= 5
@@ -21,7 +22,7 @@
 SCP-x020 was initially developed in the late 1990s by Dr. ████ ██████ under the directive of the Atlas Corporation as part of their Physically Enhanced Individuals (PEI) program. Through a series of groundbreaking experiments, Dr. ██████ successfully synthesized the stem cells of a ██████ into a liquid polymer. When consumed, this polymer grants users dramatically enhanced physical strength, durability, and the ability to process information at speeds far beyond the human norm.
  
 However, frequent use of Glimmer comes with significant side effects; minor effects include the user's veins and eyes becoming stained with a glowing purple hue, a hallmark trait of prolonged exposure. Severe cases result in profound mental degradation, reducing users to a primal, animalistic state driven by instinct rather than reason. Despite its risks, Glimmer remains a pivotal, yet controversial element in Atlas Corporation's pursuit of human augmentation.
-
+[[/div]]
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
