@@ -6,6 +6,7 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x065
 |clearance= 2
@@ -19,7 +20,7 @@
 
 +++++ Description: 
 SCP-x065 is a naturally produced performance enhancing awareness narcotic that gives users conscious control over their cognitive state.
-
+[[/div]]
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
