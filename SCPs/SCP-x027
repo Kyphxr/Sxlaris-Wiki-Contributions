@@ -6,6 +6,7 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x027
 |clearance= 3
@@ -19,7 +20,7 @@
 
 +++++ Description: 
 SCP-x027 is a species of plant that grows in swamps in remote swamps of Florida. It is a semi-sentient creature, capable of shooting glowing green spores to incapacitate its prey. These spores emit a noxious gas that causes temporary dysphoria and blindness.
-
+[[/div]]
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
