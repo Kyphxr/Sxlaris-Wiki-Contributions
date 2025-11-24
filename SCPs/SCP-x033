@@ -1,0 +1,44 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x033
+|clearance= 4
+|container-class= safe
+|secondary-class= none
+|disruption-class= dark
+|risk-class= notice
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
+SCP-x033 is a humanoid entity standing approximately 6.1 meters (20 feet) in height. The entity's outer surface is composed of a flexible, leathery material of unknown origin, visually resembling aged brown leather. Its most distinguishing feature is a smooth white mask affixed to its face, bearing a gold sun motif over the right eye. The mask appears fused to the surface, with no visible separation or method of removal.
+
+The lower portion of SCP-x033 is adorned with intricate gold inlays and filigree, arranged in symmetrical, ornamental patterns. This decoration, combined with the entity’s broad, rounded silhouette, gives the impression of considerable mass; however, SCP-x033 is exceptionally buoyant and capable of effortless gliding locomotion across terrain. This is due to the entity's internal structure—or lack thereof. SCP-x033 has no discernible organs or skeletal system; its interior is instead filled entirely with a viscous, wine-colored liquid. Analysis of the liquid has been inconclusive, as it rapidly evaporates or absorbs into surrounding materials upon exposure.
+
+SCP-x033 demonstrates sapience and communicates in a calm, androgynous voice. It frequently appears in proximity to individuals undergoing acute psychological stress, often offering cryptic guidance or insight into existential topics. Subjects report an immediate sense of calm and heightened cognitive clarity following exposure, though prolonged interactions can result in dissociative episodes and obsessive ideation.
+
+Despite its imposing stature, SCP-x033 exhibits no signs of hostility. It expresses a recurring interest in specific individuals, whom it refers to as “keys,” and appears to follow an internal directive related to preserving or directing these persons toward unknown ends. Direct questioning regarding its origins, nature, or objectives typically results in deflection through metaphor, allegory, or silence.
+[[/div]]
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x032]]] | SCP-x033 | [[[SCP-x034]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "SCP-x033" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SCP-x033 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
