@@ -32,10 +32,5 @@ Despite the lack of visual organs, SCP-x052 exhibits awareness of its surroundin
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
-[[div class="collapsible"]]
-[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
-Cite this page as:
-> "SCP-x052" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/SCP-x052 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
-[[/collapsible]]
-[[/div]]
+[[include component:license-box]]
+[[include component:license-box-end]]
