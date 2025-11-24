@@ -6,6 +6,7 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x043
 |clearance= 4
@@ -19,7 +20,7 @@
 
 +++++ Description: 
 SCP-x043 is a disembodied head that stands about 1.83 m (6ft) tall, with glowing eyes, a bald head, and yellowing teeth.
-
+[[/div]]
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
