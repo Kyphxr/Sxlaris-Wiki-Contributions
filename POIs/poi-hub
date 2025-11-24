@@ -18,7 +18,6 @@ Persons of Interest (POI) are singular individuals who hold high importance in t
 [#Ghost Ghost]
 [#343 God?]
 [#x14 Godhand]
-[#GDiaz Gwen Diaz]
 [#Harkolden Harkolden]
 [#Hex Hex]
 [#Ripper Jack the Ripper]
@@ -27,6 +26,7 @@ Persons of Interest (POI) are singular individuals who hold high importance in t
 [#Myrage Myrage]
 [#Nightshade Nightshade]
 [#Myrage Myrage]
+[#omnigirl omnigirl]
 [#TrixieVice Trixie Vice]
 [[/collapsible]]
 
@@ -207,24 +207,6 @@ SCP-343 is a seemingly omnipotent reality bender who claims to be the creator of
 
 
 
-[[# GDiaz]]
-[[include component:poi-block
-|poi=Gwen Diaz
-|poi-link=poi-placeholder
-|status=ACTIVE
-|status-color=green
-|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
-]]
-+++ Name: Gwen Diaz
-++++ Alias(es): N/A
-++++ Known Affiliations: Alpha Omega
-------
-
-Gwen Diaz is [DATA EXPUNGED].
-
-[[include component:poi-block-end]]
-
-
 [[# Harkolden]]
 [[include component:poi-block
 |poi=Harkolden
@@ -367,6 +349,24 @@ Myrage is a human woman with the anomalous ability to shapeshift.
 ------
 
 Gianna Sloat, better known as Nightshade, is an eco-terrorist with the anomalous ability to control plants via use of SCP-x███.
+
+[[include component:poi-block-end]]
+
+
+[[# Omnigirl]]
+[[include component:poi-block
+|poi=Omnigirl
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Name: Omnigirl
+++++ Alias(es): Gwen Diaz
+++++ Known Affiliations: Alpha Omega
+------
+
+Gwen Diaz is [DATA EXPUNGED].
 
 [[include component:poi-block-end]]
 
