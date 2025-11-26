@@ -1,0 +1,36 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x115
+|clearance= 3
+|container-class= keter
+|secondary-class= none
+|disruption-class= dark
+|risk-class= danger
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
+SCP-x115 is believed to be a human woman however, due to her anomalous abilities this cannot be stated for certain. SCP-x115 possesses the ability to shapeshift, seemingly only being limited to humanoid, bipedal creatures.
+
+This ability appears to only be cosmetic, allowing SCP-x115 to change her appearance and voice, but not actually being able to increase or decrease her physical capabilities. The exception to this is bodyweight that she manifests will produce the corresponding amount of weight.
+[[/div]]
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x114]]] | SCP-x115 | [[[SCP-x116]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[include component:license-box]]
+[[include component:license-box-end]]
