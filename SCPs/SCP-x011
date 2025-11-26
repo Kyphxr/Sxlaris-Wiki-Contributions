@@ -1,5 +1,38 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x011
+|clearance= 3
+|container-class= keter
+|secondary-class= none
+|disruption-class= dark
+|risk-class= danger
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
 SCP-x011 is a species of the Homo genus known as Homo Vampiris. Appearing nearly identical to Homo sapiens, the most notable biological difference is the specialized fangs that take the place of the anomalies' canine teeth. 
 
 Instances of SCP-x011 were at one point human, before being exposed to SCP-x011-1, a toxin produced naturally within instances of SCP-x011 that is transmitted through their bite. Most instances of SCP-x011 demonstrate extreme photosensitivity, with their skin solidifying into a quartz like rock through prolonged exposure. If not removed from the sunlight, instances of SCP-x011 will be petrified into a quartz statue. 
 
 SCP-x011 instances primarily feed off of the blood of living creatures, with a strong preference for human blood. 
+[[/div]]
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-XXXW]]] | SCP-XXXX | [[[SCP-XXXY]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[include component:license-box]]
+[[include component:license-box-end]]
