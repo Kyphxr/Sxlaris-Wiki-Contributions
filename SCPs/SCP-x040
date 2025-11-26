@@ -8,9 +8,9 @@
 
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
-|item-number= 8157
-|clearance= 3
-|container-class= keter
+|item-number= x040
+|clearance= 1
+|container-class= safe
 |secondary-class= none
 |disruption-class= dark
 |risk-class= notice
@@ -26,7 +26,7 @@ Almond Water," is a naturally flavored beverage commonly found within numerous l
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
 [[=]]
-<< [[[SCP-XXXW]]] | SCP-XXXX | [[[SCP-XXXY]]] >>
+<< [[[SCP-x039]]] | SCP-x040 | [[[SCP-x041]]] >>
 [[/=]]
 
 
