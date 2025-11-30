@@ -15,7 +15,32 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 ++++ Audit Log - █ /14 / 2███
+@@ @@
+@@ @@
+
+
+[[div class="no-unfold"]]
+[[div class="containercontainer"]]
+[[div class="container" style="text-align: left;"]]
++* [!-- DO NOT ERASE THIS "+*". --]
+__**-120:00**__ the BZHR sequence of [*https://scp-wiki.wikidot.com/scp-2000 SCP-2000] is activated by unknown means.
+
+__**-119:45**__ Mobile Task Force delta-47 "Mercury Team" is dispatched into Yellowstone Mountain.
+
+__**-119:20**__ all members of MTF delta-47 "Mercury Team" are terminated.
+
+__**-118:00**__ a 30 mile quarentine zone is established around [DATA EXPUNGED], the entrance to [*https://scp-wiki.wikidot.com/scp-2000 SCP-2000].
+
+__**-117:30**__ 10 Mobile Task Force units are deployed into Yellowstone Mountain.
+
+__**-117:20**__ contact is lost with all 10 units, operators believed to be KIA
+
+[[/div]]
+[[/div]]
+[[/div]]
+
 [[div class="no-unfold"]]
 [[div class="containercontainer"]]
 [[div class="container" style="text-align: left;"]]
@@ -31,57 +56,22 @@ __**00:05**__ A member of the GOC is found in a restricted area of Site-19, with
 [[collapsible show="► View File/interrogation_goc_1.wav" hide="▼ Close File"]]
 [[/collapsible]]
 
-[[div class="no-unfold"]]
-[[div class="containercontainer"]]
-[[div class="container" style="text-align: left;"]]
-+* [!-- DO NOT ERASE THIS "+*". --]
-
-__**00:10**__ [[[*https://scp-wiki.wikidot.com/scp-3035|Site-173]]] is attacked and easily overrun by the ATLAS Corporation.
-
-__**00:20**__ [[[SCP-8157]]] is transferred to Site-14
-[[/div]]
-[[/div]]
-[[/div]]
-
-[[collapsible show="► View File/Lovell_Correspondence.txt" hide="▼ Close File"]]
-[[div class="email-example"]]
-[[=]]
-------
-[[<]]
-[[div class="email"]]
-[[div class="tofrom"]]
-**To:** █████████████
-**From:** Dr. Lovell
-**Subject:** SCP-8157-07
-[[/div]]
-------
-May I request the reasoning behind the transfer of SCP-8157? He is integral to our work at Site-814 and with project █████████ nearing completion, it is imperative that he remains with us.
-[[/div]]
-@@ @@
-[[div class="email"]]
-[[div class="tofrom"]]
-**To:** Dr. Lovell
-**From:** 05-1
-**Subject:** Re:SCP-8157-07
-[[/div]]
-------
-No you may not.
-[[/div]]
-[[/<]]
-[[/=]]
-[[/div]]
-[[/collapsible]]
 
 [[div class="no-unfold"]]
 [[div class="containercontainer"]]
 [[div class="container" style="text-align: left;"]]
 +* [!-- DO NOT ERASE THIS "+*". --]
+
+__**00:15**__ all available spare and damaged computer parts begin to be dumped into [[[*https://scp-wiki.wikidot.com/scp-1678|SCP-1678]]]
 
 __**00:30**__ The O5 Council issues a statement declaring that an unknown entity has compromised the GOC and is attempting to establish dominion over humanity.
 
 __**00:45**__ [[[*https://scp-wiki.wikidot.com/scp-055|SCP-055]]] is transferred to Site-14
 
 __**01:15**__ [[[*https://scp-wiki.wikidot.com/scp-055|SCP-155]]] is placed within the Houses of Parliament in [[[*https://scp-wiki.wikidot.com/scp-1678|SCP-1678]]]
+
+__**02:00**__ SCP-963 is transferred to Site-14.
+
 [[/div]]
 [[/div]]
 [[/div]]
@@ -98,10 +88,15 @@ __**65:30**__ O5 Council requests transfer of SCP-184 to Site 14.
 
 __**65:35**__ Request denied by Dr. Lovell.
 
-__**65:37**__  Site-814 goes dark.
+__**65:37**__  [[[site-814-hub | Site-814]]] goes dark.
 
 __**65:38**__  Site-17 goes dark.
 
+__**65:38**__  Site-120 goes dark.
+
+__**65:38**__  Site-666 goes dark.
+
+[[/div]]
 [[/div]]
 [[/div]]
 [[/div]]
