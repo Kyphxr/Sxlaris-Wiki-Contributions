@@ -10,7 +10,7 @@
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x019
 |clearance= 4
-|container-class= keter
+|container-class= race
 |secondary-class= none
 |disruption-class= dark
 |risk-class= notice
