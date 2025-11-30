@@ -6,17 +6,6 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
-[[include :scp-wiki:component:rso]]
-[[include :sxlaris:more-by:kyphxr
-|color=#4000ff
-]]
-[[include :scp-wiki:component:info-ayers
-|lang=en
-|page=scp-x002[!-- url of your page on the scp wiki --]
-|authorPage=*https://sxlaris.wikidot.com/kyphxr-author-page[!-- link to your author page --]
-|comments= = Styles/CSS 
-]]
-
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x014
