@@ -1,3 +1,36 @@
-SCP-x022 are an offshoot of the genus Homo, known as Homo immortus. Instances of SCP-x022 vary wildly in both appearance an anomalous capabilities, and as such, many are listed under their own individual item number. However, each instance of SCP-x022 has one common trait, that when they die, they will be reborn in “the nest.” An area in rural [Data Expunged].
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x022
+|clearance= 3
+|container-class= keter
+|secondary-class= none
+|disruption-class= keneq
+|risk-class= notice
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
+SCP-x022 are an offshoot of the genus Homo, known as Homo immortus. Instances of SCP-x022 vary wildly in both appearance an anomalous capabilities, and as such, many are listed under their own individual item number. However, each instance of SCP-x022 has one common trait, that when they die, they will be reborn in “the nest.” An area in costal [Data Expunged].
 
 Instances of SCP-x022 are restored to the version of themselves from exactly 24 hours ago, meaning they have no memory of their death. 
+[[/div]]
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x021]]] | SCP-x022| [[[SCP-x023]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[include component:license-box]]
+[[include component:license-box-end]]
