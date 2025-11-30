@@ -13,31 +13,22 @@
 |container-class= keter
 |secondary-class= none
 |disruption-class= dark
-|risk-class= danger
+|risk-class= critical
 ]]
 
 +++++ Special Containment Procedures:
 
 +++++ Description: 
-SCP-x109 is a Japanese woman who collects instances of [[[SCP-x016]]].
+SCP-x109 is a Human (Homo sapiens) female who collects instances of [[[SCP-x016]]].
 [[/div]]
 
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
 [[=]]
-<< [[[SCP-XXXW]]] | SCP-XXXX | [[[SCP-XXXY]]] >>
+<< [[[SCP-x108]]] | SCP-x109| [[[SCP-x110]]] >>
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
-[!--
-[[div class="collapsible"]]
-[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
-Cite this page as:
-> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
-[[/collapsible]]
-[[/div]]
---]
 [[include component:license-box]]
 [[include component:license-box-end]]
