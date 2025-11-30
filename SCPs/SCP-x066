@@ -1,1 +1,35 @@
-SCP-x066 appears to be human male with black hair, brown eyes and an English Accent who identifies himself as "Lucifer Morningstar". SCP-x011 is a very charismatic speaker and has an array of anomalous abilities such as super strength, super hearing, and the complete inability to lie. 
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x066
+|clearance= 5
+|container-class= keter
+|secondary-class= none
+|disruption-class= amida
+|risk-class= critical
+]]
+
++++++ Special Containment Procedures:
+
++++++ Description: 
+SCP-x066 appears to be human (Homo immortus) male with black hair, brown eyes and an English Accent who identifies himself as "Lucifer Morningstar". SCP-x011 is a very charismatic speaker and has an array of anomalous abilities such as super strength, super hearing, and the complete inability to lie. 
+[[/div]]
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x065]]] | SCP-x066| [[[SCP-x067]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+
+[[include component:license-box]]
+[[include component:license-box-end]]
