@@ -2,6 +2,21 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[include :scp-wiki:component:info-ayers
+|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
+|page=SCP-5000[!-- url of your page on the scp wiki --]
+|authorPage=https://scp-wiki.wikidot.com/caterer-tim-tanhony-hyne-s-personnel-file[!-- link to your author page --]
+|comments=
+
+=  SCP-5000 - //Why?//
+
+----
+
+Written almost entirely by Tanhony.
+Dates were changed by Kyphxr to fit into the Sxlaris canon.
+
+]]
+
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[>]]
 [[module rate]]
@@ -746,6 +761,7 @@ I feel sick.
 Cite this page as:
 > "SCP-5000" by [[user Tanhony]], from the Sxlaris Wiki. Source:
 > http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+> dates in this version have been adjusted (by about 20 years) by [[user Kyphxr]] to fit the timeline of the Sxlaris canon.
 =====
 > **Filename:** skiplogosmall.png
 > **Author:** [[*user far2]]
