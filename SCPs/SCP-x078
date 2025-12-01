@@ -6,6 +6,7 @@
 [[/>]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x078
 |clearance= 1
@@ -18,10 +19,12 @@
 +++++ Special Containment Procedures:
 
 +++++ Description: 
-Created in 2004, SCP-x078, better known as "Mutazyne," is an advanced chemical compound comprised of █████, ███████, and ███, each of which plays a critical role in its anomalous properties. The synthesis process for Mutazyne is exceptionally resource-intensive, requiring vast quantities of raw materials to produce only a minuscule amount of the final compound. This inefficiency, coupled with the scarcity and difficulty of acquiring the necessary components, has driven the cost of Mutazyne to nearly unattainable levels, making it a substance reserved exclusively for the wealthiest corporations, governments, or organizations.
+Created in 2004, SCP-x078, better known as "Mutazyne," is an advanced chemical compound comprised of █████, ███████, and ███, each of which plays a critical role in its anomalous properties. When a Human is exposed to SCP-x078, they will [DATA EXPUNGED], resulting in that person developing anomalous abilities. These abilities vary wildly, and can range from harmless cosmetic changes, to reality warping capabilities.
+
+The synthesis process for Mutazyne is exceptionally resource-intensive, requiring vast quantities of raw materials to produce only a minuscule amount of the final compound. This inefficiency, coupled with the scarcity and difficulty of acquiring the necessary components, has driven the cost of Mutazyne to nearly unattainable levels, making it a substance reserved exclusively for the wealthiest corporations, governments, or organizations.
  
 The complexity of Mutazyne's creation process also involves precise environmental conditions and advanced equipment, further limiting its production to only the most sophisticated laboratories. Despite its exorbitant cost, Mutazyne’s unparalleled utility in applications such as ██████████ and ██████████ ensures its continued demand, solidifying its status as a highly coveted yet elusive resource in technological and scientific advancements.
-
+[[/div]]
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
