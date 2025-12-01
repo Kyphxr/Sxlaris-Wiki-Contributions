@@ -18,17 +18,167 @@
 |risk-class= critical
 ]]
 
-+++++ Special Containment Procedures:
++++ Special Containment Procedures:
 SCP-x001 is contained within the remnants of the ATLYS Corporation Zeta-09 Facility, now designated Site-173-ARC. A 5-kilometer exclusion zone surrounds the containment area, monitored by automated drones and long-range surveillance systems. Personnel assigned to SCP-x001 must undergo weekly psychological evaluations due to prolonged exposure to its hive-mind effects.
  
 The central hive structure of SCP-x001 is to remain under continuous observation. Entry into active zones is strictly prohibited without authorization from 2 members of the Overseer Council. Any personnel approaching SCP-x001's hive are required to undergo biometric verification. Visual or auditory identification is no longer deemed reliable due to SCP-x001-A mimetic abilities.
  
 Containment protocols have been updated to include automated flame-based sterilization systems and electromagnetic suppression fields to prevent SCP-x001's expansion or creation of SCP-x001-A or SCP-x001-B instances. Any breach scenarios must be met with immediate deployment of Mobile Task Forces Epsilon-7 ("Forget-Me-Nots") and Zeta-9 ("Mole Rats").
 
-+++++ Description: 
++++ Description: 
 SCP-x001 is a hyper-adaptive hivemind entity originating from the catastrophic failure of ATLYS Corporation’s Project PROMETHEUS, an experimental matter-energy replication system. SCP-x001's primary structure consists of a viscous, black tar-like substance capable of assimilating organic and inorganic material[[footnote]] SCP-x001 has been observed assimilating biological material, silicone and silica based materials, metals, and concrete.  [[/footnote]]. The entity exhibits advanced intelligence and self-sustaining replication capabilities, making containment exceptionally difficult.
  
 SCP-x001 can change its form at will, morphing its size, color, and hardness, to wild extremes, with its the only known limitation to these transformations being that SCP-x001 must have enough biomass to reroute to the new structure, and SCP-x001 must have been exposed to that form/surface/color previously, either through visual observation, or through neurological data transfer.
+
+------
+
++++++ Incident Report x001-Genesis
+
+Date: ██/██/20██
+Location: Atlas Corporation Research Facility Zeta-09, █████████, Oregon.
+ 
+The following is a summary of events and findings leading to the discovery of SCP-x001, the catastrophic aftermath of Atlas Corporation's Project PROMETHEUS. Initial containment efforts and subsequent analysis have revealed significant deviations from known [*https://scp-wiki.wikidot.com/scp-3035 SCP-3035] behavior, as well as the emergence of a self-sustaining hive-mind entity designated SCP-x001.
+ 
+------
++++++ Discovery
+ 
+At 04:32 UTC, Foundation monitoring systems intercepted emergency transmissions from Atlas Corporation's Zeta-09 facility, flagged as a Category-A biohazard containment breach. Transmissions indicated a sudden, rapid collapse of site infrastructure accompanied by anomalous phenomena, including "fluidic movement across entire sectors" and "personnel integration." Mobile Task Force Epsilon-7 ("Forget-Me-Nots") was dispatched to investigate.
+ 
+Upon arrival, the team discovered the facility in ruins. Approximately 95% of on-site personnel were missing or deceased, with the remains of several victims partially integrated into a black, viscous substance coating the floors, walls, and ceilings. Surveillance footage recovered from the facility revealed the substance actively pursuing survivors, consuming their flesh, and assimilating biological material into itself. seemingly able to rapidly solidify and liquify its form, the substance appeared to split off sections of itself to chase down separated survivors.
+ 
+The team identified remnants of an experimental laboratory housing partially-destroyed machinery and vats of liquid-like material consistent with [*https://scp-wiki.wikidot.com/scp-3035 SCP-3035] research. A highly corroded placard labeled "PROJECT PROMETHEUS – ATLAS CORPORATION" was found near the lab entrance. Further investigation revealed the following:
+ 
+------
++++++ Recovered Data Logs
+
+ 
+Experiment Objective (Project PROMETHEUS): Atlas Corporation sought to develop a system for matter and energy replication to revolutionize resource production, with potential applications in weapon manufacturing and autonomous battlefield logistics. By leveraging [*https://scp-wiki.wikidot.com/scp-3035 SCP-3035]'s unique ability to imitate matter and function, researchers aimed to create a self-sustaining replication system capable of mimicking any material.
+ 
+**Phase I:** [*https://scp-wiki.wikidot.com/scp-3035 SCP-3035] instances were exposed to various biological substances, including other creatures, brain matter, and bodily fluids, to test their replication fidelity. During a scheduled trial, a lab assistant accidentally introduced a liquid-state polymer designed to break down biological matter. [*https://scp-wiki.wikidot.com/scp-3035 SCP-3035] instances successfully replicated the polymer, adopting its semi-liquid properties and forming into a single mass.
+ 
+Phase II: To achieve operational control, neural control modules were introduced into the SCP-3035-polymer amalgamation. These modules utilized artificial intelligence algorithms to simulate hive-mind coordination, allowing researchers to direct [*https://scp-wiki.wikidot.com/scp-3035 SCP-3035]’s behavior.
+ 
+
+------
++++++ Incident Timeline:
+
+ 
+T+00:00: Neural modules were activated. SCP-3035 instances began to exhibit unprecedented coordination, rapidly merging into a single mass. 
+T+00:15: The amalgamated entity displayed enhanced mobility and environmental awareness. Researchers observed rudimentary intelligence, with the entity adapting its form to manipulate its containment cell. 
+T+01:00: The entity breached containment by creating solidified appendages and breaking through the enclosure. Initial attempts to neutralize the entity failed, as it adapted its structure to resist chemical and thermal countermeasures. All personnel in the immediate vicinity were consumed, leading to SCP-x001 rapidly growing in size. 
+T+02:30: Facility-wide alarms were triggered as the entity grew exponentially, assimilating personnel and structural components. The entity demonstrated the ability to transmute its biomass, creating appendages, tools, and defensive mechanisms.
+ 
++++++ Foundation Response
+ 
+MTF Epsilon-7 engaged with SCP-x001 at the facility’s central reactor chamber, where the entity had established a hive structure. Despite its size and apparent hostility, SCP-x001 displayed no immediate signs of aggression toward Foundation personnel, instead retreating deeper into the structure. Samples of its biomass were collected for analysis before the team initiated a controlled detonation to collapse the remaining facility, containing SCP-x001 within a localized area.
+ 
+Subsequent exploration confirmed that SCP-x001 survived the collapse and had entered a state of dormancy. A containment perimeter was established, and Site-██ was constructed to monitor SCP-x001's behavior.
+ 
++++++ Key Findings
+**Hive-Mind Intelligence:** SCP-x001 demonstrates advanced adaptive intelligence and the ability to self-direct based on environmental stimuli. Its decision-making appears rooted in a survival-oriented logic.
+ 
+**Biological Assimilation:** SCP-x001 integrates organic matter into its mass, allowing it to grow and adapt its genetic structure in real time.
+ 
+**Energy Replication:** SCP-x001 has retained the experimental matter-energy replication capability, enabling it to transmute absorbed materials into new forms. This property poses a severe containment risk if the entity expands beyond current parameters.
+ 
+
+------
++++++ Discovery of Neural Integration
+ 
+During exploration of SCP-x001's hive structure, Foundation personnel identified massive, vine-like growths of black tar running throughout the central chamber. Embedded within these vines were what appeared to be human brains, suspended in a semi-translucent matrix. Scans confirmed neural activity within these preserved brains, though the patterns were erratic and synchronized with SCP-x001's overall hive-mind activity.
+ 
+Recovered audio logs from MTF personnel describe disturbing phenomena upon approaching the hive:
+ 
+> “You can feel it... like a pressure in your head. It’s not just thoughts—it’s screaming. Hundreds, maybe thousands of voices, all jumbled together. It’s like they’re drowning, but they won’t die.”
+ 
+Analysis suggests that SCP-x001 preserves the brains of victims it deems "valuable" based on their intelligence or specialized knowledge. These brains appear to serve dual purposes:
+ 
+**Memory Storage:** SCP-x001 accesses and catalogs the memories of preserved individuals to inform its actions and adaptations. Consciousness Suppression: Victims' consciousnesses remain partially intact, perpetually overwhelmed by the hive mind’s collective presence. This phenomenon has been described as a "drowning symphony," as the consciousnesses are gradually eroded, consumed by the overwhelming unity of SCP-x001. Despite this degradation, neural patterns indicate that SCP-x001 "revisits" certain memories repeatedly, particularly those containing technical knowledge, combat training, or high-level problem-solving skills. This behavior supports the hypothesis that SCP-x001 actively prioritizes intelligence acquisition and memory integration as part of its adaptation process.
+ 
+
+------
++++++ Conclusion:
+
+Atlas Corporation’s reckless experimentation with SCP-3035 has resulted in the creation of SCP-x001, a hyper-adaptive, hive-mind organism with potentially catastrophic implications for global security. The Foundation has placed all Atlas Corporation facilities under surveillance and is conducting ongoing research to prevent similar events. Investigation into surviving Atlas Corporation personnel and records is ongoing to determine the full scope of Project PROMETHEUS.
+ 
+++++++ Addendum x001.02: Emergence of Autonomous Instances
+Date: ██/██/20██ Summary: Subsequent containment logs report SCP-x001’s ability to siphon off portions of its mass to create autonomous instances, referred to as SCP-x001-A. These instances retain the same tar-like consistency as the main body but demonstrate advanced, independent behavior while remaining connected to the hive mind.
+ 
+Observed Behavior of SCP-x001-A Instances: Morphological Variation: SCP-x001-A instances exhibit the ability to adopt distinct forms, including humanoid shapes. In multiple incidents, they have successfully mimicked human victims in both appearance and behavior. Vocal Imitation: SCP-x001-A instances demonstrate flawless replication of human speech patterns, including individual vocal idiosyncrasies. Survivors of containment breaches reported hearing voices of assimilated personnel calling for help, further disorienting them during encounters. Infiltration Tactics: SCP-x001-A has been observed using its humanoid forms to lure Foundation personnel into compromised zones. This behavior indicates a strategic understanding of human psychology, possibly gleaned from the hive’s preserved memories.
+ 
+Incident Report: On ██/██/20██, containment teams encountered multiple SCP-x001-A instances during routine hive monitoring. One humanoid instance appeared identical to a missing researcher and used the researcher’s voice to engage with the team, pleading for help. The deception was revealed when the entity attempted to assimilate one of the personnel, exposing its tar-like composition mid-assault.
+
+------
+
+Containment Protocol Update: Containment teams are now required to verify personnel identities through biometric scans before engaging in hive operations. Visual or auditory identification alone is no longer sufficient. Motion-detection systems have also been recalibrated to identify SCP-x001-A instances by their slight deviations in movement compared to actual humans.
+ 
+++++++ Addendum x001.03: Creation of Larger Autonomous Instances
+Date: ██/██/20██
+ 
+Summary: Following the emergence of SCP-x001-A instances, surveillance teams reported sightings of significantly larger and more grotesque entities, designated SCP-x001-B. These forms, while still composed of SCP-x001’s signature black tar-like substance, exhibit a nightmarish combination of organic and mechanical features, seemingly optimized for hive expansion and fortification.
+ 
+**Description of SCP-x001-B Instances:**
+ 
+**Morphology:** SCP-x001-B instances stand between 3 to 6 meters in height, with highly irregular, asymmetrical builds. Appendages include elongated limbs resembling industrial cranes, tentacles, or grotesque amalgamations of human and animal anatomical features.
+ 
+**Behavior:** SCP-x001-B instances are primarily engaged in hive construction, manipulating their biomass to secrete new growths or reinforce existing structures. Their movements are deliberate and methodical, as if guided by a specific architectural blueprint stored within the hive mind.
+ 
+**Vocalizations:** SCP-x001-B entities emit low-frequency sounds resembling groans, creaks, or grinding metal. These noises appear to synchronize with hive activity, potentially serving as a form of communication or coordination.
+ 
+
+------
++++++ Incident Observation: On ██/██/20██, a reconnaissance drone recorded footage of SCP-x001-B instances constructing massive support columns within the central hive chamber. The columns appeared to pulsate with black tar and were interlaced with glowing, vein-like structures. Human skeletal remains were embedded within the columns, suggesting SCP-x001 repurposes biological material for structural integrity.
+ 
+At one point, a drone captured SCP-x001-B entities working in unison to create what resembled a large organic "gateway," featuring intricate patterns and a steady flow of the tar-like substance. Researchers speculate this structure could serve as a means for further expansion or as a defensive mechanism.
+ 
+
+------
++++++ Containment Protocol Update:
+ 
+Long-range observation is now prioritized to avoid direct contact with SCP-x001-B instances. Containment teams are prohibited from entering areas actively worked on by SCP-x001-B entities. Any breaches into these zones have resulted in swift responses by SCP-x001-B, with teams either assimilated or forcibly expelled.
+ 
+
+------
+++++++ Addendum x001.04: Emergence of SCP-x001-C
+Date: ██/██/20██ Summary: During an extensive survey of SCP-x001's hive, Foundation operatives documented the emergence of a colossal entity designated SCP-x001-C. This entity, appearing to serve as the central node of the hive mind, is an amalgamation of twisting tendrils, massive jaws, and vaguely humanoid features embedded within its surface, which shift and rearrange periodically.
+ 
+Description:
+ 
+SCP-x001-C spans approximately 50 meters in diameter and towers nearly 30 meters at its highest point. Its central mass is a pulsating, semi-translucent dome of black tar-like material, riddled with glowing veins of deep crimson and violet. These veins pulse rhythmically, emitting a low-frequency hum that reverberates throughout the hive.
+ 
+The entity’s "face" is a horrifying amalgamation of partially formed human and animal features, which continuously shift and reform. Dozens of eyes of varying sizes emerge and recede across its surface, each appearing to scan its surroundings independently. A massive, jagged maw dominates the lower portion of its form, lined with shifting, tar-like teeth that drip viscous black ichor.
+ 
+Hundreds of tendrils extend from the central mass of SCP-x001-C, ranging from thin, whip-like appendages to massive, trunk-like structures. These tendrils are covered in semi-formed hands, claws, and other appendages that grasp and manipulate the hive’s environment. Embedded Brains: Beneath SCP-x001-C’s translucent surface, human brains are visible, suspended in a lattice of black tar and glowing veins. These brains appear to be in varying states of preservation, and periodic electrical activity suggests intermittent reactivation for memory extraction or integration.
+ 
++++++ Notable Behavior:
+ 
+**Centralized Control:** SCP-x001-C serves as the hive’s command center, orchestrating the activities of SCP-x001-A and SCP-x001-B instances with precision. Its neural capacity far exceeds any known biological or artificial intelligence.
+ 
+**Psychological Influence:** Personnel in proximity to SCP-x001-C report feelings of overwhelming dread, accompanied by auditory hallucinations of whispers or screams. These effects intensify the longer one remains within its vicinity.
+ 
+**Expansion Coordination:** SCP-x001-C appears to dictate the hive's growth, utilizing its tendrils to manipulate tar-like structures and form complex, organic architecture.
+ 
+**Vocalization:** SCP-x001-C communicates in a deep, resonant voice that reverberates through the hive. This voice is not localized but seems to emanate from all structures simultaneously, creating an overwhelming sense of omnipresence. Notable Behavior:
+ 
+**Communication:** SCP-x001-C has addressed Foundation personnel directly during several containment breaches. Its speech consists of cryptic statements, often referencing unity, consumption, and the futility of resistance.
+ 
+**Adaptation:** Following the creation of SCP-x001-C, hive growth and minion coordination have become exponentially more efficient. SCP-x001-C appears to strategize and adapt to Foundation containment measures in real-time, complicating efforts to secure the hive.
+ 
+**Biological Integration:** SCP-x001-C’s body incorporates hundreds of preserved brains, each visible beneath its semi-translucent surface. Observations suggest that it occasionally "reaches out" to these brains, momentarily reactivating their consciousnesses to extract specific memories or knowledge.
+ 
+
+------
++++++ Incident Report:
+On ██/██/20██, an experimental incursion into SCP-x001-C’s chamber was initiated using advanced drone units. Upon entering the chamber, the drones were immediately enveloped by tendrils extending from SCP-x001-C. The entity spoke directly, stating:
+ 
+> “The symphony grows. You are but fleeting notes, destined to join the eternal harmony.”
+ 
+Moments later, the drones' feeds were cut, and all contact with the team was lost. Post-incident analysis revealed that the chamber had expanded significantly, now housing an intricate web of tar-like structures radiating from SCP-x001-C.
+ 
++++++ Containment Protocol Update:
+ 
+Direct incursions into SCP-x001-C’s chamber are suspended indefinitely. Long-range monitoring systems with reinforced shielding against electromagnetic interference have been deployed to study SCP-x001-C’s activity remotely. A specialized task force is being assembled to devise countermeasures against SCP-x001-C’s increasing influence and hive expansion.
+
 [[/div]]
 
 
