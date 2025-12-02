@@ -34,13 +34,12 @@ this SCP has been ported from the Backrooms Fandom
 
 ------
 
-[[div class="scp-image-block block-center" style="width:100%;"]]
+[[div class="scp-image-block block-right" style="width:300px;"]]
 [[image https://i.imgur.com/GWHatwn.png style="width:60%;" link=#]]
-[[div class="scp-image-caption" style="width:60%;"]]
+[[div class="scp-image-caption"]]
 2 jars filled with SCP-x006.
 [[/div]]
 [[/div]]
-
 
 +++++ Special Containment Procedures:
 SCP-x006 sites are to be quarantined off until all SCP-x006 residue is removed. Any amount of SCP-x006 found in a site is to be collected into storage containers (preferably glass jars, or liquid sealed metal containers) and moved to Site-814[[footnote]][[span style="color: purple;"]]why do we always get stuck doing this stuff?[[/span]][[/footnote]], where it is to be packaged, and redistributed to the health wings of all Foundation sites.
@@ -48,7 +47,7 @@ SCP-x006 sites are to be quarantined off until all SCP-x006 residue is removed. 
 +++++ Description: 
 SCP-x006, often known as moth jelly, is a nutritional, jelly-like substance produced by [[[SCP-x024]]] to feed their young and maintain their hives. It typically takes on a violet coloration and has a similar consistency to maple syrup. Moth Jelly is highly nutritious as it's high in protein, nutrients and natural sugars and it keeps those who consume it fuller longer as well as give them a considerable boost in strength, energy and stamina for the entire day. 
 
-[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="view notation" hide="hide notation"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="view notation 1M" hide="hide notation 1M"]]
 [[span style="color: #ebe3a0;"]]Although Moth Jelly is most often found in █████ 5, it seems like the █████ are beginning to [DATA EXPUNGED], making the jelly a little more common. [[/span]]
 [[/collapsible]]
 
