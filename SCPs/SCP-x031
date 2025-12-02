@@ -8,7 +8,7 @@
 
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
-|item-number= x079
+|item-number= x031
 |clearance= 1
 |container-class= safe
 |secondary-class= none
