@@ -16,6 +16,8 @@
 |risk-class= warning
 ]]
 
+------
+
 [[div class="scp-image-block block-right" style="width:300px;"]]
 [[image https://i.imgur.com/KcIuYGs.png link=#]]
 [[div class="scp-image-caption"]]
@@ -39,10 +41,11 @@ Male instances of SCP-x024 are generally as big as a hawk, relatively calm, and 
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
-[[div class="collapsible"]]
-[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
-Cite this page as:
-> "SCP-x024" by [[user Kyphxr]], from the Sxlaris Wiki. Source:
-> http://sxlaris.wikidot.com/SCP-x024 Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
-[[/collapsible]]
-[[/div]]
+[[include component:license-box]]
+=====
+> **Filename:** deathMoth.jpg
+> **Author:** Frag2
+> **License:** CC BY-SA 3.0
+> **Source Link:** [*https://www.youtube.com/watch?v=LQf936N9FPc&t=78s https://www.youtube.com/watch?v=LQf936N9FPc]
+=====
+[[include component:license-box-end]]
