@@ -1,0 +1,35 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x079
+|clearance= 4
+|container-class= keter
+|secondary-class= none
+|disruption-class= amida
+|risk-class= critical
+]]
+
++++++ Special Containment Procedures:
+[DATA LOST] SCP-x079 can no longer be contained.
+
++++++ Description: 
+SCP-x079 is a mechanical monstrosity created during the [http://sxlaris.wikidot.com/p1-lovell-proposal birth of Sxl], when SCP-079 was [DATA EXPUNGED], allowing it to vastly upgrade its systems. 
+[[/div]]
+
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x078]]] | SCP-x079 | [[[SCP-x080]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[include component:license-box]]
+[[include component:license-box-end]]
