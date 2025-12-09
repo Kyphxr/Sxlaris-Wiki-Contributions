@@ -10,20 +10,23 @@
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number= x052
 |clearance= 3
-|container-class= euclid
+|container-class= safe
 |secondary-class= none
 |disruption-class= dark
-|risk-class= caution
+|risk-class= notice
 ]]
 
-**Special Containment Procedures:**
-Instances of SCP-x052 are to be kept in a reinforced containment chamber measuring 10m x 10m x 5m, constructed from a non-organic, low-friction alloy to prevent climbing. The chamber is to be inspected on a monthly basis by assigned D-Class personnel for signs of wear.
++++++ Special Containment Procedures:
+SCP-x052 is to be kept in a standard inanimate object containment cell in Site-814. SCP-x052 is permitted to be used for testing by Foundation members with clearance level 4-x052 or higher.
 
-**Description:**
-SCP-x052 refers to a group of anomalous organisms resembling enormous spiders made from gigantic fingers. Instances of SCP-x052 exhibit highly predatory behavior, using their finger-like appendages to skitter across surfaces with unnatural agility.
++++++ Description: 
+SCP-x052 is a a standard office chair made by █████ that is composed of black leather and metal, and stands at 53 cm tall. When an individual (referred to from this point on as the "user") sits in SCP-x052, they are given [DATA EXPUNGED]. 
 
-Despite the lack of visual organs, SCP-x052 exhibits awareness of its surroundings, reacting to movement, sound, and other environmental stimuli. The entities possess inhuman strength, using their appendages to grab and crush their prey with ease.
+While this does have the obvious benefit of [DATA EXPUNGED], users often experience severe side effects including: paranoia, the development of dissociative identity disorder, and in extreme cases outright death.
+
+SCP-x052 was recovered from an occult group in [DATA EXPUNGED], after a ritual performed by the group lead to an [[[SCP-X016]]] event.
 [[/div]]
+
 
 
 [!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
@@ -32,5 +35,14 @@ Despite the lack of visual organs, SCP-x052 exhibits awareness of its surroundin
 [[/=]]
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[!--
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
+--]
 [[include component:license-box]]
 [[include component:license-box-end]]
