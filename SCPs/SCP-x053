@@ -1,0 +1,36 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x053
+|clearance= 3
+|container-class= euclid
+|secondary-class= none
+|disruption-class= dark
+|risk-class= caution
+]]
+
+**Special Containment Procedures:**
+Instances of SCP-x052 are to be kept in a reinforced containment chamber measuring 10m x 10m x 5m, constructed from a non-organic, low-friction alloy to prevent climbing. The chamber is to be inspected on a monthly basis by assigned D-Class personnel for signs of wear.
+
+**Description:**
+SCP-x052 refers to a group of anomalous organisms resembling enormous spiders made from gigantic fingers. Instances of SCP-x052 exhibit highly predatory behavior, using their finger-like appendages to skitter across surfaces with unnatural agility.
+
+Despite the lack of visual organs, SCP-x052 exhibits awareness of its surroundings, reacting to movement, sound, and other environmental stimuli. The entities possess inhuman strength, using their appendages to grab and crush their prey with ease.
+[[/div]]
+
+
+[!---------- ↓ Replace XXXW and XXXY with the previous and next SCP #s ↓ -----------]
+[[=]]
+<< [[[SCP-x052]]] | SCP-x053 | [[[SCP-x054]]] >>
+[[/=]]
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[[include component:license-box]]
+[[include component:license-box-end]]
