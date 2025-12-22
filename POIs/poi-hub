@@ -59,8 +59,10 @@ UNKNOWN ##grey|⬤##: Unspecified
 @@@@
 [[/div]]
 --]
-
 ----
+
+[[collapsible show="[+] Show Main POI List" hide="[-] Hide Main POI List" folded="no"]]
+
 [[# Ares]]
 [[include component:poi-block
 |poi=Ares
@@ -387,6 +389,30 @@ Gwen Diaz is [DATA EXPUNGED].
 Claire Reeds, infamously known as Trixie Vice, is a notorious criminal and genius manipulator who augments her physical capabilities through the use of [[[glimmer]]].
 
 [[include component:poi-block-end]]
+[[/collapsible]]
+
+------
+
+[[collapsible show="[+] Show Stack Citizen Census" hide="[-] Hide Stack Citizen Census" folded="no"]]
+
+[[# Placeholder]]
+[[include component:poi-block
+|poi=Placeholder
+|poi-link=poi-placeholder
+|status=ACTIVE
+|status-color=green
+|image=http://backrooms-wiki.wikidot.com/local--files/kain-petrie/NO_IMAGE.jpg
+]]
++++ Name: Placeholder
+++++ Alias(es): Placeholder
+++++ Known Affiliations: Placeholder
+------
+
+Placeholder.
+
+[[include component:poi-block-end]]
+
+[[/collapsible]]
 
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
