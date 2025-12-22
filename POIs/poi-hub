@@ -298,7 +298,7 @@ Kleo ██████ is a non-anomalous human woman who serves as a high prie
 
 [[include component:poi-block-end]]
 
-[[/div]]
+
 
 
 [[# Magnetique]]
@@ -413,6 +413,7 @@ Placeholder.
 [[include component:poi-block-end]]
 
 [[/collapsible]]
+[[/div]]
 
 
 [!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
