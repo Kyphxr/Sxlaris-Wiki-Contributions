@@ -1,0 +1,38 @@
+[!--
+> **Page Notes**
+> 
+> This is your topbar, as the name suggests. The topbar contains the normal topbar and the mobile-topbar, which is a little different.
+> 
+> In addition to translation, make adjustments as you feel necessary. You are not obliged to just copy the English site. Anyway translate only each articles display-name, not the URL-name (should look like [[[groups-of-interest|Interessengruppen]]])
+--]
+
+[[div class="top-bar"]]
+* Dimensions
+ * [[[http://sxlaris.wikidot.com|the Sxlaris Wiki]]]
+* Blocks
+ * [[[mriask-hub|Hub]]]
+ * [[[mriask-page-1|Chapter 1]]]
+* Ores
+ * [[[https://hellstorm-software.github.io/theGrid/core/kultRising.html|Kult Rising]]]
+[[/div]]
+
+[[div class="mobile-top-bar"]]
+
+[[div class="open-menu"]]
+[#side-bar ≡]
+[[/div]]
+
+[!-- This is in the mobile-topbar. It is not suggested to have more than 3 top categories. --]
+* Dimensions
+ * [[[http://sxlaris.wikidot.com|the Sxlaris Wiki]]]
+* Blocks
+ * [[[mriask-hub|Hub]]]
+ * [[[mriask-page-1|Chapter 1]]]
+* Ores
+ * [[[https://hellstorm-software.github.io/theGrid/core/kultRising.html|Kult Rising]]]
+[[/div]]
+
+[!--
+Please do not include anything other than links within the bullet list.
+Do not go deeper than 1 level with nesting.
+--]
