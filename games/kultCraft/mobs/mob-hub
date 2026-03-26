@@ -7,15 +7,18 @@
 [!---------- ↓ Main Page ↓ -----------]
 
 [[div style="background-color: rgba(0, 0, 0, .8)"]]
+[[# Passive]]
 ++ Passive Mobs
 Passive Mobs are non-aggressive mobs that will run away when attacked.
 
 ------
+[[# Neutral]]
 ++ Neutral Mobs
 Neutral Mobs are non-aggressive mobs unless provoked, upon which they will fight back.
 * Arburian
 
 ------
+[[# Hostile]]
 ++ Hostile Mobs
 Hostile Mobs are aggressive mobs that will attack the player on sight.
 * The Administrator
