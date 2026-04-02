@@ -3,13 +3,15 @@
 [!---------- ↓ Rating Box ↓ -----------]
 [!---------- ↓ Main Page ↓ -----------]
 
-[[div style="background-color: rgba(0, 0, 0, .8); margin-left: 2%;"]]
+[[div style="background-color: rgba(0, 0, 0, .8);"]]
 
+[[div style="margin-left: 5%;"]]
 The Overworld of Convergence is the 
 Convergence Point of reality, where all 
 realities intersect. It is a semi-hostile
 dimension where a majority of the quests
 and NPCs can be found.
+[[/div]]
 
 [[div class="scp-image-block block-right" style="width:400px; margin-top: -10%; margin-left: 10%;"]]
 [[image https://i.imgur.com/Jjesn5E.png style="width:90%;" link=#]]
