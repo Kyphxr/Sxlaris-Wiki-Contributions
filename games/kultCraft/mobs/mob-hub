@@ -1,56 +1,31 @@
-[!--
-> **Page Notes**
-> 
-> This is your topbar, as the name suggests. The topbar contains the normal topbar and the mobile-topbar, which is a little different.
-> 
-> In addition to translation, make adjustments as you feel necessary. You are not obliged to just copy the English site. Anyway translate only each articles display-name, not the URL-name (should look like [[[groups-of-interest|Interessengruppen]]])
---]
+[[include :sxlaris:theme:black-highlighter-theme]]
+[[include :kultcraft:theme:kultcraft]]
+[!---------- ↓ Rating Box ↓ -----------]
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↓ Main Page ↓ -----------]
 
-[[div class="top-bar"]]
-* Dimensions
- * [[[dimensions| Dimensions Hub]]]
- * [[[Overworld]]]
- * [[[Nether]]]
- * [[[End]]]
- * [[[Aether]]]
- * [[[twilight-forest|Twilight Forest]]]
- * [[[Hell]]]
- * [[[Space]]]
- * [[[2B2T]]]
-* Blocks
- * [[[blocks| Blocks Hub]]]
-* Ores
- * [[[ores| Ores Hub]]]
-* Ingredients
- * [[[ingredients| Ingredients Hub]]]
-* Equipment
- * [[[equipment| Equipment Hub]]]
-* Weapons
- * [[[weapons| Weapon Hub]]]
-* Mobs
- * [[[npcs| NPCs]]]
- * [[[mobs#passive| Passive Mobs]]]
- * [[[mobs#neutral| Neutral Mobs]]]
- * [[[mobs#hostile| Hostile Mobs]]]
+[[div style="background-color: rgba(0, 0, 0, .8)"]]
+[[# Passive]]
+++ Passive Mobs
+Passive Mobs are non-aggressive mobs that will run away when attacked.
+
+------
+[[# Neutral]]
+++ Neutral Mobs
+Neutral Mobs are non-aggressive mobs unless provoked, upon which they will fight back.
+* Arburian
+* Billy
+
+------
+[[# Hostile]]
+++ Hostile Mobs
+Hostile Mobs are aggressive mobs that will attack the player on sight.
+* The Administrator
+
 [[/div]]
 
-[[div class="mobile-top-bar"]]
-
-[[div class="open-menu"]]
-[#side-bar ≡]
-[[/div]]
-
-[!-- This is in the mobile-topbar. It is not suggested to have more than 3 top categories. --]
-* Dimensions
- * [[[http://sxlaris.wikidot.com|the Sxlaris Wiki]]]
-* Blocks
- * [[[mriask-hub|Hub]]]
- * [[[mriask-page-1|Chapter 1]]]
-* Ores
- * [[[https://hellstorm-software.github.io/theGrid/core/kultRising.html|Kult Rising]]]
-[[/div]]
-
-[!--
-Please do not include anything other than links within the bullet list.
-Do not go deeper than 1 level with nesting.
---]
+[!---------- ↓ License Box ↓ -----------]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
