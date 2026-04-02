@@ -1,18 +1,41 @@
 [[include :sxlaris:theme:black-highlighter-theme]]
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↓ Rating Box ↓ -----------]
-[[>]]
-[[module Rate]]
-[[/>]]
 [!---------- ↓ Main Page ↓ -----------]
 
-[[div style="background-color: rgba(0, 0, 0, .8)"]]
+[[div style="background-color: rgba(0, 0, 0, .8);"]]
+[[div style="margin-bottom: -5%;"]]
+ㅤ
+[[/div]]
+[[div style="margin-left: 2%;"]]
+(This dimension is specifically for Aether I. 
+Aether II is coming soon.)
 
-This dimension is specifically for Aether I. Aether II is coming soon.
+The Aether is a hostile, paradise-like 
+dimension of floating islands high in the sky, 
+where you can begin a new survival adventure, 
+packed wtih new ores, mythincal creatures, and 
+perilous dungeons.
+[[/div]]
 
-The Aether is a hostile, paradise-like dimension of floating islands high in the sky, where you can begin a new survival adventure, packed wtih new ores, mythincal creatures, and perilous dungeons.
+[[div class="scp-image-block block-right" style="width:400px; margin-top: -60%; margin-left: 10%;"]]
+[[image https://i.imgur.com/Jjesn5E.png style="width:90%;" link=#]]
+[[/div]]
 
 
+------
+
+++ Biomes
+
+
+------
+
+++ Structures
+
+
+------
+
+++ Locations
 
 [[/div]]
 
