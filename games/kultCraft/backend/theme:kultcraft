@@ -79,8 +79,8 @@ Undervegas, Baby
 On any wiki:
 
 [[div class="code"]]
-@@[[include :scp-wiki:theme:black-highlighter-theme]]@@
-@@[[include :scp-sandbox-3:theme:dimension-x]]@@
+@@[[include :sxlaris:theme:black-highlighter-theme]]@@
+@@[[include :kultcraft:theme:kultcraft]]@@
 [[/div]]
 
 + Examples
@@ -191,7 +191,7 @@ weed lmao
 [[collapsible show="» show source" hide="« hide source"]]
 [[code type="css"]]
 /*
-    Dimension-X Theme
+    Kult Craft Theme
     [2025 Wikidot Theme]
     original by ROUNDERHOUSE, modified by Kyphxr
 */
@@ -201,11 +201,11 @@ weed lmao
 @import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
 
 :root {
-    --theme-id: "SUBTROPOLIS THEME";
-    --theme-name: "SUBTROPOLIS THEME"; 
-    --logo-image: url("https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/45dca3b693c8ae0d0739acd1f1c98d79.png");
-    --header-title: "SITE-814";
-    --header-subtitle: "SUB-SUBTROPOLIS";
+    --theme-id: "CONVERGENCE THEME";
+    --theme-name: "CONVERGENCE THEME"; 
+    --logo-image: url("https://i.imgur.com/aXI9xmd.png");
+    --header-title: "KULT CRAFT";
+    --header-subtitle: "CONVERGENCE SMP";
     --header-font: 'Playfair Display', serif;
     --title-font: 'Playfair Display', serif;
     --body-font: 'Ysabeau Office', sans-serif;
@@ -531,5 +531,5 @@ form#edit-page-form .edit-page-bottomtable tr > td:nth-of-type(1) > div:nth-of-t
 [[include :scp-wiki:component:centered-header-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
 [[module CSS]]
-@import url("https://scp-sandbox-3.wdfiles.com/local--code/theme%3Adimension-x/1");
+@import url("https://kultcraft.wdfiles.com/local--code/theme%3Akultcraft/1");
 [[/module]]
