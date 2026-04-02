@@ -12,6 +12,7 @@
 Passive Mobs are non-aggressive mobs that will run away when attacked.
 * Aerbunny
 * Aerwhale
+* Phyg
 * Sheepuff
 
 ------
@@ -19,12 +20,29 @@ Passive Mobs are non-aggressive mobs that will run away when attacked.
 ++ Neutral Mobs
 Neutral Mobs are non-aggressive mobs unless provoked, upon which they will fight back.
 * Arburian
+* Moa
+* Valkyrie
 
 ------
 [[# Hostile]]
 ++ Hostile Mobs
 Hostile Mobs are aggressive mobs that will attack the player on sight.
 * The Administrator
+* Aechor Plant
+* Cockatrice
+* Mimic
+* Sentry Golem
+* Swet
+* Zephyr
+
+------
+[[# Boss]]
+++ Boss Mobs
+* Elder Guardian
+* Ender Dragon
+* Slider
+* Valkyrie Queen
+* Wither
 
 [[/div]]
 
