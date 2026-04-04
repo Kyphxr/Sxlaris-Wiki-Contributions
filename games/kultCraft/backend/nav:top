@@ -21,14 +21,18 @@
  * [[[blocks| Blocks Hub]]]
 * Ores
  * [[[ores| Ores Hub]]]
-* Ingredients
+* Items
+ * [[[food| Food Hub]]]
  * [[[ingredients| Ingredients Hub]]]
 * Equipment
  * [[[equipment| Equipment Hub]]]
 * Weapons
  * [[[weapons| Weapon Hub]]]
-* NPCs
- * [[[npcs| NPC Hub]]]
+* Mobs
+ * [[[npcs| NPCs]]]
+ * [[[mobs#passive| Passive Mobs]]]
+ * [[[mobs#neutral| Neutral Mobs]]]
+ * [[[mobs#hostile| Hostile Mobs]]]
 [[/div]]
 
 [[div class="mobile-top-bar"]]
