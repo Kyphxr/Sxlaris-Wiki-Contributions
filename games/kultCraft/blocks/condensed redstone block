@@ -1,0 +1,13 @@
+[[include :sxlaris:theme:black-highlighter-theme]]
+[[include :kultcraft:theme:kultcraft]]
+[!---------- ↓ Main Page ↓ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8)"]]
+
+A Condensed Redstone Block is a utility block that can be crafted by placing 8 Redstone Blocks in the crafting table. 1 Condensed Redstone Block can be crafted back into 8 Redstone.
+
+[[/div]]
+
+[!---------- ↓ License Box ↓ -----------]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
