@@ -1,0 +1,13 @@
+[[include :sxlaris:theme:black-highlighter-theme]]
+[[include :kultcraft:theme:kultcraft]]
+[!---------- ↓ Main Page ↓ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8)"]]
+
+Stacked Sand is a utility block that can be crafted by placing 8 Condensed Sand in the crafting table. 1 block of Stacked Sand can be crafted back into 8 Condensed Sand.
+
+[[/div]]
+
+[!---------- ↓ License Box ↓ -----------]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
