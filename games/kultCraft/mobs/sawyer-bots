@@ -1,0 +1,13 @@
+[[include :sxlaris:theme:black-highlighter-theme]]
+[[include :kultcraft:theme:kultcraft]]
+[!---------- ↓ Main Page ↓ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8)"]]
+
+The Doctors robots are from the [*https://www.curseforge.com/minecraft/mc-mods/playtime-co-poppy-playtime Playtime Co mod]. They have 250 health and spawn as a normal mob. Coming into contact with the Robots will inflict blindness.
+
+[[/div]]
+
+[!---------- ↓ License Box ↓ -----------]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
