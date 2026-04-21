@@ -1,0 +1,63 @@
+[[include :sxlaris:theme:black-highlighter-theme]]
+[[include :kultcraft:theme:kultcraft]]
+[!---------- ↓ Rating Box ↓ -----------]
+[[>]]
+[[module Rate]]
+[[/>]]
+[!---------- ↓ Main Page ↓ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8)"]]
+[[# Passive]]
+
+,,(For the sake of not overwhelming the page, vanilla mobs are not included unless they differ from their standard versions.),,
+
+------
+
+++ Passive Mobs
+Passive Mobs are non-aggressive mobs that will run away when attacked.
+* Aerbunny
+* Aerwhale
+* Copper Golem
+* Happy Ghast
+* Phyg
+* Sheepuff
+
+------
+[[# Neutral]]
+++ Neutral Mobs
+Neutral Mobs are non-aggressive mobs unless provoked, upon which they will fight back.
+* Arburian
+* [[[Kissy Missy]]]
+* Moa
+* Nautilus
+* Valkyrie
+
+------
+[[# Hostile]]
+++ Hostile Mobs
+Hostile Mobs are aggressive mobs that will attack the player on sight.
+* The Administrator
+* Aechor Plant
+* Cockatrice
+* [[[sawyer-bots| Sawyer Bots]]]
+* [[[Huggy Wuggy]]]
+* Mimic
+* Sentry Golem
+* Swet
+* Zephyr
+
+------
+[[# Boss]]
+++ Boss Mobs
+* Elder Guardian
+* Ender Dragon
+* [[[prototype| The Prototype]]]
+* Slider
+* Valkyrie Queen
+* Wither
+
+[[/div]]
+
+[!---------- ↓ License Box ↓ -----------]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
