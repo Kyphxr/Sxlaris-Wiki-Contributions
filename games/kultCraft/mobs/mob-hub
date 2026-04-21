@@ -27,7 +27,8 @@ Passive Mobs are non-aggressive mobs that will run away when attacked.
 ++ Neutral Mobs
 Neutral Mobs are non-aggressive mobs unless provoked, upon which they will fight back.
 * Arburian
-* Moa
+* [[[Kissy Missy]]]
+* [[[Moa]]]
 * Nautilus
 * Valkyrie
 
@@ -38,6 +39,7 @@ Hostile Mobs are aggressive mobs that will attack the player on sight.
 * The Administrator
 * Aechor Plant
 * Cockatrice
+* [[[sawyer-bots| Sawyer Bots]]]
 * [[[Huggy Wuggy]]]
 * Mimic
 * Sentry Golem
