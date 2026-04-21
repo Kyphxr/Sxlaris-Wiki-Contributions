@@ -1,0 +1,15 @@
+[[include :sxlaris:theme:black-highlighter-theme]]
+[[include :kultcraft:theme:kultcraft]]
+[!---------- ↓ Main Page ↓ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8)"]]
+
+[[html style="text-align: center;"]]
+<iframe src="https://www.youtube.com/embed/DWi_SKcrGio?si=BAcsn4TLAJ4DWhuk&amp;start=2406" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+[[/html]]
+
+[[/div]]
+
+[!---------- ↓ License Box ↓ -----------]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
