@@ -1,0 +1,19 @@
+[[include :sxlaris:theme:black-highlighter-theme]]
+[[include :kultcraft:theme:kultcraft]]
+[!---------- ↓ Main Page ↓ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8)"]]
+
+Moa's are a common passive mob found in the [[[Aether]]]. 
+
+[[div class="scp-image-block block-right" style="width:400px; margin-top: -10%; margin-left: 10%;"]]
+[[image https://aether.wiki.gg/images/thumb/Modern_Blue_Moa.png/150px-Modern_Blue_Moa.png?4116d2 style="width:90%;" link=#]]
+[[/div]]
+
+
+
+[[/div]]
+
+[!---------- ↓ License Box ↓ -----------]
+[[include :sxlaris:component:license-box]]
+[[include :sxlaris:component:license-box-end]]
