@@ -48,8 +48,8 @@
   background: transparent;
   position: relative;
   box-sizing: border-box;
-  width: 14.1vw;
-  height: 14.1vw;
+  width: 18.1vw;
+  height: 18.1vw;
   margin: 0;
 }
 
