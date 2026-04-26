@@ -320,15 +320,15 @@ the kyphxr kollection
 [[/div]]
 
 [[image https://img.shields.io/github/commit-activity/m/kyphxr/Sxlaris-Wiki-Contributions?color=ff0404&label=commits&style=for-the-badge)](https://github.com/Kyphxr/Wiki-Contributions/commits/main/SCP-Wiki "Commit History"]]
-
+@@
 [[/div]]
-
-[[include component:license-box]]
-[[include component:license-box-end]]
 
 [[div style="margin-top: 50px;"]]
 = [[image https://github-readme-streak-stats.herokuapp.com/?user=Hellstorm-Software_&theme=cobalt]]
 [[/div]]
+
+[[include component:license-box]]
+[[include component:license-box-end]]
 
 [[/div]]
 
