@@ -11,16 +11,14 @@
 |lang=en
 |page=scp-xxxx[!-- url of your page on the scp wiki --]
 |authorPage=https://scp-wiki.wikidot.com/kyphxr-author-page[!-- link to your author page --]
-|comments= = Styles/CSS [[div class="collapsible" style="text-align: center;"]]
-[[collapsible show="☰" hide="☰"]]
-= A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out his page [https://scp-wiki.wikidot.com/rounderhouse-s-author-page here]
-[[/collapsible]]
+|comments== A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out his page [https://scp-wiki.wikidot.com/rounderhouse-s-author-page here] = Styles/CSS [[div class="collapsible" style="text-align: center;"]]
 [[/div]]
 
 
 [[=]]
 [[module Rate]]
 [[/=]]
+
 [[div style="font-size: 28px;"]]
 = **KYPHXR'S AUTHOR PAGE**
 
