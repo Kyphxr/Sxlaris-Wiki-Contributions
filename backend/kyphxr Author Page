@@ -10,7 +10,7 @@
 [[include :scp-wiki:component:info-ayers
 |lang=en
 |page=scp-xxxx[!-- url of your page on the scp wiki --]
-|authorPage=https://sxlaris.wikidot.com/kyphxr-author-page[!-- link to your author page --]
+|authorPage=https://scp-wiki.wikidot.com/kyphxr-author-page[!-- link to your author page --]
 |comments== A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out his page [https://scp-wiki.wikidot.com/rounderhouse-s-author-page here]  [[div class="collapsible" style="text-align: center;"]]
 [[/div]]
 
@@ -319,15 +319,15 @@
 the kyphxr kollection
 [[/div]]
 
-[[image https://img.shields.io/github/commit-activity/m/hellstorm-software/SCP-Wiki-Contributions?color=ff0404&label=commits&style=for-the-badge)](https://github.com/Kyphxr/Wiki-Contributions/commits/main/SCP-Wiki "Commit History"]]
+[[image https://img.shields.io/github/commit-activity/m/kyphxr/Sxlaris-Wiki-Contributions?color=ff0404&label=commits&style=for-the-badge)](https://github.com/Kyphxr/Wiki-Contributions/commits/main/SCP-Wiki "Commit History"]]
 
 [[/div]]
 
-[[include :scp-wiki:component:license-box]]
-[[include :scp-wiki:component:license-box-end]]
+[[include component:license-box]]
+[[include component:license-box-end]]
 
 [[div style="margin-top: 50px;"]]
-= [[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt]]
+= [[image https://github-readme-streak-stats.herokuapp.com/?user=Hellstorm-Software_&theme=cobalt]]
 [[/div]]
 
 [[/div]]
@@ -335,6 +335,8 @@ the kyphxr kollection
 
 
 [!-- ############################### CSS ######################################## --]
+[!-- ########################################################################### --]
+[!-- ########################################################################### --]
 [!-- ########################################################################### --]
 [!-- ########################################################################### --]
 
