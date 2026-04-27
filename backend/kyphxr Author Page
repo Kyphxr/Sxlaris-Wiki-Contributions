@@ -653,7 +653,7 @@ a {
 .liminal {
   background-image: url(https://i.imgur.com/uQeAILN.png);
   background-size: cover;
-  background-blend-mode: color-burn;
+  background-blend-mode: screen;
 }
 
 .scp-184 {
