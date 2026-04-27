@@ -692,4 +692,10 @@ a {
   background-blend-mode: screen;
 }
 
+.kultrising {
+  background-image: url(https://i.imgur.com/y7sNRGy.png);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
 [[/module]]
