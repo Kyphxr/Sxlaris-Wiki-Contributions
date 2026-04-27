@@ -687,7 +687,7 @@ a {
 }
 
 .thalassophobia {
-  background-image: url(https://i.imgur.com/Whctpnw.jpeg);
+  background-image: url(https://i.imgur.com/panRk76.png);
   background-size: cover;
   background-blend-mode: screen;
 }
