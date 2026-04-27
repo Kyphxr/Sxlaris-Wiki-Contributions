@@ -693,7 +693,7 @@ a {
 }
 
 .kultrising {
-  background-image: url(https://i.imgur.com/y7sNRGy.png);
+  background-image: url(https://i.imgur.com/wZmoDec.png);
   background-size: cover;
   background-blend-mode: screen;
 }
