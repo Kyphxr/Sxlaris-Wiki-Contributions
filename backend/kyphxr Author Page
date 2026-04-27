@@ -29,7 +29,13 @@
 
 ------
 
+[[div class="spcSCP" style="height: 500px; margin-bottom: 10px;"]]
+[[div style="max-width: 100%; text-align: left;"]]
 
+[[div style="margin-top: 10px;"]]
+ㅤ
+[[/div]]
+[[/div]]
 
 [[div class="biggrid"]]
 
@@ -287,10 +293,7 @@
 [[/div]]
 
 ------
-[[div style="font-size: 28px;"]]
 
-[[div class="spcSCP" style="height: 500px; margin-bottom: 10px;"]]
-[[div style="max-width: 100%; text-align: left;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number=x000
 |clearance= 5
@@ -311,11 +314,8 @@
 
 ------
 
-[[div style="margin-top: 10px;"]]
-ㅤ
-[[/div]]
-[[/div]]
 
+[[div style="font-size: 28px;"]]
 = ·············· **Kult Rising** ··············
 [[div style="background-color: rgba(72, 0, 255, 0.3); width: 20%; text-align: center; margin-left: 40%; font-size: 20px; color: #ff0011;"]]
 the kyphxr kollection
