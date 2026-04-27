@@ -29,14 +29,6 @@
 
 ------
 
-[[div class="spcSCP" style="height: 500px; margin-bottom: 10px;"]]
-[[div style="max-width: 100%; text-align: left;"]]
-
-[[div style="margin-top: 10px;"]]
-ㅤ
-[[/div]]
-[[/div]]
-
 [[div class="biggrid"]]
 
 [[div class="alphagriddle"]]
@@ -294,6 +286,8 @@
 
 ------
 
+[[div class="spcSCP" style="height: 500px; margin-bottom: 10px;"]]
+[[div style="max-width: 100%; text-align: left;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number=x000
 |clearance= 5
@@ -314,6 +308,10 @@
 
 ------
 
+[[div style="margin-top: 10px;"]]
+ㅤ
+[[/div]]
+[[/div]]
 
 [[div style="font-size: 28px;"]]
 = ·············· **Kult Rising** ··············
