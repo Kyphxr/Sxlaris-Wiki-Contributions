@@ -686,4 +686,10 @@ a {
   background-blend-mode: color-burn;
 }
 
+.thalassophobia {
+  background-image: url(https://i.imgur.com/Whctpnw.jpeg);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
 [[/module]]
