@@ -656,6 +656,12 @@ a {
   background-blend-mode: color-burn;
 }
 
+.scp-184 {
+  background-image: url(https://i.imgur.com/6s8COuZ.png);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
 .commits {
   background-image: url(https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png);
   background-size: cover;
