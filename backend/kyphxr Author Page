@@ -698,4 +698,10 @@ a {
   background-blend-mode: screen;
 }
 
+.convergenceSMP {
+  background-image: url(https://i.imgur.com/5kTtT0q.png);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
 [[/module]]
