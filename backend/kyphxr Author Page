@@ -152,10 +152,11 @@
 ]]
 
 [[include fragment:kyphboxscrollr
-|article-class=scp-xxxx long
+|article-class=audio long
 |scrollr=[*https://www.youtube.com/watch?v=qJcbgQpfRzU SCP-3035]
-|scrollr2=SCP-3199
-|scrollr3=Placeholder
+|scrollr2=[*https://www.youtube.com/watch?v=Vo8VHfIlFh0&t=245s SCP-3199]
+|scrollr3=[*https://www.youtube.com/watch?v=nh_AC7q04fk&pp=0gcJCdQKAYcqIYzv SCP-1299]
+|scroller4=[*https://www.youtube.com/watch?v=_5sWt3xhQPA SCP-NC-1170]
 ]]
 
 [[include fragment:kyphbox 
@@ -707,6 +708,12 @@ a {
 
 .scp-x005 {
   background-image: url(https://i.imgur.com/9Zs6SK5.png);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
+.audio {
+  background-image: url(https://i.imgur.com/bpmZYzs.jpeg);
   background-size: cover;
   background-blend-mode: screen;
 }
