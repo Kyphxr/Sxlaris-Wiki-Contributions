@@ -136,7 +136,7 @@
 ]]
 
 [[include fragment:kyphbox2
-|article-class=scp-xxxx
+|article-class=scp-x005
 |slug=http://sxlaris.wikidot.com/scp-x005
 |title=SCP-x005
 |subtitle=Replikate
@@ -701,6 +701,12 @@ a {
 
 .convergenceSMP {
   background-image: url(https://i.imgur.com/5kTtT0q.png);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
+.scp-x005 {
+  background-image: url(https://i.imgur.com/9Zs6SK5.png);
   background-size: cover;
   background-blend-mode: screen;
 }
