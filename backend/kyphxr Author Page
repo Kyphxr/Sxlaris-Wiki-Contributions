@@ -144,7 +144,7 @@
 ]]
 
 [[include fragment:kyphbox2 
-|article-class=scp-xxxx
+|article-class=kissy
 |slug=https://www.curseforge.com/minecraft/mc-mods/kissy-missy-tamable-pet
 |title=Kissy Missy Mount
 |subtitle=Poppy Playtime
@@ -714,6 +714,12 @@ a {
 
 .audio {
   background-image: url(https://i.imgur.com/bpmZYzs.jpeg);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
+.kissy{
+  background-image: url(https://i.imgur.com/KM9Ag7P.png);
   background-size: cover;
   background-blend-mode: screen;
 }
