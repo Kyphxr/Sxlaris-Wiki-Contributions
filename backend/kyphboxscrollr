@@ -1,0 +1,18 @@
+[[iftags +fragment]]
+> This is a fragment to help build the boxes in the Kyphxr Kollection.
+[[/iftags]]
+
+[[div class="griddle {$article-class}" style="{$extra-styling};"]]
+  [[span class="scrollr" style="display: block; width: 100%; height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 5px;"]]
+    {$scrollr}
+    {$scrollr2}
+    {$scrollr3}
+    {$scrollr4}
+    {$scrollr5}
+    {$scrollr6}
+    {$scrollr7}
+    {$scrollr8}
+    {$scrollr9}
+    {$scrollr10}
+  [[/span]] _ 
+[[/div]]
