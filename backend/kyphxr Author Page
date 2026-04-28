@@ -714,7 +714,7 @@ a {
 }
 
 .audio {
-  background-image: url(https://i.imgur.com/bpmZYzs.jpeg);
+  background-image: url(https://i.imgur.com/Ydt03yk.png);
   background-size: cover;
   background-blend-mode: screen;
 }
