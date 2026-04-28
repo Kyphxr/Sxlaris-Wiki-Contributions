@@ -3,7 +3,7 @@
 [[/iftags]]
 
 [[div class="griddle {$article-class}" style="{$extra-styling};"]]
-  [[span class="scrollr" style="display: block; width: 100%; height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 5px;"]]
+  [[span class="scrollr" style="display: block; width: 98%; height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 5px;"]]
     {$scrollr}
     {$scrollr2}
     {$scrollr3}
