@@ -725,4 +725,10 @@ a {
   background-blend-mode: screen;
 }
 
+.youtube{
+  background-image: url(https://i.imgur.com/sDK98zh.png);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
 [[/module]]
