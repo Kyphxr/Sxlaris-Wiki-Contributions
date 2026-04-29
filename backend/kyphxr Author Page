@@ -129,9 +129,9 @@
 
 [[include fragment:kyphBox2 
 |article-class=translatr tall
-|slug=https://lingojam.com/KyphxrsWords
-|title=Kyphxr's Translator
-|subtitle=This is a WIP
+|slug=https://sxlarwasteland.com
+|title=Sxlar Wasteland
+|subtitle=A Creative Collective
 |subbertitle=ㅤ
 ]]
 
@@ -684,7 +684,7 @@ a {
 }
 
 .translatr {
-  background-image: url(https://ph-files.imgix.net/f318506a-0820-470b-85af-fe9392a2420d.png);
+  background-image: url(https://i.imgur.com/ucXE2jQ.png);
   background-size: cover;
   background-blend-mode: color-burn;
 }
