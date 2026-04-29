@@ -686,7 +686,7 @@ a {
 .translatr {
   background-image: url(https://i.imgur.com/ucXE2jQ.png);
   background-size: cover;
-  background-blend-mode: color-burn;
+  background-blend-mode: screen;
 }
 
 .thalassophobia {
