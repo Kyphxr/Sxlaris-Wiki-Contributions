@@ -6,7 +6,7 @@
 |lang=en
 |page=scp-xxxx[!-- url of your page on the scp wiki --]
 |authorPage=https://sxlaris.wikidot.com/kyphxr-author-page[!-- link to your author page --]
-|comments==  [[div class="collapsible" style="text-align: center;"]]
+|comments== A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out his page [https://scp-wiki.wikidot.com/rounderhouse-s-author-page here]  [[div class="collapsible" style="text-align: center;"]]
 
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 If you would like to commission work, please reach out on discord (kyphxr0023) or Instagram/Twitter (@kyphxr).
@@ -19,3 +19,15 @@ Full game walkthroughs, complete highlights of streams and subathons, multi-epis
 [[/div]]
 
 
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[!--
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
+--]
+[[include component:license-box]]
+[[include component:license-box-end]]
