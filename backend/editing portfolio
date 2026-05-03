@@ -76,7 +76,28 @@ game MISERY, made up of all of my footage from playing the game.
 
 [[/collapsible]]
 
+------
 
+[[# Guides]]
++++ Guide and Tutorial Videos
+Guides and Tutorials explaining how to complete specific tasks.
+
+------
+
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Show Tutorial Videos" hide="‡ Hide Tutorial Videos" folded="no"]]
+
++ I Survived 100 days in MISERY's Zone 
++++++ [[span style="color: #919191;"]]2 hour video, 20+ hours of footage || A guide in the format of an 100 days video[[/span]]
+A 2 hour guide/100 day video, detailing every single feature, enemy, weapon, item, and anomaly from the 
+game MISERY, made up of all of my footage from playing the game.
+
+[[div style="margin-left: 55%; margin-top: -7%;"]]
+[[html]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2aBMyXs_Rzs?si=a2mJdE-DUfZAOemi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[[/html]]
+[[/div]]
+
+[[/collapsible]]
 
 [[/div]]
 
