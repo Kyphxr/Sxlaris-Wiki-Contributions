@@ -738,4 +738,10 @@ a {
   background-blend-mode: screen;
 }
 
+.editing{
+  background-image: url(https://i.imgur.com/SNEp5sH.png);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
 [[/module]]
