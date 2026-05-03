@@ -166,6 +166,28 @@ and effects in the video are custom made by me.
 
 [[/collapsible]]
 
+[[# Longform]]
++++ Longform Videos
+Standard style/length youtube videos made up of letsplays and/or stream highlights.
+
+------
+
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Show Super-Long Videos" hide="‡ Hide Super-Long Videos" folded="no"]]
+
++ How i moved my ENTIRE Minecraft base into Hytale
++++++ [[span style="color: #919191;"]]45 min video, 50+ hours of footage || Hytale letsplay in movie format[[/span]]
+A 45 minute highly edited video showing the process of digging up 500,000 blocks and moving my entire minecraft base into Hytale.
+
+[[div style="margin-left: 55%; margin-top: -7%;"]]
+[[html]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rOGVjd7-YFY?si=z8fXAGsvzIILsWhV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[[/html]]
+[[/div]]
+
+------
+
+[[/collapsible]]
+
 [[/div]]
 
 
