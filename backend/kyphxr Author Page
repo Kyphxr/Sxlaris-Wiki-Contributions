@@ -241,11 +241,11 @@
 ]]
 
 [[include fragment:kyphbox 
-|article-class=scp-xxxx 
-|slug=scp-6274
-|title=Placeholder 24
-|subtitle=Placeholder
-|subbertitle=Placeholder
+|article-class=createportals 
+|slug=https://www.curseforge.com/minecraft/modpacks/immesive-create
+|title=Create Portals
+|subtitle=Minecraft Modpack
+|subbertitle=Immersive Portals + Create
 ]]
 
 [[include fragment:kyphbox 
@@ -750,6 +750,12 @@ a {
 
 .minesky{
   background-image: url(https://i.imgur.com/O8R2y8T.png);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
+.createportals{
+  background-image: url(https://i.imgur.com/6F3HDNA.png);
   background-size: cover;
   background-blend-mode: screen;
 }
