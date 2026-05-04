@@ -748,4 +748,10 @@ a {
   background-blend-mode: screen;
 }
 
+.minesky{
+  background-image: url(https://i.imgur.com/O8R2y8T.png);
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
 [[/module]]
