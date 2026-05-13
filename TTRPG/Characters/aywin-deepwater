@@ -13,11 +13,11 @@
 ------
 
 **Strength:** 12
-**Dexterity:** 14 (+2)
+**Dexterity:** 12 (+2)
 **Constitution:** 7
-**Intelligence:** 12
+**Intelligence:** 16
 **Wisdom:** 11
-**Charisma:** 16 (+1)
+**Charisma:** 14 (+1)
 
 **Health:** 6
 
@@ -75,6 +75,7 @@ Regular Spells
 * Web (2nd Level)
 * Dispel Magic (3rd Level)
 * Life Transference (3rd Level)
+* Vampiric Touch (3rd Level)
 * Planar Binding (5th Level)
 * Plane Shift (7th Level)
 * Demiplane (8th Level)
