@@ -1,0 +1,77 @@
+[[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+
+**Class:**Warlock: The Genie
+**Race:** Half-Orc
+**Background:** Rune Carver
+**Alignment:** Chaotic Good
+**Pronouns:** He/Him
+
+------
+
+**Strength:** 14
+**Dexterity:** 10
+**Constitution:** 14
+**Intelligence:** 8
+**Wisdom:** 10
+**Charisma:** 17 
+
+**Health:** 6
+
+------
+
+**Proficiencies:** Insight, Religion, Perception, Intelligence, Wisdom, rapiers, shortswords, hand crossbows, daggers, darts, slings, quarterstaffs, light crossbows
+**Skills:** Insight, Medicine
+**Abilities:** 120 feet of darkvision, Fey Ancestry[[footnote]]advantage against charm saving throws, can't be put to sleep with magic[[/footnote]], trance [[footnote]]Elves do not need sleep, only a deep, 4 hour meditation is required[[/footnote]], Sunlight Sensitivity[[footnote]] disadvantage on attack rolls and perception checks when you or whatever you are trying to perceive is in direct sunlight[[/footnote]]
+**Speed:** 30ft
+**Age:** 21 
+**Language:** Basic
+**Height:** 6'4"  (Medium sized)
+**Equipment:** 
+
+------
+
+**Cantrips:**
+* 
+[[collapsible show="‡ Higher Level Cantrips" hide="‡ Hide Higher Level Cantrips"]]
+Lv. 4:
+[[/collapsible]]
+
+**Spells:**
+* Disguise Self
+* Healing Elixir/Shield[[footnote]]if UA isn't allowed, take shield instead[[/footnote]]
+* Magic Missile
+* Cause Fear
+* Find Familiar
+* Feather Fall
+
+[[collapsible show="‡ Higher Level Spells" hide="‡ Hide Higher Level Spells"]]
+
+[[/collapsible]]
+
+------
+
+**Description:** 
+
+------
+
+
+
+[[/div]]
+
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[!--
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
+--]
+[[include component:license-box]]
+[[include component:license-box-end]]
