@@ -4,9 +4,9 @@
 
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 
-Wizard Genie focused on creating a powerful sanctuary within his vessel. Specializes as a post-action support build.
+Artificer Genie focused on creating a powerful sanctuary within his vessel. Utility Tank/Support build.
 
-**Class:** Artificer, 1 level of Warlock: The Genie, 2 levels of Wizard: School of Divination
+**Class:** Artificer, 1 level of Warlock: The Genie, 2 levels of Wizard: School of Divination[[footnote]]The 2 wizard levels are optional, I just like fortelling rolls[[/footnote]]
 **Race:** Drow
 **Background:** Astral Drifter [[footnote]]Spelljammer backgrounds are more powerful than standard backgrounds. Instead of taking the Cleric cantrips, take a 3rd language[[/footnote]]
 **Alignment:** Chaotic Neutral
@@ -14,25 +14,26 @@ Wizard Genie focused on creating a powerful sanctuary within his vessel. Special
 
 ------
 
-**Strength:** 11
+**Strength:** 10
 **Dexterity:** 12 (+2)
 **Constitution:** 14
 **Intelligence:** 16
 **Wisdom:** 7
 **Charisma:** 12 (+1)
 
-**Health:** 6
+**Health:** 10
 
 ------
 
-**Proficiencies:** Insight, Religion, Perception, Intelligence, Wisdom, rapiers, shortswords, hand crossbows, daggers, darts, slings, quarterstaffs, light crossbows
-**Skills:** Insight, Medicine
+**Proficiencies:** Simple weapons, Light armor, medium armor, shields, Thieves’ tools, tinker’s tools, Alchemist's supplies, 
+**Saving Throws:** Constitution, Intelligence
+**Skills:** 
 **Abilities:** 120 feet of darkvision, Fey Ancestry[[footnote]]advantage against charm saving throws, can't be put to sleep with magic[[/footnote]], trance [[footnote]]Elves do not need sleep, only a deep, 4 hour meditation is required[[/footnote]], Sunlight Sensitivity[[footnote]] disadvantage on attack rolls and perception checks when you or whatever you are trying to perceive is in direct sunlight[[/footnote]]
 **Speed:** 30ft
 **Age:** 114 [[footnote]]Aywin spent 62 years in the Astral Plane and thus is 176 with Astral Years. This time had no physical effect on his body, but allowed for an extra 62 years of study in the Astral Planes.[[/footnote]]
 **Language:** Elvish, Basic, Celestial, Infernal, Deep Speech[[footnote]]Celestial, Infernal, and Deep Speech are from Astral Drifter Background[[/footnote]]
 **Height:** 6 ft (Medium sized)
-**Equipment:** Archimedes Sphere (Spellbook), Quarterstaff, scholars pack, component pouch, a pouch, 10 gp
+**Equipment:** 
 
 ------
 
@@ -40,14 +41,14 @@ Wizard Genie focused on creating a powerful sanctuary within his vessel. Special
 * Dancing Lights [[footnote]]from Drow Magic[[/footnote]]
 * Prestidigitation
 * Mind Sliver
-* Ray of Frost
+* Booming Blade
 [[collapsible show="‡ Higher Level Cantrips" hide="‡ Hide Higher Level Cantrips"]]
 Lv. 4:
 * Mage Hand
 Lv. 13:
 * Minor Illusion
 Lv. 17:
-* Booming Blade
+* Ray of Frost
 [[/collapsible]]
 
 **Spells:**
