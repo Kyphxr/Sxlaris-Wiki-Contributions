@@ -4,20 +4,20 @@
 
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
 
-**Class:**Warlock: The Genie
-**Race:** Half-Orc
-**Background:** Rune Carver
-**Alignment:** Chaotic Good
+**Class:** Wizard: School of Divination, 1 level of Warlock: The Genie, 1 level of Cleric: Trickery Domain 
+**Race:** Drow
+**Background:** Astral Drifter [[footnote]]Spelljammer backgrounds are more powerful than standard backgrounds. Instead of taking the Cleric cantrips, take a 3rd language[[/footnote]]
+**Alignment:** Chaotic Neutral
 **Pronouns:** He/Him
 
 ------
 
-**Strength:** 14
-**Dexterity:** 10
-**Constitution:** 14
-**Intelligence:** 8
-**Wisdom:** 10
-**Charisma:** 17 
+**Strength:** 11
+**Dexterity:** 12 (+2)
+**Constitution:** 7
+**Intelligence:** 16
+**Wisdom:** 12
+**Charisma:** 14 (+1)
 
 **Health:** 6
 
@@ -27,17 +27,25 @@
 **Skills:** Insight, Medicine
 **Abilities:** 120 feet of darkvision, Fey Ancestry[[footnote]]advantage against charm saving throws, can't be put to sleep with magic[[/footnote]], trance [[footnote]]Elves do not need sleep, only a deep, 4 hour meditation is required[[/footnote]], Sunlight Sensitivity[[footnote]] disadvantage on attack rolls and perception checks when you or whatever you are trying to perceive is in direct sunlight[[/footnote]]
 **Speed:** 30ft
-**Age:** 21 
-**Language:** Basic
-**Height:** 6'4"  (Medium sized)
-**Equipment:** 
+**Age:** 114 [[footnote]]Aywin spent 62 years in the Astral Plane and thus is 176 with Astral Years. This time had no physical effect on his body, but allowed for an extra 62 years of study in the Astral Planes.[[/footnote]]
+**Language:** Elvish, Basic, Celestial, Infernal, Deep Speech[[footnote]]Celestial, Infernal, and Deep Speech are from Astral Drifter Background[[/footnote]]
+**Height:** 6 ft (Medium sized)
+**Equipment:** Archimedes Sphere (Spellbook), Quarterstaff, scholars pack, component pouch, a pouch, 10 gp
 
 ------
 
 **Cantrips:**
-* 
+* Dancing Lights [[footnote]]from Drow Magic[[/footnote]]
+* Prestidigitation
+* Mind Sliver
+* Ray of Frost
 [[collapsible show="‡ Higher Level Cantrips" hide="‡ Hide Higher Level Cantrips"]]
 Lv. 4:
+* Mage Hand
+Lv. 13:
+* Minor Illusion
+Lv. 17:
+* Booming Blade
 [[/collapsible]]
 
 **Spells:**
@@ -49,16 +57,45 @@ Lv. 4:
 * Feather Fall
 
 [[collapsible show="‡ Higher Level Spells" hide="‡ Hide Higher Level Spells"]]
-
+(These are just suggestions based on Aywin's Personality)
+Spells Specifically to use with Genie Vessel:
+* Glyph of Warding (3rd Level)
+* Nondetection (3rd Level)
+* Leomund's Secret Chest (4th Level)
+* Mordenkainen's Private Sanctum (4th Level)
+* Otiluke's Resilient Sphere (5th Level)
+* Create Homunculus (6th Level)
+Regular Spells
+* Identify (1st Level)
+* Tasha's Hideous Laughter (1st Level)
+* Alter Self (2nd Level)
+* Cloud of Daggers (2nd Level)
+* Darkness (2nd Level)
+* Wristpocket (2nd Level)
+* Web (2nd Level)
+* Dispel Magic (3rd Level)
+* Life Transference (3rd Level)
+* Vampiric Touch (3rd Level)
+* Planar Binding (5th Level)
+* Plane Shift (7th Level)
+* Demiplane (8th Level)
 [[/collapsible]]
 
 ------
 
-**Description:** 
+**Description:** Aywin Deepwater is a Drow, driven by an obsession with divine magic. Born as a high elf, Aywin was drawn to the call of Lolth, and was changed into something more dark, and twisted: a Drow. Despite the new abilities brought about by the darkness, Aywin's desire for divine knowledge lead him to wanting more than the Queen of Spiders herself could offer. 
+
+Risking his new deity's wrath, he sought more, leading him to the Astral plane, where he encountered Hecate, the goddess of magic and moons. Aywin spent 62 years displaced from time, studying all forms of magic and language. Emerging from the plane, Aywin found that his desire for knowledge had not yet been quenched, and he now searches for Loki, the trickster god.
+
+Aywin has been almost completely consumed with this quest for knowledge. His name Deepwater comes from his former life as a pirate, but it is a life he has all but forgotten.
 
 ------
 
+The general goal is to multiclass 1 level into Warlock-Genie for the Bottled Respite, and then using Indefinite/Ritual spells to create a sort of sanctuary inside of the vessel. Glyphs of warding can be used to set spells like mage armor to trigger immediately upon entering the vessel, and glyphs used on objects inside the vessel can allow you to "store" healing and buff spells that you can use later without expending a spell slot. 
 
+Spells like Private Sanctum can be used to add additional protection to the interior of the vessel, especially in long (story wise) campaigns where you can cast it every day to make the effect permanent. I typically will use sanctum to create a cube covering 90% of the extra-dimensional interior, and creating a 5 foot area where creatures will be forced to stand when entering the vessel. This means if you pull an enemy into the vessel during combat, they will be forced into the small area not blocked by the sanctum, where you can easily set traps that they will be forced to walk on. Because Aywin is a Drow, he can immediately use the vessel to trance as soon as he multiclasses.
+
+Leomund's Secret Chest can be used to store the vessel in a safe space, preventing it from being broken, or its glyphs being triggered early. Create Homunculus can be used within the vessel to have a permanent servant within your vessel.
 
 [[/div]]
 
