@@ -36,10 +36,8 @@ The vessel's AC equals your spell save DC. Its hit points equal your warlock lev
 
 If the vessel is destroyed or you lose it, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and the previous vessel is destroyed if it still exists. The vessel vanishes in a flare of elemental power when you die.
 
-+++ Arcane Gift
-At 6th level, you 
-
-In addition, as a bonus action, you can give yourself a flying speed of 30 feet that lasts for 10 minutes, during which you can hover. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
++++ Arcane Simulacrum
+At the 6th level, you entreat your patron to grant you a small wish. As an action, Noctra will assist you in casting a 7th level [https://dnd5e.wikidot.com/spell:simulacrum* Simulacrum] spell inside of your vessel. This casting only takes 1 hour, instead of the ordinary 12, and requires no material components. The resulting simulacrum can only exist within your vessel: if your vessel is destroyed, the construct is destroyed with it. Otherwise, it behaves exactly the same as the 7th level spell. The construct can take the form of any living being within your vessel that you can see for the entire 1 hour casting duration.
 
 +++ Sanctuary Vessel
 At 10th level, when you enter your Genie's Vessel via the Bottled Respite feature, you can now choose up to five willing creatures that you can see within 30 feet of you, and the chosen creatures are drawn into the vessel with you.
@@ -48,8 +46,7 @@ As a bonus action, you can eject any number of creatures from the vessel, and ev
 
 In addition, anyone (including you) who remains within the vessel for at least 10 minutes gains the benefit of finishing a short rest, and anyone can add your proficiency bonus to the number of hit points they regain if they spend any Hit Dice as part of a short rest there.
 
-+++ Limited Wish
-At 14th level, you entreat your patron to grant you a small wish. As an action, you can speak your desire to your Genie's Vessel, requesting the effect of one spell that is 6th level or lower and has a casting time of 1 action. The spell can be from any class's spell list, and you don't need to meet the requirements in that spell, including costly components: the spell simply takes effect as part of this action.
+
 
 [[/div]]
 
