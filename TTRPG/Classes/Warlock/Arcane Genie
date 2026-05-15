@@ -32,7 +32,7 @@ The vessel's AC equals your spell save DC +5, with a maximum of 24. Its hit poin
 If the vessel is destroyed or you lose it, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and the previous vessel is destroyed if it still exists. The vessel vanishes in a flare of elemental power when you die.
 
 +++ Arcane Simulacrum
-At the 6th level, you entreat your patron to grant you a small wish. As an action, Noctra will assist you in casting a 7th level [https://dnd5e.wikidot.com/spell:simulacrum* Simulacrum] spell inside of your vessel. This casting only takes 1 hour, instead of the ordinary 12, and requires no material components. The resulting simulacrum can only exist within your vessel; if your vessel is destroyed, the construct is destroyed with it. Otherwise, it behaves exactly the same as the 7th level spell. The construct can take the form of any living being within your vessel that you can see for the entire 1 hour casting duration. This ability can be used once ever 1d4 long rests, and recasting the spell destroys the previous construct.
+At 6th level, you entreat your patron to grant you a small wish. As an action, Noctra will assist you in casting a 7th level [https://dnd5e.wikidot.com/spell:simulacrum* Simulacrum] spell inside of your vessel. This casting only takes 1 hour, instead of the ordinary 12, and requires no material components. The resulting simulacrum can only exist within your vessel; if your vessel is destroyed, the construct is destroyed with it. Otherwise, it behaves exactly the same as the 7th level spell. The construct can take the form of any living being within your vessel that you can see for the entire 1 hour casting duration. This ability can be used once ever 1d4 long rests, and recasting the spell destroys the previous construct.
 
 +++ Sanctuary Vessel
 At 10th level, when you enter your Genie's Vessel via the Bottled Respite feature, you can now choose up to five willing creatures that you can see within 30 feet of you, and the chosen creatures are drawn into the vessel with you.
@@ -41,7 +41,10 @@ As a bonus action, you can eject any number of creatures from the vessel, and ev
 
 In addition, anyone (including you) who remains within the vessel for at least 10 minutes gains the benefit of finishing a short rest, and anyone can add your proficiency bonus to the number of hit points they regain if they spend any Hit Dice as part of a short rest there.
 
++++ Placeholder
+At 14th level, 
 
+Whether the check succeeds or fails, you can’t use this feature again until you finish a long rest. Alternatively, you can regain the use of this feature by sacrificing nonmagical treasure worth at least 500 gp to your patron. This sacrifice requires the treasure to be within 10 feet of you for at least 1 minute, at the end of which you use an action to teleport the treasure to your patron’s realm, provided you have the vessel of your Collector’s Vessel in hand.
 
 [[/div]]
 
