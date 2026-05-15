@@ -2,7 +2,72 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
 
+[[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]][[include theme:black-highlighter-theme]]
+[[include :scp-sandbox-3:theme:dimension-x]]
+[!---------- ↑ DON'T TOUCH THIS IF YOU DON'T UNDERSTAND IT ↑ -----------]
+
 [[div style="background-color: rgba(0, 0, 0, .8); padding: 5px;"]]
+**Your patron is [[[Noctra]]], the Arcane Genie, a mortal who achieved divinity through the obsessive study of magic and the arcane. Noctra is a god of magic, one who despises Mystra and her prioritization of order over knowledge. Noctra bends the weave to create pockets and folds hidden from Mystra's view. She recognizes that the combination of the arcane and the material plane creates a less "pure", but more permanent form of magic. She is the goddess of magic items and sanctuaries, physical places and items imbued with the power of the arcane. While she could never challenge Mystra's power with pure magic, her merging of the arcane and material have created something Mystra struggles to dispel.**
+
+**Because of her mortal past, and recognition that her power only exists because of her knowledge of the vast variations of the arcane, Noctra is not monotheistic and in-fact encourages her followers to worship and study under other deities. Knowledge of the arcane in all forms is the greatest desire of all of her followers.**
+
++++ Expanded Spell List
+The Arcane Genie lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+------
+
+||||||||||||~ Arcane Genie Expanded Spells ||||||||||||
+||~ Spell Level ||~ Spells ||
+|| 1st || [http://dnd5e.wikidot.com/spell:alarm Alarm], [http://dnd5e.wikidot.com/spell:goodberry Goodberry] ||
+|| 2nd || [http://dnd5e.wikidot.com/spell:magic-mouth Magic Mouth], [http://dnd5e.wikidot.com/spell:continual-flame Continual Flame] ||
+|| 3rd || [http://dnd5e.wikidot.com/spell:create-food-and-water Glyph of Warding], [http://dnd5e.wikidot.com/spell:leomunds-tiny-hut Leomund's Tiny Hut] ||
+|| 4th || [http://dnd5e.wikidot.com/spell:mordenkainens-private-sanctum Mordenkainen's Private Sanctum] ||
+|| 5th || [http://dnd5e.wikidot.com/spell:hallow Hallow] ||
+
++++ Genie's Vessel
+Also at 1st level, your patron gifts you a magical vessel that grants you a measure of the genie's power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. The object is a [[[5e:archimedes-sphere| Archimedes Sphere]]], or you can decide what the object is.
+
+While you are touching the vessel, you can use it in the following ways:
+
+* **Powerful Respite:**  As an action, you can magically vanish and enter your vessel, which remains in the space you left. You can take any non-living objects you can hold on your person with you. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus +1. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. This ability can be used once per long rest. After the first time this ability has been used, it can be used again an unlimited number of times, but takes a 2 hour, uninterrupted ritual to do so.
+
+The vessel's AC equals your spell save DC +5, with a maximum of 24. Its hit points equal your warlock level plus your proficiency bonus +5, and it is immune to poison and psychic damage.
+
+If the vessel is destroyed or you lose it, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and the previous vessel is destroyed if it still exists. The vessel vanishes in a flare of elemental power when you die.
+
++++ Arcane Simulacrum
+At 6th level, you entreat your patron to grant you a small wish. As an action, Noctra will assist you in casting a 7th level [https://dnd5e.wikidot.com/spell:simulacrum* Simulacrum] spell inside of your vessel. This casting only takes 1 hour, instead of the ordinary 12, and requires no material components. The resulting simulacrum can only exist within your vessel; if your vessel is destroyed, the construct is destroyed with it. Otherwise, it behaves exactly the same as the 7th level spell. The construct can take the form of any living being within your vessel that you can see for the entire 1 hour casting duration. This ability can be used once ever 1d4 long rests, and recasting the spell destroys the previous construct.
+
++++ Sanctuary Vessel
+At 10th level, when you enter your Genie's Vessel via the Bottled Respite feature, you can now choose up to five willing creatures that you can see within 30 feet of you, and the chosen creatures are drawn into the vessel with you.
+
+As a bonus action, you can eject any number of creatures from the vessel, and everyone is ejected if you leave or die or if the vessel is destroyed.
+
+In addition, anyone (including you) who remains within the vessel for at least 10 minutes gains the benefit of finishing a short rest, and anyone can add your proficiency bonus to the number of hit points they regain if they spend any Hit Dice as part of a short rest there.
+
++++ Sacred Sanctuary
+At 14th level, your vessel becomes imbued with the power of Noctra. By casting a 1 hour ritual, you can enchant your vessel to become a temporary sanctuary. While enchanted, the vessel can emit one of the following effects. The effects are active both within the entire extradimensional plane of the vessel, and in a 5 foot radius around the outside of the vessel on the material plane.
+* while in the area of effect, all creatures designated by you are granted the effects of the [*https://dnd5e.wikidot.com/spell:bless bless] spell. Creatures loose this effect immediately upon exiting the area in any way. The effect is dispelled if the vessel is moved.
+* you cast [*https://dnd5e.wikidot.com/spell:mordenkainens-private-sanctum Mordenkainen's Private Sanctum] at the 4th level, without expending a spell slot. This effect can exceed the standard 5 foot radius, and instead can use the full effective range of the spell. If the spell is used every day for a year, the effect becomes permanent within the vessel, no matter where it is moved. The effect outside of the vessel is only permanent if used in the same space on the material plane.
+* you cast Druid grove at the 6th level, without expending a spell slot. This effect can exceed the standard 5 foot radius, and instead can use the full effective range of the spell. The extradimensional-plane of your vessel gains the benefit despite the spells description, otherwise the spell works as written. If the spell is used every day for a year, the effect becomes permanent within the vessel, no matter where it is moved. The effect outside of the vessel is only permanent if used in the same space on the material plane.
+
+You can’t use this feature again until you finish a long rest. Alternatively, you can regain the use of this feature by sacrificing nonmagical treasure worth at least 1000 gp to your patron. This sacrifice requires the treasure to be within 10 feet of you for at least 1 minute, at the end of which you use an action to teleport the treasure to your patron’s realm, provided you have your vessel in hand.
+
+[[/div]]
+
+
+[!---------- ↓ MAKE SURE YOU CHANGE PAGE_TITLE, USERNAME, AND SLUG ↓ -----------]
+[!--
+[[div class="collapsible"]]
+[[collapsible style="background-color: rgba(0, 0, 0, 0.5);" show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
+Cite this page as:
+> "PAGE_TITLE" by [[user USERNAME]], from the Sxlaris Wiki. Source:
+> http://sxlaris.wikidot.com/SLUG Licensed under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA.]
+[[/collapsible]]
+[[/div]]
+--]
+[[include component:license-box]]
+[[include component:license-box-end]]
 **Your patron is [[[Noctra]]], the Arcane Genie, a mortal who achieved divinity through the obsessive study of magic and the arcane. Noctra is a god of magic, one who despises Mystra and her prioritization of order over knowledge. Noctra bends the weave to create pockets and folds hidden from Mystra's view. She recognizes that the combination of the arcane and the material plane creates a less "pure", but more permanent form of magic. She is the goddess of magic items and sanctuaries, physical places and items imbued with the power of the arcane. While she could never challenge Mystra's power with pure magic, her merging of the arcane and material have created something Mystra struggles to dispel.**
 
 **Because of her mortal past, and recognition that her power only exists because of her knowledge of the vast variations of the arcane, Noctra is not monotheistic and in-fact encourages her followers to worship and study under other deities. Knowledge of the arcane in all forms is the greatest desire of all of her followers.**
