@@ -60,7 +60,7 @@
 **{{Magic Items}}**
 [[/div]]
 [[div style="background: url("https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/1be2b92b90c7e10e4596005dd6de1516.png"); background-size: cover; flex-grow: 2; background-position: center center;"]]
-[[/div]][[[5e:magic-items]]]
+[[/div]][[[5e:magic-item-hub]]]
 [[/div]]
 [[/div]]
 
@@ -70,7 +70,7 @@
 **{{Equipment}}**
 [[/div]]
 [[div style="background: url("http://backrooms-wiki.wdfiles.com/local--files/level-0/Thebackrooms.jpg"); background-size: cover; flex-grow: 2; background-position: center center;"]]
-[[/div]][[[5e:equipment]]]
+[[/div]][[[5e:equipment-hub]]]
 [[/div]]
 [[/div]]
 
@@ -80,37 +80,37 @@
 **{{Weapons}}**
 [[/div]]
 [[div style="background: url("https://upload.wikimedia.org/wikipedia/commons/6/65/AK-47_type_II_noBG.png"); background-size: cover; flex-grow: 2; background-position: center center;"]]
-[[/div]][[[weapon-hub]]]
+[[/div]][[[5e:weapon-hub]]]
 [[/div]]
 [[/div]]
 
 [[div class="frontgridder phenomena"]]
 [[div class="linnkblock"]]
 [[div class="styled-quote"]]
-**{{GOIs}}**
+**{{Creatures/Monsters}}**
 [[/div]]
 [[div style="background: url("http://backrooms-sandbox-2.wdfiles.com/local--files/adikurtic1/RedRoom"); background-size: cover; flex-grow: 2; background-position: center center;"]]
-[[/div]][[[goi-hub]]]
+[[/div]][[[5e:monster-hub]]]
 [[/div]]
 [[/div]]
 
 [[div class="frontgridder tales"]]
 [[div class="linnkblock"]]
 [[div class="styled-quote"]]
-**{{The Story}}**
+**{{NPCs}}**
 [[/div]]
 [[div style="background: url("http://backrooms-wiki.wdfiles.com/local--files/long-forgotten-exclamation/run_img3.png"); background-size: cover; flex-grow: 2; background-position: center center;"]]
-[[/div]][[[canon]]]
+[[/div]][[[5e:npc-hub]]]
 [[/div]]
 [[/div]]
 
 [[div class="frontgridder pois"]]
 [[div class="linnkblock"]]
 [[div class="styled-quote"]]
-**{{POIs}}**
+**{{Player Characters}}**
 [[/div]]
 [[div style="background: url("http://backrooms-wiki.wdfiles.com/local--resized-images/eden-g/ConfirmedNew/medium.jpg"); background-size: cover; flex-grow: 2; background-position: center center;"]]
-[[/div]][[[poi-hub]]]
+[[/div]][[[5e:pc-hub]]]
 [[/div]]
 [[/div]]
 
@@ -120,7 +120,7 @@
 **{{Locations}}**
 [[/div]]
 [[div style="background: url("http://backrooms-wiki.wdfiles.com/local--files/the-kalag-institute/kalaglogo.png"); background-size: cover; flex-grow: 2; background-position: center center;"]]
-[[/div]][[[locations-hub]]]
+[[/div]][[[5e:locations-hub]]]
 [[/div]]
 [[/div]]
 
