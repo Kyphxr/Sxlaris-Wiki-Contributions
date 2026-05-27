@@ -13,13 +13,14 @@ The blade of Noctra is a formless blade of dark magic, that can be attached to a
 
 * While attuned to the artifact, you can use an action to cast [https://dnd5e.wikidot.com/spell:glyph-of-warding Glyph of Warding] from it. After you cast the spell, roll a d6. On a roll of 1-3, you can't cast it again until after a long rest.
 * While attuned to the artifact, you can't be charmed or frightened.
-* 1 major beneficial property
-* 2 minor detrimental properties
+* While attuned to the artifact, you regain 1d4 hit points at the start of your turn if you have at least 1 hit point.
+* While attuned to the artifact, you are blinded when you are more than 20 feet away from it.
+* While attuned to the artifact, you are deafened when you are more than 20 feet away from it.
 
 **Blessings of Noctra.** If you are a Child of Noctra attuned to the blade, you gain the following benefits:
 
 * You have immunity to poison damage.
-* The range of your darkvision increases by 60 feet.
+* The range of your darkvision increases by 5 feet for every level starting at level 5.[[footnote]]You should end with 75 additional feet of darkvision at level 20.[[/footnote]]
 * You gain proficiency with artisan's tools related to alchemy, brewing, and jewling.
 * At level 17, you have immunity to necrotic damage.
 
