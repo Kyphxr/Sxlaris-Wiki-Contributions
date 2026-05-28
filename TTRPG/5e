@@ -41,7 +41,7 @@ This is the TTRPG Hub of the Sxlaris Universe. This section is still a work in p
 [[/div]]
 
 [!-- category thing --]
-[[include front-page:related]]
+[[include front-page:related5e]]
 [!---------- END - WELCOME-BOX ::  BEGIN - FEATURED ARTICLES -----------]
 
 [!-- Left block --]
@@ -93,46 +93,8 @@ The primary site of the Sxlaris Canon.
 [[div class="biggrid"]]
 
 
-[[include fragment:kyphboxs 
-|article-class=scp-xxx
-|slug=scp-x002
-|title=SCP-x002
-|subtitle=The Backrooms
-|subbertitle=SCP-x002 is currently contained within SCP-x216...
-]]
-
-[[include fragment:kyphbox2 
-|article-class=scp-xxx 
-|slug=https://hellstorm-software.github.io/theGrid/core/kultRising.html
-|title=Kult Rising
-|subtitle=Immersive Sim RPG
-|subbertitle=SCP + The Backrooms
-]]
-
-[[include fragment:kyphboxs 
-|article-class=scp-x014 
-|slug=scp-x014
-|title=SCP-x014
-|subtitle=Godhand
-|subbertitle=literally an anime villain
-]]
-
-[[include fragment:kyphboxs 
-|article-class=scp-games
-|slug=http://sxlaris.wikidot.com/other-games:scp
-|title=SCP Games
-|subtitle=our favorite SCP games
-|subbertitle=other SCP games
-]]
-
-[[include fragment:kyphboxs 
-|article-class=scp-BRgames
-|slug=http://sxlaris.wikidot.com/other-games:Backrooms
-|title=Backrooms Games
-|subtitle=our favorite liminal games
-|subbertitle=other liminal games
-]]
-
+[[image https://i.imgur.com/CVPUGWE.png style="width: 400%" link="http://sxlaris.wikidot.com/5e:mystras-blasphemer"]]
+[http://sxlaris.wikidot.com/5e:mystras-blasphemer The Dark Queen of Magic.]
 
 [[/div]]
 
