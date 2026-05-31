@@ -263,7 +263,7 @@ The Sacred Archimedes Sphere of Noctra.
 The original design for the device came from an artificer wizard's spellbook, specially designed for recording information through a series of whirs, clicks, and hums that can only be felt when manipulating the sphere. This writing ability can be used for anything from a wizards spellbook, to a standard diary. As long as the item is used via the physical transcription of information, it can be replaced with this ability. (Because this is a tactile method of reading/writing, it cannot affect or be affected by things that must be visually read such as illusory script. Similarly, a creature does not require eyesight or hearing to read or write information using this device, they only need to understand the simple, morse code-like language that the sphere uses.) 
 Aywin took this device and created a new version that acts as a holy relic of Noctra. This version of the device has been enchanted with extradimensional magic, giving it several chambers much larger than than the external size of the device would suggest. These chambers hold various powerful relics, mostly Eldunari, and serve as a channeling device to connect with Noctra herself, meaning that the information Aywin recorded into this Archimedes Sphere could be recorded directly into the Greater Noctral Library, from almost anywhere in reality. The most notable relic outside of the Eldunari, is the phylactery of Katherine Lichskol, the vampiric lich. 
 The overall device can be separated into multiple different pieces, which has allowed for it to be attuned to by each member of the Court of Stars and Shadows. Aywin himself is attuned to the central clockwork device; a rotating set of amulets that were cycled through an extradimensional pocket within the sphere. Many of these amulets were set with Eldunari, but others held Katherine’s phylactery, an Amethyst Lodestone, several Scholar’s Stones, a Sanctum Amulet, and a speaking stone, amongst several others. The sphere could be manipulated, causing different stones to be cycled through, allowing Aywin to use all of them from the same device.
-The central frame of the device is a Star Druid Astrolabe, which is attuned to by Sylvaris Greenage. This astrolabe is unique in that it is entirely made out of the wood of a Staff of the Woodlands, which has been transmutated into a beautifully complex star chart made out of impossibly hard wood. The astrolabe has all the functionality of a Staff of the Woodlands, and also allows the wielder to cast Wood Shape. The outside edge of the astrolabe is adorned with various glowing purple runes, that grant the star chart extra arcane potential.
+The central frame of the device is a Star Druid Astrolabe, which is attuned to by Sylvaris Greenage. This astrolabe is unique in that it is entirely made out of the wood of a Staff of the Woodlands, which has been transmutated into a beautifully complex star chart made out of impossibly hard wood. The astrolabe has all the functionality of a Staff of the Woodlands, and also allows the wielder to cast Wood Shape. The outside edge of the astrolabe is adorned with various glowing purple runes that grant the star chart extra arcane potential.
 Katherine Lichskol.
 Katherine Lichskol was a dark cleric who specialized in necrotic magic that desired to cheat death and as such, began studying the path to lichdom. During her studies, she came across a den of vampires, and became enamored with their immortality as well. Desiring something greater than either could offer, Katherine devised her own lichdom ritual, and began the process of creating a phylactery. Her search for the dark magic required for a phylactery brought her to the libraries of Deepwater Church, where she communed with Noctra herself, who gave her the knowledge, in exchange for her fealty. 
 
@@ -310,12 +310,29 @@ Nothic
 In her study of black magic, the Mold Mother was able to recreate the Nothic curse of Vecna, one which twisted its victims into strange aberrations driven by an unquenchable thirst for knowledge. 
 Magical Items
 Scholar’s Stone
+Source: Mystra’s Blasphemer
 Wondrous Item, Rare
+
 This stone resembles a tiger’s eye gemstone, with shimmering bands of brown, gold, and orange glimmering along its surface.
 
 A Scholar’s Stone.
 Each stone holds 3 charges. As an action while you are holding the stone, you can use a charge to cast Scholar’s Touch on one creature within view, the effect of the spell lasts 1 hour, or until dispelled. All 3 charges are replenished each dawn.
 
+Staff of the Woodlands
+Source: Dungeon Master’s Guide [Modified]
+Staff, rare (requires attunement by a druid)
+
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
+
+The staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. 
+
+animal friendship (1 charge)
+awaken (5 charges)
+barkskin (2 charges)
+locate animals or plants (2 charges)
+speak with animals (1 charge)
+speak with plants (3 charges)
+wall of thorns (6 charges).
 Spells
 Scholar’s Touch
 Source: Races of Destiny (3.5)
