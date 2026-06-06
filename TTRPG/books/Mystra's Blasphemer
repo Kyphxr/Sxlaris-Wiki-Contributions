@@ -227,7 +227,7 @@ Private Cave
 
 The price of a property is determined by adding its size price to its location price. Additionally, expansions can be purchased for the property by using the same system. An expansion must be the same location type as the base property, but can be any size and the cost is calculated the same way as purchasing property. These expansions are magical, and thus can be purchased endlessly. 
 
-If a property has no one living in it, it cost 0gp upkeep per day. For each person living in a house, it costs 10 gp per day for food and upkeep. Hiring a chef or finding an NPC with a cooking proficiency to live on the property can cut the total upkeep cost in half. This effect cannot stack.
+If a property has no one living in it, it costs 0gp upkeep per day. For each person living in a house, it costs 10 gp per day for food and upkeep. Hiring a chef or finding an NPC with a cooking proficiency to live on the property can cut the total upkeep cost in half. This effect cannot stack.
 
 Eldunari.
 The center of the cavern has a deep pool of ocean water, where the aquatic races travel in and out of the channel. The main pool extends down around 100 feet, and the entire bottom of the pool is covered with thousands and thousands of Eldunari.
